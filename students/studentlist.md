@@ -229,17 +229,6 @@
 * Expert areas: 
 * Projects: 
 
-## TAN TE JUIN LESTER
-
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
-
-* Expert areas: 
-* Projects: 
-
 ## TRAN TIEN DAT
 
 <img src="" width="100" /><br>

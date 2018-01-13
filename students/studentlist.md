@@ -176,10 +176,10 @@
 
 ## NGUYEN QUOC BAO
 
-<img src="" width="100" /><br>
+<img src="nguyenQuocBao/nguyqnQuocBao.png" width="100" /><br>
 [[Resume]()]
 [[Website]()]
-[[Github]()]
+[[Github](https://github.com/bqnguyen94)]
 [[Progress]()]
 
 * Expert areas: 

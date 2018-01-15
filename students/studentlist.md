@@ -198,14 +198,14 @@
 
 ## PHANG CHUN RONG
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="phangChunRong/phangChunRong.jpg" width="100" /><br>
+[[Resume](phangChunRong/phangChunRong-Resume.md)]
 [[Website]()]
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas: Python
+* Projects: TEAMMATES
 
 ## SHRADHEYA THAKRE
 

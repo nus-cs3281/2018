@@ -204,7 +204,7 @@
 
 ## NGUYEN QUOC BAO
 
-<img src="nguyenQuocBao/nguyqnQuocBao.png" width="100" /><br>
+<img src="nguyenQuocBao/nguyenQuocBao.png" width="100" /><br>
 [[Resume](nguyenQuocBao/nguyenQuocBao-Resume.md)]
 [[Website](https://github.com/bqnguyen94)]
 [[Github](https://github.com/bqnguyen94)]

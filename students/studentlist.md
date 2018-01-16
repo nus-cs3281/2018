@@ -94,7 +94,7 @@
 [[Resume](tanJunKiat/tanJunKiat-Resume.md)]
 [[Website](https://github.com/junkiattan)]
 [[Github](https://github.com/junkiattan)]
-[[Progress]()]
+[[Progress](tanJunKiat/tanJunKiat-Progress.md)]
 
 * Expert areas: UX/UI Design, Java, C#, Documentation
 * Projects: PowerPointLabs

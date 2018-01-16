@@ -90,14 +90,14 @@
 
 ## TAN JUN KIAT
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="tanJunKiat/tanJunKiat.jpg" width="100" /><br>
+[[Resume](tanJunKiat/tanJunKiat-Resume.md)]
+[[Website](https://github.com/junkiattan)]
+[[Github](https://github.com/junkiattan)]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas: UX/UI Design, Java, C#, Documentation
+* Projects: PowerPointLabs
 
 ## ALEX FONG JIE WEN
 

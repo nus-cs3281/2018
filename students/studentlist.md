@@ -11,6 +11,34 @@
 > * Projects: Node.js, TEAMMATES -->
 
 ------------------------------------------------
+**MarkBind**:
+* [CHUA YUN ZHI NICHOLAS](#chua-yun-zhi-nicholas)
+* [DANIEL BERZIN CHUA YUAN SIANG](#daniel-berzin-chua-yuan-siang)
+* [RACHAEL SIM HWEE LING](#rachael-sim-hwee-ling)
+
+**PowerPointLabs**:
+* [LEE YAN HWA](#lee-yan-hwa)
+* [TAN JUN KIAT](#tan-jun-kiat)
+* [ALEX FONG JIE WEN](#alex-fong-jie-wen)
+
+**SE-EDU**:
+* [KOH LEWIS](#koh-lewis)
+* [TAN JUN AN](#tan-jun-an)
+* [VIVEK LAKSHMANAN](#vivek-lakshmanan)
+* [YONG ZHI YUAN](#yong-zhi-yuan)
+
+**TEAMMATES**:
+* [CARA LEONG SU-YI](#cara-leong-su-yi)
+* [DARREN WEE ZHE YU](#darren-wee-zhe-yu)
+* [JOANNE ONG CUI FANG](#joanne-ong-cui-fang)
+* [LU LECHUAN](#lu-lechuan)
+* [NGUYEN QUOC BAO](#nguyen-quoc-bao)
+* [PAN HAOZHE](#pan-haozhe)
+* [PHANG CHUN RONG](#phang-chun-rong)
+* [SHRADHEYA THAKRE](#shradheya-thakre)
+* [TAN LI HAO](#tan-li-hao)
+* [TRAN TIEN DAT](#tran-tien-dat)
+* [WEN XIN](#wen-xin)
 
 # MarkBind
 
@@ -62,14 +90,14 @@
 
 ## TAN JUN KIAT
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="tanJunKiat/tanJunKiat.jpg" width="100" /><br>
+[[Resume](tanJunKiat/tanJunKiat-Resume.md)]
+[[Website](https://github.com/junkiattan)]
+[[Github](https://github.com/junkiattan)]
+[[Progress](tanJunKiat/tanJunKiat-Progress.md)]
 
-* Expert areas: 
-* Projects: 
+* Expert areas: UX/UI Design, Java, C#, Documentation
+* Projects: PowerPointLabs
 
 ## ALEX FONG JIE WEN
 
@@ -198,14 +226,14 @@
 
 ## PHANG CHUN RONG
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="phangChunRong/phangChunRong.jpg" width="100" /><br>
+[[Resume](phangChunRong/phangChunRong-Resume.md)]
 [[Website]()]
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas: Python
+* Projects: TEAMMATES
 
 ## SHRADHEYA THAKRE
 

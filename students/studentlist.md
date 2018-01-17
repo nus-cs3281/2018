@@ -171,14 +171,14 @@
 
 ## DARREN WEE ZHE YU
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="darrenWee/darren.jpeg" width="100" /><br>
+[[Resume](darrenWee/resume.md)]
+[[Website](https://github.com/darrenwee)]
+[[Github](https://github.com/darrenwee)]
+[[Progress](darrenWee/progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Go, testing, cloud
+* Projects: TEAMMATES
 
 ## JOANNE ONG CUI FANG
 

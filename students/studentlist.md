@@ -136,14 +136,14 @@
 
 ## VIVEK LAKSHMANAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="vivekLakshmanan/vivekLakshmanan.jpg" width="100" /><br>
+[[Resume](vivekLakshmanan/vivekLakshmanan-Resume.md)]
+[[Website](https://github.com/vivekscl)]
+[[Github](https://github.com/vivekscl)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Python, NLTK
+* Projects: SE-EDU
 
 ## YONG ZHI YUAN
 

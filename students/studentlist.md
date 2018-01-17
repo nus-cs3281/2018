@@ -208,10 +208,10 @@
 [[Resume](nguyenQuocBao/nguyenQuocBao-Resume.md)]
 [[Website](https://github.com/bqnguyen94)]
 [[Github](https://github.com/bqnguyen94)]
-[[Progress]()]
+[[Progress](nguyenQuocBao/nguyenQuocBao-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Python, DevOps
+* Projects: TEAMMATES
 
 ## PAN HAOZHE
 

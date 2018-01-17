@@ -1,4 +1,4 @@
-<!-- Example: 
+<!-- Example:
 
 > ## John Doe
 > <img src="johnDoe/johnDoe.png" width="100" /><br>
@@ -6,8 +6,8 @@
 > [[Website](http://www.jd.com)]
 > [[Github](http://github.com/john-doe-123)]
 > [[Progress](johnDoe/progress.md)]
-> 
-> * Expert areas: JavaScript, Node.js, Website Performance 
+>
+> * Expert areas: JavaScript, Node.js, Website Performance
 > * Projects: Node.js, TEAMMATES -->
 
 ------------------------------------------------
@@ -50,8 +50,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 
@@ -61,19 +61,19 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## RACHAEL SIM HWEE LING
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="rachaelSim/rachaelSim.jpg" width="100" /><br>
+[[Resume](rachaelSim/rachaelSim-Resume.md)]
+[[Website](https://github.com/rachx)]
+[[Github](https://github.com/rachx)]
+[[Progress](rachaelSim/rachaelSim-Progress.md)]
 
-* Expert areas: 
-* Projects: 
+* Expert areas: Kotlin, Swift, Performance (Profiling), Node.js
+* Projects: MarkBind
 
 # PowerPointLabs
 
@@ -85,8 +85,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## TAN JUN KIAT
 
@@ -107,8 +107,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 # SE-EDU
 
@@ -120,8 +120,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## TAN JUN AN
 
@@ -131,8 +131,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## VIVEK LAKSHMANAN
 
@@ -142,8 +142,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## YONG ZHI YUAN
 
@@ -153,8 +153,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 # TEAMMATES
 
@@ -166,8 +166,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## DARREN WEE ZHE YU
 
@@ -177,8 +177,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## JOANNE ONG CUI FANG
 
@@ -188,8 +188,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## LU LECHUAN
 
@@ -199,8 +199,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## NGUYEN QUOC BAO
 
@@ -210,8 +210,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## PAN HAOZHE
 
@@ -221,8 +221,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## PHANG CHUN RONG
 
@@ -243,8 +243,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## TAN LI HAO
 
@@ -254,8 +254,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## TRAN TIEN DAT
 
@@ -265,8 +265,8 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
+* Expert areas:
+* Projects:
 
 ## WEN XIN
 
@@ -276,6 +276,5 @@
 [[Github]()]
 [[Progress]()]
 
-* Expert areas: 
-* Projects: 
-
+* Expert areas:
+* Projects:

@@ -237,14 +237,14 @@
 
 ## SHRADHEYA THAKRE
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="shradheyaThakre/shradheyaThakre.jpg" width="100" /><br>
+[[Resume](shradheyaThakre/shradheyaThakre-Resume.md)]
+[[Website](https://www.linkedin.com/in/tshradheya/)]
+[[Github](https://github.com/tshradheya)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Mobile Applications, Code Quality/DevOps
+* Projects: TEAMMATES
 
 ## TAN LI HAO
 

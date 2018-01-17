@@ -182,14 +182,14 @@
 
 ## JOANNE ONG CUI FANG
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="joanneOng/joanneOng.jpg" width="100" /><br>
+[[Resume](joanneOng/joanneOng-Resume.md)]
+[[Website](https://github.com/joanneong)]
+[[Github](https://github.com/joanneong)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Dev Ops, Gradle
+* Projects: TEAMMATES
 
 ## LU LECHUAN
 

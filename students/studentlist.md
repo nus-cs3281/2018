@@ -66,14 +66,14 @@
 
 ## RACHAEL SIM HWEE LING
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="rachaelSim/rachaelSim.jpg" width="100" /><br>
+[[Resume](rachaelSim/rachaelSim-Resume.md)]
+[[Website](https://github.com/rachx)]
+[[Github](https://github.com/rachx)]
+[[Progress](rachaelSim/rachaelSim-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Kotlin, Swift, Performance (Profiling), Node.js
+* Projects: MarkBind
 
 # PowerPointLabs
 

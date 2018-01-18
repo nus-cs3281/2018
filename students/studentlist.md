@@ -55,14 +55,14 @@
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="danielBerzinChua/danielBerzinChua.jpg" width="100" /><br>
+[[Resume](danielBerzinChua/danielBerzinChua-resume.md)]
+[[Website](https://github.com/danielbrzn)]
+[[Github](https://github.com/danielbrzn)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Node.js, Web Scraping
+* Projects: MarkBind
 
 ## RACHAEL SIM HWEE LING
 

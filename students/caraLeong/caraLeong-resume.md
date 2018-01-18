@@ -1,8 +1,9 @@
 # Cara Leong Su-Yi
 
- **Email:** [`cara@u.nus.edu`](mailto:cara@u.nus.edu)
- **GitHub:** https://github.com/craaaa
-**LinkedIn:** linkedin.com/in/craaaa
+<img src="caraLeong.jpg" width="100" /><br>
+- **Email:** [`cara@u.nus.edu`](mailto:cara@u.nus.edu)
+- **GitHub:** https://github.com/craaaa
+- **LinkedIn:** http://linkedin.com/in/craaaa
 
 ## Education
 

@@ -215,14 +215,14 @@
 
 ## PAN HAOZHE
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="panHaozhe/panHaozhe.jpg" width="100" /><br>
+[[Resume](panHaozhe/panHaozhe.md)]
+[[Website](https://github.com/Haozhe321)]
+[[Github](https://github.com/Haozhe321)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Kotlin
+* Projects: TEAMMATES
 
 ## PHANG CHUN RONG
 

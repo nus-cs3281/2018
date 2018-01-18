@@ -44,14 +44,14 @@
 
 ## CHUA YUN ZHI NICHOLAS
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="nicholasChua/nicholasChua.png" width="100" /><br>
+[[Resume](nicholasChua/nicholasChua-Resume.md)]
+[[Website](https://nicholaschuayunzhi.github.io)]
+[[Github](https://github.com/nicholaschuayunzhi)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: JavaScript, Code Quality
+* Projects: MarkBind
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 

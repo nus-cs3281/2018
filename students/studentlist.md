@@ -270,11 +270,11 @@
 
 ## WEN XIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="wenXin/wenXin.jpg" width="100" /><br>
+[[Resume](wenXin/wenXin-Resume.md)]
+[[Website](https://github.com/wenmogu)]
+[[Github](https://github.com/wenmogu)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas:Java, Nodejs
+* Projects:TEAMMATES

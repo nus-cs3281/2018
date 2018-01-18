@@ -9,6 +9,12 @@ GitHub: <https://github.com/danielbrzn>
 ##### Bachelor of Computing (Honours) in Computer Science
 Focus Area: Software Engineering
 
+#### St Andrew's Junior College (Jan 2012 - Dec 2013)
+##### General Certificate of Education Advanced Level
+
+#### Balestier Hill Secondary School (Jan 2008 - Dec 2011)
+##### General Certificate of Education Ordinary Level
+
 ## Projects
 
 #### PriceComparator |  *Web Application*

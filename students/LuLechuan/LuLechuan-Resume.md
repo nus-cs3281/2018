@@ -1,4 +1,4 @@
-#Lu Lechuan
+# Lu Lechuan
 
 GitHub://LuLechuan
 Mobile:  91565560
@@ -6,7 +6,7 @@ Email Address: E0036072@u.nus.edu
 
 ## EDUCATION
 
-* National University of Singapore (August 2016 – May 2020)
+##### National University of Singapore (August 2016 – May 2020)
 - Pursuing a Bachelor of Computing (Computer Science).
 - Cumulative Average Point (CAP): 4.61/5.00
 - Expected Date of Graduation: July 2020

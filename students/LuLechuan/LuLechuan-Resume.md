@@ -6,13 +6,13 @@ Email Address: E0036072@u.nus.edu
 
 ## EDUCATION
 
-__National University of Singapore (August 2016 – May 2020)__
-Pursuing a Bachelor of Computing (Computer Science).
-Cumulative Average Point (CAP): 4.61/5.00
-Expected Date of Graduation: July 2020
-Selected Coursework: Programming Methodology | Data Structures & Algorithms | Computer Networks | Computer Organization | Software Engineering | Probability
+* National University of Singapore (August 2016 – May 2020)
+####Pursuing a Bachelor of Computing (Computer Science).
+####Cumulative Average Point (CAP): 4.61/5.00
+####Expected Date of Graduation: July 2020
+####Selected Coursework: Programming Methodology | Data Structures & Algorithms | Computer Networks | Computer Organization | Software Engineering | Probability
 
-__University Scholars Programme (August 2016 – May 2020)__
+* University Scholars Programme (August 2016 – May 2020)
 A rigorous interdisciplinary programme, from a select of 3% from each cohort in NUS
 Awarded USP Honor Roll AY17/18 Semester 1
 

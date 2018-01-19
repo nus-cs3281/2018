@@ -1,5 +1,5 @@
 # Lee Yan Hwa
-Email: leeyh20@hotmail.com
+Email: leeyh20@hotmail.com  
 Github: http://www.github.com/leeyh20
 
 ## Education
@@ -15,7 +15,7 @@ Received six distinctions for GCE A Level in H2 Physics, Computing, Mathematics 
 - C#
 - Java (Android App Development)
 
-Also proficient in C, GLSL, PHP, Javascript, Python, SQL.
+Also proficient in C, GLSL, PHP, Javascript, Python, SQL.  
 Technologies/Environment: Unity3D (C#), Matlab, Django, OpenGL, Adobe After Effects, Git
 
 ## Work Experiences

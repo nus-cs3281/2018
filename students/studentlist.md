@@ -259,14 +259,14 @@
 
 ## TRAN TIEN DAT
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="tranTienDat/tranTienDat.jpg" width="100" /><br>
+[[Resume](tranTienDat/tranTienDat-Resume.md)]
+[[Website](https://github.com/tran-tien-dat)]
+[[Github](https://github.com/tran-tien-dat)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Security, C++, Linux
+* Projects: TEAMMATES
 
 ## WEN XIN
 

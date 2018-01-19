@@ -115,9 +115,9 @@
 ## KOH LEWIS
 
 <img src="lewisKoh/lewisKoh.jpg" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+[[Resume](lewisKoh/lewisKoh-Resume.md)]
+[[Website](https://github.com/Rinder5)]
+[[Github](https://github.com/Rinder5)]
 [[Progress]()]
 
 * Expert areas:

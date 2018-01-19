@@ -101,14 +101,14 @@
 
 ## ALEX FONG JIE WEN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="alexFong/alexFong.jpg" width="100" /><br>
+[[Resume](alexFong/alexFong-Resume.md)]
+[[Website](https://github.com/AlexFJW)]
+[[Github](https://github.com/AlexFJW)]
+[[Progress](alexFong/alexFong-Progress.md)]
 
 * Expert areas:
-* Projects:
+* Projects: PowerPointLabs
 
 # SE-EDU
 

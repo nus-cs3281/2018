@@ -7,8 +7,8 @@ GitHub: <https://github.com/Rinder5>
 
 #### National University of Singapore (Aug 2016 - May 2020)
 ##### Bachelor of Computing (Honours) in Computer Science
-*Focus Area: Computer Graphics and Games
-*Focus Area 2: Artificial Intelligence
+* Focus Area: Computer Graphics and Games
+* Focus Area 2: Artificial Intelligence
 
 ## Projects
 

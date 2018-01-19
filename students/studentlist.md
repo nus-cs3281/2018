@@ -248,14 +248,14 @@
 
 ## TAN LI HAO
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="tanLiHao/tanLiHao.jpg" width="100" /><br>
+[[Resume](tanLiHao/resume.md)]
 [[Website]()]
-[[Github]()]
+[[Github](https://github.com/LiHaoTan)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Rust, Code Quality, Concurrency
+* Projects: Servo, TEAMMATES
 
 ## TRAN TIEN DAT
 

@@ -132,7 +132,7 @@
 [[Progress](junAn/junAn-Progress.md)]
 
 * Expert areas: C++, Testing, Performance and scalability
-* Projects:SE-EDU
+* Projects: SE-EDU
 
 ## VIVEK LAKSHMANAN
 

@@ -1,6 +1,6 @@
 # Tan Jun An
 
-Email: junan.tan@u.nus.edu
+Email: junan.tan@u.nus.edu<br>
 GitHub: <https://github.com/yamidark>
 
 ## Education

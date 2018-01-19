@@ -44,25 +44,25 @@
 
 ## CHUA YUN ZHI NICHOLAS
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="nicholasChua/nicholasChua.png" width="100" /><br>
+[[Resume](nicholasChua/nicholasChua-Resume.md)]
+[[Website](https://nicholaschuayunzhi.github.io)]
+[[Github](https://github.com/nicholaschuayunzhi)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: JavaScript, Code Quality
+* Projects: MarkBind
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="danielBerzinChua/danielBerzinChua.jpg" width="100" /><br>
+[[Resume](danielBerzinChua/danielBerzinChua-resume.md)]
+[[Website](https://github.com/danielbrzn)]
+[[Github](https://github.com/danielbrzn)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Node.js, Web Scraping
+* Projects: MarkBind
 
 ## RACHAEL SIM HWEE LING
 
@@ -101,20 +101,20 @@
 
 ## ALEX FONG JIE WEN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="alexFong/alexFong.jpg" width="100" /><br>
+[[Resume](alexFong/alexFong-Resume.md)]
+[[Website](https://github.com/AlexFJW)]
+[[Github](https://github.com/AlexFJW)]
+[[Progress](alexFong/alexFong-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Android, Kotlin, Deep Learning
+* Projects: PowerPointLabs
 
 # SE-EDU
 
 ## KOH LEWIS
 
-<img src="" width="100" /><br>
+<img src="lewisKoh/lewisKoh.jpg" width="100" /><br>
 [[Resume]()]
 [[Website]()]
 [[Github]()]
@@ -136,14 +136,14 @@
 
 ## VIVEK LAKSHMANAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="vivekLakshmanan/vivekLakshmanan.jpg" width="100" /><br>
+[[Resume](vivekLakshmanan/vivekLakshmanan-Resume.md)]
+[[Website](https://github.com/vivekscl)]
+[[Github](https://github.com/vivekscl)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Python, NLTK
+* Projects: SE-EDU
 
 ## YONG ZHI YUAN
 
@@ -171,14 +171,14 @@
 
 ## DARREN WEE ZHE YU
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="darrenWee/darren.jpeg" width="100" /><br>
+[[Resume](darrenWee/resume.md)]
+[[Website](https://github.com/darrenwee)]
+[[Github](https://github.com/darrenwee)]
+[[Progress](darrenWee/progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Go, performance & scalability, cloud
+* Projects: TEAMMATES
 
 ## JOANNE ONG CUI FANG
 
@@ -215,14 +215,14 @@
 
 ## PAN HAOZHE
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="panHaozhe/panHaozhe.jpg" width="100" /><br>
+[[Resume](panHaozhe/panHaozhe.md)]
+[[Website](https://github.com/Haozhe321)]
+[[Github](https://github.com/Haozhe321)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Kotlin
+* Projects: TEAMMATES
 
 ## PHANG CHUN RONG
 
@@ -270,11 +270,11 @@
 
 ## WEN XIN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="wenXin/wenXin.jpg" width="100" /><br>
+[[Resume](wenXin/wenXin-Resume.md)]
+[[Website](https://github.com/wenmogu)]
+[[Github](https://github.com/wenmogu)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas:Java, Nodejs
+* Projects:TEAMMATES

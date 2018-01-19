@@ -79,14 +79,14 @@
 
 ## LEE YAN HWA
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="leeYanHwa/leeYanHwa.jpg" width="100" /><br>
+[[Resume](leeYanHwa/leeYanHwa-Resume.md)]
+[[Website](http://www.comp.nus.edu.sg/~yanhwa/)]
+[[Github](https://github.com/leeyh20)]
+[[Progress](leeYanHwa/leeYanHwa-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, C#, Android App Development, Testing
+* Projects: PowerPointLabs
 
 ## TAN JUN KIAT
 

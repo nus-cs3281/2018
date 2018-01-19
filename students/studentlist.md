@@ -125,14 +125,14 @@
 
 ## TAN JUN AN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="junAn/junAn.png" width="100" /><br>
+[[Resume](junAn/junAn-Resume.md)]
+[[Website](https://github.com/yamidark)]
+[[Github](https://github.com/yamidark)]
+[[Progress](junAn/junAn-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: C++, Testing, Performance and scalability
+* Projects:SE-EDU
 
 ## VIVEK LAKSHMANAN
 

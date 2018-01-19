@@ -1,7 +1,8 @@
 # Lewis Koh
 
-Email: rinder4@hotmail.com  
-GitHub: <https://github.com/Rinder5>
+<img src="lewisKoh.jpg" width="100" /><br>
+- **Email:** rinder4@hotmail.com  
+- **GitHub:** <https://github.com/Rinder5>
 
 ## Education
 

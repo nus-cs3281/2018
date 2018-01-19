@@ -10,6 +10,7 @@
 ## Education
 ### National University of Singapore
 Bachelor of Computing (Computer Science), 2015 - present
+
 (expected to graduate fall 2019)
 
 * Specialization in Software Engineering
@@ -18,7 +19,9 @@ Bachelor of Computing (Computer Science), 2015 - present
 
 ## Professional Experience
 Student Researcher/Research Assistant
+
 *Institute for Infocomm Research, A\*STAR*
+
 Nov 2013 - Jan 2017
 
 - Acoustic modelling of whispered English and Mandarin speech using deep-learning algorithms.
@@ -36,7 +39,7 @@ Nov 2013 - Jan 2017
 git, gradle, travis-ci, coveralls
 
 ### Frameworks & Libraries
-pandas, keras/tensorflow, ggplot2, opencv, django, 
+pandas, keras/tensorflow, ggplot2, opencv, django, scikit-learn, nltk, numpy
 
 ### Computer Software
 intellij, vim, Solidworks, unix-like operating systems, Windows, Adobe Photoshop & Premier & Indesign, Microsoft Office

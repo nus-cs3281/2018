@@ -177,7 +177,7 @@
 [[Github](https://github.com/darrenwee)]
 [[Progress](darrenWee/progress.md)]
 
-* Expert areas: Go, testing, cloud
+* Expert areas: Go, performance & scalability, cloud
 * Projects: TEAMMATES
 
 ## JOANNE ONG CUI FANG

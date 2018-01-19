@@ -46,3 +46,12 @@ intellij, vim, Solidworks, unix-like operating systems, Windows, Adobe Photoshop
 
 ### Others
 Arduino
+
+## Projects
+### VOGLBot/AndreaBot
+A set of Telegram bots made for the University Scholars Program's freshmen orientation.
+
+* VOGLBot makes handling attendance and participant information easy and less clunky by relying on commands issued via Telegram
+* AndreaBot handles announcements via a single interface and allows for group-based announcements. (*at the time of development/deployment, Telegram did not have read-only channels*)
+* Both bots implemented using python3 and mongodb
+* Users would issue simple text commands to perform CRUD operations for orientation attendees

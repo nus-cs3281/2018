@@ -114,7 +114,7 @@
 
 ## KOH LEWIS
 
-<img src="" width="100" /><br>
+<img src="lewisKoh/lewisKoh.jpg" width="100" /><br>
 [[Resume]()]
 [[Website]()]
 [[Github]()]

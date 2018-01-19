@@ -107,7 +107,7 @@
 [[Github](https://github.com/AlexFJW)]
 [[Progress](alexFong/alexFong-Progress.md)]
 
-* Expert areas:
+* Expert areas: Android, Kotlin, Deep Learning
 * Projects: PowerPointLabs
 
 # SE-EDU

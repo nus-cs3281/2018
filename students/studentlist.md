@@ -160,14 +160,15 @@
 
 ## CARA LEONG SU-YI
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="caraLeong/caraLeong.jpg" width="100" /><br>
 
-* Expert areas:
-* Projects:
+[[Resume](caraLeong/caraLeong-resume.md)]
+[[Website](https://github.com/craaaa)]
+[[Github](https://github.com/craaaa)]
+[[Progress](caraLeong/caraLeong-progress.md)]
+
+* Expert areas: Go, Documentation, Natural Language Processing
+* Projects: NLTK
 
 ## DARREN WEE ZHE YU
 

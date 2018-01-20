@@ -1,4 +1,4 @@
-# Alex Fong Jie Wen - Weekly Progress
+# Yong Zhi Yuan - Weekly Progress
 -----------------------------------------------
 ### Week 2
 Effort | Type | PR | Issue

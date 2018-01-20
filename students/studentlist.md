@@ -147,14 +147,14 @@
 
 ## YONG ZHI YUAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="yongZhiYuan/photo.png" width="100" /><br>
+[[Resume](yongZhiYuan/resume.md)]
+[[Website](https://github.com/Zhiyuan-Amos)]
+[[Github](https://github.com/Zhiyuan-Amos)]
+[[Progress](yongZhiYuan/progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Testing, Swift, Garbage Collection
+* Projects: SE-EDU
 
 # TEAMMATES
 

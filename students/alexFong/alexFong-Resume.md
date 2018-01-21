@@ -15,7 +15,7 @@ Pursuing Bachelor of Computing (Honors) in Computer Science with specialization 
     Helper for lectures, gave supplementary lectures and provided consultation to 33 students. Graded programming assignments.  
 
 * Google Summer of Code Participant, OpenKeychain (May 2016 - August 2016)  
-OpenKeychain is the leading Android application for GPG key management on Android.  
+OpenKeychain is the leading Android application for PGP key management on Android.  
 
     Added single password workflow for management of keys, simplifying PGP key usage. Introduced a master password & app-lock mechanism for further security.  
 

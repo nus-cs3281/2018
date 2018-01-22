@@ -142,7 +142,7 @@
 [[Github](https://github.com/vivekscl)]
 [[Progress]()]
 
-* Expert areas: Java, Python, NLTK
+* Expert areas: Bash, Java, NLTK
 * Projects: SE-EDU
 
 ## YONG ZHI YUAN

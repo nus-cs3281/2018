@@ -72,7 +72,7 @@
 [[Github](https://github.com/rachx)]
 [[Progress](rachaelSim/rachaelSim-Progress.md)]
 
-* Expert areas: Kotlin, Swift, Performance (Profiling), Node.js
+* Expert areas: Swift, UIX(Usability), Blockchain
 * Projects: MarkBind
 
 # PowerPointLabs

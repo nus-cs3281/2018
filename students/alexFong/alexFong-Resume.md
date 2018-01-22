@@ -32,6 +32,7 @@ Also added export to FDX, live suggestions, syntax highlighting & script managem
 ### Expert areas
 * Kotlin
 * Android
+* Deep Learning
 
 Proficient in Java, Python, Javascript, Typescript,  
 Functional Reactive Programming (FRP)  

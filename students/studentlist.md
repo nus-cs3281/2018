@@ -189,7 +189,7 @@
 [[Github](https://github.com/joanneong)]
 [[Progress]()]
 
-* Expert areas: Java, Dev Ops, Gradle
+* Expert areas: Java, Documentation, Gradle
 * Projects: TEAMMATES
 
 ## LU LECHUAN

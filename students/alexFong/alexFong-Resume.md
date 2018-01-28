@@ -8,7 +8,7 @@ GitHub: <https://github.com/AlexFJW>
 __National University of Singapore (Aug 2015/16 - 2018/19)__  
 Pursuing Bachelor of Computing (Honors) in Computer Science with specialization in Artificial Intelligence  
 
-__Udacity Machine Learning Nanodegree Engineer (Aug 2017 - Jan 2018)__  
+__Udacity Machine Learning Nanodegree (Aug 2017 - Jan 2018)__  
 Obtained a practical foundation in Machine Learning, with specialization in Deep Learning  
 
 ## Employment and Experience
@@ -27,7 +27,7 @@ Wrote a parser to support parsing of Fountain, a script writing language.
 Also added export to FDX, live suggestions, syntax highlighting & script management features.  
 
 * Google Summer of Code Participant, OpenKeychain (May 2016 - August 2016)  
-OpenKeychain is the leading Android app for PGP key management on Android, with over 100,000 installs.
+OpenKeychain is the leading Android app for PGP key management, with over 100,000 installs.
 
     Added single password workflow for management of keys, simplifying PGP key usage.  
     Introduced a master password & app-lock mechanism for further security.  
@@ -49,7 +49,9 @@ OpenKeychain is the leading Android app for PGP key management on Android, with 
     Increased speed by 4x & reduced memory by 2x with pruning from [arXiv:1611.06440](https://arxiv.org/abs/1611.06440)
 
 Proficient in Java, Python, Typescript, FRP  
-Prior experience in Swift, Javascript, C#, C++
+Prior experience in Swift, Javascript, C#, C++  
+
+Familiar with Pytorch, Tensorflow
 
 #### Interests
 * AI & Deep learning

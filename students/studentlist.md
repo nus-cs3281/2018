@@ -72,21 +72,21 @@
 [[Github](https://github.com/rachx)]
 [[Progress](rachaelSim/rachaelSim-Progress.md)]
 
-* Expert areas: Kotlin, Swift, Performance (Profiling), Node.js
+* Expert areas: Swift, UIX(Usability), Blockchain
 * Projects: MarkBind
 
 # PowerPointLabs
 
 ## LEE YAN HWA
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="leeYanHwa/leeYanHwa.jpg" width="100" /><br>
+[[Resume](leeYanHwa/leeYanHwa-Resume.md)]
+[[Website](http://www.comp.nus.edu.sg/~yanhwa/)]
+[[Github](https://github.com/leeyh20)]
+[[Progress](leeYanHwa/leeYanHwa-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, C#, Android App Development, Testing
+* Projects: PowerPointLabs
 
 ## TAN JUN KIAT
 
@@ -114,10 +114,10 @@
 
 ## KOH LEWIS
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="lewisKoh/lewisKoh.jpg" width="100" /><br>
+[[Resume](lewisKoh/lewisKoh-Resume.md)]
+[[Website](https://github.com/Rinder5)]
+[[Github](https://github.com/Rinder5)]
 [[Progress]()]
 
 * Expert areas:
@@ -125,14 +125,14 @@
 
 ## TAN JUN AN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="junAn/junAn.png" width="100" /><br>
+[[Resume](junAn/junAn-Resume.md)]
+[[Website](https://github.com/yamidark)]
+[[Github](https://github.com/yamidark)]
+[[Progress](junAn/junAn-Progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: C++, Testing, Performance and scalability
+* Projects: SE-EDU
 
 ## VIVEK LAKSHMANAN
 
@@ -142,32 +142,33 @@
 [[Github](https://github.com/vivekscl)]
 [[Progress]()]
 
-* Expert areas: Java, Python, NLTK
+* Expert areas: Bash, Java, NLTK
 * Projects: SE-EDU
 
 ## YONG ZHI YUAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="yongZhiYuan/photo.png" width="100" /><br>
+[[Resume](yongZhiYuan/resume.md)]
+[[Website](https://github.com/Zhiyuan-Amos)]
+[[Github](https://github.com/Zhiyuan-Amos)]
+[[Progress](yongZhiYuan/progress.md)]
 
-* Expert areas:
-* Projects:
+* Expert areas: Java, Testing, Swift, Garbage Collection
+* Projects: SE-EDU
 
 # TEAMMATES
 
 ## CARA LEONG SU-YI
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="caraLeong/caraLeong.jpg" width="100" /><br>
 
-* Expert areas:
-* Projects:
+[[Resume](caraLeong/caraLeong-resume.md)]
+[[Website](https://github.com/craaaa)]
+[[Github](https://github.com/craaaa)]
+[[Progress](caraLeong/caraLeong-progress.md)]
+
+* Expert areas: Go, Documentation, Natural Language Processing
+* Projects: NLTK
 
 ## DARREN WEE ZHE YU
 
@@ -248,25 +249,25 @@
 
 ## TAN LI HAO
 
-<img src="" width="100" /><br>
-[[Resume]()]
+<img src="tanLiHao/tanLiHao.jpg" width="100" /><br>
+[[Resume](tanLiHao/resume.md)]
 [[Website]()]
-[[Github]()]
+[[Github](https://github.com/LiHaoTan)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Rust, Code Quality, Concurrency
+* Projects: Servo, TEAMMATES
 
 ## TRAN TIEN DAT
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
+<img src="tranTienDat/tranTienDat.jpg" width="100" /><br>
+[[Resume](tranTienDat/tranTienDat-Resume.md)]
+[[Website](https://github.com/tran-tien-dat)]
+[[Github](https://github.com/tran-tien-dat)]
 [[Progress]()]
 
-* Expert areas:
-* Projects:
+* Expert areas: Security, C++, Linux
+* Projects: TEAMMATES
 
 ## WEN XIN
 

@@ -28,11 +28,10 @@ Developed a sleek and user-friendly web-based application, Lions Befrienders Mob
 ## Computing Skills
 
 ### Expert areas
-* Kotlin
 * Swift
   * Developed an iPad application, Bubble Mania, a bubble shooter game with an interactive level designer and a supporting physics engine to simulate realistic collisions
-* Performance (Profiling)
-* Node.js
+* UIX(Usability)
+* Blockchain
 
 Proficient in Java, Python, Ruby on Rails, AngularJS, SQL  
 

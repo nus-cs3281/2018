@@ -29,14 +29,23 @@
 * [TRAN TIEN DAT](#tran-tien-dat)
 * [WEN XIN](#wen-xin)
 
+**Sample**
+Week | Achievements
+---- | ------------
+1 | Reviewed PRs [PR name 1 #1234]()[PR name 2 #344]()
+1 | Authored PR [PR name 4 #3245]()
+2 | Submitted Issue [Issue name #223]()
+2 | Authored PR (put on hold by request)[PR name 3 #365]()
+2 | Responded to contributor queries [#1234](), [#4567]()
+
 # MarkBind
 
 ## CHUA YUN ZHI NICHOLAS
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 | 
+2 |
 2 |
 3 |
 4 |
@@ -57,8 +66,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -76,8 +85,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -97,8 +106,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -116,8 +125,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -135,8 +144,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -156,8 +165,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -175,8 +184,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -194,8 +203,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -213,8 +222,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -234,8 +243,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -253,8 +262,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -272,8 +281,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -291,8 +300,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -310,8 +319,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -329,8 +338,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -348,8 +357,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -367,8 +376,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -386,8 +395,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -405,8 +414,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |
@@ -425,8 +434,8 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | [PR name 1 #1234]()
-1 | [PR name 2 #3245]()
+1 |
+2 |
 2 |
 3 |
 4 |

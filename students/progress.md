@@ -232,11 +232,22 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Submitted Issue: [JUnit5: Shorten test code by using parameterized tests #786](https://github.com/se-edu/addressbook-level4/issues/786)<br>Reviewed PR: [Logic: Add command aliases](https://github.com/se-edu/addressbook-level4/pull/785)<br>Reviewed PR: [Ui: fix default PersonListPanel background color #415](https://github.com/se-edu/addressbook-level4/pull/791)<br>Reviewed PR: [Replace use of `assert false` with `throw new AssertionError()` #264](https://github.com/se-edu/addressbook-level4/pull/788)<br>Reviewed PR: [AddCommandParser accepts invalid command format #738](https://github.com/se-edu/addressbook-level4/pull/763)
+1 | Reviewed PR: [README: acknowledge use of third-party libraries #781](https://github.com/se-edu/addressbook-level4/pull/782)<br>Reviewed PR: [User Guide: add an introduction #779](https://github.com/se-edu/addressbook-level4/pull/780)<br>Reviewed PR: [Developer Guide: add instructions for manual testing #777](https://github.com/se-edu/addressbook-level4/pull/778)<br>Reviewed PR: [Developer Guide: specify target user profile and value proposition #775](https://github.com/se-edu/addressbook-level4/pull/776)<br>Reviewed PR: [Developer Guide: tweak undo/redo diagrams #773](https://github.com/se-edu/addressbook-level4/pull/774)<br>Reviewed PR: [Restructure sample Project Portfolio Page for easier reading #771](https://github.com/se-edu/addressbook-level4/pull/772)
+1 | Reviewed PR: [Replace all verbose loops with lambda expression #634](https://github.com/se-edu/addressbook-level4/pull/805)
+1 | Reviewed PR: [Document how to set up coveralls reporting #730](https://github.com/se-edu/addressbook-level4/pull/787)
+1 | Authored PR: [EditPersonDescriptor: update methods to perform defensive copy](https://github.com/se-edu/addressbook-level4/pull/795)
+1 | Authored PR: [Make Person immutable #751](https://github.com/se-edu/addressbook-level4/pull/765)
+1 | Authored PR: [DeveloperGuide: Update Undo/Redo numbering](https://github.com/se-edu/addressbook-level4/pull/766)<br>Authored PR: [ListElementPointer(List<String>): Update code to tally with comments](https://github.com/se-edu/addressbook-level4/pull/748)
+2 | Reviewed PR: [Checkstyle: remove unnecessary properties with default values #370](https://github.com/se-edu/addressbook-level4/pull/802)
+2 | Reviewed PR: [UiManager: delete duplicate code #734](https://github.com/se-edu/addressbook-level4/pull/804)<br>Reviewed PR: [LogicManager: constructor does not follow coding standard's usage of 'this' #729](https://github.com/se-edu/addressbook-level4/pull/810)
+2 | Reviewed PR: [Model: Add deleteTag(Tag)](https://github.com/se-edu/addressbook-level4/pull/790)
+3 | Reviewed PR: [Ui: Make the ResultDisplay red on command failure](https://github.com/se-edu/addressbook-level4/pull/799)
+3 | Reviewed PR: [Ui: Add colors to tag labels](https://github.com/se-edu/addressbook-level4/pull/798)
+4 | Submitted Issue: [Rename Logic#getFilteredPersonList() #827](https://github.com/se-edu/addressbook-level4/issues/827)<br>Submitted Issue: [HelpWindow: multiple help windows can be opened #819](https://github.com/se-edu/addressbook-level4/issues/819)<br>Submitted Issue: [Xml-related classes: replace JAXB with other libraries #817](https://github.com/se-edu/addressbook-level4/issues/817)
+4 | Reviewed PR: [Storage: Add backupAddressBook(ReadOnlyAddressBook)](https://github.com/se-edu/addressbook-level4/pull/594)<br>Reviewed PR: [Implement `remark` command](https://github.com/se-edu/addressbook-level4/pull/599)<br>Reviewed PR: [Ui: Show total persons in status bar](https://github.com/se-edu/addressbook-level4/pull/803)
+4 | Reviewed PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
+4 | Reviewed PR: [Email regex validation does not accept `+` #743](https://github.com/se-edu/addressbook-level4/pull/820)
 5 |
 6 |
 7 |

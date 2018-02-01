@@ -33,7 +33,7 @@ Nov 2013 - Jan 2017
 ## Skills
 ### Computer Languages
 * **Proficient:** Java, Python, Perl, Bash, LaTeX, Praatscript, R
-* **Intermediate:** C, HTML, CSS, Matlab
+* **Intermediate:** C, Go, HTML, CSS, Matlab
 
 ### Dev Ops
 git, gradle, travis-ci, coveralls

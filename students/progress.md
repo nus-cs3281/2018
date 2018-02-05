@@ -1,4 +1,4 @@
-# Progress
+# CS3282 Progress
 
 **MarkBind**:
 * [CHUA YUN ZHI NICHOLAS](#chua-yun-zhi-nicholas)
@@ -40,6 +40,7 @@ Week | Achievements
 2 | Responded to contributor queries: [#1234](), [#4567]()
 
 Notes:
+* The page is for CS3282 work only (i.e., contributions to our own internal projects)
 * PR-related contributions: Report only when a PR is merged (or it's finalized in some other way e.g., abandoned)
 * Past PRs can be claimed in future weeks, but not the other way around.
 * Report each significant achievement in a separate row. You may aggregate multiple minor achievements in to a single row. 

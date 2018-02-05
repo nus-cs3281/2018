@@ -196,16 +196,15 @@
 
 ## LU LECHUAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="LuLechuan/LuLechuan.jpg" width="100" /><br>
+[[Resume](LuLechuan/LuLechuan-Resume.md)]
+[[Website](https://github.com/LuLechuan)]
+[[Github](https://github.com/LuLechuan)]
 [[Progress](progress.md#lu-lechuan)]
 
 
-* Expert areas:
-* Projects:
+* Expert areas: Vue.js
+* Projects: TEAMMATES
 
 ## NGUYEN QUOC BAO
 

@@ -196,7 +196,7 @@
 
 ## LU LECHUAN
 
-<img src="LuLechuan/LuLechuan.jpg" width="100" /><br>
+<img src="LuLechuan/LuLechuan.JPG" width="100" /><br>
 [[Resume](LuLechuan/LuLechuan-Resume.md)]
 [[Website](https://github.com/LuLechuan)]
 [[Github](https://github.com/LuLechuan)]

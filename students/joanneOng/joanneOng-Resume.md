@@ -11,11 +11,9 @@ Email: joanneongcf@u.nus.edu | GitHub: https://github.com/joanneong
 
 ##### Hwa Chong Institution (College Section) (Feb 2014 - Dec 2015)
 - Received eight distinctions for GCE A Level
-- Graduated with Hwa Chong Diploma (Distinction)
 - Under Hwa Chong Science and Mathematics Talent Programme (SMTP)
 
 ##### Nanyang Girls' High School (Jan 2010 - Dec 2013)
-- Under Integrated Programme (IP)
 - Under Nanyang Science and Mathematics Talent Programme (SMTP)
 - Under Nanyang School Based Gifted Education (SBGE)
 
@@ -23,6 +21,11 @@ Email: joanneongcf@u.nus.edu | GitHub: https://github.com/joanneong
 
 - NUS Merit Scholarship (2016 - 2020)
 - Mapletree Bursary (2017)
+
+## Work Experience
+
+##### Teaching Assistant for CS2103 Software Engineering at NUS (Jan 2018 – present)
+-	Guide undergraduate students in learning software engineering skills and developing an AddressBook application
 
 ## Projects
 

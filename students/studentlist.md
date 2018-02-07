@@ -48,7 +48,7 @@
 [[Resume](nicholasChua/nicholasChua-Resume.md)]
 [[Website](https://nicholaschuayunzhi.github.io)]
 [[Github](https://github.com/nicholaschuayunzhi)]
-[[Progress]()]
+[[Progress](progress.md#chua-yun-zhi-nicholas)]
 
 * Expert areas: JavaScript, Code Quality
 * Projects: MarkBind
@@ -59,7 +59,7 @@
 [[Resume](danielBerzinChua/danielBerzinChua-resume.md)]
 [[Website](https://github.com/danielbrzn)]
 [[Github](https://github.com/danielbrzn)]
-[[Progress]()]
+[[Progress](progress.md#daniel-berzin-chua-yuan-siang)]
 
 * Expert areas: Java, Node.js, Web Scraping
 * Projects: MarkBind
@@ -70,7 +70,8 @@
 [[Resume](rachaelSim/rachaelSim-Resume.md)]
 [[Website](https://github.com/rachx)]
 [[Github](https://github.com/rachx)]
-[[Progress](rachaelSim/rachaelSim-Progress.md)]
+[[Progress](progress.md#rachael-sim-hwee-ling)]
+
 
 * Expert areas: Swift, UIX(Usability), Blockchain
 * Projects: MarkBind
@@ -83,7 +84,7 @@
 [[Resume](leeYanHwa/leeYanHwa-Resume.md)]
 [[Website](http://www.comp.nus.edu.sg/~yanhwa/)]
 [[Github](https://github.com/leeyh20)]
-[[Progress](leeYanHwa/leeYanHwa-Progress.md)]
+[[Progress](progress.md#lee-yan-hwa)]
 
 * Expert areas: Java, C#, Android App Development, Testing
 * Projects: PowerPointLabs
@@ -94,7 +95,7 @@
 [[Resume](tanJunKiat/tanJunKiat-Resume.md)]
 [[Website](https://github.com/junkiattan)]
 [[Github](https://github.com/junkiattan)]
-[[Progress](tanJunKiat/tanJunKiat-Progress.md)]
+[[Progress](progress.md#tan-jun-kiat)]
 
 * Expert areas: UX/UI Design, Java, C#, Documentation
 * Projects: PowerPointLabs
@@ -105,7 +106,7 @@
 [[Resume](alexFong/alexFong-Resume.md)]
 [[Website](https://github.com/AlexFJW)]
 [[Github](https://github.com/AlexFJW)]
-[[Progress](alexFong/alexFong-Progress.md)]
+[[Progress](progress.md#alex-fong-jie-wen)]
 
 * Expert areas: Android, Kotlin, Deep Learning
 * Projects: PowerPointLabs
@@ -118,7 +119,7 @@
 [[Resume](lewisKoh/lewisKoh-Resume.md)]
 [[Website](https://github.com/Rinder5)]
 [[Github](https://github.com/Rinder5)]
-[[Progress]()]
+[[Progress](progress.md#koh-lewis)]
 
 * Expert areas:
 * Projects:
@@ -129,7 +130,7 @@
 [[Resume](junAn/junAn-Resume.md)]
 [[Website](https://github.com/yamidark)]
 [[Github](https://github.com/yamidark)]
-[[Progress](junAn/junAn-Progress.md)]
+[[Progress](progress.md#tan-jun-an)]
 
 * Expert areas: C++, Testing, Performance and scalability
 * Projects: SE-EDU
@@ -140,7 +141,7 @@
 [[Resume](vivekLakshmanan/vivekLakshmanan-Resume.md)]
 [[Website](https://github.com/vivekscl)]
 [[Github](https://github.com/vivekscl)]
-[[Progress]()]
+[[Progress](progress.md#vivek-lakshmanan)]
 
 * Expert areas: Bash, Java, NLTK
 * Projects: SE-EDU
@@ -151,7 +152,7 @@
 [[Resume](yongZhiYuan/resume.md)]
 [[Website](https://github.com/Zhiyuan-Amos)]
 [[Github](https://github.com/Zhiyuan-Amos)]
-[[Progress](yongZhiYuan/progress.md)]
+[[Progress](progress.md#yong-zhi-yuan)]
 
 * Expert areas: Java, Testing, Swift, Garbage Collection
 * Projects: SE-EDU
@@ -165,7 +166,8 @@
 [[Resume](caraLeong/caraLeong-resume.md)]
 [[Website](https://github.com/craaaa)]
 [[Github](https://github.com/craaaa)]
-[[Progress](caraLeong/caraLeong-progress.md)]
+[[Progress](progress.md#cara-leong-su-yi)]
+
 
 * Expert areas: Go, Documentation, Natural Language Processing
 * Projects: NLTK
@@ -176,10 +178,10 @@
 [[Resume](darrenWee/resume.md)]
 [[Website](https://github.com/darrenwee)]
 [[Github](https://github.com/darrenwee)]
-[[Progress](darrenWee/progress.md)]
+[[Progress](progress.md#darren-wee-zhe-yu)]
 
-* Expert areas: Go, performance & scalability, cloud
-* Projects: TEAMMATES
+* Expert areas: Go, performance & scalability, git
+* Projects: [TEAMMATES](https://github.com/teammates/TEAMMATES), [hub](https://github.com/github/hub)
 
 ## JOANNE ONG CUI FANG
 
@@ -187,21 +189,22 @@
 [[Resume](joanneOng/joanneOng-Resume.md)]
 [[Website](https://github.com/joanneong)]
 [[Github](https://github.com/joanneong)]
-[[Progress]()]
+[[Progress](progress.md#joanne-ong-cui-fang)]
 
 * Expert areas: Java, Documentation, Gradle
 * Projects: TEAMMATES
 
 ## LU LECHUAN
 
-<img src="" width="100" /><br>
-[[Resume]()]
-[[Website]()]
-[[Github]()]
-[[Progress]()]
+<img src="LuLechuan/LuLechuan.JPG" width="100" /><br>
+[[Resume](LuLechuan/LuLechuan-Resume.md)]
+[[Website](https://github.com/LuLechuan)]
+[[Github](https://github.com/LuLechuan)]
+[[Progress](progress.md#lu-lechuan)]
 
-* Expert areas:
-* Projects:
+
+* Expert areas: Vue.js
+* Projects: TEAMMATES
 
 ## NGUYEN QUOC BAO
 
@@ -209,7 +212,7 @@
 [[Resume](nguyenQuocBao/nguyenQuocBao-Resume.md)]
 [[Website](https://github.com/bqnguyen94)]
 [[Github](https://github.com/bqnguyen94)]
-[[Progress](nguyenQuocBao/nguyenQuocBao-Progress.md)]
+[[Progress](progress.md#nguyen-quoc-bao)]
 
 * Expert areas: Java, Python, DevOps
 * Projects: TEAMMATES
@@ -220,7 +223,7 @@
 [[Resume](panHaozhe/panHaozhe.md)]
 [[Website](https://github.com/Haozhe321)]
 [[Github](https://github.com/Haozhe321)]
-[[Progress]()]
+[[Progress](progress.md#pan-haozhe)]
 
 * Expert areas: Kotlin
 * Projects: TEAMMATES
@@ -231,7 +234,7 @@
 [[Resume](phangChunRong/phangChunRong-Resume.md)]
 [[Website]()]
 [[Github]()]
-[[Progress]()]
+[[Progress](progress.md#phang-chun-rong)]
 
 * Expert areas: Python
 * Projects: TEAMMATES
@@ -242,7 +245,7 @@
 [[Resume](shradheyaThakre/shradheyaThakre-Resume.md)]
 [[Website](https://www.linkedin.com/in/tshradheya/)]
 [[Github](https://github.com/tshradheya)]
-[[Progress]()]
+[[Progress](progress.md#shradheya-thakre)]
 
 * Expert areas: Java, Mobile Applications, Code Quality/DevOps
 * Projects: TEAMMATES
@@ -253,7 +256,7 @@
 [[Resume](tanLiHao/resume.md)]
 [[Website]()]
 [[Github](https://github.com/LiHaoTan)]
-[[Progress]()]
+[[Progress](progress.md#tan-li-hao)]
 
 * Expert areas: Rust, Code Quality, Concurrency
 * Projects: Servo, TEAMMATES
@@ -264,7 +267,7 @@
 [[Resume](tranTienDat/tranTienDat-Resume.md)]
 [[Website](https://github.com/tran-tien-dat)]
 [[Github](https://github.com/tran-tien-dat)]
-[[Progress]()]
+[[Progress](progress.md#tran-tien-dat)]
 
 * Expert areas: Security, C++, Linux
 * Projects: TEAMMATES
@@ -275,7 +278,11 @@
 [[Resume](wenXin/wenXin-Resume.md)]
 [[Website](https://github.com/wenmogu)]
 [[Github](https://github.com/wenmogu)]
-[[Progress]()]
+[[Progress](progress.md#wen-xin)]
 
 * Expert areas:Java, Nodejs
 * Projects:TEAMMATES
+
+
+
+

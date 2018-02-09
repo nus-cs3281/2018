@@ -384,19 +384,19 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Submitted Issue: [https://github.com/TEAMMATES/teammates/issues/8241](setting-up.md: Fix tracking of upstream repository instructions #8241)
-1 | Submitted Issue: [https://github.com/TEAMMATES/teammates/issues/8260](Add custom gradle task for deployment #8260)
-1 | Authored PR: [https://github.com/TEAMMATES/teammates/pull/8233](Java: Use Java 8 lambda as comparators #8217 #8233)
-2 | Submitted Issue: [https://github.com/TEAMMATES/teammates/issues/8312](Enhancement: Improve Email Layout by using buttons for links #8312)
-2 | Submitted Issue: [https://github.com/se-edu/addressbook-level4/issues/800](DeveloperGuide.adoc : Broken link of 'oss-generic coding standard' #800)
-2 | Submitted Issue: [https://github.com/se-edu/addressbook-level4/issues/731](Clearing the contacts list does not clear the browser #731)
-2 | Authored PR: [https://github.com/se-edu/addressbook-level4/pull/812](DeveloperGuide.adoc: fix broken hyperlink to coding standard #800 #812)
-3 | Submitted Issue: [https://github.com/se-edu/addressbook-level4/issues/813](Enhancement: Do not trigger Travis CI/AppVeyor tests for document only changes in PR #813)
-3 | Authored PR: [https://github.com/TEAMMATES/teammates/pull/8360](Fix shrinking of Input feild for Rank Recipient/Options question #8355 #8360)
-3 | Authored PR: [https://github.com/TEAMMATES/teammates/pull/8352](CSS files: fix coding standard violations #7931 #8352)
-4 | Authored PR: [https://github.com/TEAMMATES/teammates/pull/8354](Replace raw exception throws in production code #7085 #8354)
-4 | Authored PR: [https://github.com/TEAMMATES/teammates/pull/8382](Use builder instead of telescoping constructor antipattern in AccountAttributes class #7190 #8382)
-4 | Authored PR (put on hold by request): [https://github.com/TEAMMATES/teammates/pull/8327](Enhanced email interface for join links #8312 #8327)
+1 | Submitted Issue: [setting-up.md: Fix tracking of upstream repository instructions #8241](https://github.com/TEAMMATES/teammates/issues/8241)
+1 | Submitted Issue: [Add custom gradle task for deployment #8260](https://github.com/TEAMMATES/teammates/issues/8260)
+1 | Authored PR: [Java: Use Java 8 lambda as comparators #8217 #8233](https://github.com/TEAMMATES/teammates/pull/8233)
+2 | Submitted Issue: [Enhancement: Improve Email Layout by using buttons for links #8312](https://github.com/TEAMMATES/teammates/issues/8312)
+2 | Submitted Issue: [DeveloperGuide.adoc : Broken link of 'oss-generic coding standard' #800](https://github.com/se-edu/addressbook-level4/issues/800)
+2 | Submitted Issue: [Clearing the contacts list does not clear the browser #731](https://github.com/se-edu/addressbook-level4/issues/731)
+2 | Authored PR: [DeveloperGuide.adoc: fix broken hyperlink to coding standard #800 #812](https://github.com/se-edu/addressbook-level4/pull/812)
+3 | Submitted Issue: [Enhancement: Do not trigger Travis CI/AppVeyor tests for document only changes in PR #813](https://github.com/se-edu/addressbook-level4/issues/813)
+3 | Authored PR: [Fix shrinking of Input feild for Rank Recipient/Options question #8355 #8360](https://github.com/TEAMMATES/teammates/pull/8360)
+3 | Authored PR: [CSS files: fix coding standard violations #7931 #8352](https://github.com/TEAMMATES/teammates/pull/8352)
+4 | Authored PR: [Replace raw exception throws in production code #7085 #8354](https://github.com/TEAMMATES/teammates/pull/8354)
+4 | Authored PR: [Use builder instead of telescoping constructor antipattern in AccountAttributes class #7190 #8382](https://github.com/TEAMMATES/teammates/pull/8382)
+4 | Authored PR (put on hold by request): [Enhanced email interface for join links #8312 #8327](https://github.com/TEAMMATES/teammates/pull/8327)
 9 |
 10 |
 11 |

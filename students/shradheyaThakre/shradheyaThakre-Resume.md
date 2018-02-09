@@ -23,6 +23,7 @@ GitHub: http://www.github.com/tshradheya
 - Developed an Android Application in a group of 2 using Android Studio(Java) for university to students to keep track of interested events in campus and effectively manage their appointment
 - Engineered clean UI/UX(XML) design for students to keep track of all events in campus
 - Used SQL and JSON(Firebase) for Backend.
+- Try out the [Application](https://github.com/tshradheya/NUSEvents-Orbital)
 
 
 #### iContacts | Desktop Application	(Sep 2017 – Nov 2017)
@@ -34,9 +35,11 @@ User Guide and Developer guide and CI tools like Travis, CodeCov and AppVeyor
 - [Portfolio](https://cs2103aug2017-w14-b1.github.io/main/team/tshradheya.html)
 
 
-#### Retail Store Management System (June 2015 – Jul 2015)
-- Programmed an Inventory Management Software for Retail stores to effectively manage their stocks and display reports of receipts.
-- Used OOPS and Binary File Database in C++
+#### OutCognito - Chrome Extension (Jan 2018 – Jan 2018)
+- Created a Google Chrome extension which publicly tweets out from the users Twitter account all the keystrokes and websites that a user visits.
+- Used NodeJs for backend to authenticate and sent POST requests and wrote client side scripts to anonymously gather user activity
+- Winner of `Most Annoying Hack - Hand&Roll 2018`
+- [Demo of Extension](https://github.com/tshradheya/chrome-extension-twitter)
 
 #### Live Sports Matches Discussion Chat Room (Dec 2017 – Jan 2018)
 - Built a functional deployed website using Angular in front end and ExpressJS and MongoDB at backend to allow sports enthusiast to chat on a live forum to discuss the ongoing live matches.

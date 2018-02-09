@@ -74,11 +74,11 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Merged PR: [Navbar: Added white background for mobile site #13](https://github.com/MarkBind/markbind-cli/pull/13)
+1 | Merged PR: [Navbar: Remove touchstart listeners #5](https://github.com/MarkBind/vue-strap/pull/5)
+3 | Merged PR: [Update parser trimming method to allow whitespace between elements #131](https://github.com/MarkBind/markbind/pull/131)
+4 | Merged PR: [Update Tokenizer to treat Markdown code as text instead of HTML #1](https://github.com/MarkBind/htmlparser2/pull/1)
+4 | Merged PR: [Update package.json to point to htmlparser2 fork #126](https://github.com/MarkBind/markbind/pull/126)
 5 |
 6 |
 7 |

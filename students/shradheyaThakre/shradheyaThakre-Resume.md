@@ -56,3 +56,8 @@ User Guide and Developer guide and CI tools like Travis, CodeCov and AppVeyor
 #### Campaigning Member | Aam Aadmi Party, Political Party (India) (July 2016 to present)
 - Helped the party by doing campaigns to convince people to join the party as the member and voting for the State elections.
 - Research Intern for the Press Conferences of AAP Leaders
+
+## Technical Skills
+
+- Expertise: Java, Android App Development, NodeJs (ExpressJS)
+- Other Areas: C++, HTML, CSS, JavaScript, Python, SQL, NoSQL(MongoDB), JUnit Testing, MEAN (Web Development Stack)

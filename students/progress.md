@@ -437,12 +437,21 @@ Week | Achievements
 
 ## TRAN TIEN DAT
 
+1 | Reviewed PR: [PR name 1 #1234]()
+1 | Authored PR: [PR name 4 #3245]()
+2 | Submitted Issue: [Issue name #223]()
+2 | Authored PR (put on hold by request): [PR name 3 #365]()
+2 | Responded to contributor queries: [#1234](), [#4567]()
+
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
+1 | Nothing
+2 | Submitted Issue: [TimeHelper: migrate to Java 8's `java.time` #8362](https://github.com/TEAMMATES/teammates/issues/8362)
+3 | Authored PR: [Admin: masquerade mode: allow viewing of profile pictures for any course #8140](https://github.com/TEAMMATES/teammates/pull/8323)
+4 | Authored PR: [StudentProfilePageUiTest failing on live server #8393](https://github.com/TEAMMATES/teammates/pull/8396)
+4 | Reviewed PR: [Migrate FeedbackSession time fields to UTC #8093](https://github.com/TEAMMATES/teammates/pull/8094)
+4 | Submitted Issue: [InstructorCoursesPage: course creation time is displayed in UTC instead of local time #8427](https://github.com/TEAMMATES/teammates/issues/8427), [Admin: ongoing sessions list: fix missing sessions #8421](https://github.com/TEAMMATES/teammates/issues/8421)
+4 | Responded to contributor queries: [#8406](https://github.com/TEAMMATES/teammates/issues/8406)
 4 |
 5 |
 6 |

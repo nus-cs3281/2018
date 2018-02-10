@@ -51,9 +51,9 @@ Focus Area: Software Engineering
 * [Source](https://github.com/CS2103AUG2017-W14-B3/main)
 
 #### Markbind | *Markdown/HTML Site Generator*
-* A tool for creating dynamic websites using Markdown and HTML
+* A tool for creating static websites using Markdown and HTML
 * Suited for educational use (Course Websites, Online Instruction Manuals)
 * Written with *Node.js*
-* Fixed a bug with navbar overflow on mobile websites [MarkBind/markbind-cli#13](https://github.com/MarkBind/markbind-cli/pull/13))
+* Fixed a bug with navbar overflow on mobile websites [MarkBind/markbind-cli#13](https://github.com/MarkBind/markbind-cli/pull/13)
 * Fixed incorrect parsing of Markdown content as HTML [MarkBind/htmlparser2#1](https://github.com/MarkBind/htmlparser2/pull/1)
 * [Source](https://github.com/MarkBind)

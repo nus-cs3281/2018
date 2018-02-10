@@ -34,7 +34,6 @@ OpenKeychain is the leading Android app for PGP key management, with over 100,00
 
 ## Computing Skills
 
-### Expert areas
 * Kotlin (~1/2 year)  
     Built a price comparison app, [PriceText](https://play.google.com/store/apps/details?id=com.danbooru.pricetext&hl=en)  
     Used Functional Reactive Programming (FRP) with [RxJava](https://github.com/ReactiveX/RxJava) for clean asynchronous code  
@@ -44,16 +43,12 @@ OpenKeychain is the leading Android app for PGP key management, with over 100,00
     Worked on large-scale Android projects  
     (JotterPad, OpenKeychain, LibreOffice Android)
 
-* Deep Learning (~1/2 year)  
+* AI & Deep Learning (~1/2 year)  
     Used CNNs for Japanese OCR with focus on mobile deployment ([link](https://github.com/alexfjw/jp-ocr-prunned-cnn))  
-    Increased speed by 4x & reduced memory by 2x with pruning from [arXiv:1611.06440](https://arxiv.org/abs/1611.06440)
+    Increased speed by 4x & reduced memory by 2x with pruning from [arXiv:1611.06440](https://arxiv.org/abs/1611.06440)  
+    Familiar with Pytorch, Tensorflow
 
-Proficient in Java, Python, Typescript, FRP  
+Proficient in Kotlin, Java, Python, Typescript, FRP  
 Prior experience in Swift, Javascript, C#, C++  
 
-Familiar with Pytorch, Tensorflow
 
-#### Interests
-* AI & Deep learning
-* Mobile  
-* Functional Programming

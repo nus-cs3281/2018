@@ -340,11 +340,17 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Submitted Issue: [Instructor: discard edit question button: sometimes button does not work #8329](https://github.com/TEAMMATES/teammates/issues/8329)
+1 | Authored PR: [Java: Use Java 8 map.getOrDefault #8250 #8253](https://github.com/TEAMMATES/teammates/pull/8253)
+1 | Authored PR: [Instructor: edit question: remove the need to click edit button multiple times #8148 #8330](https://github.com/TEAMMATES/teammates/pull/8330)
+2 | Submitted Issue: [Instructor: add rank question: prevent input field from shrinking when enabled #8355](https://github.com/TEAMMATES/teammates/issues/8355)
+2 | Submitted Issue: [Javascript: button event callback: use event.currentTarget #8335](https://github.com/se-edu/addressbook-level4/issues/8335)
+2 | Authored PR: [Instructor: discard edit question button: sometimes button does not work #8329 #8331](https://github.com/se-edu/addressbook-level4/pull/8331)
+2 | Authored PR: [Javascript: button event callback: use event.currentTarget #8335 #8340](https://github.com/se-edu/addressbook-level4/pull/8340)
+3 | Authored PR: [Instructor home page: Fix broken panel buttons #8391 #8390](https://github.com/TEAMMATES/teammates/pull/8390)
+3 | Authored PR: [instructorFeedbackEdit: change question backup mechanism #7784 #8379](https://github.com/TEAMMATES/teammates/pull/8379)
+4 | Authored PR: [Instructor: copy session: allow observers to copy sessions #6594 #8413](https://github.com/TEAMMATES/teammates/pull/8413)
+4 | Investigated a bug: [Instructor: view results: fix IndexOutOfBoundsException #8415](https://github.com/TEAMMATES/teammates/pull/8415)
 5 |
 6 |
 7 |

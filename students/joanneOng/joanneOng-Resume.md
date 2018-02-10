@@ -1,13 +1,31 @@
 # Joanne Ong
 
-Email: joanneongcf@u.nus.edu
-GitHub: https://github.com/joanneong
+Email: joanneongcf@u.nus.edu | GitHub: https://github.com/joanneong
 
 ## Education
 
 ##### National University of Singapore (Aug 2016 - May 2020)
 - Major in Computer Science
 - Honours (Highest Distinction) [Projected]
+- Under University Scholars Programme (multidisciplinary academic programme for NUS undergraduates)
+
+##### Hwa Chong Institution (College Section) (Feb 2014 - Dec 2015)
+- Received eight distinctions for GCE A Level
+- Under Hwa Chong Science and Mathematics Talent Programme (SMTP)
+
+##### Nanyang Girls' High School (Jan 2010 - Dec 2013)
+- Under Nanyang Science and Mathematics Talent Programme (SMTP)
+- Under Nanyang School Based Gifted Education (SBGE)
+
+## Recent Awards
+
+- NUS Merit Scholarship (2016 - 2020)
+- Mapletree Bursary (2017)
+
+## Work Experience
+
+##### Teaching Assistant for CS2103 Software Engineering at NUS (Jan 2018 – present)
+-	Guide undergraduate students in learning software engineering skills and developing an AddressBook application
 
 ## Projects
 
@@ -33,3 +51,11 @@ Intelli is a relationship tracker that allows private investigators to keep trac
 - Implemented several new features including enhancing commands, autocompletion, and integrating the graph display
 - Applied software engineering design principles in the project and adhered to a common coding style and standard
 - Documented product usage (user guide) and design considerations (developer guide)
+
+## Computing Skills
+
+##### Proficient in:
+- Java
+
+##### Familiarity with:
+- HTML5, CSS, JavaScript, PHP, C, SQL

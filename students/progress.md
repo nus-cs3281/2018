@@ -133,11 +133,24 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Merged PR: [Change non-dynamic variable types from "var" to static-typed #1552](https://github.com/PowerPointLabs/PowerPointLabs/pull/1552)
+2 | Merged PR: [Highlight Text does not provide a message that nothing has changed #1557](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
+2 | Merged PR: [Convert to picture should preserve z-order #1563](https://github.com/PowerPointLabs/PowerPointLabs/pull/1563)
+2 | Submitted Issue: [Easy access to "Insert Shape" functionality for relevent Labs #1577](https://github.com/PowerPointLabs/PowerPointLabs/issues/1577)
+2 | Responded to user queries: [Spotlight Enabled causing exception on presentation open #1543](https://github.com/PowerPointLabs/PowerPointLabs/issues/1543)
+2 | Authored PR: [Positions Lab: Should not require at least 2-3 shapes to be selected #1579](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)
+2 | Authored PR: [Easy access to "Insert Shape" functionality for relevent Labs #1578](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
+3 | Merged PR: [Crop Lab: Provide PowerPoint's crop features in Crop Lab #1568](https://github.com/PowerPointLabs/PowerPointLabs/pull/1568)
+3 | Merged PR: [Messages to user are not consistent #1553](https://github.com/PowerPointLabs/PowerPointLabs/pull/1553)
+3 | Merged PR: [Show a bigger logo in the landing page #65](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/65)<br>Merged PR: [Update Contributions.md to branch out from dev release instead of master for PRs #1589](https://github.com/PowerPointLabs/PowerPointLabs/pull/1589)
+3 | Authored PR: [Suggested new feature: Paste To Fit Slide #1583](https://github.com/PowerPointLabs/PowerPointLabs/pull/1583)
+3 | Reviewed/Tested PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
+3 | Submitted Issue: [New feature: Save Lab #1587](https://github.com/PowerPointLabs/PowerPointLabs/issues/1587)
+4 | Reviewed/Tested PR: [Convert To Picture should not replace clipboard item #1580](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
+4 | Reviewed/Tested PR: [support syncing properties of pictures #1594](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
+4 | Submitted Issue: [Copying operations in different labs should not override clipboard items #1597](https://github.com/PowerPointLabs/PowerPointLabs/issues/1597)
+4 | Submitted Issue: [Inserting Shape should allow users to remain in PowerPointLabs tab #1593](https://github.com/PowerPointLabs/PowerPointLabs/issues/1593)
+4 | Submitted Issue: [Timeline for first-release of PowerPointLabs #1598](https://github.com/PowerPointLabs/PowerPointLabs/issues/1598)
 5 |
 6 |
 7 |

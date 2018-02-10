@@ -167,7 +167,7 @@ Week | Achievements
 ---- | ------------
 1 | Merged PR: [Grammar fix for PictureSlidesLabWindow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1548)
 2 | Authored PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)  
-2 | Submitted Issue: [SyncLab: Documenting supported items](https://github.com/PowerPointLabs/PowerPointLabs/issues/1570)
+2 | Submitted + Investigated Issue: [SyncLab: Documenting supported items](https://github.com/PowerPointLabs/PowerPointLabs/issues/1570)
 2 | Submitted Issues: [SyncLab: Design Decisions & Documentation](https://github.com/PowerPointLabs/PowerPointLabs/issues/1564), [UX for ZoomLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1575)
 2 | Reviewed + Tested: [Highlight Text does not provide a message that nothing has changed](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
 3 | Submitted Issues: [SyncLab: Copying SmartArt gives an error](https://github.com/PowerPointLabs/PowerPointLabs/issues/1581), [ZoomLab: Error encounted when going through drill down tutorial](https://github.com/PowerPointLabs/PowerPointLabs/issues/1588)

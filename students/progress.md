@@ -52,11 +52,17 @@ Notes:
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Merged PR: [Inherit font weight for radio-list-item label #12](https://github.com/MarkBind/markbind-cli/pull/12)
+2 | Submitted Issue: [Default baseUrl for markbind init is not consistent with user guide #124](https://github.com/MarkBind/markbind/issues/124)
+2 | Merged PR: [Add ESLint to Project #14](https://github.com/MarkBind/markbind-cli/pull/14)
+2 | Merged PR: [Apply eslint --fix and refactor code #16](https://github.com/MarkBind/markbind-cli/pull/16)
+3 | Submitted Issue: [Logging for Site operations #133](https://github.com/MarkBind/markbind/issues/133)
+3 | Submitted Issue: [Nested includes do not get live reloaded #127](https://github.com/MarkBind/markbind/issues/127)
+3 | Merged PR: [Update default site config baseUrl to '' #19](https://github.com/MarkBind/markbind-cli/pull/19)
+3 | Merged PR: [Rebuild included html per generate #21](https://github.com/MarkBind/markbind-cli/pull/21)
+4 | Merged PR: [Remove clean up dependency #22](https://github.com/MarkBind/markbind-cli/pull/22)
+4 | Merged PR: [Speed up live reload process #128](https://github.com/MarkBind/markbind/pull/128)
+4 | Reviewed PR: [Support reuse of boilerplate files #110 #130](https://github.com/MarkBind/markbind/pull/130#pullrequestreview-95612231)
 5 |
 6 |
 7 |
@@ -232,13 +238,13 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Merged PR: [AddCommandParser accepts invalid command format #763](https://github.com/se-edu/addressbook-level4/pull/763) 
+1 | Merged PR: [AddCommandParser accepts invalid command format #763](https://github.com/se-edu/addressbook-level4/pull/763)
 2 | Merged PR: [Document how to set up coveralls reporting #787](https://github.com/se-edu/addressbook-level4/pull/787)  
-2 | Authored PR (put on hold by request): [Replace all verbose loops with lambda expression #805](https://github.com/se-edu/addressbook-level4/pull/805) 
-3 | Merged PR: [Checkstyle: remove unnecessary properties with default values #802](https://github.com/se-edu/addressbook-level4/pull/802) 
-3 | Submitted Issue: [Checkstyle: cleanup closing tags for modules that have no child tags](https://github.com/se-edu/addressbook-level4/issues/807) 
+2 | Authored PR (put on hold by request): [Replace all verbose loops with lambda expression #805](https://github.com/se-edu/addressbook-level4/pull/805)
+3 | Merged PR: [Checkstyle: remove unnecessary properties with default values #802](https://github.com/se-edu/addressbook-level4/pull/802)
+3 | Submitted Issue: [Checkstyle: cleanup closing tags for modules that have no child tags](https://github.com/se-edu/addressbook-level4/issues/807)
 4 | Reviewed PR: [Issue with undo/redo and modifications to filtered lists #792](https://github.com/se-edu/addressbook-level4/pull/792)  
-4 | Merged PR: [Email regex validation does not accept '+' #820](https://github.com/se-edu/addressbook-level4/pull/820) 
+4 | Merged PR: [Email regex validation does not accept '+' #820](https://github.com/se-edu/addressbook-level4/pull/820)
 5 |
 6 |
 7 |

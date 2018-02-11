@@ -269,6 +269,7 @@ Week | Achievements
 4 | Reviewed PR: [Storage: Add backupAddressBook(ReadOnlyAddressBook)](https://github.com/se-edu/addressbook-level4/pull/594)<br>Reviewed PR: [Implement `remark` command](https://github.com/se-edu/addressbook-level4/pull/599)<br>Reviewed PR: [Ui: Show total persons in status bar](https://github.com/se-edu/addressbook-level4/pull/803)
 4 | Reviewed PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
 4 | Reviewed PR: [Email regex validation does not accept `+` #743](https://github.com/se-edu/addressbook-level4/pull/820)
+4 | Authored PR: [BrowserPanel: load dummy page #733](https://github.com/se-edu/addressbook-level4/pull/793)
 5 |
 6 |
 7 |

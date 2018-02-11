@@ -114,7 +114,7 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Merged PR: 
+1 | Merged PR:
 2 |
 2 |
 3 |
@@ -176,7 +176,7 @@ Week | Achievements
 4 | Submitted + Investigated Issues: [SyncLab: Error when opening on PPT2013](https://github.com/PowerPointLabs/PowerPointLabs/issues/1592), [Opening Sync Lab causes exception](https://github.com/PowerPointLabs/PowerPointLabs/issues/1465), [Freeform drawing tool bug](https://github.com/PowerPointLabs/PowerPointLabs/issues/1600), [Suddenly failing tests - mostly from PSL](https://github.com/PowerPointLabs/PowerPointLabs/issues/1602)
 4 | Reviewed + Tested: [Add a "Add" button for ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566), [Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578), []
 4 | Tested: [Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579), [Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
-5 | 
+5 |
 6 |
 7 |
 8 |
@@ -373,15 +373,19 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
-5 |
-6 |
-7 |
-8 |
+1 | Merged PR: [Java: Use Java 8 list.removeIf in place of Iterator #8214](https://github.com/TEAMMATES/teammates/pull/8232)
+1 | Submitted Issue: [Remove Instructor Short Name when adding single instructor by administrator #8321](https://github.com/TEAMMATES/teammates/issues/8321)
+2 | Merged PR: [Remove Instructor Short Name when adding single instructor by administrator #8321](https://github.com/TEAMMATES/teammates/pull/8344)
+2 |Submitted Issue: [Instructor Add/Edit Feedback Session: Submission opening time earlier than current time #8353](https://github.com/TEAMMATES/teammates/issues/8353)
+3 | Submitted Issue: [Instructor session: Disable remind button when submission has closed #8358](https://github.com/TEAMMATES/teammates/issues/8358)
+3 | Merged PR: [Instructor session: Disable remind button when submission has closed #8358](https://github.com/TEAMMATES/teammates/pull/8375)
+3 |Authored PR(put on hold): [Partially fix extension not working #13](https://github.com/nus-oss/Git-Labels/pull/14)
+4 |Submitted Issue: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/issues/8403)
+4 | Merged PR: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/pull/8404)
+5|
+6|
+7|
+8|
 9 |
 10 |
 11 |

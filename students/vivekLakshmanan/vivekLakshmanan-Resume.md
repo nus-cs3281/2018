@@ -27,6 +27,14 @@ Scratch for Moway Robots
 smoother experience
 * Designed and built the backend using MongoDB, Express and NodeJS
 
+#### Software Engineering Project for CS2103T - UniCity (Aug 2017 – Nov 2017) 
+* Lead a team of 4 to improve a contact management desktop application implemented in Java 
+* Gained familiarity with many software engineering aspects such as continuous integration, maintaing high standards of  
+code quality, testing and documentation 
+* Implemented a closest match suggestion feature when finding contacts and changing of window size through  
+event-driven programming 
+* [More details here](https://cs2103aug2017-w13-b1.github.io/main/team/vivekscl.html) 
+
 ## Skills
 
 * Proficient: Java, Python

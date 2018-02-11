@@ -232,6 +232,27 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
+1 | Merged PR: [AddCommandParser accepts invalid command format #763](https://github.com/se-edu/addressbook-level4/pull/763) 
+2 | Merged PR: [Document how to set up coveralls reporting #787](https://github.com/se-edu/addressbook-level4/pull/787)  
+2 | Authored PR (put on hold by request): [Replace all verbose loops with lambda expression #805](https://github.com/se-edu/addressbook-level4/pull/805) 
+3 | Merged PR: [Checkstyle: remove unnecessary properties with default values #802](https://github.com/se-edu/addressbook-level4/pull/802) 
+3 | Submitted Issue: [Checkstyle: cleanup closing tags for modules that have no child tags](https://github.com/se-edu/addressbook-level4/issues/807) 
+4 | Reviewed PR: [Issue with undo/redo and modifications to filtered lists #792](https://github.com/se-edu/addressbook-level4/pull/792)  
+4 | Merged PR: [Email regex validation does not accept '+' #820](https://github.com/se-edu/addressbook-level4/pull/820) 
+5 |
+6 |
+7 |
+8 |
+9 |
+10 |
+11 |
+12 |
+13 |
+
+## YONG ZHI YUAN
+
+Week | Achievements
+---- | ------------
 1 | Submitted Issue: [JUnit5: Shorten test code by using parameterized tests #786](https://github.com/se-edu/addressbook-level4/issues/786)<br>Reviewed PR: [Logic: Add command aliases](https://github.com/se-edu/addressbook-level4/pull/785)<br>Reviewed PR: [Ui: fix default PersonListPanel background color #415](https://github.com/se-edu/addressbook-level4/pull/791)<br>Reviewed PR: [Replace use of `assert false` with `throw new AssertionError()` #264](https://github.com/se-edu/addressbook-level4/pull/788)<br>Reviewed PR: [AddCommandParser accepts invalid command format #738](https://github.com/se-edu/addressbook-level4/pull/763)
 1 | Reviewed PR: [README: acknowledge use of third-party libraries #781](https://github.com/se-edu/addressbook-level4/pull/782)<br>Reviewed PR: [User Guide: add an introduction #779](https://github.com/se-edu/addressbook-level4/pull/780)<br>Reviewed PR: [Developer Guide: add instructions for manual testing #777](https://github.com/se-edu/addressbook-level4/pull/778)<br>Reviewed PR: [Developer Guide: specify target user profile and value proposition #775](https://github.com/se-edu/addressbook-level4/pull/776)<br>Reviewed PR: [Developer Guide: tweak undo/redo diagrams #773](https://github.com/se-edu/addressbook-level4/pull/774)<br>Reviewed PR: [Restructure sample Project Portfolio Page for easier reading #771](https://github.com/se-edu/addressbook-level4/pull/772)
 1 | Reviewed PR: [Replace all verbose loops with lambda expression #634](https://github.com/se-edu/addressbook-level4/pull/805)
@@ -248,25 +269,6 @@ Week | Achievements
 4 | Reviewed PR: [Storage: Add backupAddressBook(ReadOnlyAddressBook)](https://github.com/se-edu/addressbook-level4/pull/594)<br>Reviewed PR: [Implement `remark` command](https://github.com/se-edu/addressbook-level4/pull/599)<br>Reviewed PR: [Ui: Show total persons in status bar](https://github.com/se-edu/addressbook-level4/pull/803)
 4 | Reviewed PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
 4 | Reviewed PR: [Email regex validation does not accept `+` #743](https://github.com/se-edu/addressbook-level4/pull/820)
-5 |
-6 |
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
-13 |
-
-## YONG ZHI YUAN
-
-Week | Achievements
----- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
 5 |
 6 |
 7 |

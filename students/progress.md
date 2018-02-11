@@ -332,11 +332,14 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Merged PR: [Java: Use Java 8 map.forEach to iterate through map entries #8216](https://github.com/TEAMMATES/teammates/pull/8223)
+1 | Submitted issue: [static-analysis.md: fix broken PMD documentation link #8238](https://github.com/TEAMMATES/teammates/issues/8238)
+1 | Submitted issue: [Instructor Help: integrate documentation for contribution questions #8328](https://github.com/TEAMMATES/teammates/issues/8328)
+2 | Merged PR: [Instructor: edit 'Distribute points' questions: make status message span both label and input #7899](https://github.com/TEAMMATES/teammates/pull/8259)
+2 | Submitted issue: [Instructor: edit rank questions: make status message span both label and input #8364](https://github.com/TEAMMATES/teammates/issues/8364)
+2 | Responded to contributor queries: [#8364](https://github.com/TEAMMATES/teammates/issues/8364)
+4 | Submitted issue: [InstructorFeedbackResultsPage: make span scrollable to fit the table to copy #8437](https://github.com/TEAMMATES/teammates/issues/8437)
+4 | Responded to contributor queries: [#8437](https://github.com/TEAMMATES/teammates/issues/8437), [#8483](https://github.com/TEAMMATES/teammates/issues/8438), [#8439](https://github.com/TEAMMATES/teammates/issues/8439)
 5 |
 6 |
 7 |

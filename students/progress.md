@@ -93,11 +93,13 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Authored PR: [Adjust popover position for mobile browsers](https://github.com/MarkBind/vue-strap/pull/6)
+2 | Merged PR: [Make popover and tooltip work for pure text on Mobile Safari](https://github.com/MarkBind/vue-strap/pull/7)
+2 | Merged PR: [Better error reporting for missing files #120](https://github.com/MarkBind/markbind/pull/129)
+4 | Submitted Issue: [Support using markdown headers in panel header attribute #140](https://github.com/MarkBind/markbind/issues/140)
+4 | Merged PR: [Support reuse of boilerplate files #110](https://github.com/MarkBind/markbind/pull/130), Authored PR: [Support reuse of boilerplate files #110 (CLI)](https://github.com/MarkBind/markbind-cli/pull/25)
+4 | Merged PR: [Support a shorter alias for <markdown> tag #136](https://github.com/MarkBind/markbind/pull/137)
+4 | Authored PR: [Support tooltip indicator for italic text #100](https://github.com/MarkBind/vue-strap/pull/10)
 5 |
 6 |
 7 |

@@ -23,7 +23,7 @@ Guided groups of 8 undergraduate students to master fundamental programming conc
 
 * Software Engineering Intern at Computing For Voluntary Welfare Organizations (May 2016 - August 2016)  
 Enhanced an online Case Management System for Care Corner Counselling Centre with new automatic mailing and settings features using Ruby on Rails.  
-Developed a sleek and user-friendly web-based application, Lions Befrienders Mobile, that facilitates the efficient workflow for volunteers doing home visits and documentation for beneficiaries. Used AngularJS, Ionic Framework, JQuery, HTML5 and CSS.
+Developed a user-friendly web-based application, Lions Befrienders Mobile, that facilitates the efficient workflow for volunteers doing home visits and documentation for beneficiaries. Used AngularJS, Ionic Framework, JQuery, HTML5 and CSS.
 
 ## Computing Skills
 
@@ -31,9 +31,9 @@ Developed a sleek and user-friendly web-based application, Lions Befrienders Mob
 * Swift
   * Developed an iPad application, Bubble Mania, a bubble shooter game with an interactive level designer and a supporting physics engine to simulate realistic collisions
 * UIX(Usability)
-* Blockchain
+* Artificial Intelligence
 
-Proficient in Java, Python, Ruby on Rails, AngularJS, SQL  
+Proficient in Java, Python, AngularJS, SQL  
 
 ### Courses Taken
 

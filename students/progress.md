@@ -329,11 +329,11 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | 
-2 |
-2 |
-3 |
-4 |
+1 | Merged PR: [Java: Use Java 8 lambda as comparators #8217](https://github.com/TEAMMATES/teammates/pull/8222)
+2 | Merged PR: [Rank recipients: remove unnecessary feedback paths #8087](https://github.com/TEAMMATES/teammates/pull/8218)
+2 | Merged PR: [Instructor: edit question: receiver is instructors: support specifying a max number of recipients #7512 ](https://github.com/TEAMMATES/teammates/pull/8371)
+3 | Submitted Issue: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333] (https://github.com/TEAMMATES/teammates/issues/8333)
+4 | Authored PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/pull/8384)
 5 |
 6 |
 7 |

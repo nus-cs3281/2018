@@ -465,11 +465,10 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Submitted Issue: [Improve reliability of modal testing code #8209](https://github.com/TEAMMATES/teammates/issues/8209)
+2 | Authored PR: [Sync Checkstyle version for IntelliJ with the version defined in build script #8347 #8349](https://github.com/TEAMMATES/teammates/pull/8349)
+3 | -
+4 | -
 5 |
 6 |
 7 |

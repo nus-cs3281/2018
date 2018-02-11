@@ -201,10 +201,9 @@ Week | Achievements
 Week | Achievements
 ---- | ------------
 1 |
-2 |
-2 |
+2 | Authored PR: [UiManager: delete duplicate code #734](https://github.com/se-edu/addressbook-level4/pull/804)  
 3 |
-4 |
+4 | Authored PR: [Test: replace all asserts with JUnit Assertion #814](https://github.com/se-edu/addressbook-level4/pull/821)  
 5 |
 6 |
 7 |
@@ -313,11 +312,11 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Merged PR: [StringHelper: Remove join(String, String…) #7837 #8206](https://github.com/TEAMMATES/teammates/pull/8206)
+2 | Merged PR: [StringHelper: Use functional programming to improve code readability #7838 #8258](https://github.com/TEAMMATES/teammates/pull/8258)
+2 | Submitted Issue: [SanitizationHelper: Refactor with streams and add tests #8356](https://github.com/TEAMMATES/teammates/issues/8356)
+2 | Authored PR: [SanitizationHelper: Refactor with streams and add tests #8356 #8357](https://github.com/TEAMMATES/teammates/pull/8357)
+4 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 #8389](https://github.com/TEAMMATES/teammates/pull/8389)
 5 |
 6 |
 7 |

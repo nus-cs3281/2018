@@ -392,11 +392,12 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Nothing
+2 | Merged PR: [Add missing label number to instructor help page #8317](https://github.com/TEAMMATES/teammates/pull/8322)
+3 | Submitted Issue: [Hot reloading for javascript](https://github.com/TEAMMATES/teammates/issues/8383)
+3 | Authored PR: [Instructor: Add placeholder to replace pre-filled value of ranking question](https://github.com/TEAMMATES/teammates/pull/8373)
+4 | Submitted Issue: [Testing: Disabling cache in selenium](https://github.com/TEAMMATES/teammates/issues/8436)
+4 | Authored PR: [Test: Disable browser cache through selenium](https://github.com/TEAMMATES/teammates/pull/8440)
 5 |
 6 |
 7 |

@@ -13,10 +13,6 @@ August 2015 - Present: **National University of Singapore** (Singapore)<br>
  
 ---
 
-## Technical Skills
-
-Proficient Languages: Java, Swift
-
 ## Work Experiences
 
 May 2017 - Jul. 2017: NUS-OSS (National University of Singapore - Open Source Software)<br>
@@ -51,6 +47,15 @@ Tutor - Programming Methodology
     * Developed an interactive, algorithmic puzzle game on iPad in a team of 4. Users who have no prior exposure to algorithmic thinking will gain some understanding of algorithmic thinking and how coding works.
     * Designed and wrote code for the front-end components such as game logic and model, according to the Model-View-Controller architecture.
     * Wrote multi-threading code.
+
+## Skills
+
+* Competencies
+  * Java, JUnit 4, Testing, MVC, Software Architecture, Code Quality. See [Addressbook-Level4](https://github.com/se-edu/addressbook-level4)
+  * Swift, iOS. See [Train to Changi](https://github.com/Zhiyuan-Amos/Train-to-Changi)
+
+* Also tried
+  * Android. See [Wut 2 Do?](https://github.com/Zhiyuan-Amos/Wut-2-Do)
 
 ## Others
 

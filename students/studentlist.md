@@ -154,7 +154,7 @@
 [[Github](https://github.com/Zhiyuan-Amos)]
 [[Progress](progress.md#yong-zhi-yuan)]
 
-* Expert areas: Java, Testing, Swift, Garbage Collection
+* Expert areas: Java, Swift, Garbage Collection
 * Projects: SE-EDU
 
 # TEAMMATES

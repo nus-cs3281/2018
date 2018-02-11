@@ -14,9 +14,9 @@ Github: https://github.com/bqnguyen94
 ##### Iron Drone Internship (Jul 2017 - Dec 2017)
 Iron Drone is a startup located in Tel Aviv - Israel that provides autonomous drone security solutions. I joined Iron Drone as a software developer.
 
-- Developed an image processing pipeline that processed real-time video feed running on embedded systems powered by NVIDIA's Jetson and CUDA architectures
-- Worked on autonomous drone navigation and communication systems that utilises MAVLink and OpenCV
-- Developed an endgame subsystem featuring lidar sensors and net-gun triggering mechanisms onboard mid-sized UAVs
+- Developed a computer vision pipeline that segmented and tracked a desired class of objects in a real-time video feed running on embedded systems powered by NVIDIA's Jetson and CUDA architectures
+- Worked on autonomous drone navigation and communication systems that utilised MAVLink and OpenCV
+- Developed an endgame subsystem featuring lidar sensors and net-gun triggering mechanisms onboard small-sized UAVs
 - Operated various real-life autonomous drone operations
 
 ##### FPT Vietnam Internship (Dec 2016)

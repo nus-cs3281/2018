@@ -201,10 +201,9 @@ Week | Achievements
 Week | Achievements
 ---- | ------------
 1 |
-2 |
-2 |
+2 | Authored PR: [UiManager: delete duplicate code #734](https://github.com/se-edu/addressbook-level4/pull/804)  
 3 |
-4 |
+4 | Authored PR: [Test: replace all asserts with JUnit Assertion #814](https://github.com/se-edu/addressbook-level4/pull/821)  
 5 |
 6 |
 7 |

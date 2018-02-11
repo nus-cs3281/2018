@@ -9,6 +9,14 @@ GitHub: <https://github.com/Haozhe321>
 ##### Bachelor of Computing (Honours)  
 Focus Area: Algorithms and Theory, Artificial Intelligence
 ##### University Scholars Program
+- A multidisciplinary programme, from a select of 3% from each cohort in NUS
+- Awarded USP Honor Roll AY2016/2017
+
+## Experience
+
+##### Teaching Assistant- Data Structures and Algorithms (Jan 2017 - )
+* Teaches 3 class of 20 students each of CS2040, Data Structures and Algorithms
+* Moderate online discussion forum of the said module
 
 ## Projects
 
@@ -32,6 +40,11 @@ Focus Area: Algorithms and Theory, Artificial Intelligence
 * An electronic photo frame that can display photo slideshows from Flickr and Instagram, according to hashtag or user from each category
 * Developed on Electron to create a desktop GUI application that connects to the Pi via SSH
 * HTML, CSS, Javascript, Shell Script, Python, Node.js
+
+## Skills
+
+Proficient: Java, JavaScript  
+Familiar: Kotlin, C, Python,  
 
 ## Certifications
 

@@ -122,12 +122,19 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Merged PR:
-2 |
-2 |
-3 |
-4 |
-5 |
+1 | Submitted Issue: [Improvements to User Guide #1547](https://github.com/PowerPointLabs/PowerPointLabs/issues/1547)
+2 | Merged PR: [Fix OSS-Generics Coding Standards link #1561](https://github.com/PowerPointLabs/PowerPointLabs/pull/1561)
+2 | Submitted Issue: [Contributing.md link to OSS Coding Standard is broken #1560](https://github.com/PowerPointLabs/PowerPointLabs/issues/1560) <br> Submitted Issue: [SyncLab: Error when opening SyncPane.cs in Designer #1558](https://github.com/PowerPointLabs/PowerPointLabs/issues/1558) <br> Submitted Issue: [Design Decision: SyncLab has no persistent data while ShapesLab will save shapes #1567](https://github.com/PowerPointLabs/PowerPointLabs/issues/1567)
+2 | Merged PR: [Code Quality: Resolve SonarQube issues #1562](https://github.com/PowerPointLabs/PowerPointLabs/pull/1562)
+2 | Authored PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572) <br> Submitted Issue: [Inconsistency in Labs doing removal #1573](https://github.com/PowerPointLabs/PowerPointLabs/issues/1573)
+2 | Submitted Issue: [Positions Lab: Should not require at least 2-3 shapes to be selected #1576](https://github.com/PowerPointLabs/PowerPointLabs/issues/1576)
+3 | Authored PR: [Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
+3 | Submitted Issue: [Captions Lab: Add ‘callouts’ support for the Audio Lab / Captions Lab #1586](https://github.com/PowerPointLabs/PowerPointLabs/issues/1586) <br> Submitted Issue: [Shapes Lab: Error appears when attempting to add placeholders to ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1591)
+3 | Reviewed / Tested: [Crop Lab: Provide PowerPoint's crop features in Crop Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1568)
+4 | Submitted Issue: [SyncLab: The Fill Color of textboxes are inconsistent when using SyncLab #1595](https://github.com/PowerPointLabs/PowerPointLabs/issues/1595) <br> Submitted Issue: [Captions Lab: Error in PPT 2010 when having no notes and then generating captions #1596](https://github.com/PowerPointLabs/PowerPointLabs/issues/1596) <br> Submitted Issue: [Labs should support placeholder objects #1599](https://github.com/PowerPointLabs/PowerPointLabs/issues/1599)
+4 | Merged PR: [Add a "Add" button for ShapesLab #1566](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)
+4 | Reviewed / Tested: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565) <br> Tested: [Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579) <br> Tested: [Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578) <br> Reviewed / Tested: [Suggested new feature: Paste To Fit Slide](https://github.com/PowerPointLabs/PowerPointLabs/pull/1583)
+5 | Submitted Issue: [ShapesLab / SyncLab: Add button should be disabled when nothing/illegal object is selected #1604](https://github.com/PowerPointLabs/PowerPointLabs/issues/1604) <br> Submitted Issue: [Running automated tests on AppVeyor CI #1605](https://github.com/PowerPointLabs/PowerPointLabs/issues/1605)
 6 |
 7 |
 8 |

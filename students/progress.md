@@ -505,11 +505,14 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 |
-2 |
-3 |
-4 |
+1 | Submitted Issue: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/issues/8280)
+1 | Submitted Issue: [Extract out duplicated code in FeedbackMcqQuestionDetails.java](https://github.com/TEAMMATES/teammates/issues/8244)
+1 | Merged PR: [Extract out duplicated code in FeedbackMcqQuestionDetails.java](https://github.com/TEAMMATES/teammates/pull/8269)
+2 | Submitted Issue: [Add missing label number to instructor help page](https://github.com/TEAMMATES/teammates/issues/8317)
+2 | Submitted Issue: [Code Enhancement: extraction of unnecessary for-loop](https://github.com/TEAMMATES/teammates/issues/8334)
+2 | Merged PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8226)
+3 | Nothing
+4 | Authored PR: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/pull/8400)
 5 |
 6 |
 7 |

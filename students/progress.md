@@ -271,9 +271,9 @@ Week | Achievements
 1 | Reviewed PR: [README: acknowledge use of third-party libraries #781](https://github.com/se-edu/addressbook-level4/pull/782)<br>Reviewed PR: [User Guide: add an introduction #779](https://github.com/se-edu/addressbook-level4/pull/780)<br>Reviewed PR: [Developer Guide: add instructions for manual testing #777](https://github.com/se-edu/addressbook-level4/pull/778)<br>Reviewed PR: [Developer Guide: specify target user profile and value proposition #775](https://github.com/se-edu/addressbook-level4/pull/776)<br>Reviewed PR: [Developer Guide: tweak undo/redo diagrams #773](https://github.com/se-edu/addressbook-level4/pull/774)<br>Reviewed PR: [Restructure sample Project Portfolio Page for easier reading #771](https://github.com/se-edu/addressbook-level4/pull/772)
 1 | Reviewed PR: [Replace all verbose loops with lambda expression #634](https://github.com/se-edu/addressbook-level4/pull/805)
 1 | Reviewed PR: [Document how to set up coveralls reporting #730](https://github.com/se-edu/addressbook-level4/pull/787)
-1 | Authored PR: [EditPersonDescriptor: update methods to perform defensive copy](https://github.com/se-edu/addressbook-level4/pull/795)
-1 | Authored PR: [Make Person immutable #751](https://github.com/se-edu/addressbook-level4/pull/765)
-1 | Authored PR: [DeveloperGuide: Update Undo/Redo numbering](https://github.com/se-edu/addressbook-level4/pull/766)<br>Authored PR: [ListElementPointer(List<String>): Update code to tally with comments](https://github.com/se-edu/addressbook-level4/pull/748)
+1 | Merged PR: [EditPersonDescriptor: update methods to perform defensive copy](https://github.com/se-edu/addressbook-level4/pull/795)
+1 | Merged PR: [Make Person immutable #751](https://github.com/se-edu/addressbook-level4/pull/765)
+1 | Merged PR: [DeveloperGuide: Update Undo/Redo numbering](https://github.com/se-edu/addressbook-level4/pull/766)<br>Merged PR: [ListElementPointer(List<String>): Update code to tally with comments](https://github.com/se-edu/addressbook-level4/pull/748)
 2 | Reviewed PR: [Checkstyle: remove unnecessary properties with default values #370](https://github.com/se-edu/addressbook-level4/pull/802)
 2 | Reviewed PR: [UiManager: delete duplicate code #734](https://github.com/se-edu/addressbook-level4/pull/804)<br>Reviewed PR: [LogicManager: constructor does not follow coding standard's usage of 'this' #729](https://github.com/se-edu/addressbook-level4/pull/810)
 2 | Reviewed PR: [Model: Add deleteTag(Tag)](https://github.com/se-edu/addressbook-level4/pull/790)
@@ -283,9 +283,11 @@ Week | Achievements
 4 | Reviewed PR: [Storage: Add backupAddressBook(ReadOnlyAddressBook)](https://github.com/se-edu/addressbook-level4/pull/594)<br>Reviewed PR: [Implement `remark` command](https://github.com/se-edu/addressbook-level4/pull/599)<br>Reviewed PR: [Ui: Show total persons in status bar](https://github.com/se-edu/addressbook-level4/pull/803)
 4 | Reviewed PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
 4 | Reviewed PR: [Email regex validation does not accept `+` #743](https://github.com/se-edu/addressbook-level4/pull/820)
-4 | Authored PR: [BrowserPanel: load dummy page #733](https://github.com/se-edu/addressbook-level4/pull/793)
-5 |
-6 |
+4 | Merged PR: [BrowserPanel: load dummy page #733](https://github.com/se-edu/addressbook-level4/pull/793)
+5 | Submitted Issue: [UniquePersonList#remove(Person): update return value #830](https://github.com/se-edu/addressbook-level4/issues/830)<br>Submitted Issue: [Exceptions: update error messages #831](https://github.com/se-edu/addressbook-level4/issues/831)<br>Reviewed PR: [Rebase PRs used in suggested programming tasks #784](https://github.com/se-edu/addressbook-level4/pull/789)
+5 | Reviewed PR: [XmlAdaptedPerson#toModelType(): Enforce checking of required parameters #725](https://github.com/se-edu/addressbook-level4/pull/806)
+5 | Reviewed PR: [HelpWindow: May interfere with UI Components while active #727](https://github.com/se-edu/addressbook-level4/pull/815)
+6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783](https://github.com/se-edu/addressbook-level4/pull/833)
 7 |
 8 |
 9 |

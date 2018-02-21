@@ -225,10 +225,12 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Authored PR: [Replace use of `assert false` with `throw new AssertionError()` #264](https://github.com/se-edu/addressbook-level4/pull/788)
+1 | Merged PR: [Replace use of `assert false` with `throw new AssertionError()` #264](https://github.com/se-edu/addressbook-level4/pull/788)
+1 | Authored PR: [Issue with undo/redo and modifications to filtered lists #737](https://github.com/se-edu/addressbook-level4/pull/792)
+1 | Authored PR: [XmlAdaptedPerson#toModelType(): Enforce checking of required parameters #725](https://github.com/se-edu/addressbook-level4/pull/806)
 2 |
 3 |
-4 | Authored PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
+4 | Merged PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
 4 | Submitted Issue: [typicalPersonsAddressBook.xml: remove @code tag for header comment #822](https://github.com/se-edu/addressbook-level4/issues/822)
 5 |
 6 |

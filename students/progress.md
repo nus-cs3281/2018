@@ -235,7 +235,7 @@ Week | Achievements
 5 | Submitted Issue: [https://github.com/se-edu/addressbook-level4/issues/828](https://github.com/se-edu/addressbook-level4/issues/828)
 5 | Submitted Issue: [TestUtil: update methods to use filtered list #829](https://github.com/se-edu/addressbook-level4/issues/829)
 5 | Authored PR: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/pull/832)
-6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783] (https://github.com/se-edu/addressbook-level4/pull/833)
+6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783](https://github.com/se-edu/addressbook-level4/pull/833)
 6 |
 7 |
 8 |

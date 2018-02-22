@@ -227,14 +227,14 @@ Week | Achievements
 Week | Achievements
 ---- | ------------
 1 | Merged PR: [Replace use of `assert false` with `throw new AssertionError()` #264](https://github.com/se-edu/addressbook-level4/pull/788)
-1 | Merged PR: [Issue with undo/redo and modifications to filtered lists #737](https://github.com/se-edu/addressbook-level4/pull/792)
-1 | Merged PR: [XmlAdaptedPerson#toModelType(): Enforce checking of required parameters #725](https://github.com/se-edu/addressbook-level4/pull/806)
 2 |
 3 |
 4 | Merged PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
 4 | Submitted Issue: [typicalPersonsAddressBook.xml: remove @code tag for header comment #822](https://github.com/se-edu/addressbook-level4/issues/822)
 5 | Submitted Issue: [https://github.com/se-edu/addressbook-level4/issues/828](https://github.com/se-edu/addressbook-level4/issues/828)
 5 | Submitted Issue: [TestUtil: update methods to use filtered list #829](https://github.com/se-edu/addressbook-level4/issues/829)
+5 | Merged PR: [XmlAdaptedPerson#toModelType(): Enforce checking of required parameters #725](https://github.com/se-edu/addressbook-level4/pull/806)
+5 | Merged PR: [Issue with undo/redo and modifications to filtered lists #737](https://github.com/se-edu/addressbook-level4/pull/792)
 5 | Authored PR: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/pull/832)
 6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783](https://github.com/se-edu/addressbook-level4/pull/833)
 6 |

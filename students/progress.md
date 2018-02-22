@@ -311,14 +311,11 @@ Week | Achievements
 4 | Responded to contributor in issue tracker: [#8420](https://github.com/TEAMMATES/teammates/pull/8420)
 4 | Submitted Issue: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/issues/8431)
 4 | Submitted Issue: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432](https://github.com/TEAMMATES/teammates/issues/8432)
-5 |
+5 | 
 6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #8326](https://github.com/TEAMMATES/teammates/pull/8326)
-6 | Submitted Issue: [AccountAttributes: Add test cases for builder #8496
-](https://github.com/TEAMMATES/teammates/issues/8496)
-6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497
-](https://github.com/TEAMMATES/teammates/issues/8497)
-6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498
-](https://github.com/TEAMMATES/teammates/issues/8498)
+6 | Submitted Issue: [AccountAttributes: Add test cases for builder #8496](https://github.com/TEAMMATES/teammates/issues/8496)
+6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497](https://github.com/TEAMMATES/teammates/issues/8497)
+6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/issues/8498)
 7 | 
 8 | 
 9 |

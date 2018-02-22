@@ -305,17 +305,22 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Merged PR: [Instructor: help page: make style of sections consistent](https://github.com/TEAMMATES/teammates/issues/8237)
-1 | Merged PR: [Use builder instead of telescoping constructor antipattern in CourseAttributes class](https://github.com/TEAMMATES/teammates/pull/8236)
-1 | Submitted Issue: [Student/Instructor: help page: add navbar](https://github.com/TEAMMATES/teammates/issues/8227)
-2 | Authored PR: [Attributes tests: avoid passing in an empty Google ID for student profiles](https://github.com/TEAMMATES/teammates/pull/8326)
+1 | Merged PR: [Instructor: help page: make style of sections consistent #8237](https://github.com/TEAMMATES/teammates/pull/8290)
+1 | Merged PR: [Use builder instead of telescoping constructor antipattern in CourseAttributes class #8236](https://github.com/TEAMMATES/teammates/pull/8236)
+1 | Submitted Issue: [Student/Instructor: help page: add navbar #8227](https://github.com/TEAMMATES/teammates/issues/8227)
 4 | Responded to contributor in issue tracker: [#8420](https://github.com/TEAMMATES/teammates/pull/8420)
-4 | Submitted Issue: [InstructorFeedbackResultsPage: merge tooltips with duplicate information](https://github.com/TEAMMATES/teammates/issues/8431)
-4 | Submitted Issue: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/issues/8431)
+4 | Submitted Issue: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/issues/8431)
+4 | Submitted Issue: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432](https://github.com/TEAMMATES/teammates/issues/8432)
 5 |
-6 |
-7 |
-8 |
+6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #8326](https://github.com/TEAMMATES/teammates/pull/8326)
+6 | Submitted Issue: [AccountAttributes: Add test cases for builder #8496
+](https://github.com/TEAMMATES/teammates/issues/8496)
+6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497
+](https://github.com/TEAMMATES/teammates/issues/8497)
+6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498
+](https://github.com/TEAMMATES/teammates/issues/8498)
+7 | 
+8 | 
 9 |
 10 |
 11 |

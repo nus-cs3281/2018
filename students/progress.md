@@ -6,9 +6,9 @@
 * [RACHAEL SIM HWEE LING](#rachael-sim-hwee-ling)
 
 **PowerPointLabs**:
+* [ALEX FONG JIE WEN](#alex-fong-jie-wen)
 * [LEE YAN HWA](#lee-yan-hwa)
 * [TAN JUN KIAT](#tan-jun-kiat)
-* [ALEX FONG JIE WEN](#alex-fong-jie-wen)
 
 **SE-EDU**:
 * [KOH LEWIS](#koh-lewis)
@@ -118,6 +118,31 @@ Week | Achievements
 
 # PowerPointLabs
 
+## ALEX FONG JIE WEN
+
+Week | Achievements
+---- | ------------
+1 | Merged PR: [Grammar fix for PictureSlidesLabWindow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1548)
+2 | Authored PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)  
+2 | Submitted + Investigated Issue: [SyncLab: Documenting supported items](https://github.com/PowerPointLabs/PowerPointLabs/issues/1570)
+2 | Submitted Issues:<br>[SyncLab: Design Decisions & Documentation](https://github.com/PowerPointLabs/PowerPointLabs/issues/1564)<br>[UX for ZoomLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1575)
+2 | Reviewed + Tested: [Highlight Text does not provide a message that nothing has changed](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
+3 | Submitted Issues:<br>[SyncLab: Copying SmartArt gives an error](https://github.com/PowerPointLabs/PowerPointLabs/issues/1581)<br>[ZoomLab: Error encounted when going through drill down tutorial](https://github.com/PowerPointLabs/PowerPointLabs/issues/1588)
+3 | Reviewed: [Update Contributions.md to branch out from dev release instead of master for PRs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1589)
+4 | Authored PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
+4 | Submitted + Investigated Issues:<br>[SyncLab: Error when opening on PPT2013](https://github.com/PowerPointLabs/PowerPointLabs/issues/1592)<br>[Opening Sync Lab causes exception](https://github.com/PowerPointLabs/PowerPointLabs/issues/1465)<br> [Freeform drawing tool bug](https://github.com/PowerPointLabs/PowerPointLabs/issues/1600)<br>[Suddenly failing tests - mostly from PSL](https://github.com/PowerPointLabs/PowerPointLabs/issues/1602)
+4 | Reviewed + Tested:<br>[Add a "Add" button for ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)<br>[Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
+4 | Tested:<br>[Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)<br>[Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
+5 |
+6 |
+7 |
+8 |
+9 |
+10 |
+11 |
+12 |
+13 |
+
 ## LEE YAN HWA
 
 Week | Achievements
@@ -176,30 +201,6 @@ Week | Achievements
 12 |
 13 |
 
-## ALEX FONG JIE WEN
-
-Week | Achievements
----- | ------------
-1 | Merged PR: [Grammar fix for PictureSlidesLabWindow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1548)
-2 | Authored PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)  
-2 | Submitted + Investigated Issue: [SyncLab: Documenting supported items](https://github.com/PowerPointLabs/PowerPointLabs/issues/1570)
-2 | Submitted Issues:<br>[SyncLab: Design Decisions & Documentation](https://github.com/PowerPointLabs/PowerPointLabs/issues/1564)<br>[UX for ZoomLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1575)
-2 | Reviewed + Tested: [Highlight Text does not provide a message that nothing has changed](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
-3 | Submitted Issues:<br>[SyncLab: Copying SmartArt gives an error](https://github.com/PowerPointLabs/PowerPointLabs/issues/1581)<br>[ZoomLab: Error encounted when going through drill down tutorial](https://github.com/PowerPointLabs/PowerPointLabs/issues/1588)
-3 | Reviewed: [Update Contributions.md to branch out from dev release instead of master for PRs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1589)
-4 | Authored PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
-4 | Submitted + Investigated Issues:<br>[SyncLab: Error when opening on PPT2013](https://github.com/PowerPointLabs/PowerPointLabs/issues/1592)<br>[Opening Sync Lab causes exception](https://github.com/PowerPointLabs/PowerPointLabs/issues/1465)<br> [Freeform drawing tool bug](https://github.com/PowerPointLabs/PowerPointLabs/issues/1600)<br>[Suddenly failing tests - mostly from PSL](https://github.com/PowerPointLabs/PowerPointLabs/issues/1602)
-4 | Reviewed + Tested:<br>[Add a "Add" button for ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)<br>[Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
-4 | Tested:<br>[Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)<br>[Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
-5 |
-6 |
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
-13 |
 
 # SE-EDU
 

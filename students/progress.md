@@ -191,9 +191,14 @@ Week | Achievements
 4 | Submitted Issue: [Copying operations in different labs should not override clipboard items #1597](https://github.com/PowerPointLabs/PowerPointLabs/issues/1597)
 4 | Submitted Issue: [Inserting Shape should allow users to remain in PowerPointLabs tab #1593](https://github.com/PowerPointLabs/PowerPointLabs/issues/1593)
 4 | Submitted Issue: [Timeline for first-release of PowerPointLabs #1598](https://github.com/PowerPointLabs/PowerPointLabs/issues/1598)
-5 |
-6 |
-7 |
+5 | Merged PR: [Suggested new feature: Paste To Fit Slide #1583](https://github.com/PowerPointLabs/PowerPointLabs/pull/1583)
+5 | Merged PR: [Positions Lab: Should not require at least 2-3 shapes to be selected #1579](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)
+5 | Submitted Issue: [Paste Lab Error: PPT2013 PasteShapeFromClipboard method does not work #1606](https://github.com/PowerPointLabs/PowerPointLabs/issues/1606)
+6 | Merged PR : [Easy access to "Insert Shape" functionality for relevent Labs #1578](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
+6 | Reviewed PR: [PasteLab: Text for Paste to Fit Slide #67](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/67)
+6 | Reviewed PR: [Position Lab: Text for Align to Slide #68](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/68)
+7 | Merged PR: [Update images for zoom lab #77](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/77)<br>Merged PR: [Update paste lab images #72](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/72)
+7 | Authored PR: [Updated images for right context menu in Crop Lab #71](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/71)
 8 |
 9 |
 10 |

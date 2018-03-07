@@ -21,3 +21,7 @@ This repo is mainly [information about the students in the module](students/stud
   > We require a text-based resume so that we can track the changes to it during the semester. Also, you should also have (even _prefer_) a text-based resume because some big companies (and head-hunting agencies) use text bots to process resumes.
 
 * Length 1-2 pages. You may want to read up some online advice on writing good tech resumes. Write it as if you will use it for internship/job applications in the near future.
+
+## Updating the Progress Page
+
+* The progress page is [`students/progress.md`](students/progress.md).

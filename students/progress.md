@@ -158,7 +158,9 @@ Week | Achievements
 6 | Reviewed PR: [PasteLab: Text for Paste to Fit Slide #67](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/67)
 6 | Reviewed PR: [Position Lab: Text for Align to Slide #68](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/68)
 7 | Merged PR: [Update images for zoom lab #77](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/77)<br>Merged PR: [Update paste lab images #72](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/72)
-7 | Authored PR: [Updated images for right context menu in Crop Lab #71](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/71)
+7 | Authored PR: [Updated images for right context menu in Crop Lab #71](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/71)<br>Authored PR: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
+7 | Reviewed/Tested PR: [Extend restore clipboard for actions that return a value #1627](https://github.com/PowerPointLabs/PowerPointLabs/pull/1627)
+7 | Submitted Issue: [Investigate a way to use native Clipboard methods #1624](https://github.com/PowerPointLabs/PowerPointLabs/issues/1624)
 8 |
 9 |
 10 |

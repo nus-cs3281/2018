@@ -259,15 +259,19 @@ Week | Achievements
 ---- | ------------
 1 | Merged PR: [AddCommandParser accepts invalid command format #763](https://github.com/se-edu/addressbook-level4/pull/763)
 2 | Merged PR: [Document how to set up coveralls reporting #787](https://github.com/se-edu/addressbook-level4/pull/787)  
-2 | Authored PR (put on hold by request): [Replace all verbose loops with lambda expression #805](https://github.com/se-edu/addressbook-level4/pull/805)
+2 | Merged PR: [Replace all verbose loops with lambda expression #805](https://github.com/se-edu/addressbook-level4/pull/805)
 3 | Merged PR: [Checkstyle: remove unnecessary properties with default values #802](https://github.com/se-edu/addressbook-level4/pull/802)
 3 | Submitted Issue: [Checkstyle: cleanup closing tags for modules that have no child tags](https://github.com/se-edu/addressbook-level4/issues/807)
 4 | Reviewed PR: [Issue with undo/redo and modifications to filtered lists #792](https://github.com/se-edu/addressbook-level4/pull/792)  
 4 | Merged PR: [Email regex validation does not accept '+' #820](https://github.com/se-edu/addressbook-level4/pull/820)
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [Test: replace all asserts with JUnit Assertion #821](https://github.com/se-edu/addressbook-level4/pull/821)
+5 | Merged PR: [HelpWindow: May interfere with UI Components while active #815](https://github.com/se-edu/addressbook-level4/pull/815)
+6 | Merged PR: [Developer Guide: Describe how to set up Netlify #833](https://github.com/se-edu/addressbook-level4/pull/833)
+6 | Reviewed PR: [AddressBook: remove master tag list #825](https://github.com/se-edu/addressbook-level4/pull/825)
+7 | Submitted Issue: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/issues/826)
+7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
+8 | Authored PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
+8 | Reviewed PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #845](https://github.com/se-edu/addressbook-level4/pull/845)
 9 |
 10 |
 11 |

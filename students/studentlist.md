@@ -143,8 +143,8 @@
 [[Github](https://github.com/vivekscl)]
 [[Progress](progress.md#vivek-lakshmanan)]
 
-* Expert areas: Bash, Java, NLTK
-* Projects: SE-EDU
+* Expert areas: Bash, Java, Documentation
+* Projects: SE-EDU, OpacApp
 
 ## YONG ZHI YUAN
 

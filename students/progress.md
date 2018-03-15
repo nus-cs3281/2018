@@ -386,9 +386,8 @@ Week | Achievements
 2 | Merged PR: [Instructor: edit question: receiver is instructors: support specifying a max number of recipients #7512 ](https://github.com/TEAMMATES/teammates/pull/8371)
 3 | Submitted Issue: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/issues/8333)
 4 | Authored PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/pull/8384)
-5 |
-6 |
-7 |
+6 | Authored PR: [Give a way for students to request submission/results links to be resent #8490](https://github.com/TEAMMATES/teammates/pull/8543)
+7 | Merged PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/pull/8384)
 8 |
 9 |
 10 |

@@ -482,11 +482,15 @@ Week | Achievements
 4 | Merged PR: [Replace raw exception throws in production code #7085 #8354](https://github.com/TEAMMATES/teammates/pull/8354)
 4 | Merged PR: [Use builder instead of telescoping constructor antipattern in AccountAttributes class #7190 #8382](https://github.com/TEAMMATES/teammates/pull/8382)
 4 | Authored PR (put on hold by request): [Enhanced email interface for join links #8312 #8327](https://github.com/TEAMMATES/teammates/pull/8327)
+5 | Merged PR: [MCQ and MSQ question: fix cancel question feature #7934 #8472](https://github.com/TEAMMATES/teammates/pull/8472)
+5 | Submmitted Issue: [Enhancement: Instructor: All Records of Student: Improve UI #8492](https://github.com/TEAMMATES/teammates/issues/8492) <br> Submmitted Issue: [Instructor: create session: Improve error message shown when session created with invalid information #8471](https://github.com/TEAMMATES/teammates/issues/8471) <br> Submmitted Issue: [development.md: As Instructor: Remove `Short Name` from credentials of Instructor in Setting up guide #8495](https://github.com/TEAMMATES/teammates/issues/8495)
+6 | Reviewed PR: [Replace all instances of `Const#EOL` with `System#lineSeparator()` #8299 #8420](https://github.com/TEAMMATES/teammates/pull/8420)
+6 | Reviewed PR: [AccountAttributes: Add test cases for builder #8496 #8551](https://github.com/TEAMMATES/teammates/pull/8551)
+7 | Merged PR: [development.md: As Instructor: Remove `Short Name` from credentials of Instructor in Setting up guide #8495 #8499](https://github.com/TEAMMATES/teammates/pull/8499) <br> Merged PR: [FeedbackSessionQuestionTypeTest.json: fix malformed question metadata #8418 #8521
+](https://github.com/TEAMMATES/teammates/pull/8521)
+7 | Reviewed PR: [Instructor: Edit session : Distribute (Options) question : Points per option button stays hidden #8603 #8604](https://github.com/TEAMMATES/teammates/pull/8604) <br> Authored PR: [PR to help solve https://github.com/TEAMMATES/teammates/issues/8412](https://github.com/tshradheya/teammates/pull/2)
+8 | Merged PR: [Instructor: remind students: send email copies only to requesting instructor #8531 #8535](https://github.com/TEAMMATES/teammates/pull/8535)
 9 |
-10 |
-11 |
-12 |
-13 |
 
 ## TAN LI HAO
 

@@ -303,8 +303,10 @@ Week | Achievements
 5 | Reviewed PR: [XmlAdaptedPerson#toModelType(): Enforce checking of required parameters #725](https://github.com/se-edu/addressbook-level4/pull/806)
 5 | Reviewed PR: [HelpWindow: May interfere with UI Components while active #727](https://github.com/se-edu/addressbook-level4/pull/815)
 6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783](https://github.com/se-edu/addressbook-level4/pull/833)
-7 |
-8 |
+7 | Submitted Issue: [UI components: apply delegation pattern for inter-VC communication #834](https://github.com/se-edu/addressbook-level4/issues/834)<br>Submitted Issue: [Refine MVC implementation #835](https://github.com/se-edu/addressbook-level4/issues/835)<br>Reviewed PR: [UniquePersonList, AddressBook: update return type for remove and removePerson #830](https://github.com/se-edu/addressbook-level4/pull/836)
+7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
+7 | Resolved Issue: [AddressBook-Lvl2 Unable to run runtests.bat](https://github.com/nus-cs2103-AY1718S2/forum/issues/12)<br>Resolved Issue: [Java 9 issues](https://github.com/nus-cs2103-AY1718S2/forum/issues/19)
+8 | Resolved Issue: [Junit test fails after adding some dependencies in build.gradle](https://github.com/se-edu/addressbook-level4/issues/849)<br>Submitted Issue: [SelectCommandSystemTest: update to verify selected card is visible](https://github.com/se-edu/addressbook-level4/issues/847)<br>Resolved Issue: [Unable to pass Travis(Bugs)](https://github.com/se-edu/addressbook-level4/issues/846)
 9 |
 10 |
 11 |

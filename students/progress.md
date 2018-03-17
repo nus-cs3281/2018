@@ -369,10 +369,16 @@ Week | Achievements
 2 | Responded to contributor queries: [#8364](https://github.com/TEAMMATES/teammates/issues/8364)
 4 | Submitted issue: [InstructorFeedbackResultsPage: make span scrollable to fit the table to copy #8437](https://github.com/TEAMMATES/teammates/issues/8437)
 4 | Responded to contributor queries: [#8437](https://github.com/TEAMMATES/teammates/issues/8437), [#8483](https://github.com/TEAMMATES/teammates/issues/8438), [#8439](https://github.com/TEAMMATES/teammates/issues/8439)
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [InstructorFeedbackResultsPage: make span scrollable to fit the table to copy #8437](https://github.com/TEAMMATES/teammates/pull/8508)
+5 | Reviewed PR: [Instructor: update on number of char left for Session Name input #8475](https://github.com/TEAMMATES/teammates/pull/8476)
+5 | Submitted issue: [Instructor: feedback edit page: align tooltip to fit label for rank (recipients) question #8509](https://github.com/TEAMMATES/teammates/issues/8509)
+6 | Reviewed PR: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/pull/8572)
+6 | Merged PR: [Instructor Help: integrate documentation for contribution questions #8328](https://github.com/TEAMMATES/teammates/pull/8395)
+6 | Responded to contributor queries: [#8563](https://github.com/TEAMMATES/teammates/issues/8563)
+7 | Reviewed PR: [Instructor: add new session: rename session template options #8563](https://github.com/TEAMMATES/teammates/pull/8600)
+7 | Submitted issue: [InstructorFeedbackSession: Make validation for submission times stricter #8597](https://github.com/TEAMMATES/teammates/issues/8597)
+7 | Responded to contributor queries: [#8605](https://github.com/TEAMMATES/teammates/issues/8605), [#8599](https://github.com/TEAMMATES/teammates/issues/8599)
+8 | Reviewed PR: [Instructor Help : Make rubric question example consistent with the rest of the UI #8571](https://github.com/TEAMMATES/teammates/pull/8618)
 9 |
 10 |
 11 |

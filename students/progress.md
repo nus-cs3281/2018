@@ -348,12 +348,20 @@ Week | Achievements
 2 | Merged PR: [StringHelper: Use functional programming to improve code readability #7838 #8258](https://github.com/TEAMMATES/teammates/pull/8258)
 2 | Submitted Issue: [SanitizationHelper: Refactor with streams and add tests #8356](https://github.com/TEAMMATES/teammates/issues/8356)
 2 | Authored PR: [SanitizationHelper: Refactor with streams and add tests #8356 #8357](https://github.com/TEAMMATES/teammates/pull/8357)
+3 | Submitted issue: [adminActivityLogPage: improve timezone conversion](https://github.com/TEAMMATES/teammates/issues/8386)
 4 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 #8389](https://github.com/TEAMMATES/teammates/pull/8389)
-5 |
-6 |
-7 |
-8 |
-9 |
+5 | Responded to contributor query: [Help Request: Tests failing due to time format and decimal](https://github.com/TEAMMATES/teammates/issues/8444)
+6 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `createdAt` and `timeZone` fields](https://github.com/TEAMMATES/teammates/pull/8540)
+6 | Submitted issue: [Tests: certain tests are locale-dependent](https://github.com/TEAMMATES/teammates/issues/8557)
+7 | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate is/get methods in TimeHelper](https://github.com/TEAMMATES/teammates/pull/8564)
+7 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `timeZone` field to `ZoneId`](https://github.com/TEAMMATES/teammates/pull/8613)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes time fields from Date to Instant #8628](https://github.com/TEAMMATES/teammates/pull/8629)
+8 | Reviewed PR: [Migrate \*Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
+8 | Reviewed PR: [Migrate feedback session timeZone field to ZoneId #8638](https://github.com/TEAMMATES/teammates/pull/8639)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes gracePeriod field to Duration #8641](https://github.com/TEAMMATES/teammates/pull/8642)
+8 | Responded to contributor query: ["Date in String is in wrong format" exception when running tests](https://github.com/TEAMMATES/teammates/issues/8644)
+8 | Submitted issue: [TimeHelper: Remove all deprecated methods by updating their callers to call replacement methods instead](https://github.com/TEAMMATES/teammates/issues/8645)
+8 | Reviewed PR: [Admin: recent activity log: show correct 'time stamp in instructor timezone' #8594](https://github.com/TEAMMATES/teammates/pull/8651)
 10 |
 11 |
 12 |

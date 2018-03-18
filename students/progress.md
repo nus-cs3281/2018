@@ -86,10 +86,12 @@ Week | Achievements
 4 | Merged PR: [Update Tokenizer to treat Markdown code as text instead of HTML #1](https://github.com/MarkBind/htmlparser2/pull/1)
 4 | Merged PR: [Update package.json to point to htmlparser2 fork #126](https://github.com/MarkBind/markbind/pull/126)
 5 | Submitted Issue: [<body> tag in included HTML causes formatting errors #148](https://github.com/MarkBind/markbind/issues/148)
-5 | Merged PR: [Update parser to allow for in-line rendering of Markdown content](https://github.com/MarkBind/markbind/pull/142)
-8 | Merged PR: [Add search feature](https://github.com/MarkBind/markbind-cli/pull/32)
-8 | Merged PR: [Add a test site](https://github.com/MarkBind/markbind-cli/pull/27)
+5 | Merged PR: [Update parser to allow for in-line rendering of Markdown content #142](https://github.com/MarkBind/markbind/pull/142)
+6 | Merged PR: [Import Typeahead component #13](https://github.com/MarkBind/vue-strap/pull/13)
+8 | Merged PR: [Add search feature #32](https://github.com/MarkBind/markbind-cli/pull/32)
+8 | Merged PR: [Add a test site #27](https://github.com/MarkBind/markbind-cli/pull/27)
 8 | Authored PR: [Add htmlparser2 as a dependency #38](https://github.com/MarkBind/markbind-cli/pull/38)
+9 |
 10 |
 11 |
 12 |

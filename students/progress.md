@@ -507,7 +507,12 @@ Week | Achievements
 7 | Merged PR: [development.md: As Instructor: Remove `Short Name` from credentials of Instructor in Setting up guide #8495 #8499](https://github.com/TEAMMATES/teammates/pull/8499) <br> Merged PR: [FeedbackSessionQuestionTypeTest.json: fix malformed question metadata #8418 #8521](https://github.com/TEAMMATES/teammates/pull/8521)
 7 | Reviewed PR: [Instructor: Edit session : Distribute (Options) question : Points per option button stays hidden #8603 #8604](https://github.com/TEAMMATES/teammates/pull/8604) <br> Authored PR: [PR to help solve https://github.com/TEAMMATES/teammates/issues/8412](https://github.com/tshradheya/teammates/pull/2)
 8 | Merged PR: [Instructor: remind students: send email copies only to requesting instructor #8531 #8535](https://github.com/TEAMMATES/teammates/pull/8535)
+8 | Responded to Contributor Queries: [Help Request : Create app on GAE #8407](https://github.com/TEAMMATES/teammates/issues/8407) <br> [New contributor self intro Luan N. Pham #8615](https://github.com/TEAMMATES/teammates/issues/8615) <br> [New Contributor Self Intro : Kartik Setia #8534](https://github.com/TEAMMATES/teammates/issues/8534) <br> [Help Request: Build Error / java: reference to until is ambiguous #8361](https://github.com/TEAMMATES/teammates/issues/8361)
 9 |
+10 |
+11 |
+12 |
+13 |
 
 ## TAN LI HAO
 

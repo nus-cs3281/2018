@@ -309,6 +309,8 @@ Week | Achievements
 7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
 7 | Resolved Issue: [AddressBook-Lvl2 Unable to run runtests.bat](https://github.com/nus-cs2103-AY1718S2/forum/issues/12)<br>Resolved Issue: [Java 9 issues](https://github.com/nus-cs2103-AY1718S2/forum/issues/19)
 8 | Resolved Issue: [Junit test fails after adding some dependencies in build.gradle](https://github.com/se-edu/addressbook-level4/issues/849)<br>Submitted Issue: [SelectCommandSystemTest: update to verify selected card is visible](https://github.com/se-edu/addressbook-level4/issues/847)<br>Resolved Issue: [Unable to pass Travis(Bugs)](https://github.com/se-edu/addressbook-level4/issues/846)
+8 | Merged PR: [build.gradle: update to build project using Java 9 #374](https://github.com/se-edu/addressbook-level4/pull/837)
+8 | Merged PR: [PersonListPanel#personListView: revert type change #796](https://github.com/se-edu/addressbook-level4/pull/818)
 9 |
 10 |
 11 |

@@ -481,11 +481,19 @@ Week | Achievements
 3 | Submitted Issue: [Hot reloading for javascript](https://github.com/TEAMMATES/teammates/issues/8383)
 3 | Authored PR: [Instructor: Add placeholder to replace pre-filled value of ranking question](https://github.com/TEAMMATES/teammates/pull/8373)
 4 | Submitted Issue: [Testing: Disabling cache in selenium](https://github.com/TEAMMATES/teammates/issues/8436)
-4 | Authored PR: [Test: Disable browser cache through selenium](https://github.com/TEAMMATES/teammates/pull/8440)
-5 |
-6 |
-7 |
-8 |
+4 | Authored PR (Abandoned): [Test: Disable browser cache through selenium](https://github.com/TEAMMATES/teammates/pull/8440)
+5 | Submitted Issue: [Instructor: edit question: distribute question options vs recipients tooltip (UI)](https://github.com/TEAMMATES/teammates/issues/8465)
+5 | Submitted Issue: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/issues/8463)
+5 | Reviewed PR: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default #8576](https://github.com/TEAMMATES/teammates/pull/8584)
+6 | Authored PR: [Instructor: edit feedback: support min max for distribute points questions #8450](https://github.com/TEAMMATES/teammates/pull/8464)
+6 | Authored PR: [Instructor: Feedback Results: Show No Specific Section if non-empty #7633 #8539](https://github.com/TEAMMATES/teammates/pull/8539)
+7 | Submitted Issue: [Testing: Using `WebElement#Click` instead of `Click()`](https://github.com/TEAMMATES/teammates/issues/8623)
+7 | Reviewed PR: [Rubric questions: show summary excluding self-evaluation #6887](https://github.com/TEAMMATES/teammates/pull/8517)
+7 | Responded to Contributor Queries: [https://github.com/TEAMMATES/teammates/issues/8611](https://github.com/TEAMMATES/teammates/issues/8611)
+7 | Responded to Contributor Queries: [Tests fail on the dev server](https://github.com/TEAMMATES/teammates/issues/8619)
+8 | Submitted issue: [Backend Validation for Questions](https://github.com/TEAMMATES/teammates/issues/8646)
+8 | Responded to Contributor Queries: [Help Request: How JS Minification Works](https://github.com/TEAMMATES/teammates/issues/8684)
+8 | 
 9 |
 10 |
 11 |

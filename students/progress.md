@@ -504,11 +504,22 @@ Week | Achievements
 4 | Reviewed PR: [Migrate FeedbackSession time fields to UTC #8093](https://github.com/TEAMMATES/teammates/pull/8094)
 4 | Submitted Issue: [InstructorCoursesPage: course creation time is displayed in UTC instead of local time #8427](https://github.com/TEAMMATES/teammates/issues/8427), [Admin: ongoing sessions list: fix missing sessions #8421](https://github.com/TEAMMATES/teammates/issues/8421)
 4 | Responded to contributor queries: [#8406](https://github.com/TEAMMATES/teammates/issues/8406)
-4 |
-5 |
-6 |
-7 |
-8 |
+5 | Nothing
+6 | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - combineDateTime](https://github.com/TEAMMATES/teammates/pull/8389)
+Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrating conversion and formatting methods](https://github.com/TEAMMATES/teammates/pull/8428)
+Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `createdAt` and `timeZone` fields](https://github.com/TEAMMATES/teammates/pull/8540)
+7 | Submitted Issue: [AdminActivityLogTableRow: fix bug in displaying error message](https://github.com/TEAMMATES/teammates/issues/8608) - this is actually a Cross Site Scripting (XSS) vulnerability
+7 | Merged PR: [AdminActivityLogTableRow: fix bug in displaying error message #8608](https://github.com/TEAMMATES/teammates/pull/8609)
+7 | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `timeZone` field to `ZoneId`](https://github.com/TEAMMATES/teammates/pull/8613)
+7 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate is/get methods in TimeHelper](https://github.com/TEAMMATES/teammates/pull/8564)
+7 | Reviewed PR: [Load time zone rules from resource file on application startup #8574](https://github.com/TEAMMATES/teammates/pull/8575)
+7 | Responded to contributor queries: [New contributor self intro Luan N. Pham](https://github.com/TEAMMATES/teammates/issues/8615)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes time fields from Date to Instant #8628](https://github.com/TEAMMATES/teammates/pull/8629)
+8 | Reviewed PR: [Migrate *Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
+8 | Reviewed PR: [Migrate feedback session timeZone field to ZoneId #8638](https://github.com/TEAMMATES/teammates/pull/8639)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes gracePeriod field to Duration #8641](https://github.com/TEAMMATES/teammates/pull/8642)
+8 | Reviewed PR: [TimeHelper: convertLocalDateToUtc: do not shift special time representations #8655](https://github.com/TEAMMATES/teammates/pull/8656)
+8 | Responded to contributor queries: ["Date in String is in wrong format" exception when running tests](https://github.com/TEAMMATES/teammates/issues/8644)
 9 |
 10 |
 11 |

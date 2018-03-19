@@ -184,8 +184,16 @@
 
 
 ## YONG ZHI YUAN 
-**Project**:
+**Project**: Exercism (Link to external project workflow: https://github.com/exercism/java/blob/master/CONTRIBUTING.md)
 
 **Observations**:
 
-{write your observations here}
+I improved in my **resourcefulness** skills as I had to find out more about the project, understand the code base and look up on the processes on my own, instead of relying on senior developers as I did for the internal project. This is because it's more efficient to find out things on my own for the external project, since it is likely that my reviewers are living in a different time zone. As such, it may take me up to half a day before I receive a response; I respond in the day, and the other person responds at midnight or so. Whereas when I'm working on the internal project, the response is quicker, and we are able to converse & discuss multiple times throughout the day.
+
+Working on the external project reminds me on the importance on having **proper documentation** in the Developer Guide. When I was choosing between the different external projects to contribute to, I first short-listed the projects based on those with better documentation, as it was easier for me to understand existing code and therefore allowing me to be able to better contribute to the project. For larger repositories, more effort must be made to write a good Developer Guide and to structure it well. The external project that I worked on had multiple repositories with lots of documentation, however it isn't structured well. As such, despite spending some time reading up the documentation, there were still portions that I missed out.
+
+For example, in the AddressBook Level 4 Developer Guide, we can explicitly state something like, "For general information about how to contribute to AddressBook Level 4, please refer to the OSS-Generic Process", which will then bring them to the "process" repository. This isn’t done so at the moment.
+
+Also, I noticed the need to have easy issues in the repository for newcomers, yet the issues should not be too easy either. For example, as I have already been working on OSS for a period of time, I am not too keen on working on simple first-timer issues such as fixing typos etc; it isn't exciting. Similarly, some of the potential contributors may have prior experience already and may feel the same way. 
+
+I noticed that the difference in difficulty between the 1st PR (which is a first timer issue) and the 2nd PR onwards that my CS3282 teammates have done, is quite steep. Linking to the previous point, it seems good to find **moderate sized issues** for potential contributors to work on. There are some in the code base, however we did not tag them according to the difficulty level (we do not such tags too), and as such it requires a bit of effort to source out which issues are moderate in difficulty.

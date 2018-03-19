@@ -25,3 +25,7 @@ This repo is mainly [information about the students in the module](students/stud
 ## Updating the Progress Page
 
 * The progress page is [`students/progress.md`](students/progress.md).
+
+## Updating the Process Observations Page
+
+* Observations from the external projects are in [`students/processObservations.md`](students/processObservations.md).

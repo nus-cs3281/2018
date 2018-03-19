@@ -569,10 +569,13 @@ Week | Achievements
 2 | Merged PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8226)
 3 | Nothing
 4 | Authored PR: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/pull/8400)
-5 |
-6 |
-7 |
-8 |
+5 |Submitted Issue: [Instructor: add session: show number of chars left for session name input](https://github.com/TEAMMATES/teammates/issues/8475)
+5 |Authored PR: [Instructor: update on number of char left for Session Name input](https://github.com/TEAMMATES/teammates/pull/8476)
+6 |Submitted Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 |Respond to Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 |Authored PR: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/pull/8572)
+7 |Reviewed PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option](https://github.com/TEAMMATES/teammates/pull/8577)
+8 |Reviewed PR: [Instructor create session: default questions: replace 'contribution question'](https://github.com/TEAMMATES/teammates/pull/8601)
 9 |
 10 |
 11 |

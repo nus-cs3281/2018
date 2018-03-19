@@ -73,7 +73,7 @@
 [[Progress](progress.md#rachael-sim-hwee-ling)]
 
 
-* Expert areas: Swift, UIX(Usability), Artificial Intelligence
+* Expert areas: Swift, Node.js, Artificial Intelligence
 * Projects: MarkBind
 
 # PowerPointLabs

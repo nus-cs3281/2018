@@ -108,10 +108,13 @@ Week | Achievements
 4 | Merged PR: [Support reuse of boilerplate files #110](https://github.com/MarkBind/markbind/pull/130), Authored PR: [Support reuse of boilerplate files #110 (CLI)](https://github.com/MarkBind/markbind-cli/pull/25)
 4 | Merged PR: [Support a shorter alias for <markdown> tag #136](https://github.com/MarkBind/markbind/pull/137)
 4 | Authored PR: [Support tooltip indicator for italic text #100](https://github.com/MarkBind/vue-strap/pull/10)
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [Record boilerplate includes separately #144](https://github.com/MarkBind/markbind/pull/144)
+7 | Merged PR: [Support user-defined variables #143](https://github.com/MarkBind/markbind/pull/145) (Authored in Week 5), Merged PR: [Support user-defined variables #143 (CLI)](https://github.com/MarkBind/markbind-cli/pull/34)
+7 | Merged PR: [Support multiple inclusions of a modal #107](https://github.com/MarkBind/vue-strap/pull/12) (Authored in Week 6)
+7 | Merged PR: [Record missing include src #156](https://github.com/MarkBind/markbind/pull/156)
+8 | Merged PR: [Ignore updates to source files while live-reloading is in progress #155](https://github.com/MarkBind/markbind-cli/pull/31)
+8 | Authored PR: [boilerplates: allow multiple boilerplates with similar names #159](https://github.com/MarkBind/markbind/pull/167)
+8 | Submitted Issue: [Build/live reload fails if a page/dynamically included file is missing #168](https://github.com/MarkBind/markbind/issues/168)
 9 |
 10 |
 11 |
@@ -333,13 +336,13 @@ Week | Achievements
 4 | Responded to contributor in issue tracker: [#8420](https://github.com/TEAMMATES/teammates/pull/8420)
 4 | Submitted Issue: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/issues/8431)
 4 | Submitted Issue: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432](https://github.com/TEAMMATES/teammates/issues/8432)
-5 | 
+5 |
 6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #8326](https://github.com/TEAMMATES/teammates/pull/8326)
 6 | Submitted Issue: [AccountAttributes: Add test cases for builder #8496](https://github.com/TEAMMATES/teammates/issues/8496)
 6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497](https://github.com/TEAMMATES/teammates/issues/8497)
 6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/issues/8498)
-7 | 
-8 | 
+7 |
+8 |
 9 |
 10 |
 11 |

@@ -531,10 +531,12 @@ Week | Achievements
 2 | Authored PR: [Sync Checkstyle version for IntelliJ with the version defined in build script #8347 #8349](https://github.com/TEAMMATES/teammates/pull/8349)
 3 | -
 4 | -
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [const.js: rename and document semantics of constants #7706 #8401](https://github.com/TEAMMATES/teammates/pull/8401)
+6 | Submitted Issue: [Investigate how to disable buttons #8462](https://github.com/TEAMMATES/teammates/issues/8462)
+6 | Reviewed PR: [Replace all instances of \`Const#EOL\` with \`System#lineSeparator()\` #8299 #8420](https://github.com/TEAMMATES/teammates/pull/8420)
+7 | Discussed Issue: [Testing: Using \`WebElement#Click\` instead of \`Click()\` #8623](https://github.com/TEAMMATES/teammates/issues/8623)
+7 | Reviewed PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333 #8384](https://github.com/TEAMMATES/teammates/pull/8384)
+8 | Reviewed PR: [Student: submit responses: mention that partial answers can be saved #7993 #8367](https://github.com/TEAMMATES/teammates/pull/8367)
 9 |
 10 |
 11 |

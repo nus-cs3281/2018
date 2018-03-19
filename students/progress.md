@@ -195,6 +195,7 @@ Week | Achievements
 4 | Submitted Issue: [Timeline for first-release of PowerPointLabs #1598](https://github.com/PowerPointLabs/PowerPointLabs/issues/1598)
 5 | Merged PR: [Suggested new feature: Paste To Fit Slide #1583](https://github.com/PowerPointLabs/PowerPointLabs/pull/1583)
 5 | Merged PR: [Positions Lab: Should not require at least 2-3 shapes to be selected #1579](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)
+5 | Reviewed/Tested PR: [Fix error for adding captions without notes in PPT 2010 #1616](https://github.com/PowerPointLabs/PowerPointLabs/pull/1616)
 5 | Submitted Issue: [Paste Lab Error: PPT2013 PasteShapeFromClipboard method does not work #1606](https://github.com/PowerPointLabs/PowerPointLabs/issues/1606)
 6 | Merged PR : [Easy access to "Insert Shape" functionality for relevent Labs #1578](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
 6 | Reviewed PR: [PasteLab: Text for Paste to Fit Slide #67](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/67)
@@ -203,7 +204,10 @@ Week | Achievements
 7 | Authored PR: [Updated images for right context menu in Crop Lab #71](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/71)<br>Authored PR: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
 7 | Reviewed/Tested PR: [Extend restore clipboard for actions that return a value #1627](https://github.com/PowerPointLabs/PowerPointLabs/pull/1627)
 7 | Submitted Issue: [Investigate a way to use native Clipboard methods #1624](https://github.com/PowerPointLabs/PowerPointLabs/issues/1624)
-8 |
+7 | Requested Issue: [RestoreClipboardAfterAction should be able to return a value #1626](https://github.com/PowerPointLabs/PowerPointLabs/issues/1626)
+8 | Merged PR: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
+8 | Authored PR: [Add 'fill slide' in the right-click menu #1629](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
+8 | Reviewed/Tested PR: [Fixes no currently active document window #1613](https://github.com/PowerPointLabs/PowerPointLabs/pull/1613)
 9 |
 10 |
 11 |

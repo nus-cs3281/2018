@@ -156,19 +156,25 @@ Week | Achievements
 2 | Submitted Issue: [Contributing.md link to OSS Coding Standard is broken #1560](https://github.com/PowerPointLabs/PowerPointLabs/issues/1560) <br> Merged PR: [Fix OSS-Generics Coding Standards link #1561](https://github.com/PowerPointLabs/PowerPointLabs/pull/1561)
 2 | Submitted Issue: [SyncLab: Error when opening SyncPane.cs in Designer #1558](https://github.com/PowerPointLabs/PowerPointLabs/issues/1558) <br> Submitted Issue: [Design Decision: SyncLab has no persistent data while ShapesLab will save shapes #1567](https://github.com/PowerPointLabs/PowerPointLabs/issues/1567) <br> Submitted Issue: [Inconsistency in Labs doing removal #1573](https://github.com/PowerPointLabs/PowerPointLabs/issues/1573)
 2 | Merged PR: [Code Quality: Resolve SonarQube issues #1562](https://github.com/PowerPointLabs/PowerPointLabs/pull/1562)
-2 | Authored PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
 2 | Submitted Issue: [Positions Lab: Should not require at least 2-3 shapes to be selected #1576](https://github.com/PowerPointLabs/PowerPointLabs/issues/1576)
-3 | Authored PR: [Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
 3 | Submitted Issue: [Captions Lab: Add ‘callouts’ support for the Audio Lab / Captions Lab #1586](https://github.com/PowerPointLabs/PowerPointLabs/issues/1586) <br> Submitted Issue: [Shapes Lab: Error appears when attempting to add placeholders to ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1591)
 3 | Reviewed / Tested: [Crop Lab: Provide PowerPoint's crop features in Crop Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1568)
 4 | Submitted Issue: [SyncLab: The Fill Color of textboxes are inconsistent when using SyncLab #1595](https://github.com/PowerPointLabs/PowerPointLabs/issues/1595) <br> Submitted Issue: [Captions Lab: Error in PPT 2010 when having no notes and then generating captions #1596](https://github.com/PowerPointLabs/PowerPointLabs/issues/1596) <br> Submitted Issue: [Labs should support placeholder objects #1599](https://github.com/PowerPointLabs/PowerPointLabs/issues/1599)
 4 | Merged PR: [Add a "Add" button for ShapesLab #1566](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)
 4 | Reviewed / Tested: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565) <br> Tested: [Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579) <br> Tested: [Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578) <br> Reviewed / Tested: [Suggested new feature: Paste To Fit Slide](https://github.com/PowerPointLabs/PowerPointLabs/pull/1583)
 5 | Submitted Issue: [ShapesLab / SyncLab: Add button should be disabled when nothing/illegal object is selected #1604](https://github.com/PowerPointLabs/PowerPointLabs/issues/1604) <br> Submitted Issue: [Running automated tests on AppVeyor CI #1605](https://github.com/PowerPointLabs/PowerPointLabs/issues/1605)
-6 |
-7 |
-8 |
-9 |
+5 | Reviewed / Tested: [SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab #1607](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
+5 | Merged PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
+6 | Submitted Issue: [Error "there is no currently active document window" when there is no presentation open #1615](https://github.com/PowerPointLabs/PowerPointLabs/issues/1615) <br> Reviewed / Tested: [Copy-Operation-Made-The-Text-Disappear #1617](https://github.com/PowerPointLabs/PowerPointLabs/pull/1617)
+6 | Authored PR: [Fixes no currently active document window #1613](https://github.com/PowerPointLabs/PowerPointLabs/pull/1613) <br> Reviewed / Tested: [support syncing properties of pictures #1594](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
+6 | Merged PR: [Convert To Picture should not replace clipboard item #1580](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
+7 | Submitted Issue: [RestoreClipboardAfterAction should be able to return a value #1626](https://github.com/PowerPointLabs/PowerPointLabs/issues/1626)
+7 | Merged PR: [Fix error for adding captions without notes in PPT 2010 #1616](https://github.com/PowerPointLabs/PowerPointLabs/pull/1616)
+8 | Reviewed / Tested: [SyncLab-Copying-SmartArt-gives-an-error #1620](https://github.com/PowerPointLabs/PowerPointLabs/pull/1620)
+8 | Reviewed / Tested: [Add 'fill slide' in the right-click menu #1629](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
+8 | Submitted Issue: [PowerPointLabs website has no thumbnail photo when shared on Facebook #1633](https://github.com/PowerPointLabs/PowerPointLabs/issues/1633), Reviewed / Tested: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
+8 | Merged PR: [Extend restore clipboard for actions that return a value #1627](https://github.com/PowerPointLabs/PowerPointLabs/pull/1627)
+9 | Submitted Issue: [PasteLab: Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/issues/1634) <br> Authored PR: [#1439 Shape Lab will not affect clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1636) <br> Authored PR: [PasteLab: Add Tests for restoring clipboard #1635](https://github.com/PowerPointLabs/PowerPointLabs/pull/1635)
 10 |
 11 |
 12 |

@@ -141,12 +141,11 @@ Week | Achievements
 5 | Tested PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
 5 | Authored PR: [1595-SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
 5 | Merged PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)
-6 | Submitted Issues:<br>[Alternative PowerPointLabs-Website build instructions
-](https://github.com/PowerPointLabs/PowerPointLabs/issues/1619)<br>[SyncLab: Refactor Format objects](https://github.com/PowerPointLabs/PowerPointLabs/issues/1618)
+6 | Submitted Issues:<br>[Alternative PowerPointLabs-Website build instructions](https://github.com/PowerPointLabs/PowerPointLabs/issues/1619)<br>[SyncLab: Refactor Format objects](https://github.com/PowerPointLabs/PowerPointLabs/issues/1618)
 6 | Merged PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
 6| Merged PR: [Copy-Operation-Made-The-Text-Disappear](https://github.com/PowerPointLabs/PowerPointLabs/pull/1617)
 6 | Merged PR: [Correctly-Log-Failure-To-Sync-Font-Format](https://github.com/PowerPointLabs/PowerPointLabs/pull/1621)
-6 | Merged PR: [1595-SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
+6 | Merged PR: [SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
 6 | Reviewed PR: [Fix error for adding captions without notes in PPT 2010 #1616](https://github.com/PowerPointLabs/PowerPointLabs/pull/1616)
 6 | Authored PR: [SyncLab-Copying-SmartArt-gives-an-error](https://github.com/PowerPointLabs/PowerPointLabs/pull/1620)
 7 | -

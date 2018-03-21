@@ -23,7 +23,7 @@
 * [YONG ZHI YUAN](#yong-zhi-yuan)
 
 
-## ALEX FONG JIE WEN 
+## ALEX FONG JIE WEN
 **Project**:
 
 **Observations**:
@@ -31,7 +31,7 @@
 {write your observations here}
 
 
-## CARA LEONG SU-YI 
+## CARA LEONG SU-YI
 **Project**:
 
 **Observations**:
@@ -39,7 +39,7 @@
 {write your observations here}
 
 
-## CHUA YUN ZHI NICHOLAS 
+## CHUA YUN ZHI NICHOLAS
 **Project**:
 
 **Observations**:
@@ -47,7 +47,7 @@
 {write your observations here}
 
 
-## DANIEL BERZIN CHUA YUAN SIANG 
+## DANIEL BERZIN CHUA YUAN SIANG
 **Project**:
 
 **Observations**:
@@ -55,7 +55,7 @@
 {write your observations here}
 
 
-## DARREN WEE ZHE YU 
+## DARREN WEE ZHE YU
 **Project**:
 
 **Observations**:
@@ -63,7 +63,7 @@
 {write your observations here}
 
 
-## JOANNE ONG CUI FANG 
+## JOANNE ONG CUI FANG
 **Project**:
 
 **Observations**:
@@ -71,7 +71,7 @@
 {write your observations here}
 
 
-## KOH LEWIS 
+## KOH LEWIS
 **Project**:
 
 **Observations**:
@@ -79,7 +79,7 @@
 {write your observations here}
 
 
-## LEE YAN HWA 
+## LEE YAN HWA
 **Project**:
 
 **Observations**:
@@ -87,7 +87,7 @@
 {write your observations here}
 
 
-## LU LECHUAN 
+## LU LECHUAN
 **Project**:
 
 **Observations**:
@@ -95,7 +95,7 @@
 {write your observations here}
 
 
-## NGUYEN QUOC BAO 
+## NGUYEN QUOC BAO
 **Project**:
 
 **Observations**:
@@ -103,7 +103,7 @@
 {write your observations here}
 
 
-## PAN HAOZHE 
+## PAN HAOZHE
 **Project**:
 
 **Observations**:
@@ -111,7 +111,7 @@
 {write your observations here}
 
 
-## PHANG CHUN RONG 
+## PHANG CHUN RONG
 **Project**:
 
 **Observations**:
@@ -119,7 +119,7 @@
 {write your observations here}
 
 
-## RACHAEL SIM HWEE LING 
+## RACHAEL SIM HWEE LING
 **Project**:
 
 **Observations**:
@@ -127,7 +127,29 @@
 {write your observations here}
 
 
-## SHRADHEYA THAKRE 
+## SHRADHEYA THAKRE
+**Project**: [WikiMedia Commons App](https://github.com/commons-app/apps-android-commons) <br>
+[Project workflow](https://github.com/commons-app/apps-android-commons/wiki#contributor-documentation)
+
+**Observations**:
+
+I chose this project as my external project mainly because I was comfortable with the technologies it used and the response time by the maintainers of the project was very quick.
+
+Through this project, I learned more details about how the code for Android apps is written at an production level, since before this I only had made an Android App from scratch which used all hacking techniques. In this app, I realized of how same thing can be done in a much better way using different tools and libraries.
+
+Some things that I learned were:
+- How to use vectors for images to stabilize the UI of the page on different devices
+- Improving code quality of the Project
+- Fixing some UI and Logic based bugs
+
+The main problem was that there were no instructions on how to set up the development environment, which caused a lot of problems to me as I didn't know which was the required version and usually had to search the web or debug to find out what tools are needed.
+
+Compared to the TEAMMATES project, this project wasn't very strict in terms of the process to follow. Naming conventions weren't strict and PR's were merged a quick pace if the change was minimal. The maintainers didn't bother much about the code quality as well. Although the project does have some guidelines mentioned in the Wiki, but they overlook it every time.
+
+Most PR's requiring enhancements don't require much time cause the tests don't need to be added or updated [project has very minimal testing] which even though makes it easy for new contributors, but is not a good practice.
+
+
+## TAN JUN AN
 **Project**:
 
 **Observations**:
@@ -135,7 +157,7 @@
 {write your observations here}
 
 
-## TAN JUN AN 
+## TAN JUN KIAT
 **Project**:
 
 **Observations**:
@@ -143,7 +165,7 @@
 {write your observations here}
 
 
-## TAN JUN KIAT 
+## TAN LI HAO
 **Project**:
 
 **Observations**:
@@ -151,7 +173,7 @@
 {write your observations here}
 
 
-## TAN LI HAO 
+## TRAN TIEN DAT
 **Project**:
 
 **Observations**:
@@ -159,7 +181,7 @@
 {write your observations here}
 
 
-## TRAN TIEN DAT 
+## VIVEK LAKSHMANAN
 **Project**:
 
 **Observations**:
@@ -167,7 +189,7 @@
 {write your observations here}
 
 
-## VIVEK LAKSHMANAN 
+## WEN XIN
 **Project**:
 
 **Observations**:
@@ -175,15 +197,7 @@
 {write your observations here}
 
 
-## WEN XIN 
-**Project**:
-
-**Observations**:
-
-{write your observations here}
-
-
-## YONG ZHI YUAN 
+## YONG ZHI YUAN
 **Project**: Exercism (Link to external project workflow: https://github.com/exercism/java/blob/master/CONTRIBUTING.md)
 
 **Observations**:
@@ -194,6 +208,6 @@ Working on the external project reminds me on the importance on having **proper 
 
 For example, in the AddressBook Level 4 Developer Guide, we can explicitly state something like, "For general information about how to contribute to AddressBook Level 4, please refer to the OSS-Generic Process", which will then bring them to the "process" repository. This isn’t done so at the moment.
 
-Also, I noticed the need to have easy issues in the repository for newcomers, yet the issues should not be too easy either. For example, as I have already been working on OSS for a period of time, I am not too keen on working on simple first-timer issues such as fixing typos etc; it isn't exciting. Similarly, some of the potential contributors may have prior experience already and may feel the same way. 
+Also, I noticed the need to have easy issues in the repository for newcomers, yet the issues should not be too easy either. For example, as I have already been working on OSS for a period of time, I am not too keen on working on simple first-timer issues such as fixing typos etc; it isn't exciting. Similarly, some of the potential contributors may have prior experience already and may feel the same way.
 
 I noticed that the difference in difficulty between the 1st PR (which is a first timer issue) and the 2nd PR onwards that my CS3282 teammates have done, is quite steep. Linking to the previous point, it seems good to find **moderate sized issues** for potential contributors to work on. There are some in the code base, however we did not tag them according to the difficulty level (we do not such tags too), and as such it requires a bit of effort to source out which issues are moderate in difficulty.

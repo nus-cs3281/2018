@@ -131,18 +131,28 @@ Week | Achievements
 2 | Authored PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)  
 2 | Submitted + Investigated Issue: [SyncLab: Documenting supported items](https://github.com/PowerPointLabs/PowerPointLabs/issues/1570)
 2 | Submitted Issues:<br>[SyncLab: Design Decisions & Documentation](https://github.com/PowerPointLabs/PowerPointLabs/issues/1564)<br>[UX for ZoomLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1575)
-2 | Reviewed + Tested: [Highlight Text does not provide a message that nothing has changed](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
+2 | Reviewed + Tested:[Highlight Text does not provide a message that nothing has changed](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
 3 | Submitted Issues:<br>[SyncLab: Copying SmartArt gives an error](https://github.com/PowerPointLabs/PowerPointLabs/issues/1581)<br>[ZoomLab: Error encounted when going through drill down tutorial](https://github.com/PowerPointLabs/PowerPointLabs/issues/1588)
-3 | Reviewed: [Update Contributions.md to branch out from dev release instead of master for PRs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1589)
+3 | Reviewed + Tested:<br>[Update Contributions.md to branch out from dev release instead of master for PRs](https://github.com/PowerPointLabs/PowerPointLabs/pull/158<br>[Messages to user are not consistent #1553](https://github.com/PowerPointLabs/PowerPointLabs/pull/1553)9)
 4 | Authored PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
 4 | Submitted + Investigated Issues:<br>[SyncLab: Error when opening on PPT2013](https://github.com/PowerPointLabs/PowerPointLabs/issues/1592)<br>[Opening Sync Lab causes exception](https://github.com/PowerPointLabs/PowerPointLabs/issues/1465)<br> [Freeform drawing tool bug](https://github.com/PowerPointLabs/PowerPointLabs/issues/1600)<br>[Suddenly failing tests - mostly from PSL](https://github.com/PowerPointLabs/PowerPointLabs/issues/1602)
 4 | Reviewed + Tested:<br>[Add a "Add" button for ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)<br>[Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
 4 | Tested:<br>[Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)<br>[Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
-5 |
-6 |
-7 |
-8 |
-9 |
+5 | Tested PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
+5 | Authored PR: [1595-SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
+5 | Merged PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)
+6 | Submitted Issues:<br>[Alternative PowerPointLabs-Website build instructions
+](https://github.com/PowerPointLabs/PowerPointLabs/issues/1619)<br>[SyncLab: Refactor Format objects](https://github.com/PowerPointLabs/PowerPointLabs/issues/1618)
+6 | Merged PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
+6| Merged PR: [Copy-Operation-Made-The-Text-Disappear](https://github.com/PowerPointLabs/PowerPointLabs/pull/1617)
+6 | Merged PR: [Correctly-Log-Failure-To-Sync-Font-Format](https://github.com/PowerPointLabs/PowerPointLabs/pull/1621)
+6 | Merged PR: [1595-SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
+6 | Reviewed PR: [Fix error for adding captions without notes in PPT 2010 #1616](https://github.com/PowerPointLabs/PowerPointLabs/pull/1616)
+6 | Authored PR: [SyncLab-Copying-SmartArt-gives-an-error](https://github.com/PowerPointLabs/PowerPointLabs/pull/1620)
+7 | -
+8 | -
+9 | Submitted Issue: [Unable to run FTs on 2013 with 2016 installed](https://github.com/PowerPointLabs/PowerPointLabs/issues/1641)
+9 | Authored PR: [replace with clipboard: preserve shape settings](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642)
 10 |
 11 |
 12 |

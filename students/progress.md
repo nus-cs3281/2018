@@ -459,6 +459,7 @@ Week | Achievements
 5 | Reviewed PR: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/pull/8470)
 6 | Authored PR: [Instructor: home page: support a way to resend 'result published' link to selected students #6634](https://github.com/TEAMMATES/teammates/pull/8501)
 6 | Responded to Contributor Queries: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing](https://github.com/TEAMMATES/teammates/issues/8463)
+6 | Submitted Issue: [Sessions: instructor view results: stop showing a random identifier for anonymous responses](https://github.com/TEAMMATES/teammates/issues/8532)
 7 | Authored PR: [Instructor: remind students: collapse the two options into one #8530](https://github.com/TEAMMATES/teammates/pull/8537)
 7 | Reviewed PR: [Instructor: remind students: send email copies only to requesting instructor #8531](https://github.com/TEAMMATES/teammates/pull/8535)
 7 | Reviewed PR: [Student:FeedbackSubmissionEditPage incomplete display of question title #8505](https://github.com/TEAMMATES/teammates/pull/8516)
@@ -467,6 +468,7 @@ Week | Achievements
 8 | Reviewed PR: [Distribute points questions: fix total points to distribute being reset to non-default value #8605](https://github.com/TEAMMATES/teammates/pull/8612)
 8 | Responded to Contributor Queries: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
 8 | Responded to Contributor Queries: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
+8 | Submitted Issue: [Instructor: remind particular students: show sorted student list](https://github.com/TEAMMATES/teammates/issues/8630)
 9 | Reviewed PR: [Instructor: remind particular students: show sorted student list #8630](https://github.com/TEAMMATES/teammates/pull/8653)
 10 |
 11 |

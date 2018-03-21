@@ -100,8 +100,17 @@
 
 **Observations**:
 
-{write your observations here}
+I chose to work on this external project because I used to be a student of freeCodeCamp, and I wanted to contribute to it as a form of gratitude. The backend of the project is JavaScript, which is also the language I often work with in TEAMMATES so I was quite comfortable with freeCodeCamp.
 
+For a code-based learning platform like freeCodeCamp, most issues reported by users are specific to certain coding lessons. Therefore, for each issue, I had to follow the lesson itself so as to reproduce the bug, and thus far I have learned various modern web technologies taught by freeCodeCamp, some of them are used to build the platform itself, like React, Redux, NodeJS, and MongoDB. I was able to apply what I learned into fixing some bugs on the platform, mostly about the testing of submission code of various lessons. I also helped improve some lessons' instructions and source code.
+
+freeCodeCamp is very welcoming toward contributors; every issue is tagged and follows a naming convention. Many of senior developers dedicated most of their time just to reply contributors' queries. There are new issues reserved for first-time contributors everyday with the tag `first timers welcome`. It normally takes 1 day for a PR to receive reviews by a senior developer.
+
+In terms of code quality and documentations, freeCodeCamp's code quality is not as high as TEAMMATES, there are detailed and easy to follow documents for contributors to setup and start contributing, but the source code itself rarely contains comments. There are no mockups or any documents on the design of the app, making it extremely difficult for new contributors to take up issues that are not `first timers welcome`.
+
+Compared with TEAMMATES, the process of taking up issues and submitting PR is mostly identical, except that contributors must declare their intention of working on the issues, to avoid repeated works. There are always more than 100 open PRs at anytime; however, most of them are for `first timers welcome` issues, which contains minimal changes to the source code and is often merged within 1 or 2 days after they are opened. One odd thing I noticed was that freeCodeCamp requires that before a PR is submitted, all of its commits must be squashed into one.
+
+One suggestion I have for freeCodeCamp maintainers is to label issues based on incremental difficulty level, so that new contributors can take up issues from easy to more difficult and ease the learning curve.
 
 ## PAN HAOZHE
 **Project**:
@@ -120,7 +129,7 @@
 
 
 ## RACHAEL SIM HWEE LING
-**Project**:
+**Project**: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/)
 
 **Observations**:
 
@@ -208,6 +217,6 @@ Working on the external project reminds me on the importance on having **proper 
 
 For example, in the AddressBook Level 4 Developer Guide, we can explicitly state something like, "For general information about how to contribute to AddressBook Level 4, please refer to the OSS-Generic Process", which will then bring them to the "process" repository. This isn’t done so at the moment.
 
-Also, I noticed the need to have easy issues in the repository for newcomers, yet the issues should not be too easy either. For example, as I have already been working on OSS for a period of time, I am not too keen on working on simple first-timer issues such as fixing typos etc; it isn't exciting. Similarly, some of the potential contributors may have prior experience already and may feel the same way. 
+Also, I noticed the need to have easy issues in the repository for newcomers, yet the issues should not be too easy either. For example, as I have already been working on OSS for a period of time, I am not too keen on working on simple first-timer issues such as fixing typos etc; it isn't exciting. Similarly, some of the potential contributors may have prior experience already and may feel the same way.
 
 I noticed that the difference in difficulty between the 1st PR (which is a first timer issue) and the 2nd PR onwards that my CS3282 teammates have done, is quite steep. Linking to the previous point, it seems good to find **moderate sized issues** for potential contributors to work on. There are some in the code base, however we did not tag them according to the difficulty level (we do not such tags too), and as such it requires a bit of effort to source out which issues are moderate in difficulty.

@@ -442,23 +442,32 @@ Week | Achievements
 Week | Achievements
 ---- | ------------
 1 | Submitted Issue: [Instructor: discard edit question button: sometimes button does not work #8329](https://github.com/TEAMMATES/teammates/issues/8329)
-1 | Merged PR: [Java: Use Java 8 map.getOrDefault #8250 #8253](https://github.com/TEAMMATES/teammates/pull/8253)
-1 | Merged PR: [Instructor: edit question: remove the need to click edit button multiple times #8148 #8330](https://github.com/TEAMMATES/teammates/pull/8330)
+1 | Merged PR: [Java: Use Java 8 map.getOrDefault #8250](https://github.com/TEAMMATES/teammates/pull/8253)
+1 | Merged PR: [Instructor: edit question: remove the need to click edit button multiple times #8148](https://github.com/TEAMMATES/teammates/pull/8330)
 2 | Submitted Issue: [Instructor: add rank question: prevent input field from shrinking when enabled #8355](https://github.com/TEAMMATES/teammates/issues/8355)
 2 | Submitted Issue: [Javascript: button event callback: use event.currentTarget #8335](https://github.com/TEAMMATES/teammates/issues/8335)
-2 | Merged PR: [Instructor: discard edit question button: sometimes button does not work #8329 #8331](https://github.com/TEAMMATES/teammates/pull/8331)
-2 | Merged PR: [Javascript: button event callback: use event.currentTarget #8335 #8340](https://github.com/TEAMMATES/teammates/pull/8340)
-3 | Merged PR: [Instructor home page: Fix broken panel buttons #8391 #8390](https://github.com/TEAMMATES/teammates/pull/8390)
-3 | Authored PR: [instructorFeedbackEdit: change question backup mechanism #7784 #8379](https://github.com/TEAMMATES/teammates/pull/8379)
-4 | Authored PR: [Instructor: copy session: allow observers to copy sessions #6594 #8413](https://github.com/TEAMMATES/teammates/pull/8413)
-4 | Authored PR: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432 #8434](https://github.com/TEAMMATES/teammates/pull/8434)
-4 | Authored PR: [Sessions: view results: stop showing a random identifier for anonymous responses #6092 #8443](https://github.com/TEAMMATES/teammates/pull/8443)
+2 | Merged PR: [Instructor: discard edit question button: sometimes button does not work #8329](https://github.com/TEAMMATES/teammates/pull/8331)
+2 | Merged PR: [Javascript: button event callback: use event.currentTarget #8335](https://github.com/TEAMMATES/teammates/pull/8340)
+3 | Merged PR: [Instructor home page: Fix broken panel buttons #8391](https://github.com/TEAMMATES/teammates/pull/8390)
+3 | Merged PR: [instructorFeedbackEdit: change question backup mechanism #7784](https://github.com/TEAMMATES/teammates/pull/8379)
+3 | Responded to Contributor Queries: [Misalignment in Instructor table while adding Instructors by admin](https://github.com/TEAMMATES/teammates/issues/8381)
+4 | Merged PR: [Instructor: copy session: allow observers to copy sessions #6594](https://github.com/TEAMMATES/teammates/pull/8413)
+4 | Merged PR: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432](https://github.com/TEAMMATES/teammates/pull/8434)
+4 | Merged PR: [Sessions: view results: stop showing a random identifier for anonymous responses #6092](https://github.com/TEAMMATES/teammates/pull/8443)
 4 | Investigated a bug: [Instructor: view results: fix IndexOutOfBoundsException #8415](https://github.com/TEAMMATES/teammates/issues/8415)
-5 |
-6 |
-7 |
-8 |
-9 |
+5 | Merged PR: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/pull/8469)
+5 | Reviewed PR: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/pull/8470)
+6 | Authored PR: [Instructor: home page: support a way to resend 'result published' link to selected students #6634](https://github.com/TEAMMATES/teammates/pull/8501)
+6 | Responded to Contributor Queries: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing](https://github.com/TEAMMATES/teammates/issues/8463)
+7 | Authored PR: [Instructor: remind students: collapse the two options into one #8530](https://github.com/TEAMMATES/teammates/pull/8537)
+7 | Reviewed PR: [Instructor: remind students: send email copies only to requesting instructor #8531](https://github.com/TEAMMATES/teammates/pull/8535)
+7 | Reviewed PR: [Student:FeedbackSubmissionEditPage incomplete display of question title #8505](https://github.com/TEAMMATES/teammates/pull/8516)
+7 | Responded to Contributor Queries: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default](https://github.com/TEAMMATES/teammates/issues/8576)
+7 | Responded to Contributor Queries: [Help Request: CI Test Procedure](https://github.com/TEAMMATES/teammates/issues/8610)
+8 | Reviewed PR: [Distribute points questions: fix total points to distribute being reset to non-default value #8605](https://github.com/TEAMMATES/teammates/pull/8612)
+8 | Responded to Contributor Queries: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
+8 | Responded to Contributor Queries: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
+9 | Reviewed PR: [Instructor: remind particular students: show sorted student list #8630](https://github.com/TEAMMATES/teammates/pull/8653)
 10 |
 11 |
 12 |
@@ -508,7 +517,7 @@ Week | Achievements
 7 | Responded to Contributor Queries: [Tests fail on the dev server](https://github.com/TEAMMATES/teammates/issues/8619)
 8 | Submitted issue: [Backend Validation for Questions](https://github.com/TEAMMATES/teammates/issues/8646)
 8 | Responded to Contributor Queries: [Help Request: How JS Minification Works](https://github.com/TEAMMATES/teammates/issues/8684)
-8 | 
+8 |
 9 |
 10 |
 11 |

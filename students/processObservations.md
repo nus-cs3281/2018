@@ -172,6 +172,7 @@ Most PR's requiring enhancements don't require much time cause the tests don't n
 1. [WikiMedia Commons App](https://github.com/commons-app/apps-android-commons)
 
 **Observations**:
+
 Observations about Teammates can be broadly divided into 2 categories: Documentation and Management of Contributions.
 
 ##### Documentation
@@ -186,11 +187,13 @@ While PPL does have the basic [information](https://github.com/PowerPointLabs/Po
 
 In Teammates, there is also the [Project Ideas Page](https://docs.google.com/document/d/1fAvYvQr0E93OsZgyneaXGX0jaMA-zptTIxqLn83xwN0/pub?embedded=true), which provides a formal way to discuss and store all ideas that can help to improve the project. 
 
-Currently, PowerPointLabs stores potential ideas in a private google doc. This doc is in a Google folder that is only accessible by the developers, hence it would be better if this doc can be made public, for potential new ideation from potential contributors, validation by existing developers and accountability of/discussion/improvement of future ideas and features. Documents like “Common traps in PowerPoint Add-in Development”, and “Newcomer’s guide” would surely be useful for new contributors and can be considered for uploading on the project github page.
+Currently, PowerPointLabs stores potential ideas in a private google doc. This doc is in a Google folder that is only accessible by the developers, hence it would be better if this doc can be made public, for potential new ideation from potential contributors, validation by existing developers and accountability of/discussion/improvement of future ideas and features. Additional documents like “Common traps in PowerPoint Add-in Development”, and “Newcomer’s guide” would surely be useful for new contributors and can be considered for uploading on the project github page.
 
 ##### Managing Contributions
 
-In terms of Issues/PRs, there are strict quality enforced. Issues are [documented](https://github.com/TEAMMATES/teammates/issues/8599) very well, with clear replicable steps listed and even screen shots posted so that any potential contributor can have clear information to work with. PRs are also checked at least twice by senior developers before requesting a review from the project mentor (Prof Damith). This layered check helps to ensure the quality of any PR that goes into the master branch. This is important because unlike PowerPointLabs which has a `dev-release` branch for dog-fooding, Teammates only has a main `master` branch, hence it is important to have many checks. PowerPointLabs may be a smaller project comparatively, but I expect it to adopt the same quality of checks once it starts to scale up in the future.
+In terms of Issues/PRs, there are strict quality enforced. Issues are [documented](https://github.com/TEAMMATES/teammates/issues/8599) very well, with clear replicable steps listed and even screen shots posted so that any potential contributor can have clear information to work with. PRs are also checked at least twice by senior developers before requesting a review from the project mentor (Prof Damith). This layered check helps to ensure the quality of any PR that goes into the master branch. This is important because unlike PowerPointLabs which has a `dev-release` branch for dog-fooding, Teammates only has a main `master` branch, hence it is important to have many checks. 
+
+PowerPointLabs may be a smaller project comparatively, but it is good to learn from Teammates in how they structure their issues as well as review their PRs. With regards to whether PowerPointLabs would require the same amount of checks for each PR, I would say it's not compulsory for now because of the smaller project scale and better time efficiency, but I expect it to adopt the same quality of checks once it starts to scale up in the future.
 
 ## TAN LI HAO
 **Project**:

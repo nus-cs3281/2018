@@ -1,12 +1,12 @@
 # Tan Jun Kiat
 
-Email: cyan4936@gmail.com
-Github: https://github.com/junkiattan
+Email: cyan4936@gmail.com<br>Github: https://github.com/junkiattan
 
 ## Education
 
 ##### National University of Singapore (Aug 2015 - May 2019)
 - Major in Computer Science, specializing in Computer Graphics and Games
+- Concurrent Degree Programme with Masters of Entertainment Technology (Carnegie Mellon University)
 - Honors (Distinction) [Projected]
 
 ## Work Experiences
@@ -25,6 +25,17 @@ First Code Academy is a company with the mission to provide students with digita
 - To empower children to be creators with the technology around us and explore possibilities with software like App Inventor using their creativity
 
 ## Projects
+
+##### PowerPointLabs
+PowerPointLabs is a productivity add-in for PowerPoint on Windows which has benefited over 300,000 people
+- Developed new features, e.g. [Save Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1637)
+- Developed enhancements and rectified bugs. See list of [contributions](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
+- Suggested improvements based on [observations from TEAMMATES](https://github.com/nus-cs3281/2018/blob/junkiattan-progress/students/processObservations.md#tan-jun-kiat)
+
+##### TEAMMATES
+TEAMMATES is a free cloud-based service for feedback management with more than 140,000 users
+- Improved documentation
+- Improved code quality
 
 ##### Overpowered (GIP)
 Overpowered is a 2-player, top-down PVP game set in a dystopian future world where 5 heroes gather and engage in a death match to battle for the ultimate wish

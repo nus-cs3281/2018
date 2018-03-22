@@ -173,7 +173,7 @@ Most PR's requiring enhancements don't require much time cause the tests don't n
 
 **Observations**:
 
-Observations about Teammates can be broadly divided into 2 categories: Documentation and Management of Contributions.
+Observations about Teammates can be broadly divided into 2 categories: ***Documentation*** and ***Managing Contributions***.
 
 ##### Documentation
 

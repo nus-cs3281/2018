@@ -73,7 +73,7 @@
 [[Progress](progress.md#rachael-sim-hwee-ling)]
 
 
-* Expert areas: Swift, UIX(Usability), Artificial Intelligence
+* Expert areas: Swift, Node.js, Artificial Intelligence
 * Projects: MarkBind
 
 # PowerPointLabs
@@ -143,8 +143,8 @@
 [[Github](https://github.com/vivekscl)]
 [[Progress](progress.md#vivek-lakshmanan)]
 
-* Expert areas: Bash, Java, NLTK
-* Projects: SE-EDU
+* Expert areas: Bash, Java, Documentation
+* Projects: SE-EDU, OpacApp
 
 ## YONG ZHI YUAN
 
@@ -243,12 +243,12 @@
 
 <img src="shradheyaThakre/shradheyaThakre.jpg" width="100" /><br>
 [[Resume](shradheyaThakre/shradheyaThakre-Resume.md)]
-[[Website](https://www.linkedin.com/in/tshradheya/)]
+[[Website](http://www.shradheyathakre.me)]
 [[Github](https://github.com/tshradheya)]
 [[Progress](progress.md#shradheya-thakre)]
 
-* Expert areas: Java, Mobile Applications, Code Quality/DevOps
-* Projects: TEAMMATES
+* Expert areas: Java, Mobile Applications, Code Quality/Static Analysis Tools
+* Projects: TEAMMATES, Wikimedia Commons App, Exercism.io - Java
 
 ## TAN LI HAO
 

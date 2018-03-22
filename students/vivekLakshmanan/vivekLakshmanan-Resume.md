@@ -4,7 +4,6 @@ Email: vivekscl5@gmail.com | GitHub: https://github.com/vivekscl | LinkedIn: www
 ## Education 
 
 #### National University of Singapore (Aug 2016 - May 2020)
-
 * Bachelor of Computing, Computer Science
 * On track for Honours (Distinction)
 * Focus Areas: Software Engineering and Information Retrieval
@@ -12,9 +11,17 @@ Email: vivekscl5@gmail.com | GitHub: https://github.com/vivekscl | LinkedIn: www
 ## Professional Experience
 
 #### EP-TEC (May 2016 - July 2016)
-
 * Worked as a freelance teacher, teaching children from ages 12 – 16 years old to program in
 Scratch for Moway Robots
+
+#### SE-EDU(Software Engineering Education) Project (Dec 2017 - Present)
+* Contributed to addressbook-level4 of the SE-EDU project, a Java desktop application used to impart software engineering principles to students and as such demands a high standard of code quality
+* Estimated contribution: 250 Lines of Code, 7 pull requests merged
+
+#### Opac App Singapore (Feb 2018 - Present)
+* An Android client for public libraries
+* Added an option to disable loading of image covers while on a metered network
+* Estimated contribution: 40 Lines of Code, 1 pull request merged
 
 ## Projects
 
@@ -35,7 +42,9 @@ code quality, testing and documentation
 event-driven programming 
 * [More details here](https://cs2103aug2017-w13-b1.github.io/main/team/vivekscl.html) 
 
-## Skills
+## Language and Teachnologies
 
-* Proficient: Java, Python
-* Familiar: C, JavaScript, Git, GitHub, NLTK
+* Proficient: Java, Python, Git
+* Familiar: Travis CI, Gradle, Checkstyle, Bash, Unix/Linux, Android development
+* Previously used: Javascript, C, MEAN stack
+

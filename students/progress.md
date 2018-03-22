@@ -6,9 +6,9 @@
 * [RACHAEL SIM HWEE LING](#rachael-sim-hwee-ling)
 
 **PowerPointLabs**:
+* [ALEX FONG JIE WEN](#alex-fong-jie-wen)
 * [LEE YAN HWA](#lee-yan-hwa)
 * [TAN JUN KIAT](#tan-jun-kiat)
-* [ALEX FONG JIE WEN](#alex-fong-jie-wen)
 
 **SE-EDU**:
 * [KOH LEWIS](#koh-lewis)
@@ -34,7 +34,7 @@
 Week | Achievements
 ---- | ------------
 1 | Reviewed PR: [PR name 1 #1234]()
-1 | Authored PR: [PR name 4 #3245]()
+1 | Merged PR: [PR name 4 #3245]()
 2 | Submitted Issue: [Issue name #223]()
 2 | Authored PR (put on hold by request): [PR name 3 #365]()
 2 | Responded to contributor queries: [#1234](), [#4567]()
@@ -85,10 +85,12 @@ Week | Achievements
 3 | Merged PR: [Update parser trimming method to allow whitespace between elements #131](https://github.com/MarkBind/markbind/pull/131)
 4 | Merged PR: [Update Tokenizer to treat Markdown code as text instead of HTML #1](https://github.com/MarkBind/htmlparser2/pull/1)
 4 | Merged PR: [Update package.json to point to htmlparser2 fork #126](https://github.com/MarkBind/markbind/pull/126)
-5 |
-6 |
-7 |
-8 |
+5 | Submitted Issue: [<body> tag in included HTML causes formatting errors #148](https://github.com/MarkBind/markbind/issues/148)
+5 | Merged PR: [Update parser to allow for in-line rendering of Markdown content #142](https://github.com/MarkBind/markbind/pull/142)
+6 | Merged PR: [Import Typeahead component #13](https://github.com/MarkBind/vue-strap/pull/13)
+8 | Merged PR: [Add search feature #32](https://github.com/MarkBind/markbind-cli/pull/32)
+8 | Merged PR: [Add a test site #27](https://github.com/MarkBind/markbind-cli/pull/27)
+8 | Authored PR: [Add htmlparser2 as a dependency #38](https://github.com/MarkBind/markbind-cli/pull/38)
 9 |
 10 |
 11 |
@@ -106,10 +108,13 @@ Week | Achievements
 4 | Merged PR: [Support reuse of boilerplate files #110](https://github.com/MarkBind/markbind/pull/130), Authored PR: [Support reuse of boilerplate files #110 (CLI)](https://github.com/MarkBind/markbind-cli/pull/25)
 4 | Merged PR: [Support a shorter alias for <markdown> tag #136](https://github.com/MarkBind/markbind/pull/137)
 4 | Authored PR: [Support tooltip indicator for italic text #100](https://github.com/MarkBind/vue-strap/pull/10)
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [Record boilerplate includes separately #144](https://github.com/MarkBind/markbind/pull/144)
+7 | Merged PR: [Support user-defined variables #143](https://github.com/MarkBind/markbind/pull/145) (Authored in Week 5), Merged PR: [Support user-defined variables #143 (CLI)](https://github.com/MarkBind/markbind-cli/pull/34)
+7 | Merged PR: [Support multiple inclusions of a modal #107](https://github.com/MarkBind/vue-strap/pull/12) (Authored in Week 6)
+7 | Merged PR: [Record missing include src #156](https://github.com/MarkBind/markbind/pull/156)
+8 | Merged PR: [Ignore updates to source files while live-reloading is in progress #155](https://github.com/MarkBind/markbind-cli/pull/31)
+8 | Authored PR: [boilerplates: allow multiple boilerplates with similar names #159](https://github.com/MarkBind/markbind/pull/167)
+8 | Submitted Issue: [Build/live reload fails if a page/dynamically included file is missing #168](https://github.com/MarkBind/markbind/issues/168)
 9 |
 10 |
 11 |
@@ -117,6 +122,40 @@ Week | Achievements
 13 |
 
 # PowerPointLabs
+
+## ALEX FONG JIE WEN
+
+Week | Achievements
+---- | ------------
+1 | Merged PR: [Grammar fix for PictureSlidesLabWindow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1548)
+2 | Authored PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)  
+2 | Submitted + Investigated Issue: [SyncLab: Documenting supported items](https://github.com/PowerPointLabs/PowerPointLabs/issues/1570)
+2 | Submitted Issues:<br>[SyncLab: Design Decisions & Documentation](https://github.com/PowerPointLabs/PowerPointLabs/issues/1564)<br>[UX for ZoomLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1575)
+2 | Reviewed + Tested:[Highlight Text does not provide a message that nothing has changed](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
+3 | Submitted Issues:<br>[SyncLab: Copying SmartArt gives an error](https://github.com/PowerPointLabs/PowerPointLabs/issues/1581)<br>[ZoomLab: Error encounted when going through drill down tutorial](https://github.com/PowerPointLabs/PowerPointLabs/issues/1588)
+3 | Reviewed + Tested:<br>[Update Contributions.md to branch out from dev release instead of master for PRs](https://github.com/PowerPointLabs/PowerPointLabs/pull/158<br>[Messages to user are not consistent #1553](https://github.com/PowerPointLabs/PowerPointLabs/pull/1553)9)
+4 | Authored PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
+4 | Submitted + Investigated Issues:<br>[SyncLab: Error when opening on PPT2013](https://github.com/PowerPointLabs/PowerPointLabs/issues/1592)<br>[Opening Sync Lab causes exception](https://github.com/PowerPointLabs/PowerPointLabs/issues/1465)<br> [Freeform drawing tool bug](https://github.com/PowerPointLabs/PowerPointLabs/issues/1600)<br>[Suddenly failing tests - mostly from PSL](https://github.com/PowerPointLabs/PowerPointLabs/issues/1602)
+4 | Reviewed + Tested:<br>[Add a "Add" button for ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)<br>[Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
+4 | Tested:<br>[Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)<br>[Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
+5 | Tested PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
+5 | Authored PR: [1595-SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
+5 | Merged PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)
+6 | Submitted Issues:<br>[Alternative PowerPointLabs-Website build instructions](https://github.com/PowerPointLabs/PowerPointLabs/issues/1619)<br>[SyncLab: Refactor Format objects](https://github.com/PowerPointLabs/PowerPointLabs/issues/1618)
+6 | Merged PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
+6| Merged PR: [Copy-Operation-Made-The-Text-Disappear](https://github.com/PowerPointLabs/PowerPointLabs/pull/1617)
+6 | Merged PR: [Correctly-Log-Failure-To-Sync-Font-Format](https://github.com/PowerPointLabs/PowerPointLabs/pull/1621)
+6 | Merged PR: [SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
+6 | Reviewed PR: [Fix error for adding captions without notes in PPT 2010 #1616](https://github.com/PowerPointLabs/PowerPointLabs/pull/1616)
+6 | Authored PR: [SyncLab-Copying-SmartArt-gives-an-error](https://github.com/PowerPointLabs/PowerPointLabs/pull/1620)
+7 | -
+8 | -
+9 | Submitted Issue: [Unable to run FTs on 2013 with 2016 installed](https://github.com/PowerPointLabs/PowerPointLabs/issues/1641)
+9 | Authored PR: [replace with clipboard: preserve shape settings](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642)
+10 |
+11 |
+12 |
+13 |
 
 ## LEE YAN HWA
 
@@ -126,19 +165,25 @@ Week | Achievements
 2 | Submitted Issue: [Contributing.md link to OSS Coding Standard is broken #1560](https://github.com/PowerPointLabs/PowerPointLabs/issues/1560) <br> Merged PR: [Fix OSS-Generics Coding Standards link #1561](https://github.com/PowerPointLabs/PowerPointLabs/pull/1561)
 2 | Submitted Issue: [SyncLab: Error when opening SyncPane.cs in Designer #1558](https://github.com/PowerPointLabs/PowerPointLabs/issues/1558) <br> Submitted Issue: [Design Decision: SyncLab has no persistent data while ShapesLab will save shapes #1567](https://github.com/PowerPointLabs/PowerPointLabs/issues/1567) <br> Submitted Issue: [Inconsistency in Labs doing removal #1573](https://github.com/PowerPointLabs/PowerPointLabs/issues/1573)
 2 | Merged PR: [Code Quality: Resolve SonarQube issues #1562](https://github.com/PowerPointLabs/PowerPointLabs/pull/1562)
-2 | Authored PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
 2 | Submitted Issue: [Positions Lab: Should not require at least 2-3 shapes to be selected #1576](https://github.com/PowerPointLabs/PowerPointLabs/issues/1576)
-3 | Authored PR: [Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
 3 | Submitted Issue: [Captions Lab: Add ‘callouts’ support for the Audio Lab / Captions Lab #1586](https://github.com/PowerPointLabs/PowerPointLabs/issues/1586) <br> Submitted Issue: [Shapes Lab: Error appears when attempting to add placeholders to ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1591)
 3 | Reviewed / Tested: [Crop Lab: Provide PowerPoint's crop features in Crop Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1568)
 4 | Submitted Issue: [SyncLab: The Fill Color of textboxes are inconsistent when using SyncLab #1595](https://github.com/PowerPointLabs/PowerPointLabs/issues/1595) <br> Submitted Issue: [Captions Lab: Error in PPT 2010 when having no notes and then generating captions #1596](https://github.com/PowerPointLabs/PowerPointLabs/issues/1596) <br> Submitted Issue: [Labs should support placeholder objects #1599](https://github.com/PowerPointLabs/PowerPointLabs/issues/1599)
 4 | Merged PR: [Add a "Add" button for ShapesLab #1566](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)
 4 | Reviewed / Tested: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565) <br> Tested: [Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579) <br> Tested: [Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578) <br> Reviewed / Tested: [Suggested new feature: Paste To Fit Slide](https://github.com/PowerPointLabs/PowerPointLabs/pull/1583)
 5 | Submitted Issue: [ShapesLab / SyncLab: Add button should be disabled when nothing/illegal object is selected #1604](https://github.com/PowerPointLabs/PowerPointLabs/issues/1604) <br> Submitted Issue: [Running automated tests on AppVeyor CI #1605](https://github.com/PowerPointLabs/PowerPointLabs/issues/1605)
-6 |
-7 |
-8 |
-9 |
+5 | Reviewed / Tested: [SyncLab-The-Fill-Color-of-textboxes-are-inconsistent-when-using-SyncLab #1607](https://github.com/PowerPointLabs/PowerPointLabs/pull/1607)
+5 | Merged PR: [Refactor "global" variables in RibbonUI #1572](https://github.com/PowerPointLabs/PowerPointLabs/pull/1572)
+6 | Submitted Issue: [Error "there is no currently active document window" when there is no presentation open #1615](https://github.com/PowerPointLabs/PowerPointLabs/issues/1615) <br> Reviewed / Tested: [Copy-Operation-Made-The-Text-Disappear #1617](https://github.com/PowerPointLabs/PowerPointLabs/pull/1617)
+6 | Authored PR: [Fixes no currently active document window #1613](https://github.com/PowerPointLabs/PowerPointLabs/pull/1613) <br> Reviewed / Tested: [support syncing properties of pictures #1594](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
+6 | Merged PR: [Convert To Picture should not replace clipboard item #1580](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
+7 | Submitted Issue: [RestoreClipboardAfterAction should be able to return a value #1626](https://github.com/PowerPointLabs/PowerPointLabs/issues/1626)
+7 | Merged PR: [Fix error for adding captions without notes in PPT 2010 #1616](https://github.com/PowerPointLabs/PowerPointLabs/pull/1616)
+8 | Reviewed / Tested: [SyncLab-Copying-SmartArt-gives-an-error #1620](https://github.com/PowerPointLabs/PowerPointLabs/pull/1620)
+8 | Reviewed / Tested: [Add 'fill slide' in the right-click menu #1629](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
+8 | Submitted Issue: [PowerPointLabs website has no thumbnail photo when shared on Facebook #1633](https://github.com/PowerPointLabs/PowerPointLabs/issues/1633), Reviewed / Tested: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
+8 | Merged PR: [Extend restore clipboard for actions that return a value #1627](https://github.com/PowerPointLabs/PowerPointLabs/pull/1627)
+9 | Submitted Issue: [PasteLab: Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/issues/1634) <br> Authored PR: [#1439 Shape Lab will not affect clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1636) <br> Authored PR: [PasteLab: Add Tests for restoring clipboard #1635](https://github.com/PowerPointLabs/PowerPointLabs/pull/1635)
 10 |
 11 |
 12 |
@@ -187,30 +232,6 @@ Week | Achievements
 12 |
 13 |
 
-## ALEX FONG JIE WEN
-
-Week | Achievements
----- | ------------
-1 | Merged PR: [Grammar fix for PictureSlidesLabWindow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1548)
-2 | Authored PR: [SyncLab: support placeholder objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1565)  
-2 | Submitted + Investigated Issue: [SyncLab: Documenting supported items](https://github.com/PowerPointLabs/PowerPointLabs/issues/1570)
-2 | Submitted Issues:<br>[SyncLab: Design Decisions & Documentation](https://github.com/PowerPointLabs/PowerPointLabs/issues/1564)<br>[UX for ZoomLab](https://github.com/PowerPointLabs/PowerPointLabs/issues/1575)
-2 | Reviewed + Tested: [Highlight Text does not provide a message that nothing has changed](https://github.com/PowerPointLabs/PowerPointLabs/pull/1557)
-3 | Submitted Issues:<br>[SyncLab: Copying SmartArt gives an error](https://github.com/PowerPointLabs/PowerPointLabs/issues/1581)<br>[ZoomLab: Error encounted when going through drill down tutorial](https://github.com/PowerPointLabs/PowerPointLabs/issues/1588)
-3 | Reviewed: [Update Contributions.md to branch out from dev release instead of master for PRs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1589)
-4 | Authored PR: [Support syncing properties of pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1594)
-4 | Submitted + Investigated Issues:<br>[SyncLab: Error when opening on PPT2013](https://github.com/PowerPointLabs/PowerPointLabs/issues/1592)<br>[Opening Sync Lab causes exception](https://github.com/PowerPointLabs/PowerPointLabs/issues/1465)<br> [Freeform drawing tool bug](https://github.com/PowerPointLabs/PowerPointLabs/issues/1600)<br>[Suddenly failing tests - mostly from PSL](https://github.com/PowerPointLabs/PowerPointLabs/issues/1602)
-4 | Reviewed + Tested:<br>[Add a "Add" button for ShapesLab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1566)<br>[Easy access to "Insert Shape" functionality for relevent Labs](https://github.com/PowerPointLabs/PowerPointLabs/pull/1578)
-4 | Tested:<br>[Positions Lab: Should not require at least 2-3 shapes to be selected](https://github.com/PowerPointLabs/PowerPointLabs/pull/1579)<br>[Convert To Picture should not replace clipboard item](https://github.com/PowerPointLabs/PowerPointLabs/pull/1580)
-5 |
-6 |
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
-13 |
 
 # SE-EDU
 
@@ -236,15 +257,20 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Authored PR: [Replace use of `assert false` with `throw new AssertionError()` #264](https://github.com/se-edu/addressbook-level4/pull/788)
+1 | Merged PR: [Replace use of `assert false` with `throw new AssertionError()` #264](https://github.com/se-edu/addressbook-level4/pull/788)
 2 |
 3 |
-4 | Authored PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
+4 | Merged PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
 4 | Submitted Issue: [typicalPersonsAddressBook.xml: remove @code tag for header comment #822](https://github.com/se-edu/addressbook-level4/issues/822)
-5 |
-6 |
-7 |
-8 |
+5 | Submitted Issue: [RedoCommandTest: remove bypassing of encapsulation](https://github.com/se-edu/addressbook-level4/issues/828)
+5 | Submitted Issue: [TestUtil: update methods to use filtered list #829](https://github.com/se-edu/addressbook-level4/issues/829)
+5 | Merged PR: [XmlAdaptedPerson#toModelType(): Enforce checking of required parameters #725](https://github.com/se-edu/addressbook-level4/pull/806)
+5 | Merged PR: [Issue with undo/redo and modifications to filtered lists #737](https://github.com/se-edu/addressbook-level4/pull/792)
+6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783](https://github.com/se-edu/addressbook-level4/pull/833)
+7 | Reviewed PR: [UniquePersonList, AddressBook: update return type for remove and removePerson #830](https://github.com/se-edu/addressbook-level4/pull/836)
+7 | Merged PR: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/pull/832)
+8 | Authored PR: [HelpWindow: multiple help windows can be opened #819](https://github.com/se-edu/addressbook-level4/pull/850)
+8 | Submitted Issue: [Remove unnecessary use of `this`](https://github.com/se-edu/addressbook-level4/issues/856)
 9 |
 10 |
 11 |
@@ -257,15 +283,19 @@ Week | Achievements
 ---- | ------------
 1 | Merged PR: [AddCommandParser accepts invalid command format #763](https://github.com/se-edu/addressbook-level4/pull/763)
 2 | Merged PR: [Document how to set up coveralls reporting #787](https://github.com/se-edu/addressbook-level4/pull/787)  
-2 | Authored PR (put on hold by request): [Replace all verbose loops with lambda expression #805](https://github.com/se-edu/addressbook-level4/pull/805)
+2 | Merged PR: [Replace all verbose loops with lambda expression #805](https://github.com/se-edu/addressbook-level4/pull/805)
 3 | Merged PR: [Checkstyle: remove unnecessary properties with default values #802](https://github.com/se-edu/addressbook-level4/pull/802)
 3 | Submitted Issue: [Checkstyle: cleanup closing tags for modules that have no child tags](https://github.com/se-edu/addressbook-level4/issues/807)
 4 | Reviewed PR: [Issue with undo/redo and modifications to filtered lists #792](https://github.com/se-edu/addressbook-level4/pull/792)  
 4 | Merged PR: [Email regex validation does not accept '+' #820](https://github.com/se-edu/addressbook-level4/pull/820)
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [Test: replace all asserts with JUnit Assertion #821](https://github.com/se-edu/addressbook-level4/pull/821)
+5 | Merged PR: [HelpWindow: May interfere with UI Components while active #815](https://github.com/se-edu/addressbook-level4/pull/815)
+6 | Merged PR: [Developer Guide: Describe how to set up Netlify #833](https://github.com/se-edu/addressbook-level4/pull/833)
+6 | Reviewed PR: [AddressBook: remove master tag list #825](https://github.com/se-edu/addressbook-level4/pull/825)
+7 | Submitted Issue: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/issues/826)
+7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
+8 | Authored PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
+8 | Reviewed PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #845](https://github.com/se-edu/addressbook-level4/pull/845)
 9 |
 10 |
 11 |
@@ -280,9 +310,9 @@ Week | Achievements
 1 | Reviewed PR: [README: acknowledge use of third-party libraries #781](https://github.com/se-edu/addressbook-level4/pull/782)<br>Reviewed PR: [User Guide: add an introduction #779](https://github.com/se-edu/addressbook-level4/pull/780)<br>Reviewed PR: [Developer Guide: add instructions for manual testing #777](https://github.com/se-edu/addressbook-level4/pull/778)<br>Reviewed PR: [Developer Guide: specify target user profile and value proposition #775](https://github.com/se-edu/addressbook-level4/pull/776)<br>Reviewed PR: [Developer Guide: tweak undo/redo diagrams #773](https://github.com/se-edu/addressbook-level4/pull/774)<br>Reviewed PR: [Restructure sample Project Portfolio Page for easier reading #771](https://github.com/se-edu/addressbook-level4/pull/772)
 1 | Reviewed PR: [Replace all verbose loops with lambda expression #634](https://github.com/se-edu/addressbook-level4/pull/805)
 1 | Reviewed PR: [Document how to set up coveralls reporting #730](https://github.com/se-edu/addressbook-level4/pull/787)
-1 | Authored PR: [EditPersonDescriptor: update methods to perform defensive copy](https://github.com/se-edu/addressbook-level4/pull/795)
-1 | Authored PR: [Make Person immutable #751](https://github.com/se-edu/addressbook-level4/pull/765)
-1 | Authored PR: [DeveloperGuide: Update Undo/Redo numbering](https://github.com/se-edu/addressbook-level4/pull/766)<br>Authored PR: [ListElementPointer(List<String>): Update code to tally with comments](https://github.com/se-edu/addressbook-level4/pull/748)
+1 | Merged PR: [EditPersonDescriptor: update methods to perform defensive copy](https://github.com/se-edu/addressbook-level4/pull/795)
+1 | Merged PR: [Make Person immutable #751](https://github.com/se-edu/addressbook-level4/pull/765)
+1 | Merged PR: [DeveloperGuide: Update Undo/Redo numbering](https://github.com/se-edu/addressbook-level4/pull/766)<br>Merged PR: [ListElementPointer(List<String>): Update code to tally with comments](https://github.com/se-edu/addressbook-level4/pull/748)
 2 | Reviewed PR: [Checkstyle: remove unnecessary properties with default values #370](https://github.com/se-edu/addressbook-level4/pull/802)
 2 | Reviewed PR: [UiManager: delete duplicate code #734](https://github.com/se-edu/addressbook-level4/pull/804)<br>Reviewed PR: [LogicManager: constructor does not follow coding standard's usage of 'this' #729](https://github.com/se-edu/addressbook-level4/pull/810)
 2 | Reviewed PR: [Model: Add deleteTag(Tag)](https://github.com/se-edu/addressbook-level4/pull/790)
@@ -292,11 +322,17 @@ Week | Achievements
 4 | Reviewed PR: [Storage: Add backupAddressBook(ReadOnlyAddressBook)](https://github.com/se-edu/addressbook-level4/pull/594)<br>Reviewed PR: [Implement `remark` command](https://github.com/se-edu/addressbook-level4/pull/599)<br>Reviewed PR: [Ui: Show total persons in status bar](https://github.com/se-edu/addressbook-level4/pull/803)
 4 | Reviewed PR: [Storage layer needs proper error handling #749](https://github.com/se-edu/addressbook-level4/pull/816)
 4 | Reviewed PR: [Email regex validation does not accept `+` #743](https://github.com/se-edu/addressbook-level4/pull/820)
-4 | Authored PR: [BrowserPanel: load dummy page #733](https://github.com/se-edu/addressbook-level4/pull/793)
-5 |
-6 |
-7 |
-8 |
+4 | Merged PR: [BrowserPanel: load dummy page #733](https://github.com/se-edu/addressbook-level4/pull/793)
+5 | Submitted Issue: [UniquePersonList#remove(Person): update return value #830](https://github.com/se-edu/addressbook-level4/issues/830)<br>Submitted Issue: [Exceptions: update error messages #831](https://github.com/se-edu/addressbook-level4/issues/831)<br>Reviewed PR: [Rebase PRs used in suggested programming tasks #784](https://github.com/se-edu/addressbook-level4/pull/789)
+5 | Reviewed PR: [XmlAdaptedPerson#toModelType(): Enforce checking of required parameters #725](https://github.com/se-edu/addressbook-level4/pull/806)
+5 | Reviewed PR: [HelpWindow: May interfere with UI Components while active #727](https://github.com/se-edu/addressbook-level4/pull/815)
+6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783](https://github.com/se-edu/addressbook-level4/pull/833)
+7 | Submitted Issue: [UI components: apply delegation pattern for inter-VC communication #834](https://github.com/se-edu/addressbook-level4/issues/834)<br>Submitted Issue: [Refine MVC implementation #835](https://github.com/se-edu/addressbook-level4/issues/835)<br>Reviewed PR: [UniquePersonList, AddressBook: update return type for remove and removePerson #830](https://github.com/se-edu/addressbook-level4/pull/836)
+7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
+7 | Resolved Issue: [AddressBook-Lvl2 Unable to run runtests.bat](https://github.com/nus-cs2103-AY1718S2/forum/issues/12)<br>Resolved Issue: [Java 9 issues](https://github.com/nus-cs2103-AY1718S2/forum/issues/19)
+8 | Resolved Issue: [Junit test fails after adding some dependencies in build.gradle](https://github.com/se-edu/addressbook-level4/issues/849)<br>Submitted Issue: [SelectCommandSystemTest: update to verify selected card is visible](https://github.com/se-edu/addressbook-level4/issues/847)<br>Resolved Issue: [Unable to pass Travis(Bugs)](https://github.com/se-edu/addressbook-level4/issues/846)
+8 | Merged PR: [build.gradle: update to build project using Java 9 #374](https://github.com/se-edu/addressbook-level4/pull/837)
+8 | Merged PR: [PersonListPanel#personListView: revert type change #796](https://github.com/se-edu/addressbook-level4/pull/818)
 9 |
 10 |
 11 |
@@ -309,15 +345,17 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Merged PR: [Instructor: help page: make style of sections consistent](https://github.com/TEAMMATES/teammates/issues/8237)
-1 | Merged PR: [Use builder instead of telescoping constructor antipattern in CourseAttributes class](https://github.com/TEAMMATES/teammates/pull/8236)
-1 | Submitted Issue: [Student/Instructor: help page: add navbar](https://github.com/TEAMMATES/teammates/issues/8227)
-2 | Authored PR: [Attributes tests: avoid passing in an empty Google ID for student profiles](https://github.com/TEAMMATES/teammates/pull/8326)
+1 | Merged PR: [Instructor: help page: make style of sections consistent #8237](https://github.com/TEAMMATES/teammates/pull/8290)
+1 | Merged PR: [Use builder instead of telescoping constructor antipattern in CourseAttributes class #8236](https://github.com/TEAMMATES/teammates/pull/8236)
+1 | Submitted Issue: [Student/Instructor: help page: add navbar #8227](https://github.com/TEAMMATES/teammates/issues/8227)
 4 | Responded to contributor in issue tracker: [#8420](https://github.com/TEAMMATES/teammates/pull/8420)
-4 | Submitted Issue: [InstructorFeedbackResultsPage: merge tooltips with duplicate information](https://github.com/TEAMMATES/teammates/issues/8431)
-4 | Submitted Issue: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/issues/8431)
+4 | Submitted Issue: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/issues/8431)
+4 | Submitted Issue: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432](https://github.com/TEAMMATES/teammates/issues/8432)
 5 |
-6 |
+6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #8326](https://github.com/TEAMMATES/teammates/pull/8326)
+6 | Submitted Issue: [AccountAttributes: Add test cases for builder #8496](https://github.com/TEAMMATES/teammates/issues/8496)
+6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497](https://github.com/TEAMMATES/teammates/issues/8497)
+6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/issues/8498)
 7 |
 8 |
 9 |
@@ -334,12 +372,20 @@ Week | Achievements
 2 | Merged PR: [StringHelper: Use functional programming to improve code readability #7838 #8258](https://github.com/TEAMMATES/teammates/pull/8258)
 2 | Submitted Issue: [SanitizationHelper: Refactor with streams and add tests #8356](https://github.com/TEAMMATES/teammates/issues/8356)
 2 | Authored PR: [SanitizationHelper: Refactor with streams and add tests #8356 #8357](https://github.com/TEAMMATES/teammates/pull/8357)
+3 | Submitted issue: [adminActivityLogPage: improve timezone conversion](https://github.com/TEAMMATES/teammates/issues/8386)
 4 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 #8389](https://github.com/TEAMMATES/teammates/pull/8389)
-5 |
-6 |
-7 |
-8 |
-9 |
+5 | Responded to contributor query: [Help Request: Tests failing due to time format and decimal](https://github.com/TEAMMATES/teammates/issues/8444)
+6 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `createdAt` and `timeZone` fields](https://github.com/TEAMMATES/teammates/pull/8540)
+6 | Submitted issue: [Tests: certain tests are locale-dependent](https://github.com/TEAMMATES/teammates/issues/8557)
+7 | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate is/get methods in TimeHelper](https://github.com/TEAMMATES/teammates/pull/8564)
+7 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `timeZone` field to `ZoneId`](https://github.com/TEAMMATES/teammates/pull/8613)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes time fields from Date to Instant #8628](https://github.com/TEAMMATES/teammates/pull/8629)
+8 | Reviewed PR: [Migrate \*Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
+8 | Reviewed PR: [Migrate feedback session timeZone field to ZoneId #8638](https://github.com/TEAMMATES/teammates/pull/8639)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes gracePeriod field to Duration #8641](https://github.com/TEAMMATES/teammates/pull/8642)
+8 | Responded to contributor query: ["Date in String is in wrong format" exception when running tests](https://github.com/TEAMMATES/teammates/issues/8644)
+8 | Submitted issue: [TimeHelper: Remove all deprecated methods by updating their callers to call replacement methods instead](https://github.com/TEAMMATES/teammates/issues/8645)
+8 | Reviewed PR: [Admin: recent activity log: show correct 'time stamp in instructor timezone' #8594](https://github.com/TEAMMATES/teammates/pull/8651)
 10 |
 11 |
 12 |
@@ -357,10 +403,16 @@ Week | Achievements
 2 | Responded to contributor queries: [#8364](https://github.com/TEAMMATES/teammates/issues/8364)
 4 | Submitted issue: [InstructorFeedbackResultsPage: make span scrollable to fit the table to copy #8437](https://github.com/TEAMMATES/teammates/issues/8437)
 4 | Responded to contributor queries: [#8437](https://github.com/TEAMMATES/teammates/issues/8437), [#8483](https://github.com/TEAMMATES/teammates/issues/8438), [#8439](https://github.com/TEAMMATES/teammates/issues/8439)
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [InstructorFeedbackResultsPage: make span scrollable to fit the table to copy #8437](https://github.com/TEAMMATES/teammates/pull/8508)
+5 | Reviewed PR: [Instructor: update on number of char left for Session Name input #8475](https://github.com/TEAMMATES/teammates/pull/8476)
+5 | Submitted issue: [Instructor: feedback edit page: align tooltip to fit label for rank (recipients) question #8509](https://github.com/TEAMMATES/teammates/issues/8509)
+6 | Reviewed PR: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/pull/8572)
+6 | Merged PR: [Instructor Help: integrate documentation for contribution questions #8328](https://github.com/TEAMMATES/teammates/pull/8395)
+6 | Responded to contributor queries: [#8563](https://github.com/TEAMMATES/teammates/issues/8563)
+7 | Reviewed PR: [Instructor: add new session: rename session template options #8563](https://github.com/TEAMMATES/teammates/pull/8600)
+7 | Submitted issue: [InstructorFeedbackSession: Make validation for submission times stricter #8597](https://github.com/TEAMMATES/teammates/issues/8597)
+7 | Responded to contributor queries: [#8605](https://github.com/TEAMMATES/teammates/issues/8605), [#8599](https://github.com/TEAMMATES/teammates/issues/8599)
+8 | Reviewed PR: [Instructor Help : Make rubric question example consistent with the rest of the UI #8571](https://github.com/TEAMMATES/teammates/pull/8618)
 9 |
 10 |
 11 |
@@ -376,9 +428,8 @@ Week | Achievements
 2 | Merged PR: [Instructor: edit question: receiver is instructors: support specifying a max number of recipients #7512 ](https://github.com/TEAMMATES/teammates/pull/8371)
 3 | Submitted Issue: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/issues/8333)
 4 | Authored PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/pull/8384)
-5 |
-6 |
-7 |
+6 | Authored PR: [Give a way for students to request submission/results links to be resent #8490](https://github.com/TEAMMATES/teammates/pull/8543)
+7 | Merged PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/pull/8384)
 8 |
 9 |
 10 |
@@ -391,23 +442,34 @@ Week | Achievements
 Week | Achievements
 ---- | ------------
 1 | Submitted Issue: [Instructor: discard edit question button: sometimes button does not work #8329](https://github.com/TEAMMATES/teammates/issues/8329)
-1 | Merged PR: [Java: Use Java 8 map.getOrDefault #8250 #8253](https://github.com/TEAMMATES/teammates/pull/8253)
-1 | Merged PR: [Instructor: edit question: remove the need to click edit button multiple times #8148 #8330](https://github.com/TEAMMATES/teammates/pull/8330)
+1 | Merged PR: [Java: Use Java 8 map.getOrDefault #8250](https://github.com/TEAMMATES/teammates/pull/8253)
+1 | Merged PR: [Instructor: edit question: remove the need to click edit button multiple times #8148](https://github.com/TEAMMATES/teammates/pull/8330)
 2 | Submitted Issue: [Instructor: add rank question: prevent input field from shrinking when enabled #8355](https://github.com/TEAMMATES/teammates/issues/8355)
 2 | Submitted Issue: [Javascript: button event callback: use event.currentTarget #8335](https://github.com/TEAMMATES/teammates/issues/8335)
-2 | Merged PR: [Instructor: discard edit question button: sometimes button does not work #8329 #8331](https://github.com/TEAMMATES/teammates/pull/8331)
-2 | Merged PR: [Javascript: button event callback: use event.currentTarget #8335 #8340](https://github.com/TEAMMATES/teammates/pull/8340)
-3 | Merged PR: [Instructor home page: Fix broken panel buttons #8391 #8390](https://github.com/TEAMMATES/teammates/pull/8390)
-3 | Authored PR: [instructorFeedbackEdit: change question backup mechanism #7784 #8379](https://github.com/TEAMMATES/teammates/pull/8379)
-4 | Authored PR: [Instructor: copy session: allow observers to copy sessions #6594 #8413](https://github.com/TEAMMATES/teammates/pull/8413)
-4 | Authored PR: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432 #8434](https://github.com/TEAMMATES/teammates/pull/8434)
-4 | Authored PR: [Sessions: view results: stop showing a random identifier for anonymous responses #6092 #8443](https://github.com/TEAMMATES/teammates/pull/8443)
+2 | Merged PR: [Instructor: discard edit question button: sometimes button does not work #8329](https://github.com/TEAMMATES/teammates/pull/8331)
+2 | Merged PR: [Javascript: button event callback: use event.currentTarget #8335](https://github.com/TEAMMATES/teammates/pull/8340)
+3 | Merged PR: [Instructor home page: Fix broken panel buttons #8391](https://github.com/TEAMMATES/teammates/pull/8390)
+3 | Merged PR: [instructorFeedbackEdit: change question backup mechanism #7784](https://github.com/TEAMMATES/teammates/pull/8379)
+3 | Responded to Contributor Queries: [Misalignment in Instructor table while adding Instructors by admin](https://github.com/TEAMMATES/teammates/issues/8381)
+4 | Merged PR: [Instructor: copy session: allow observers to copy sessions #6594](https://github.com/TEAMMATES/teammates/pull/8413)
+4 | Merged PR: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432](https://github.com/TEAMMATES/teammates/pull/8434)
+4 | Merged PR: [Sessions: view results: stop showing a random identifier for anonymous responses #6092](https://github.com/TEAMMATES/teammates/pull/8443)
 4 | Investigated a bug: [Instructor: view results: fix IndexOutOfBoundsException #8415](https://github.com/TEAMMATES/teammates/issues/8415)
-5 |
-6 |
-7 |
-8 |
-9 |
+5 | Merged PR: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/pull/8469)
+5 | Reviewed PR: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/pull/8470)
+6 | Authored PR: [Instructor: home page: support a way to resend 'result published' link to selected students #6634](https://github.com/TEAMMATES/teammates/pull/8501)
+6 | Responded to Contributor Queries: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing](https://github.com/TEAMMATES/teammates/issues/8463)
+6 | Submitted Issue: [Sessions: instructor view results: stop showing a random identifier for anonymous responses](https://github.com/TEAMMATES/teammates/issues/8532)
+7 | Authored PR: [Instructor: remind students: collapse the two options into one #8530](https://github.com/TEAMMATES/teammates/pull/8537)
+7 | Reviewed PR: [Instructor: remind students: send email copies only to requesting instructor #8531](https://github.com/TEAMMATES/teammates/pull/8535)
+7 | Reviewed PR: [Student:FeedbackSubmissionEditPage incomplete display of question title #8505](https://github.com/TEAMMATES/teammates/pull/8516)
+7 | Responded to Contributor Queries: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default](https://github.com/TEAMMATES/teammates/issues/8576)
+7 | Responded to Contributor Queries: [Help Request: CI Test Procedure](https://github.com/TEAMMATES/teammates/issues/8610)
+8 | Reviewed PR: [Distribute points questions: fix total points to distribute being reset to non-default value #8605](https://github.com/TEAMMATES/teammates/pull/8612)
+8 | Responded to Contributor Queries: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
+8 | Responded to Contributor Queries: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
+8 | Submitted Issue: [Instructor: remind particular students: show sorted student list](https://github.com/TEAMMATES/teammates/issues/8630)
+9 | Reviewed PR: [Instructor: remind particular students: show sorted student list #8630](https://github.com/TEAMMATES/teammates/pull/8653)
 10 |
 11 |
 12 |
@@ -445,10 +507,18 @@ Week | Achievements
 3 | Submitted Issue: [Hot reloading for javascript](https://github.com/TEAMMATES/teammates/issues/8383)
 3 | Authored PR: [Instructor: Add placeholder to replace pre-filled value of ranking question](https://github.com/TEAMMATES/teammates/pull/8373)
 4 | Submitted Issue: [Testing: Disabling cache in selenium](https://github.com/TEAMMATES/teammates/issues/8436)
-4 | Authored PR: [Test: Disable browser cache through selenium](https://github.com/TEAMMATES/teammates/pull/8440)
-5 |
-6 |
-7 |
+4 | Authored PR (Abandoned): [Test: Disable browser cache through selenium](https://github.com/TEAMMATES/teammates/pull/8440)
+5 | Submitted Issue: [Instructor: edit question: distribute question options vs recipients tooltip (UI)](https://github.com/TEAMMATES/teammates/issues/8465)
+5 | Submitted Issue: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/issues/8463)
+5 | Reviewed PR: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default #8576](https://github.com/TEAMMATES/teammates/pull/8584)
+6 | Authored PR: [Instructor: edit feedback: support min max for distribute points questions #8450](https://github.com/TEAMMATES/teammates/pull/8464)
+6 | Authored PR: [Instructor: Feedback Results: Show No Specific Section if non-empty #7633 #8539](https://github.com/TEAMMATES/teammates/pull/8539)
+7 | Submitted Issue: [Testing: Using `WebElement#Click` instead of `Click()`](https://github.com/TEAMMATES/teammates/issues/8623)
+7 | Reviewed PR: [Rubric questions: show summary excluding self-evaluation #6887](https://github.com/TEAMMATES/teammates/pull/8517)
+7 | Responded to Contributor Queries: [https://github.com/TEAMMATES/teammates/issues/8611](https://github.com/TEAMMATES/teammates/issues/8611)
+7 | Responded to Contributor Queries: [Tests fail on the dev server](https://github.com/TEAMMATES/teammates/issues/8619)
+8 | Submitted issue: [Backend Validation for Questions](https://github.com/TEAMMATES/teammates/issues/8646)
+8 | Responded to Contributor Queries: [Help Request: How JS Minification Works](https://github.com/TEAMMATES/teammates/issues/8684)
 8 |
 9 |
 10 |
@@ -462,17 +532,25 @@ Week | Achievements
 ---- | ------------
 1 | Submitted Issue: [setting-up.md: Fix tracking of upstream repository instructions #8241](https://github.com/TEAMMATES/teammates/issues/8241)
 1 | Submitted Issue: [Add custom gradle task for deployment #8260](https://github.com/TEAMMATES/teammates/issues/8260)
-1 | Authored PR: [Java: Use Java 8 lambda as comparators #8217 #8233](https://github.com/TEAMMATES/teammates/pull/8233)
+1 | Merged PR: [Java: Use Java 8 lambda as comparators #8217 #8233](https://github.com/TEAMMATES/teammates/pull/8233)
 2 | Submitted Issue: [Enhancement: Improve Email Layout by using buttons for links #8312](https://github.com/TEAMMATES/teammates/issues/8312)
 2 | Submitted Issue: [DeveloperGuide.adoc : Broken link of 'oss-generic coding standard' #800](https://github.com/se-edu/addressbook-level4/issues/800)
 2 | Submitted Issue: [Clearing the contacts list does not clear the browser #731](https://github.com/se-edu/addressbook-level4/issues/731)
-2 | Authored PR: [DeveloperGuide.adoc: fix broken hyperlink to coding standard #800 #812](https://github.com/se-edu/addressbook-level4/pull/812)
+2 | Merged PR: [DeveloperGuide.adoc: fix broken hyperlink to coding standard #800 #812](https://github.com/se-edu/addressbook-level4/pull/812)
 3 | Submitted Issue: [Enhancement: Do not trigger Travis CI/AppVeyor tests for document only changes in PR #813](https://github.com/se-edu/addressbook-level4/issues/813)
-3 | Authored PR: [Fix shrinking of Input feild for Rank Recipient/Options question #8355 #8360](https://github.com/TEAMMATES/teammates/pull/8360)
-3 | Authored PR: [CSS files: fix coding standard violations #7931 #8352](https://github.com/TEAMMATES/teammates/pull/8352)
-4 | Authored PR: [Replace raw exception throws in production code #7085 #8354](https://github.com/TEAMMATES/teammates/pull/8354)
-4 | Authored PR: [Use builder instead of telescoping constructor antipattern in AccountAttributes class #7190 #8382](https://github.com/TEAMMATES/teammates/pull/8382)
+3 | Merged PR: [Fix shrinking of Input feild for Rank Recipient/Options question #8355 #8360](https://github.com/TEAMMATES/teammates/pull/8360)
+3 | Merged PR: [CSS files: fix coding standard violations #7931 #8352](https://github.com/TEAMMATES/teammates/pull/8352)
+4 | Merged PR: [Replace raw exception throws in production code #7085 #8354](https://github.com/TEAMMATES/teammates/pull/8354)
+4 | Merged PR: [Use builder instead of telescoping constructor antipattern in AccountAttributes class #7190 #8382](https://github.com/TEAMMATES/teammates/pull/8382)
 4 | Authored PR (put on hold by request): [Enhanced email interface for join links #8312 #8327](https://github.com/TEAMMATES/teammates/pull/8327)
+5 | Merged PR: [MCQ and MSQ question: fix cancel question feature #7934 #8472](https://github.com/TEAMMATES/teammates/pull/8472)
+5 | Submmitted Issue: [Enhancement: Instructor: All Records of Student: Improve UI #8492](https://github.com/TEAMMATES/teammates/issues/8492) <br> Submmitted Issue: [Instructor: create session: Improve error message shown when session created with invalid information #8471](https://github.com/TEAMMATES/teammates/issues/8471) <br> Submmitted Issue: [development.md: As Instructor: Remove `Short Name` from credentials of Instructor in Setting up guide #8495](https://github.com/TEAMMATES/teammates/issues/8495)
+6 | Reviewed PR: [Replace all instances of `Const#EOL` with `System#lineSeparator()` #8299 #8420](https://github.com/TEAMMATES/teammates/pull/8420)
+6 | Reviewed PR: [AccountAttributes: Add test cases for builder #8496 #8551](https://github.com/TEAMMATES/teammates/pull/8551)
+7 | Merged PR: [development.md: As Instructor: Remove `Short Name` from credentials of Instructor in Setting up guide #8495 #8499](https://github.com/TEAMMATES/teammates/pull/8499) <br> Merged PR: [FeedbackSessionQuestionTypeTest.json: fix malformed question metadata #8418 #8521](https://github.com/TEAMMATES/teammates/pull/8521)
+7 | Reviewed PR: [Instructor: Edit session : Distribute (Options) question : Points per option button stays hidden #8603 #8604](https://github.com/TEAMMATES/teammates/pull/8604) <br> Authored PR: [PR to help solve https://github.com/TEAMMATES/teammates/issues/8412](https://github.com/tshradheya/teammates/pull/2)
+8 | Merged PR: [Instructor: remind students: send email copies only to requesting instructor #8531 #8535](https://github.com/TEAMMATES/teammates/pull/8535)
+8 | Responded to Contributor Queries: [Help Request : Create app on GAE #8407](https://github.com/TEAMMATES/teammates/issues/8407) <br> [New contributor self intro Luan N. Pham #8615](https://github.com/TEAMMATES/teammates/issues/8615) <br> [New Contributor Self Intro : Kartik Setia #8534](https://github.com/TEAMMATES/teammates/issues/8534) <br> [Help Request: Build Error / java: reference to until is ambiguous #8361](https://github.com/TEAMMATES/teammates/issues/8361)
 9 |
 10 |
 11 |
@@ -487,10 +565,12 @@ Week | Achievements
 2 | Authored PR: [Sync Checkstyle version for IntelliJ with the version defined in build script #8347 #8349](https://github.com/TEAMMATES/teammates/pull/8349)
 3 | -
 4 | -
-5 |
-6 |
-7 |
-8 |
+5 | Reviewed PR: [const.js: rename and document semantics of constants #7706 #8401](https://github.com/TEAMMATES/teammates/pull/8401)
+6 | Submitted Issue: [Investigate how to disable buttons #8462](https://github.com/TEAMMATES/teammates/issues/8462)
+6 | Reviewed PR: [Replace all instances of \`Const#EOL\` with \`System#lineSeparator()\` #8299 #8420](https://github.com/TEAMMATES/teammates/pull/8420)
+7 | Discussed Issue: [Testing: Using \`WebElement#Click\` instead of \`Click()\` #8623](https://github.com/TEAMMATES/teammates/issues/8623)
+7 | Reviewed PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333 #8384](https://github.com/TEAMMATES/teammates/pull/8384)
+8 | Reviewed PR: [Student: submit responses: mention that partial answers can be saved #7993 #8367](https://github.com/TEAMMATES/teammates/pull/8367)
 9 |
 10 |
 11 |
@@ -503,16 +583,27 @@ Week | Achievements
 ---- | ------------
 1 | Nothing
 2 | Submitted Issue: [TimeHelper: migrate to Java 8's `java.time` #8362](https://github.com/TEAMMATES/teammates/issues/8362)
-3 | Authored PR: [Admin: masquerade mode: allow viewing of profile pictures for any course #8140](https://github.com/TEAMMATES/teammates/pull/8323)
-4 | Authored PR: [StudentProfilePageUiTest failing on live server #8393](https://github.com/TEAMMATES/teammates/pull/8396)
+3 | Merged PR: [Admin: masquerade mode: allow viewing of profile pictures for any course #8140](https://github.com/TEAMMATES/teammates/pull/8323)
+4 | Merged PR: [StudentProfilePageUiTest failing on live server #8393](https://github.com/TEAMMATES/teammates/pull/8396)
 4 | Reviewed PR: [Migrate FeedbackSession time fields to UTC #8093](https://github.com/TEAMMATES/teammates/pull/8094)
 4 | Submitted Issue: [InstructorCoursesPage: course creation time is displayed in UTC instead of local time #8427](https://github.com/TEAMMATES/teammates/issues/8427), [Admin: ongoing sessions list: fix missing sessions #8421](https://github.com/TEAMMATES/teammates/issues/8421)
 4 | Responded to contributor queries: [#8406](https://github.com/TEAMMATES/teammates/issues/8406)
-4 |
-5 |
-6 |
-7 |
-8 |
+5 | Nothing
+6 | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - combineDateTime](https://github.com/TEAMMATES/teammates/pull/8389)
+Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrating conversion and formatting methods](https://github.com/TEAMMATES/teammates/pull/8428)
+Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `createdAt` and `timeZone` fields](https://github.com/TEAMMATES/teammates/pull/8540)
+7 | Submitted Issue: [AdminActivityLogTableRow: fix bug in displaying error message](https://github.com/TEAMMATES/teammates/issues/8608) - this is actually a Cross Site Scripting (XSS) vulnerability
+7 | Merged PR: [AdminActivityLogTableRow: fix bug in displaying error message #8608](https://github.com/TEAMMATES/teammates/pull/8609)
+7 | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate course `timeZone` field to `ZoneId`](https://github.com/TEAMMATES/teammates/pull/8613)
+7 | Reviewed PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate is/get methods in TimeHelper](https://github.com/TEAMMATES/teammates/pull/8564)
+7 | Reviewed PR: [Load time zone rules from resource file on application startup #8574](https://github.com/TEAMMATES/teammates/pull/8575)
+7 | Responded to contributor queries: [New contributor self intro Luan N. Pham](https://github.com/TEAMMATES/teammates/issues/8615)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes time fields from Date to Instant #8628](https://github.com/TEAMMATES/teammates/pull/8629)
+8 | Reviewed PR: [Migrate *Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
+8 | Reviewed PR: [Migrate feedback session timeZone field to ZoneId #8638](https://github.com/TEAMMATES/teammates/pull/8639)
+8 | Reviewed PR: [Migrate FeedbackSessionAttributes gracePeriod field to Duration #8641](https://github.com/TEAMMATES/teammates/pull/8642)
+8 | Reviewed PR: [TimeHelper: convertLocalDateToUtc: do not shift special time representations #8655](https://github.com/TEAMMATES/teammates/pull/8656)
+8 | Responded to contributor queries: ["Date in String is in wrong format" exception when running tests](https://github.com/TEAMMATES/teammates/issues/8644)
 9 |
 10 |
 11 |
@@ -532,10 +623,13 @@ Week | Achievements
 2 | Merged PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8226)
 3 | Nothing
 4 | Authored PR: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/pull/8400)
-5 |
-6 |
-7 |
-8 |
+5 |Submitted Issue: [Instructor: add session: show number of chars left for session name input](https://github.com/TEAMMATES/teammates/issues/8475)
+5 |Authored PR: [Instructor: update on number of char left for Session Name input](https://github.com/TEAMMATES/teammates/pull/8476)
+6 |Submitted Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 |Respond to Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 |Authored PR: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/pull/8572)
+7 |Reviewed PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option](https://github.com/TEAMMATES/teammates/pull/8577)
+8 |Reviewed PR: [Instructor create session: default questions: replace 'contribution question'](https://github.com/TEAMMATES/teammates/pull/8601)
 9 |
 10 |
 11 |

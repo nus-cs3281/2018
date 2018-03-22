@@ -70,8 +70,13 @@ NUS Modules Tracker is a front-end web interface designed for students in mind, 
 - Ultilised C# for Game Development projects in Unity
 
 #### UX Design
-- Wrote two book chapters on the [Process of UX Design]() and [How to Refine UX Skills]()
+- Wrote two book chapters on the [Process of UX Design](https://github.com/se-edu/learningresources/blob/master/contents/uix/uix.md#the-process-of-ux-design) and How to Refine UX Skills
 - Gave two UX-related talks on [Typography](https://github.com/nus-cs3281/2018/issues/15) and [Negative Space](https://github.com/nus-cs3281/2018/issues/39)
 
 #### Documentation
 - Improved documentation for PowerPointLabs and TEAMMATES to enable clearer instructions for new contributors
+
+# Computer Skills
+- Proficient in C#, Java
+- Experience with Visual Studios 2017, Eclipse, Unity, Unreal Engine, Git
+- Fluent in spoken/written English and Mandarin

@@ -486,11 +486,16 @@ Week | Achievements
 3 |Authored PR(put on hold): [Partially fix extension not working #13](https://github.com/nus-oss/Git-Labels/pull/14)
 4 |Submitted Issue: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/issues/8403)
 4 | Merged PR: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/pull/8404)
-5|
-6|
-7|
-8|
-9 |
+5| Submitted Issue: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/issues/8453)
+6| Reviewed PR :[Enhancement: Instructor: All Records of Student: Improve UI](https://github.com/TEAMMATES/teammates/pull/8502)
+7| Submitted Issue : [Student: Feedback submission page: Tell student they have not answered all questions](https://github.com/TEAMMATES/teammates/issues/8598)
+7| Submitted Issue: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
+7| Reviewed PR: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/pull/8553)
+8| Submitted Issue: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage](https://github.com/TEAMMATES/teammates/issues/8648)
+8| Reviewed PR: [Instructor: edit question: distribute question options vs recipients tooltip (UI). #8465](https://github.com/TEAMMATES/teammates/pull/8668)
+8| Merged PR: [Instructor: edit session: multiple choice questions: support generating options for all other students #8412](https://github.com/TEAMMATES/teammates/pull/8445)
+9 | Reviewed PR: [Instructor: edit session: multiple choice questions: support generating options for all other teams #8661](https://github.com/TEAMMATES/teammates/pull/8689)
+9| Reviewed PR: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage #8648](https://github.com/TEAMMATES/teammates/pull/8676)
 10 |
 11 |
 12 |

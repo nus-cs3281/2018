@@ -38,14 +38,32 @@
 
 {write your observations here}
 
-
 ## CHUA YUN ZHI NICHOLAS
-**Project**:
+**Project**: [ESLint](https://github.com/eslint/eslint)
+- [Contributing Guidlines](https://eslint.org/docs/developer-guide/contributing/)
+- [Submitting PRs](https://eslint.org/docs/developer-guide/contributing/pull-requests)
 
 **Observations**:
 
-{write your observations here}
+I chose this project as I was working on configuring ESLint for MarkBind's repositories. At the same time I was comfortable with the language (JavaScript).
 
+Firstly, I think one key take away from contributing to ESLint is that **my code affects many people**:
+
+After merging my pull request, my code is available for all to use and also scrutinize. And in due time there were bug reports [#10036](https://github.com/eslint/eslint/issues/10036), [#10101](https://github.com/eslint/eslint/issues/10101). Additionally, another user posted a [nasty comment](https://github.com/eslint/eslint/pull/9876#event-1482702460), which was deleted. Did not really feel the impact of my changes when working on MarkBind as we have a few users only.
+
+Secondly, Contributing to Open Source is **slow**. My PR went unnoticed for 1 week and I had to ping the dev team for a review. It took 3 weeks to merge my pull request. I noticed that I was extra careful when creating the pull request, otherwise I would have to wait another 3-4 days for another review.
+
+I felt that ESLint could improve the documentation on how to do testing. Most of my tests and options were copied from other tests. Thankfully the test framework was very well written and I was able to write the tests easily.
+
+**What MarkBind can adopt**:
+
+Writing more tests. If MarkBind's userbase grows, we need to ensure that a new change won't break our product. In ESLint there's a test framework that lets contributors write test easily (due to the pluggable nature of ESLint). Currently we have a site diffing script but I would imagine that MarkBind can benefit from unit tests as well.
+
+[Semantic commit messages](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716). ESLint enforces a [tag](https://eslint.org/docs/developer-guide/contributing/pull-requests#step-2-make-your-changes) in the first line of the commit message. I think MarkBind developers could benefit from this helping us better group our commits. At the same time, we can easily find any missing changes in a PR. For example, a missing `doc` commit. I think one challenge could be identifying the correct tag for some commits. Had some debate in another repository on what is considered a chore/refactor. When we define these tags, we need to be very clear and introduce our own tags if appropriate.
+
+Pull Request / Issue Format. [Proposing new rule](https://eslint.org/docs/developer-guide/contributing/new-rules), [proposing rule changes](https://eslint.org/docs/developer-guide/contributing/rule-changes). When proposing features/changes, users must follow a pull request format which is auto generated when writing an issue or pull request. This could be helpful for MarkBind team when trying to flesh out the features for MarkBind. If we have a good format, we will have less confusion/discussion about the feature details.
+
+Release documentation. In ESLint, a release will have the [commits merged](https://github.com/eslint/eslint/releases) written in the description. All PRs are squashed and the PR title is used. Perhaps we could follow suit as a simple way to let users know of our latest changes.
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 **Project**:
@@ -181,7 +199,7 @@ Observations about Teammates can be broadly divided into 2 categories: ***Docume
 
 Teammates is more structured in terms of its overall documentation and how they are displayed. Specifically, resources for new/current developers are very well organized. They have [Documentation for Developers](https://github.com/TEAMMATES/teammates/blob/master/docs/README.md), which details project architecture, set-up, workflow, and maintainer guide for core developers. There are even supplementary or how-to documents for further reading, and details important features like [God-mode](https://github.com/TEAMMATES/teammates/blob/master/docs/README.md#how-to-documents). There is also the [Contributor Orientation Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/orientation-guide.md), which orientates new developers to project structure, set-up of dev environment and how to start contributing to Teammates.
 
-While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the minimalistic approach of PowerPointLabs is that its instructions leave little room for set-up error because it is concise. Therefore balance must be found in the amount of information displayed. 
+While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the minimalistic approach of PowerPointLabs is that its instructions leave little room for set-up error because it is concise. Therefore balance must be found in the amount of information displayed.
 
 One good example for future reference is the github page for [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate), which concisely organises all essential information for easy reference.
 

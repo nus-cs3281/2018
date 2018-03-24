@@ -262,11 +262,19 @@ PowerPointLabs may be a smaller project comparatively, but it is good to learn f
 
 
 ## TRAN TIEN DAT
-**Project**:
+**Project**: [Mitmproxy](https://github.com/mitmproxy/mitmproxy/)
 
 **Observations**:
 
-{write your observations here}
+Mitmproxy is a Python-based set of tools to to intercept and manipulate HTTP/HTTPS traffic, used primarily for security testing and research. The contributing process is quite standard. I just had to make a comment in the issue to let people know that I was working on the issue. Once I had completed a fix, I would open a PR and wait for the mainainer's review. The project uses unit testing and code coverage tool tox for quality assurance. New PRs are built and tested on Travis and Appveyor for continuous integration.
+
+One thing I noticed is that the [instructions for contributing](https://github.com/mitmproxy/mitmproxy/) is really short and simple. Contributors just need to run a script and all the necessary dependencies will be installed. Together with a few paragraphs about how to build the project, how to run the tests, and a link to the documentation, the development setup guide does not mention anything about any advanced configurations like IDEs, even though the core developers are using PyCharm. I think this short guide is very attractive to contributors, as it goes straight to the point and gives the feeling that contributing to the project is not hard. Comparing this with the internal project, TEAMMATES, I think the [TEAMMATES Contributing Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md) can definitely be improved. The development environment setup guide requires a few clicks away from the main page, and along the way contributors had to go through unrelevant things like project visions, project features. I think these documents can be more concise and better organised.
+
+While I support having a short and simple setting up guide by having scripts to automate the process, sufficient details should still be given about what the script is doing. I had some problems while trying to set up the development environment for Mitmproxy because I was using Windows (surprise!). In the end I managed to solve the problem by reading the set up scripts, figuring out what it is doing, and doing the equivalent thing in my specific configurations. This teaches me that codes are not just to tell the computer to do something, but also for others to understand and fix when things go wrong. Hence, codes should always be accompanied by sufficient explanations.
+
+Another thing that I learnt from contributing to the project is that it is important for maintainers to document how issues are related to each other. For my first PR, I found an issue which nobody was working on, so I opened a PR to fix it. Only then did I discover that the issue was related to another issue that someone else was working on. Thus my first attempt at fixing the issue had conflicts with the proposed solution of the other issue. To avoid further conflicts, I waited for the other issue to be resolved and merged before resuming working on mine. The problem could have been avoided if the maintainers were aware of how similar the issues were and referenced one from the other in the issue tracker. In this regards, I think TEAMMATES is doing a good job in triaging issues and documenting the relevant information in the issue threads.
+
+Lastly, I would like to suggest some practices of Mitmproxy that our internal project should adopt. They have a folder in the project for documentations and have automatic tools to generate a [static website](https://docs.mitmproxy.org) for the documentation. I think we can use Github Pages for this purpose. Having a centralized place to look for documentations, with navigation links to quickly find what I want to read is very helpful in developing.
 
 
 ## VIVEK LAKSHMANAN

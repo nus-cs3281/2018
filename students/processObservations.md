@@ -232,11 +232,59 @@ PowerPointLabs may be a smaller project comparatively, but it is good to learn f
 
 
 ## VIVEK LAKSHMANAN
-**Project**:
+### Project: NLTK
+* [Contribution Guidelines](https://github.com/nltk/nltk/blob/develop/CONTRIBUTING.md)
 
-**Observations**:
+I chose NLTK as my external project as I was learning about NLP (Natural Language Processing) in my Introduction to Information Retrieval Module and I wanted to dig in deeper. At the same time, I wanted to improve the quality of my python code. Though the time spent with NLTK was short, I was able to learn much about their workflow and practices that will be of use to SE-EDU.
 
-{write your observations here}
+#### Observations
+* **Copy-and-paste style for Git Workflow**
+<br>
+In the `GitHub Pull requests` section of the contribution guidelines, rather than being comprehensive, the **instructions given were simple and to the point**. Furthermore, every point was accompanied by a `git` command used to carry out the instruction. This allowed for new contributors to **understand and get started with the workflow very quickly**. 
+
+* **Separate branch for development**
+<br>
+The main branch that is meant for release is separated from the branch that is constantly updated. This separation from the main branch allowed for easier management of bad/breaking commits before the release of the main codebase. When an issue arises, such as breaking of code due to updating of software/libraries, it becomes easier to revert changes and apply patches, allowing for the `git` tree of the main branch to remain clean and free of bad commits.
+
+#### Takeaways
+* **No contribution is too small**
+<br>
+Every pull request, no matter how small the contribution, is acknowledged and is given recognition if done well. For instance, for my pull request, even though it was rather small, by taking an effort to analyse the problem and providing a comprehensive explanation on what I did, the pull request was acknowleged with an `awesome-contribution` tag that pushed me to contribute more.
+
+* **Being inactive on reviewing PRs can be detrimental**
+<br>
+On many cases, the project maintainers can be rather inactive for long periods of time which can hinder the progress of the pull request. Quite often, doubts don't get answered or pull requests get closed with a lack of explanation, which is rather counterproductive given how much effort was put in to acknowledge small contributions. 
+
+#### Practices to adopt for SE-EDU
+* **Have a simpler contribution guideline for new contributors**
+<br>
+From a first-hand experience, the contribution guidelines for SE-EDU takes a few hours to read, process and apply. Though it may be comprehensive and beneficial in the long term for imparting software engineering principles, it can be rather daunting for new contributors. For instance, first-timers find it hard to read through the workflow document from the `oss-generic` repository as it contains large paragraphs of explanation and links pointing different tutorials/documents. Furthermore, the guidelines are nor easily found in the repository itself, making it difficult for first-timers to get started. **Therefore, a separate `CONTRIBUTING.md` file, written in a simple and straightforward manner like in NLTK**, for SE-EDU can help new contributors ease into the workflow and get started quickly.
+
+* **Create a develop branch**
+<br>
+Although this workflow is usually used for larger projects, having a development branch can prove useful in situations where there is an upgrade of the software tools that if merged ahead of time, can cause several implications. This is especially so in the case of Java which has a release every six months and some of the updates may not be backwards compatible. Other such upgrades would be Gradle that can cause implications when using certain libraries such as the `TestFX` library for which Gradle outputs warnings for after the upgrade. 
+
+### Project: OpacApp
+* [Contribution Guidelines](https://github.com/opacapp/opacclient/wiki/How-to-build-the-project)
+
+After facing difficulties with the inactivity in NLTK, I moved on to OpacApp, an android app for accessing scientific libraries. I chose this project as I wanted to get familiar with Android development and improve the quality of my Java code as well.
+
+#### Observations
+* **Offering moderate level issues to first-timers**
+<br>
+Rather than offering simple issues such as bug or typo fixes, OpacApp offers first-timers to attempt issues that are slightly harder. This is done by providing a detailed description of the issue, how to get started on it and several guideposts to follow in order to fix the issue. With this, first-timers not only gain much more exposure, they also become **more familiar with the codebase, preparing them for future issues**.   
+
+
+#### Takeaways
+* **Documentation of code heavily affects development time**
+<br>
+Unlike SE-EDU's extensive documentation of code, OpacApp has very little documentation of code. For instance, many functions and large blocks of code are not accompanied by comments. Though the app was developed with a priority on functioning code, documentation of code would help lower the learning curve for new developers. Even though it takes time to read the comprehensive documentation in SE-EDU, the time taken to understand what the code was trying to do was substantially shorter than that for the undocumented code in OpacApp.
+
+#### Practices to adopt for SE-EDU
+
+* **Offer moderate level issues to first-timers**
+<br>
+In SE-EDU, first-timer issues are predominantly issues that require simple code cleanup or bug fixes. When first-timers move on to harder issues, the number of iterations taken to complete the issue increase substantially as they are not familiar with the codebase. As such, it would be better if slightly harder issues are labeled as first-timers issues along with a simple guide on how to complete the issue. With this, new contributors can spend more time to get familiar with the codebase and workflow.
 
 
 ## WEN XIN

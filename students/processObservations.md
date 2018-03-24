@@ -66,12 +66,24 @@ Pull Request / Issue Format. [Proposing new rule](https://eslint.org/docs/develo
 Release documentation. In ESLint, a release will have the [commits merged](https://github.com/eslint/eslint/releases) written in the description. All PRs are squashed and the PR title is used. Perhaps we could follow suit as a simple way to let users know of our latest changes.
 
 ## DANIEL BERZIN CHUA YUAN SIANG
-**Project**:
+**Project**: [Strongbox](https://github.com/strongbox)
+- [Contribution Guidelines](https://github.com/strongbox/strongbox/blob/master/CONTRIBUTING.md)
+- [Coding Convention](https://github.com/strongbox/strongbox/wiki/Coding-Convention)
+- [Code of Conduct](https://github.com/strongbox/strongbox/blob/master/CODE-OF-CONDUCT.md)
 
 **Observations**:
 
-{write your observations here}
+I chose this project as it fit in well with my focus area of Java, and I was also quite comfortable writing code in Java than in any other language at the time.
 
+The first thing I learnt going into this project was that you have to be independent. While Strongbox has an active development community that regularly contributes to it, questions about how certain aspects of the application are implemented could go unanswered for days, and the timezone difference also made it really difficult to be able to have an actual conversation about the project. As such, I had to do a lot of digging myself to figure out how best to implement integration testing as there weren't really any clear instructions on how to do so. Furthermore, the tests had to be written in Groovy, which meant I had to go and learn the language first before even being able to contribute anything of substance to the testing portion of the project. Another issue was that most of the developers were on a Unix-based platform, which made it such that the code that I wrote had to be OS-independent, otherwise it would pass on my machine and fail on theirs (which happened a few times), and it was difficult to figure out what the problem was as I did not have a Unix machine to test the code out on. This added more delay than necessary in the merging of my pull requests to their repository.
+
+The second thing I learnt was that the pull requests that are submitted take quite a bit of time to be reviewed and then merged. I finished a [pull request](https://github.com/strongbox/strongbox-web-integration-tests/pull/24) to add integration tests for npm with strongbox and it took nearly a month for it to be merged. I had to ping the developers in charge quite a few times on gitter for a code review and it was only after a few weeks that they got back to me about whether or not the test is suitable, and most importantly, whether it passes on their environment.
+
+From working on Strongbox, I feel that there are a few takeaways that can be used in Markbind.
+
+Communication: Strongbox uses [gitter](https://gitter.im) as a primary means of communication between developers. It's a communication platform that's tightly integrated with Github. All a user needs to connect to a gitter chat room is a Github account, which makes it very accessible to new developers who want to work on the project. Furthemore, the tight integration with Github means that it is easy to view exactly what an issue/pull request is about without even having to leave the chat room as the information pops up on your screen. It is also able to preview code snippets from Github gists. I feel that adopting gitter for Markbind could be beneficial as it's much easier for users to join a gitter chat room than a slack channel as all gitter requires is a simple authentication with the user's Github account, versus email verification with Slack. I found that the tight integration with Github also increases productivity and conversations as I do not have to be distracted from switching tabs back and forth between the chat and the Github page. Overall, it would help new users who wish to contribute to Markbind to get started quickly, and to also be able to ask the developers questions if necessary.
+
+Testing: While Markbind has some basic tests implemented to check whether the rendered site conforms to specifications, I feel that more unit testing is needed to ensure that there are no regressions when a new pull request is merged. Strongbox has a [document](https://github.com/strongbox/strongbox/wiki/Writing-Tests) that mentions how best to write tests for the application. As Markbind matures, I think a similar document should be written so that new contributors can have a general idea of how to write tests and the standards that are expected of them.
 
 ## DARREN WEE ZHE YU
 **Project**:

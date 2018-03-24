@@ -134,11 +134,60 @@ Communication: Strongbox uses [gitter](https://gitter.im) as a primary means of 
 Testing: While Markbind has some basic tests implemented to check whether the rendered site conforms to specifications, I feel that more unit testing is needed to ensure that there are no regressions when a new pull request is merged. Strongbox has a [document](https://github.com/strongbox/strongbox/wiki/Writing-Tests) that mentions how best to write tests for the application. As Markbind matures, I think a similar document should be written so that new contributors can have a general idea of how to write tests and the standards that are expected of them.
 
 ## DARREN WEE ZHE YU
-**Project**:
+**Project**: [github/hub](https://github.com/github/hub)
 
-**Observations**:
+<!-- Links to any online documents about the workflow of external project -->
+- [`CONTRIBUTING.md`](https://github.com/github/hub/blob/master/CONTRIBUTING.md)
 
-{write your observations here}
+**Observations**: 
+`hub` is a command-line tool that acts as a wrapper around `git` and integrates GitHub-related functionality into your local terminal. `hub` is implemented in the Go language, one of my expert areas. I decided to work on `hub` as I wanted to gain experience working on a large project in Go, which I had only used before in small, isolated problems for practice.
+
+<!-- Important things you learned from contributing to that project, if any -->
+The principle of least surprise is very important when making changes to an interface. Some feature requests require a change in default behavior. For example, [one of my PRs for `hub`](https://github.com/github/hub/pull/1690) was to fulfill a feature request that required a change in `hub`'s default behavior. One of the primary concerns of the maintainer is how much it would surprise current users of `hub` when they update it, and whether we could make this change in behavior such that people could opt-in to the old behavior. This is important as they might already have scripts that expect the old, default behavior which may be broken by us by pushing this change into a release of `hub`.
+
+Open-source development is also _slow_. There is only one maintainer for `hub`, so he is the sole gatekeeper of the project and decides which features are in line with his vision of `hub` as well as the only person really doing code review for pull requests. Coupled with the large number of people who try to work on `hub`, this can cause a bottleneck, causing some pull requests to not be reviewed at all and go stale. I have gotten around this problem by focusing on issues that on slated for the next release (that no one wants to work on, strangely) in order to get priority for my pull requests. This is based off the project tracker in GitHub. This also helps the maintainer, as it gets the most important fixes/features implemented in first, instead of simply pulling a random issue from the issue tracker and working on that.
+
+<!-- Practices/tools of the external project that you think can be adopted by your NUS-OSS project -->
+`hub`'s approach to system's testing relies on [`cucumber`](https://github.com/cucumber/cucumber) which I found quite interesting. 
+For example, this block tests the `hub clone` command, which does the same thing as `git clone` but allows you to input a GitHub reference, like `hub clone TEAMMATES/teammates` will clone `TEAMMATES/teammates`
+
+```
+Feature: hub clone
+  Background:
+    Given I am "mislav" on github.com with OAuth token "OTOKEN"
+
+  Scenario: Clone a public repo
+    Given the GitHub API server:
+      """
+      get('/repos/rtomayko/ronn') {
+        json :private => false,
+             :name => 'ronn', :owner => { :login => 'rtomayko' },
+             :permissions => { :push => false }
+      }
+      """
+    When I successfully run `hub clone rtomayko/ronn`
+    Then it should clone "https://github.com/rtomayko/ronn.git"
+    And there should be no output
+```
+
+Each step corresponds to a definition. For example, the `Then` steps corresponds to this:
+```
+Then(/^it should clone "([^"]*)"$/) do |repo|
+  step %("git clone #{repo}" should be run)
+end
+
+Then(/^there should be no output$/) do
+  assert_exact_output('', all_output)
+end
+```
+(I have omitted the definition of the other steps for brevity, but they are similar)
+
+The tests are written in plain English in a step-by-step manner, and the test acts as both the desired behavior specification, documentation and automated test (kill three birds with one stone!). Even without working on this project, you can figure out what this test is for immediately. This test is specifically end-to-end.
+
+In teammates, we could potentially utilize `cucumber` (there is a version for Java) for mid-level integration tests like [`FeedbackQuestionsLogicTest`](https://github.com/TEAMMATES/teammates/blob/master/src/test/java/teammates/test/cases/logic/FeedbackQuestionsLogicTest.java) and make the tests more readable and self-documenting. We can go one step further and try to use it for end-to-end UI testing, but may be difficult to do. All in all, a testing framework like `cucumber` may be worth exploring.
+
+<!-- [Optional] Suggested areas of improvement for the external project -->
+An area of improvement for the external project is to have more mid-level maintainers who can also perform code review in order to ease the development process. Having one man do maintain the project causes a massive slowdown and stretches him thin. A hierarchy like Teammates' can be used, where committers perform the initial reviews, before requesting a final review from the maintainers who decide whether to merge a pull request.
 
 
 ## JOANNE ONG CUI FANG

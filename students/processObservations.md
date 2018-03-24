@@ -139,11 +139,37 @@ One suggestion I have for freeCodeCamp maintainers is to label issues based on i
 
 
 ## PHANG CHUN RONG
-**Project**:
+**Project**: [Coala](https://github.com/coala)
+
+[Link to Contribution Guide](http://api.coala.io/en/latest/Developers/Newcomers_Guide.html)
 
 **Observations**:
 
-{write your observations here}
+Coala is a unified interface linter that is language-agnostic. I chose this project because it uses Python (inline with my language expertise area) and it has an active developer community.
+
+There are many similarities between TEAMMATES and coala because of Coala is also a GSoC project that is mature and welcoming to new developers. All issues are tagged according to their difficulty level and the process flow is similar. Briefly, developers fork the repository and make a PR to master and requests for a review.
+
+###### Project Architecture
+
+Most linters like Pylint or ESlint are language specific linters. But Coala is a project that aims to create a unified interface for all languages. So under the Coala organisation, there is the core coala framework as well as coala-bears library. The coala-bears library contain common language specific bears that applies common standards such as Python PEP8. This is similar to Open-Closed principle, but on a project level. Developers can choose to work on coala framework itself, or coala-bears.
+
+###### Process
+
+Commit messages is a huge deal for Coala. Many of the pull requests that are reviewed are just done on refining the commit messages for it to be succinct yet descriptive. As a result rebasing is used often and every commit messages done within the PR will also be part of the review.
+
+For continuous integration, coala uses Appveyor, Travis, Codecov and Circle CI. The key difference is that CI will reject the code if code coverage is anything less than 100%. Hence, every branch added to the codebase needs to have a corresponding test added. This is different from TEAMMATES. For teammates, even though we promote having high test coverage and adding test for PR changes, but we evaluate what the test should achieve each time instead of demanding for 100% branch coverage. I think that having strict test coverage is great for project in the long run, but there is a trade-off between development time and resources.
+
+Issue assignment is done differently in TEAMMATES. Coala recommends that developers ensure that they are assigned the issue before they start working on it while TEAMMATES has no such requirement. While Coala does so with good intentions to ensure that no two developer works on the same issue, it has led to some bad behaviour where many developers request to work on a issue even though the same issue is requested for hours ago by another developer. Currently in TEAMMATES, we have seen little cases where multiple developers work on the same issue simultaneously but as the project (hopefully) gets more active with more developers, assigning issues might be a necessary process.
+
+###### Documentation
+
+In terms of documentation, coala has an extensive user API documentation but does not have a proper contribution documentation about its architecture. When I was working on a bug in the core coala-framework, it demands that I scour through a lot of code to find where the problem was. Even though the solution was a few lines of code, without proper architectural design, I am still unsure of whether the code is added to the correct place, or whether it should be solved elsewhere. In this regard, TEAMMATES's contributor guide leads to very positive experience as a developer. Unlike coala, it is harder to have extensive user documentation because coala's users are also developers while TEAMMATES users are instructors that could be of other backgrounds.
+
+###### General Suggestions and Learning Outcomes
+
+I believe that Coala is a good project with a welcoming community, and I learned a lot in terms of differences in projects based on its situation like number of active developers and project maturity as well as interesting project architecture that Coala practiced (separating coala with coala-bears). However, it would be amazing to showcase the architecture more explicitly in developer documentation to give developer greater confidence that the code is written appropriately when it solves the issue and also reduce time to read through the codebase.
+
+Bad behaviour in issue assignment is quite rampant at times, it would be good to be explicit in telling developers practice courtesy in asking for assignment.
 
 
 ## RACHAEL SIM HWEE LING

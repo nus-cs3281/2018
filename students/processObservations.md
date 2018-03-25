@@ -228,11 +228,15 @@ Most PR's requiring enhancements don't require much time cause the tests don't n
 
 
 ## TAN JUN AN
-**Project**:
+**Project**: [mlpack](https://github.com/mlpack/mlpack)
+* [Contribution Guide](https://github.com/mlpack/mlpack/blob/master/CONTRIBUTING.md)
+* [Design Guidelines](https://github.com/mlpack/mlpack/wiki/DesignGuidelines)
 
 **Observations**:
 
-{write your observations here}
+I chose mlpack as my external project as I wanted to gain some familiarity with working on large C++ projects, and also because I'm currently studying an Intro to Machine Learning module in NUS, and was interested in learning about the implementations of some of the algorithms.
+
+
 
 
 ## TAN JUN KIAT

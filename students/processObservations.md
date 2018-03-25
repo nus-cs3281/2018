@@ -144,10 +144,23 @@ One suggestion I have for freeCodeCamp maintainers is to label issues based on i
 
 ## PAN HAOZHE
 **Project**:
+Exercism
 
 **Observations**:
 
-{write your observations here}
+[Exercism](http://exercism.io/) is a portal to learn new programming languages, it has over 30 different languages and many problem sets of increasing difficulties for users to engage in progressive learning. The repositories for the Exercism organisation can be found [here](https://github.com/exercism).
+
+##### Documentation:
+Exercism is a fairly big project with so many programming languages each having their own repo. The documentation for Exercism is structured in such a way that different information is spread out across different repos. For example, problem specifications for the problem sets are in [one repo](https://github.com/exercism/problem-specifications), discussions about the future of the project is in [another repo](https://github.com/exercism/discussions), project wide documentation is in yet another repo called [docs](https://github.com/exercism/docs), and documentation for each programming languages is in their respective repos. The intention of this is to make each repo specific to achieve its own purpose, which has it's merits and drawbacks. Take for example, the repo on problem specification is focused on discussing only problem set related issues, and this way of organisation information can make it easier to find the resources we need without having to look through tons of redundant information. However, this decentralised approach also makes it more confusing when contributors are attempting to find resources. In the beginning, I struggled to orientate myself with the documentations simply because there are so many to refer to, and they are all in different repos. It's confusing to have a repo called **docs**, and at the same time providing READMEs and CONTRIBUTING.md in every other repo. On the other hand, TEAMMATES only has one repo for the entire project, and [documentations](https://github.com/TEAMMATES/teammates/tree/master/docs) are easy to locate because they are all inside one folder.
+
+Another difference is in the use of diagrams. Many OSS including Exercism does not provide graphical explanation of their projects. For TEAMMATES, the diagrams have made it very easy to follow and understand the architecture of the project. I think Exercism can potentially adopt diagrammatical explanations in their documentations. Furthermore, TEAMMATES is really beginner friendly because it provides step-by-step on the setup process. For Exercism, I had to figure out on my own what was going wrong with the setup as some information was lacking.
+
+##### Contributing:
+In terms of contributing, Exercism is very different from  TEAMMATES. Tests for the problem sets are already specified in the [problem-specifications repo](https://github.com/exercism/problem-specifications), and developers are expected to strictly implement those tests specified for each problem set. The only CI tool used was Travis and the process of contributing is quite simple. There are no specific ways of naming branches, or writing the comments for the pull requests. I was used to the TEAMMATES way of creating branches and opening PR, so I used that practice in contributing to external OSS. I think Exercism can adopt a similar approach to make its PRs more consistent. In some areas, I feel that TEAMMATES have taught me to use good practices when contributing to OSS, some of which are not being enforced by other OSS.
+
+For issues, there is some inconsistency inside the Exercism organisation in terms of what is defined as a beginner issue. For example, a beginner issue in the Java language repo is much simpler than a beginner issue in the Go language repo. I find the beginner issue in the Java language repo to be too simple and trivial even for beginners. In comparison, a beginner issue in TEAMMATES still require contributors to think about the best way to solve the issue before arriving at a solution.
+
+One good practice that Exercism adopts is that they sound really encouraging and excited about each pull requests. The owners of the repo almost always thank contributors for their work before leaving comments on what could be improved in the PR, for example [here](https://github.com/exercism/java/pull/1331). I think this helps contributors feel more inclined to finish their PR and make future contributions. Such positive attitude could be a role model for our internal NUS-OSS as well.
 
 
 ## PHANG CHUN RONG
@@ -285,7 +298,7 @@ I chose NLTK as my external project as I was learning about NLP (Natural Languag
 
 #### Observations
 * **Copy-and-paste style for Git Workflow**<br>
-In the `GitHub Pull requests` section of the contribution guidelines, rather than being comprehensive, the **instructions given were simple and to the point**. Furthermore, every point was accompanied by a `git` command used to carry out the instruction. This allowed for new contributors to **understand and get started with the workflow very quickly**. 
+In the `GitHub Pull requests` section of the contribution guidelines, rather than being comprehensive, the **instructions given were simple and to the point**. Furthermore, every point was accompanied by a `git` command used to carry out the instruction. This allowed for new contributors to **understand and get started with the workflow very quickly**.
 
 * **Separate branch for development**<br>
 The main branch that is meant for release is separated from the branch that is constantly updated. This separation from the main branch allowed for **easier management of bad/breaking commits before releases**. When an issue arises, such as breaking of code due to updating of software/libraries, it becomes easier to revert changes and apply patches, allowing for the `git` tree of the main branch to **remain clean and free of bad commits**.
@@ -295,14 +308,14 @@ The main branch that is meant for release is separated from the branch that is c
 Every pull request, no matter how small the contribution, is acknowledged and is given recognition if done well. For instance, for my pull request, even though it was rather small, by taking an effort to analyse the problem and providing a comprehensive explanation on what I did, the pull request was acknowleged with an `awesome-contribution` tag that pushed me to contribute more.
 
 * **Being inactive on reviewing PRs can be detrimental**<br>
-On many cases, the project maintainers can be rather inactive for long periods of time which can hinder the progress of the pull request. Quite often, doubts don't get answered or pull requests get closed with a lack of explanation, which is rather counterproductive given how much effort was put in to acknowledge small contributions. 
+On many cases, the project maintainers can be rather inactive for long periods of time which can hinder the progress of the pull request. Quite often, doubts don't get answered or pull requests get closed with a lack of explanation, which is rather counterproductive given how much effort was put in to acknowledge small contributions.
 
 #### Practices to adopt for SE-EDU
 * **Have a simpler contribution guideline for new contributors**<br>
 From a first-hand experience, the contribution guidelines for SE-EDU takes a few hours to read, process and apply. Though it may be comprehensive and beneficial in the long term for imparting software engineering principles, it can be rather **daunting for new contributors**. For instance, first-timers find it hard to read through the workflow document from the `oss-generic` repository as it contains large paragraphs of explanation and links pointing to different tutorials/documents. Furthermore, the guidelines are nor easily found in the repository itself, making it difficult for first-timers to get started. **Therefore, a separate `CONTRIBUTING.md` file, written in a simple and straightforward manner like in NLTK**, for SE-EDU can help new contributors ease into the workflow and get started quickly.
 
 * **Create a develop branch**<br>
-Although this type workflow is usually used for larger projects, having a development branch can prove useful in situations where there is an upgrade of the software tools that if merged ahead of time, could cause several implications. This is especially so in the case of Java which has a release every six months and some of the updates may not be backwards compatible. Other such upgrades would be Gradle that can cause implications when using certain libraries such as the `TestFX` library for which Gradle outputs warnings for after the upgrade. 
+Although this type workflow is usually used for larger projects, having a development branch can prove useful in situations where there is an upgrade of the software tools that if merged ahead of time, could cause several implications. This is especially so in the case of Java which has a release every six months and some of the updates may not be backwards compatible. Other such upgrades would be Gradle that can cause implications when using certain libraries such as the `TestFX` library for which Gradle outputs warnings for after the upgrade.
 
 ### Project: OpacApp
 * [Contribution Guidelines](https://github.com/opacapp/opacclient/wiki/How-to-build-the-project)

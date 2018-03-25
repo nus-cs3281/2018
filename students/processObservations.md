@@ -136,11 +136,52 @@ Testing: While Markbind has some basic tests implemented to check whether the re
 
 ## LEE YAN HWA
 **Project**:
-
+FOSSASIA's Open Event Android and Open Event Organizer App
 **Observations**:
+The two external projects I have chosen are related to each other. These are just two projects using the Open Event API, there are others. The Open Event Android Project has two components: a App Generator which is a web application that will generate an event Android app and a generic Android app for events which is the output of the generator. This generic Android app is targeted at the attendees of the event. Meanwhile, the Open Event Organizer App is an Android Event management app for event organizers using the same Open Event Platform.
 
-{write your observations here}
+#### Open Event Android
+###### For new contributors
+They always welcome new contributors. Their [README.md](https://github.com/fossasia/open-event-android) is very clear about what the project is about and is full of helpful screenshots for newcomers. They have [very detailed instructions](https://github.com/fossasia/open-event-android/blob/development/docs/android-app-setup.md) on how to set up the project and also (how the app is generated)[https://github.com/fossasia/open-event-android/blob/development/docs/apk-generator.md]. They also provide details of the exact technology stack that the project uses. They have [code style guidelines](https://github.com/fossasia/open-event-android/blob/development/docs/codestyle.md) and [commit style guidelines](https://github.com/fossasia/open-event-android/blob/development/docs/commitstyle.md).
 
+###### Ideation and Discussion
+Open Event Android uses [Gitter](https://github.com/fossasia/open-event-android) for ideation and discussion. Alternatively, anyone is welcome to open an new issue on GitHub to discuss an idea and other developers will join in to discuss if the idea / feature is feasible and necessary. If a suggested feature is not urgent and should be done later, it will be marked with a **later** tag. Some smaller issues / ideas are also marked as **low-priority** and these are also often good for new contributors. There is a **CODE_OF_CONDUCT.md** to 'foster an open and welcoming environment'.
+
+##### Issues, PRs, Merging
+Open Event Android has three branches, development, master and apk. The apk branch contains two apks which are automatically generated on a merged pull request from the dev branch and the master branch. The development and master branches are similar to those in PowerPointLabs.
+
+Open Event Android uses an issue template and PR template that we are in the process of creating for PowerPointLabs too. For PRs, the name of the PR has to start with chore, feat, fix, test or bug to make clear the type of issue the PR is resolving.
+
+Once a PR is made for the issue, the [open-event-bot](https://github.com/apps/open-event-bot) will automatically add the **has-PR** tag to the issue. The open-event-bot will automatically assign the creator of the PR to the PR and add a **needs-review** tag. The bot will also automatically comment if the build fails on Travis CI and provides a link to the failed build. Then, Codacy will automatically check whether the PR is of good quality or not.
+
+After a review by a senior developer, the developer will usually request for changes. If the changes needed are very drastic, the PR will be tagged with **needs inspection**. Once a PR is merged, it will be tagged with **ready-to-ship**. If it is closed before merging, it will be tagged with **invalid**.
+
+Sometimes, there will be a very massive feature involving different components that needs to be implemented, thus a **parent-issue** will be created and it will reference the **child-issue** issues that are created for each component.
+
+The developers are very active and will nudge me to ask the progress of a PR / an issue if I have not responded for more than 5 days. Thus I will also quickly finish up my PR within a week, if not I will let another person take the issue instead. The developers are very encouraging and for my first merged PR, the senior developer even commented that I did a very good job.
+
+##### Suggestions for Open Event Android
+Open Event Android and Open Event Organizer App only has mainly one active senior developer which goes through all the issues and PRs, thus I think they should try to promote more of the active developers to a senior developers as soon as possible so that the workload is reduced for that one senior developer.
+
+At first, as a new contributor, I was also unclear of the direction that the project was going because the senior developer wanted to focus on implementing new features and changing the project architecture. I did not know where to start, until I introduced myself in one of the old issues (that was abandoned) and one of the developers directed me to an more urgent ViewModel issue. However, I appreciate their very quick responses and they are very happy to tell me which issues are more urgent to fix. Soon enough, the senior developer created an issue [Road map of features of the project #2266](https://github.com/fossasia/open-event-android/issues/2266) which made the direction of the project clearer for everyone.
+
+I then realised that for old issues that do not have an active PR, even if they are already assigned to a person, we can actually ask if the assigned person is still working on the issue (Often, they are not, if the issue is already inactive for 2 weeks or more.) and offer to take up the issue instead. The developers are friendly and will often step in to tell you if you should take up this issue or not. This might not be clear to newcomers as this is not really mentioned on their Gitter.
+
+They should have more issues tagged as **easy** or **good first issue** as currently there are none.
+Open Event Android needs to have more **tests**, while Open Event Organizer app has many unit tests but not enough integration tests. PowerPointLabs has more tests than Open Event Android, and this is likely due to the latter project being very young. Focus is placed on implementing features rather than testing.
+
+#### Open Event Organizer App
+Open Event Organizer App is very similar to Open Event Android. The only major difference is that it has a Codecov bot that will comment about the change in testing coverage of the code.
+Recently, the senior developer has been closing many old issues and tagging them with **waiting-for-status**, urging us to quicken the issue-PR-merge cycles and to make the issue tracker neater.
+
+#### Suggestions for PowerPointLabs
+We need to have more screenshots and documentation for newcomers on Github if we are going to open the project to new contributors. Many instructions and special tricks and tips are hidden in our private Google Drive folder instead. We also lack documentation about parts of our technology stack such as the ClickOnce installation process.
+
+Currently, our discussions are on Slack but if we are going to open the project to new contributors, it could also be useful to use Gitter instead as Gitter has greater integration with Github. PowerPointLabs has many outstanding issues. We could also tag our issues with the **later** tag if these issues should be done later instead. We could also tag them with **high-priority** or **low-priority**, or even close some of the issues to make our issue tracker neater.
+
+Additionally, it could also be good to have an automated bot like the open-event-bot. Having the **has-PR** tag is good as we will know which issues are currently being worked on. We could also have more **parent-issue** issues and a **road-map** issue to set the direction of the project. I think it will also be good to add whether a PR is a chore, feat, fix, test or bug in the PR title.
+
+If we were to open the project to external contributors, I hope our developers will be as friendly and helpful as those from the Open Event projects. The senior developer even asked me on Gitter if I was going to submit my GSoC proposal.
 
 ## LU LECHUAN
 **Project**:

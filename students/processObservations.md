@@ -32,11 +32,36 @@
 
 
 ## CARA LEONG SU-YI
-**Project**:
+**Project**: [NLTK](http://github.com/nltk/nltk)
+- [Contributor's guide](https://github.com/nltk/nltk/blob/develop/CONTRIBUTING.md)
+- [Developer's guide/wiki](https://github.com/nltk/nltk/wiki/Developers-Guide)
 
 **Observations**:
 
-{write your observations here}
+I chose this project as I am interested in NLP, have used NLTK before, and am familiar with Python. I thought it would be useful to be familiar with the code base as it implements many NLP algorithms that are likely to be useful to me.
+
+One thing that I learned as a programmer was how to use Python in a software development setting. I have used Python extensively for scripting and personal projects, but NLTK's large code base and long-standing development status threw me into the deep end as regards Python software development practices. Thus, for instance, working on this project exposed me to testing in Python, which I had not seen before. Although the tests seemed quite comprehensive, the way they were documented was not; I spent quite a while learning how to write tests before I was able to do so myself. In addition, learning how to navigate Python OOP was an interesting process; I learned a lot about how to write for a big, extendable codebase by working on this project.
+
+What I found interesting after working with NLTK's codebase is that the code documentation is very elaborate. For example, it is not uncommon for packages and methods to have [docstrings that are several pages long](https://github.com/nltk/nltk/blob/develop/nltk/parse/viterbi.py), detailing formally what the algorithm is meant to do. This practice is very useful in the context of NLTK, which aggregates algorithms developed by researchers for other researchers' use -- knowing which algorithms are being implemented and how they are implemented is likely to be very useful.
+
+Moreover, I appreciated the way NLTK is broken down into several independent sub-modules. The file organization was useful when I was learning the architecture of the project, and is as useful when using NLTK in production, and some modules also use [module docstrings](https://github.com/nltk/nltk/blob/develop/nltk/translate/stack_decoder.py) to share what the module does. Although I don't think this translates very well to TEAMMATES, since TEAMMATES is much more tightly-coupled than the separate NLTK modules, I thought the use of module-level documentation to share how each part of TEAMMATES adds to the whole may allow new developers to become more familiar with the codebase more quickly.
+
+Although I felt developer documentation was good, the NLTK [user documentation](http://www.nltk.org/) is quite sparse, with few examples of use cases for the (quite extensive) code base. I found it quite startling that the user documentation usually provided one example usage of each method, didn't explain what packages did, and generally seemed to pitch NLTK as a black box. Perhaps the user base of NLTK is expected to be familiar enough with Python to check the source code for implementation and for additional information. On the whole, however, I think that better documentation could help new users to learn how to to use NLTK much faster. With a big project that is quite dispersed in use (e.g. you can use one module and never touch another), it can be difficult to become familiar with the whole platform. Moreover, as many methods are 'undocumented' in the user guide, users may have to read through the source code to find out how some aspects of the module are implemented, which may be a turn off.
+
+In addition, the 'undocumented' nature of much of the codebase may be related to the fact that a PR that I worked on for NLTK was merged even though I had not yet written documentation for the code, or added tests. One thing that I will take away from this experience and hopefully apply to TEAMMATES is the importance of communicating with contributors and ensuring that their code is up to standard before merging it. This involves not just checking code quality, but also ensuring that their code is well-documented and tested too.
+
+**Project: [Atom Flight Manual](https://github.com/atom/flight-manual.atom.io/)**
+- [Contributor’s guide](https://github.com/atom/flight-manual.atom.io/blob/master/CONTRIBUTING.md)
+
+**Observations**:
+
+The process of contributing to the Atom Flight Manual was relatively painless as I could refer to the [Contributor’s guide](https://github.com/atom/flight-manual.atom.io/blob/master/CONTRIBUTING.md), which provided useful shortcuts and handles on the idiosyncrasies of the project (e.g. OS-specific instructions, how to use alerts and notifications in their style). Although the community is quite small and quiet, the documentation and referring to previous work allowed me to feel comfortable enough to submit a PR quite quickly.
+
+After contributing to the project, I learned that it's very important to keep track of your project's dependencies. Atom's Flight Manual uses [HTML-Proofer](https://github.com/gjtorikian/html-proofer) to ensure that images, links and scripts are working. HTML-proofing is integrated in the CI process, so broken references will always need to be fixed before the build passes. This is a vital step to ensure that documentation is kept up to date because the open-source Flight Manual is separate from the [official documentation](http://atom.io/docs) -- although the flight manual is dependent on references to the official documentation, the official documentation is liable to change. Thus, when I contributed to the Flight Manual, my build failed as a link in a different section had been broken by the latest update to the official documentation. Without a check in place, broken links such as these might not be found until someone looking at the documentation for help tries to click the link.
+
+While TEAMMATES is not heavily dependent on external sites, we do have quite a few cross-site links. Thus, it is important to keep in mind, even if we do not integrate this tool, the need to check that we do not cause regressions by changing static items. This would ideally involve including our static pages in tests as well, but can in the meantime involve simply ensuring that we search through the codebase thoroughly.
+
+In addition, the tools used to build flight manual itself may be useful for any documentation-heavy project. I was quite impressed by the way the Flight Manual integrated OS-specific documentation in particular, but in general I felt that the additional functionality that a Markdown-generated site could give was quite impressive.
 
 ## CHUA YUN ZHI NICHOLAS
 **Project**: [ESLint](https://github.com/eslint/eslint)

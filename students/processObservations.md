@@ -94,11 +94,48 @@ Testing: While Markbind has some basic tests implemented to check whether the re
 
 
 ## JOANNE ONG CUI FANG
-**Project**:
+**Project**: [OpenRefine](https://github.com/OpenRefine/OpenRefine)
+- [Documentation for Developers](https://github.com/OpenRefine/OpenRefine/wiki/Documentation-For-Developers)
+- [Contributing Guide](https://github.com/OpenRefine/OpenRefine/blob/master/CONTRIBUTING.md)
+- [Governance Model](https://github.com/OpenRefine/OpenRefine/blob/master/GOVERNANCE.md)
 
 **Observations**:
 
-{write your observations here}
+OpenRefine is a desktop application for data cleanup and transformation to other formats. It is written primarily in Java, and relies mainly on HTML, JavaScript and CSS to present a user interface for the application. I chose this project because the [technology stack used by OpenRefine]( https://github.com/OpenRefine/OpenRefine/wiki/Technology-Stack) aligns with my learning areas, and also because OpenRefine seems to be [picking up more steam lately with regards to development progress]( https://github.com/OpenRefine/OpenRefine/graphs/contributors).
+
+##### Key-takeaways
+
+As the second open source project (the first being TEAMMATES) that I have contributed to, working with OpenRefine has taught me more lessons about working with and managing such software projects.
+
+The very first lesson I learnt from OpenRefine was **the importance of welcoming new contributors**. As trivial as this may sound, it actually played a part in driving me to choose OpenRefine as my external project to contribute to. [By acknowledging my desire to contribute to OpenRefine]( https://groups.google.com/forum/#!topic/openrefine-dev/Qyou-n2Jxcw), I received the favourable impression that the project's community is warm and engaged and that the project is active and worth contributing to. Given that open source projects such as OpenRefine survive and thrive on the voluntary work of other developers, it is imperative for open source projects to reach out actively to interested contributors to draw them into the project.
+
+Another key lesson that OpenRefine imparted me was to reiterate **the need for a core team of developers to drive and sustain the project**. Even as open source projects depend on an inconsistent pool of voluntary contributors to grow the project, ultimately, there has to be a select group that guides and leads the community. This is a characteristic that is apparent in both OpenRefine and TEAMMATES. For instance, both OpenRefine and TEAMMATES require pull requests to be reviewed and approved by recognised team members before they can be merged into the project. In fact, the significance of a core team is made even more obvious when I contrast OpenRefine with TEAMMATES. Although OpenRefine has always been open source in nature, it has an [interesting history](http://openrefine.org/2013/10/12/openrefine-history.html) that has influenced its current state. Simply put, OpenRefine has gone through three different identities (Freebase Gridworks, GoogleRefine, and OpenRefine) under three corresponding groups of developers (Metaweb Technologies, Google, and the open source community) in the past 8 years since its birth in 2010. Meanwhile, TEAMMATES has been [growing rather comfortably under the National University of Singapore (NUS)](http://teammatesv4.appspot.com/about.jsp) for the same duration. With OpenRefine's core team changing far more drastically than TEAMMATES, I find that OpenRefine is still struggling to define a clear direction and structure today while TEAMMATES has a better idea of [what it is heading towards](https://github.com/TEAMMATES/teammates/blob/master/docs/overview.md), and how to proceed in that direction.
+
+Besides my own project takeaways, I find that there are also some aspects which TEAMMATES can learn from OpenRefine and vice versa.
+
+##### Suggestions for TEAMMATES
+
+###### Documentation
+
+**TEAMMATES' documentation can be restructured (or even migrated) for better navigation.** Granted, TEAMMATES' documentation is rather comprehensive with the full set of Developer Guide, User Guide, Code of Conduct etc. Yet, as a new contributor, I found it difficult to find the subsection/information that I am interested in. This is because TEAMMATES merely [collated the document titles with single-line descriptions](https://github.com/TEAMMATES/teammates/tree/master/docs), which proved to be immensely unhelpful in navigating the documentation.
+
+On the other hand, OpenRefine hosts its documentation for developers in a [GitHub wiki](https://github.com/OpenRefine/OpenRefine/wiki/Documentation-For-Developers). Not only does this look cleaner, it also improves navigation as readers can easily see all the relevant subsections at a glance and quickly proceed to a particular subsection. TEAMMATES might thus want to provide a better summary of the available documentation/ migrate documentation over to GitHub wiki to boost the usefulness of the current documentation.
+
+###### Developer and user interactions
+
+**TEAMMATES can increase developer and user interactions to help users and feedback to developers.** Currently, TEAMMATES allows users to submit feedback via (i) a feedback form within TEAMMATES or (ii) emailing the TEAMMATES support email. These feedback can be inclusive of compliments, help requests, or suggestions for certain new features that are unsupported by TEAMMATES at the moment. Whichever it is, most developers do not have access to these feedback and hence miss out on the compliments, help requests, or suggestions from the users, and must wait for news to travel down from the top of the developer hierarchy.
+
+Whereas OpenRefine allows users to submit feedback via (i) [a public user discussion list](https://groups.google.com/forum/?fromgroups#!forum/openrefine) or (ii) [the GitHub issue tracker](https://github.com/OpenRefine/OpenRefine/issues). This exposes all user feedback to other users and developers, allowing other users and developers to partake in conversations regarding the issue at hand. This can also help to spread the work of responding to users more evenly among the developers helping with the project.
+
+Furthermore, users can also be kept updated on developers' progress if changes for each release are properly documented and publicly available. For example, OpenRefine publishes [regular newsletters](http://openrefine.org/2016/03/21/OpenRefine-20News-253A-20Spring-202016.html) for users to remain aware of how the product has changed. TEAMMATES can adopt a similar practice to better involve users in the development process.
+
+##### Suggestions for OpenRefine
+
+###### Testing
+
+**OpenRefine can focus more on improving tests for its functionalities.** Although OpenRefine is known as a mature data-wrangling tool, its coverage is at an abysmal rate of 40%. By choosing to prioritise implementing functionalities over writing tests, OpenRefine runs the risk of unwittingly introducing bugs into a release, or developing features that do not behave entirely as per expected.
+
+Meanwhile, TEAMMATES has a very healthy emphasis on tests, with tests for both backend logic and frontend user interface. In particular, OpenRefine can look into adopting some automated testing tools utilised by TEAMMATES, such as Selenium for testing the graphical user interface since OpenRefine and TEAMMATES have similar technology stacks.
 
 
 ## KOH LEWIS

@@ -234,10 +234,17 @@ Most PR's requiring enhancements don't require much time cause the tests don't n
 
 **Observations**:
 
+mlpack is a scalable machine learning library, written in C++ that provides these algorithms as simple command-line programs and C++ classes which can then be integrated into larger-scale machine learning solutions.
+
 I chose mlpack as my external project as I wanted to gain some familiarity with working on large C++ projects, and also because I'm currently studying an Intro to Machine Learning module in NUS, and was interested in learning about the implementations of some of the algorithms.
 
+Links to the instructions to build the project are easily found on the front page of both the github and website, and the instructions given are simple and clear to follow. Even the instructions to build on Windows Platform which is more complicated has a dedicated blog giving detailed step-by-step instructions to follow and screenshots to guide us along.
 
+When looking for issues to fix, I noticed that some of the issues which were posted by the owner have detailed explanations on what the issue is and also gave hints or references to other PRs on how to solve the issue, which is very helpful especially for new developers hoping to learn more about the codebase on the go.
 
+For some issues which require doing multiple tasks, such as implementing of new binding tests, the owner maintains a to-do list on which task are still available for grabs and which are already taken/resolved. This allows contributors who wish to work on this issue to easily find a task to do without overlapping with other contributors and wasting their time on unnecessary work. This could be useful to use on SE-EDU, since we have an issue [Expand the scope of system tests](https://github.com/se-edu/addressbook-level4/issues/551) which also has a to-do list, but the list does not seem to be maintained, which would confuse and deter contributors from wanting to work on it.
+
+Compared to SE-EDU, the pull request process is very simple; There is no fixed naming convention for branches and pull requests, and no need for commit messages to explain what is done and organizing of commits. While this tends to make the life of new contributors doing simple issues easier, it may cause the project to become harder to maintain.
 
 ## TAN JUN KIAT
 **Project**:

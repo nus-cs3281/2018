@@ -294,12 +294,19 @@ Additionally, it could also be good to have an automated bot like the open-event
 If we were to open the project to external contributors, I hope our developers will be as friendly and helpful as those from the Open Event projects. The senior developer even asked me on Gitter if I was going to submit my GSoC proposal.
 
 ## LU LECHUAN
-**Project**:
+**Project**: Exercism
 
-**Observations**:
+**Observations**: [Exercism](http://exercism.io/) is a portal to learn new programming languages, it has over 30 different languages and many problem sets of increasing difficulties for users to engage in progressive learning. 
+[Link to exercism github](https://github.com/exercism).
 
-{write your observations here}
+This project appears interesting to me as it contains many exercises that are inplemented in different languages. One can practice a particular languages effectively as there are increasing difficulties. It also always users to have cross references from several languages as some of the exercises are the same from those languages.
 
+I have worked in the Java branch - the exercises that are implemented in Java. I started with implemented tests for certain excersises, then moves on to implement a new exercise. I have observed that the project has practiced some of the testing principles such as Equivalence Partition and Boundary Value Analysis to ensure both effectiveness and efficiency for the testing. The project has a folder which stores the "canonical test data" and the actual test cases are expected to match these "canonical test data" so that the principles are followed closely.
+
+For my first PR, I have grouped some of the tests together based on the types of test data. The senior developers very kindly explained to me that I should seperate them individually. This is because the project is promoting TDD (Test Driven Development), it will be easier to keep track of the progress if tests are as granular as possible.
+
+**Comparison with Teammates**:
+The developer guide for Teammates is definitely better. Adequate diagrams are provided to allow contributes to understand quickly the architectural design of the project, how components are related, etc. Exercism on the other hand, does not provide diagrams as a complement for documents. However, different components of Exercism are quite well-organised. Documentations for exercises are provided both integratedly and separately - developers can check the document for a particular exercise in that exercise sub-folder, or in the main document.
 
 ## NGUYEN QUOC BAO
 **Project**:

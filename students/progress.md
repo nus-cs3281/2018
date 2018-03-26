@@ -54,27 +54,25 @@ Week | Achievements
 ---- | ------------
 1 | Merged PR: [Inherit font weight for radio-list-item label #12](https://github.com/MarkBind/markbind-cli/pull/12)
 2 | Submitted Issue: [Default baseUrl for markbind init is not consistent with user guide #124](https://github.com/MarkBind/markbind/issues/124)
-2 | Merged PR: [Add ESLint to Project #14](https://github.com/MarkBind/markbind-cli/pull/14), Merged PR: [Apply eslint --fix and refactor code #16](https://github.com/MarkBind/markbind-cli/pull/16)
+2 | Merged PR: [Add ESLint to Project #14](https://github.com/MarkBind/markbind-cli/pull/14), [Apply eslint --fix and refactor code #16](https://github.com/MarkBind/markbind-cli/pull/16)
 3 | Submitted Issue: [Logging for Site operations #133](https://github.com/MarkBind/markbind/issues/133)
 3 | Submitted Issue: [Nested includes do not get live reloaded #127](https://github.com/MarkBind/markbind/issues/127)
 3 | Merged PR: [Update default site config baseUrl to '' #19](https://github.com/MarkBind/markbind-cli/pull/19)
 3 | Merged PR: [Rebuild included html per generate #21](https://github.com/MarkBind/markbind-cli/pull/21)
 4 | Merged PR: [Remove clean up dependency #22](https://github.com/MarkBind/markbind-cli/pull/22)
-4 | Merged PR: [Speed up live reload process #128](https://github.com/MarkBind/markbind/pull/128), Authored PR: [Speed up live reload process #17](https://github.com/MarkBind/markbind-cli/pull/17), Authored PR: [Record boilerplate includes separately #144](https://github.com/MarkBind/markbind/pull/144)
-4 | Authored PR: [Add '*md' to default site config ignore #26](https://github.com/MarkBind/markbind-cli/pull/26)
+4 | Merged PR: [Speed up live reload process #128](https://github.com/MarkBind/markbind/pull/128), [Speed up live reload process #17](https://github.com/MarkBind/markbind-cli/pull/17)
 4 | Reviewed PR: [Support reuse of boilerplate files #110 #130](https://github.com/MarkBind/markbind/pull/130#pullrequestreview-95612231)
-5 |
-6 |
-7 |
-8 |
-9 |
+5 | Merged PR: [Add *md' to default site config ignore #26](https://github.com/MarkBind/markbind-cli/pull/26)
+5 | Merged PR: [Record boilerplate includes separately #144](https://github.com/MarkBind/markbind/pull/144)
+6 | Submitted Issue: [Initializing site in a new directory does not generate boilerplate directory #150](https://github.com/MarkBind/markbind/issues/150)
+7 | Merged PR: [Update gh-pages to v1.1.0 #30](https://github.com/MarkBind/markbind-cli/pull/30)
+7 | Merged PR: [Add vertical lines to tables #33](https://github.com/MarkBind/markbind-cli/pull/33), [Use Bootstrap class for table #161](https://github.com/MarkBind/markbind/pull/161)
+7 | Merged PR: [Remove bullet for task and radio list items #35](https://github.com/MarkBind/markbind-cli/pull/35)
+8 | Merged PR: [Add Travis CI for automated linting and testing #36](https://github.com/MarkBind/markbind-cli/pull/36)
 10 |
 11 |
 12 |
 13 |
-
-
-
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 
@@ -493,11 +491,16 @@ Week | Achievements
 3 |Authored PR(put on hold): [Partially fix extension not working #13](https://github.com/nus-oss/Git-Labels/pull/14)
 4 |Submitted Issue: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/issues/8403)
 4 | Merged PR: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/pull/8404)
-5|
-6|
-7|
-8|
-9 |
+5| Submitted Issue: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/issues/8453)
+6| Reviewed PR :[Enhancement: Instructor: All Records of Student: Improve UI](https://github.com/TEAMMATES/teammates/pull/8502)
+7| Submitted Issue : [Student: Feedback submission page: Tell student they have not answered all questions](https://github.com/TEAMMATES/teammates/issues/8598)
+7| Submitted Issue: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
+7| Reviewed PR: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/pull/8553)
+8| Submitted Issue: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage](https://github.com/TEAMMATES/teammates/issues/8648)
+8| Reviewed PR: [Instructor: edit question: distribute question options vs recipients tooltip (UI). #8465](https://github.com/TEAMMATES/teammates/pull/8668)
+8| Merged PR: [Instructor: edit session: multiple choice questions: support generating options for all other students #8412](https://github.com/TEAMMATES/teammates/pull/8445)
+9 | Reviewed PR: [Instructor: edit session: multiple choice questions: support generating options for all other teams #8661](https://github.com/TEAMMATES/teammates/pull/8689)
+9| Reviewed PR: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage #8648](https://github.com/TEAMMATES/teammates/pull/8676)
 10 |
 11 |
 12 |

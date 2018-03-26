@@ -484,9 +484,9 @@ However, 1 point in which mlpack can improve on would be to have a better commit
 
 **Observations**:
 
-Observations about Teammates/WikiMedia can be broadly divided into 2 categories: ***Documentation*** and ***Managing Contributions***.
+Observations about Teammates/WikiMedia can be broadly divided into 2 categories: ***Documentation*** and ***Managing Contributions***. Each section would also suggest improvements for PowerPointLabs based on lessons learnt in the observations.
 
-#### Documentation
+### Documentation
 
 ##### Contributor Information
 
@@ -494,7 +494,7 @@ Teammates is more structured in terms of its overall documentation and how they 
 
 WikiMedia is also another project that tries to include [extensive documentation](https://github.com/commons-app/apps-android-commons/wiki) in their github page. However they structure all these information differently than Teammates. Each of their articles exist almost in isolation, with very few links within each article linking to other articles. Each article is organised in a well-structured hierachcy, with related articles grouped together for clarity, e.g. "User Documentation", "Contributor Documentation", "Developer Documentation". This makes it very clear for users to know what information to look for and where.
 
-While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates or WikiMedia in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the approach of PowerPointLabs is that its instructions leave little room for set-up error because there is minimum information, hence instructions are understood easily. 
+While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates or WikiMedia in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the approach of PowerPointLabs is that its instructions leave little room for set-up error because information displayed are kept to the bare minimum, hence instructions are understood easily. 
 
 Moving forward, perhaps we can consider adopting a structure as seen in WikiMedia or Teammates so that information can be more easily found whenever required. This is especially important as PowerPointLabs start to scale up in the future, and as we start to have more information that we need to display on the github page as would be mentioned below.
 
@@ -506,7 +506,7 @@ In Teammates, there is also the [Project Ideas Page](https://docs.google.com/doc
 
 Currently, PowerPointLabs stores potential ideas in a private google doc. This doc is in a Google folder that is only accessible by the developers, hence it would be better if this doc can be made public, for new ideation from potential contributors, validation by existing developers and accountability/discussion/improvement of future ideas and features. Additional documents like “Common traps in PowerPoint Add-in Development”, and “Newcomer’s guide” would surely be useful for new contributors and can be considered for uploading on the PowerPointLabs github page for easier reference by incoming contributors.
 
-#### Managing Contributions
+### Managing Contributions
 
 In terms of Teammates' Issues/PRs, their quality is enforced quite well. Issues are [documented](https://github.com/TEAMMATES/teammates/issues/8599) very well, with clear replicable steps listed and even screen shots posted so that any potential contributor can have clear information to work with. PRs are also checked at least twice by senior developers before requesting a review from the project mentor (Prof Damith). This layered check helps to ensure the quality of any PR that goes into the master branch. This is important because unlike PowerPointLabs which has a `dev-release` branch for dog-fooding, Teammates only has a main `master` branch, hence it is important to have many checks in place.
 

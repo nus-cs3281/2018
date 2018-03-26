@@ -325,11 +325,28 @@ Bad behaviour in issue assignment is quite rampant at times, it would be good to
 
 
 ## RACHAEL SIM HWEE LING
-**Project**: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/)
+**Project**: [ESLint](https://github.com/eslint/eslint)
+- [Contributing](https://eslint.org/docs/developer-guide/contributing/). This explains how to report bug, propose  new rule or rule change and submit a PR.
+- [Setting up development Environment](https://eslint.org/docs/developer-guide/development-environment)
+- [Maintainer Guide](https://eslint.org/docs/maintainer-guide). This explains how to manage issues, review PRs and manage releases.
 
 **Observations**:
 
-{write your observations here}
+I learnt the importance and effectiveness of good documentation. ESLint provides extensive and useful documentation for both users and developers on their website and throughout the code. This helped me to gain a sufficient understanding of their project, the codebase and the rationale being design choices and rules within a short time and make contributions. The instructions to set up the development environment, run tests and configure ESLint (as a user) were easy to follow. The rules also come with correct and incorrect examples. These documentation are likely to be valuable to other users and contributors as well as it aids understanding and can speed up their development process. I believe this is one of the reasons why ESLint attracted many external contributors and users. It also benefits the ESLint team as they will not need to answer questions or address issues already covered in their documentation.
+
+Also, I learnt that effective and timely communication can speed up the development process and how such communication can be achieved. For ESLint, if contributors intend to work on an issue, they are advised to add a comment to that issue saying so and indicate when they will complete it (and if they no longer want to work on the issue). This avoids duplication of effort. Also, issues are labelled if they are blocked (require another change elsewhere), evaluating (not accepted) or breaking. This will help contributors to prioritize issues and identify what is available to work on. ESLint committers also respond to issues, questions and review PRs timely. The use of templates for bug reports, rule requests and pull requests further help to ensure that all relevant information and ideas were shared since the start. Together, such effective communication help to keep the development process go on efficiently.
+
+**What MarkBind can adopt**:
+
+1. Templates for bug report, feature requests/updates and PRs (can be auto-generated)
+For bug report, ESLint requires the environment (which version), what did you do (actual source code causing the issue) and what the user expect to happen vs what actually happened (the actual, raw output). These are all useful information to Markbind as well.
+Currently, Markbind does not have any structure that contributors are advised to follow. This makes it harder to determine if it is indeed a bug or intended behavior or caused by a difference in expectation of the user and the developer. It also makes it easier to reproduce the bug (especially since the bug only occur in specific scenarios e.g. when it is deeply nested) thus speeding up the development process. The version is important as Markbind is regularly updated.
+For feature requests, the template should require the rationale for the request and clear examples of how the features will be used. If the requirements are specified and refined through discussion beforehand, there will be less confusion during implementation and we can get closer to the user-desired behavior which will make the feature more useful.
+For pull requests, ESLint requires the type of the change, summary of what changes were made and what do you want the reviewers to focus on. I believe this is applicable to MarkBind as well. In addition, MarkBind's PR should include testing instructions as well. This can prevent some hiccups during Markbind's PR review progress. For example, sometimes the reviewers are unsure of what the changes were for and had to clarify them. Also, they might think that a feature is not working as tested - perhaps due to a difference in expectations and testing instructions. Furthermore, reviewers can also comment on the strengths/weaknesses of the changes (vs its alternatives) and introduce new testing suggestions for more robust testing.
+
+2. Good documentation and hosting documentation on a website. ESLint host their well-written documentation on a separate website - this allows for better organization and support searching and navigation. We should improve the quality of Markbind documentation with more examples and host it on a website instead of a wiki (currently a WIP). This might make the documentation more easier to navigate though and for a user to find exactly what he wants.
+
+3. Semantic commit messages. In ESLint, each commit must be prefixed by a tag (e.g Fix, Docs, New, Chore) which describes what the commit does, followed by a short summary. By enforcing these structure, contributors are less likely to include multiple changes in a single commit (e.g. a chore like code refactoring and a new feature). This is useful for Markbind as it can help reviewers identify what changed in a PR and future contributors to make sense of the code. Also, I believe Markbind can benefit from using commit message are a form of documentation as they will always stay with the code. Other contributors will only need to rely on `git log` or `git blame` to find out what changes are made (and why) instead of reading the pull requests and discussions on Github. Such neat commit messages can also be used in automatically creating a changelog which will let users and developers know what have changed from one version to another.
 
 
 ## SHRADHEYA THAKRE

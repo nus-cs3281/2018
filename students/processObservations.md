@@ -525,10 +525,23 @@ In SE-EDU, first-timer issues are predominantly issues that require **simple cod
 
 ## WEN XIN
 **Project**:
+[NUSMods R](https://github.com/nusmodifications/nusmods/tree/master/www)
+* [contributing guideline](https://github.com/nusmodifications/nusmods/blob/master/CONTRIBUTING.md)
+* [documentation](https://github.com/nusmodifications/nusmods/tree/master/www)
 
 **Observations**:
+- NUSMods R uses numerous well-known external libraries like [lodash](https://lodash.com/docs/4.17.5) and [react feather icons](https://feathericons.com/). This practice simplifies the code a lot, reduces the chances of the programmers writing duplicate code, and makes the search of the use of the function easy as most of these external libraries are well-documented.
 
-{write your observations here}
+- NUSMods R adopts [CSS modules](https://github.com/nusmodifications/nusmods/tree/master/www#writing-styles) to structure the style of the components. I find this approach very useful as eash style file is catered to one component, making it short and sweet. Moreover, the programmer doesn't have to worry about the complications of using the same tag identifier for different components.
+
+- As they recently rewrote this website, there is not much technical debt and hence their first-timer issues are more about implementing a small feature, fixing a tiny bug or enhancing the codebase by adopting external libraries etc., which I find quite challenging for a beginer of React and Redux like me. (I think that is also one of the reasons why they do not have many external contributors.) However, I like how they guide the first time contributors in these issues by offering some suggestions on how to start and where to start in the description of the issue. For example, they will tell you which part of the code you can use as reference to make your life easier.
+
+- And I have to praise them for their efficiency. One of the maintainers of the repository always responded to my questions within three minutes of posting with very detailed answers. A review is always followed immediately after each pushing of my code. One thing I find interesting (and a bit sad) is that the reviewer assigned to my PR started to help me rewrite my code after he realized I am new to React syntax and the file structure of NUSMods R. I felt a bit offended as that was only after the second round of review (which was done within one and a half hour of me making the PR), however I find it is a very efficient way to learn as it would take me rather long to understand his idea simply by describing what he wanted in the comments.
+
+**Takeaways**:
+- TEAMMATES can try to adopt the CSS modules approach to structure the stylings. Currently all the stylings are inside one big file (`teammatesCommon.css`) which I find rather unorganized, despite the fact that the within the files there are several sections segregated by comments about the use of each secion.
+
+- TEAMMATES currently serves very well as a beginner-friendly platform. I like its current difficulty of first-timer issues, as it can give the beginner a sense of achievement as well as introducing them to our large code base. To make it a better learning platform, we can assist the beginners to progress into higher level issues by giving some guidance in the descriptions of the higher level issues which we think can act as a level-up for those who just completed their first-timer issues. 
 
 
 ## YONG ZHI YUAN

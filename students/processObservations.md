@@ -27,7 +27,7 @@
 **Projects**: [Servo](https://github.com/servo/servo) & [Open-Keychain](https://github.com/open-keychain/open-keychain)
 
 **Observations**:
-Servo is an open source browser by Mozilla, written in Rust. I've contributed a PR here in the past few weeks for this module. open-keychain is an open source Android application for PGP key usage. I'm no longer active at open-keychain, but have completed the Google Summer of Code program with them. 
+Servo is an open source browser by Mozilla, written in Rust. I've contributed a PR here in the past few weeks for this module. open-keychain is an open source Android application for PGP key usage. I'm no longer active at open-keychain, but have completed the Google Summer of Code program with them.
 
 Servo:
 - [Web documentation](https://doc.servo.org/servo/index.html) for the entire project
@@ -36,21 +36,21 @@ Even so, the search preview it made development easier as searching the web docu
 This is particularly valuable for PPTLabs, when official documentation for PPT APIs is severely lacking in ease of navigation and helpful descriptions.
 Having our website for documentation allows us to also share the quirks of the broken PPT APIs.    
 
-- Very active senior developers, open to discussion on many platforms 
-Senior devs are always around to help, both on Github and IRC. 
-It might be beneficial to use a chat platform in NUS OSS as well, possibly through Glitter, Slack etc. While we already use slack within this module, extending this out to people outside of CS3281/2 may help bring new contributors, especially for GSOC participating projects like TEAMMATES. 
+- Very active senior developers, open to discussion on many platforms
+Senior devs are always around to help, both on Github and IRC.
+It might be beneficial to use a chat platform in NUS OSS as well, possibly through Glitter, Slack etc. While we already use slack within this module, extending this out to people outside of CS3281/2 may help bring new contributors, especially for GSOC participating projects like TEAMMATES.
 
 - PRs and issue templates
 Servo, like Teammates & many other projects have PR & issue templates on Github. It reminds contributors to run tests and other relevant tasks before making issues, PRs. The templates help make issues and PRs clear and concise.  
 Since PPTLabs currently lacks this, it might be good to work something out.
 
 - Learning points regarding coding
-Do not amend your branch by force pushing even if the OSS requires your PRs to be squashed by the end of the PR. Senior devs need to know when you have made updates. Force pushing doesn't inform them of changes, resulting in delay. 
+Do not amend your branch by force pushing even if the OSS requires your PRs to be squashed by the end of the PR. Senior devs need to know when you have made updates. Force pushing doesn't inform them of changes, resulting in delay.
 
 Open-Keychain:
 - Same as Servo w.r.t. active senior devs
 
-- Learning points from merging large PRS 
+- Learning points from merging large PRS
   - Get large PRs reviewed early at many checkpoints and make them as modular as possible. (anything > 300 loc should require this)
   - Hold off refactoring until all tasks in the PR are complete and the code has obtained approval from senior devs. This reduces the amount of new code your reviewer has to read, making the review process easier.
 
@@ -336,6 +336,7 @@ Bad behaviour in issue assignment is quite rampant at times, it would be good to
 **Project**: [WikiMedia Commons App](https://github.com/commons-app/apps-android-commons) <br>
 [Project workflow](https://github.com/commons-app/apps-android-commons/wiki#contributor-documentation)
 
+
 **Observations**:
 
 I chose this project as my external project mainly because I was comfortable with the technologies it used and the response time by the maintainers of the project was very quick.
@@ -352,6 +353,34 @@ The main problem was that there were no instructions on how to set up the develo
 Compared to the TEAMMATES project, this project wasn't very strict in terms of the process to follow. Naming conventions weren't strict and PR's were merged a quick pace if the change was minimal. The maintainers didn't bother much about the code quality as well. Although the project does have some guidelines mentioned in the Wiki, but they overlook it every time.
 
 Most PR's requiring enhancements don't require much time cause the tests don't need to be added or updated [project has very minimal testing] which even though makes it easy for new contributors, but is not a good practice.
+
+**Project**: [Exercism.io - Java](https://github.com/exercism/java) <br>
+[Project workflow](https://github.com/exercism/java/blob/master/CONTRIBUTING.md)
+
+**Observations**
+
+This project had a pretty satisfactory documentation considering that it was a small project. The project was mainly handled by 3-4 developers but they were very quick wit their review and merging duties. This helped contributors in doing stuff at a quick pace and wouldn't let them waiting for a review.
+In fact, one of my PR's got merged the same night I had created a PR. Although this pace seems possible for them because most issue's are quite simple for well experienced contributors. Moreover, its possible to do most issues without even setting up the project, as it mainly required writing JUnit tests for their exercises.
+
+There are very few tough issues but they haven't been created in the issue section and depend on contributors own interest whether they want to add a new exercise from different language.
+
+
+**Comparison with TEAMMATES**
+
+Both external projects that I had worked on didn't have a well defined contributing guidelines that were followed properly. It is surprising as one of them is a GSOC organization.
+
+The TEAMMATES organization has a proper orientation guide for contributors which provides all details, unlike the others. Having insufficient data in contribution guide, creates doubts in mind of new contributor making them to not open their first PR. For e.g. TEAMMATES specifies to open an issue to communicate in case of any doubts, whereas other two projects don't, which leads to contributors to leave the project because they could not resolve their problem by asking the project maintainers in any way.
+
+The only good thing about other two projects was that their review and merging process was very fast (although not efficient). TEAMMATES being a big organization makes it tougher for maintainers to do things in a faster manner. Although if the speed of reviewing can be increased, it would allow more contributors to do work faster and not keep them waiting for review. The other organizations seemed to be faster because they weren't very strict with code quality and other minor problems in PR. They would let it pass and it would lead to eventually another issue being created to solve it later on. Hence I think even if the pace is slower in TEAMMATES, if things are done perfectly in the first attempt, its better to keep it that way.
+
+The best thing I liked about WikiMedia Commons App, was that if someone had asked to take up an issue, the organiazation would assign a label `assigned` so that no one else wastes their time working on it. However, the issue here was that since the team didn't effectively manage it, I could find many issues labeled as `assigned`, only to find out that the person who had requested to work on it had actually not even started it even after few weeks.
+
+### Key Takeaways
+
+- **GOOD** documentation is necessary for each project
+- A more active senior developer team attracts more contributors
+- Pace vs Perfection is a choice that the organization needs to makes
+- Contributing Guidlines need to be explicit and followed religiously
 
 
 ## TAN JUN AN

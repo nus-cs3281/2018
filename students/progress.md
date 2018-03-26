@@ -224,7 +224,12 @@ Week | Achievements
 8 | Merged PR: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
 8 | Authored PR: [Add 'fill slide' in the right-click menu #1629](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
 8 | Reviewed/Tested PR: [Fixes no currently active document window #1613](https://github.com/PowerPointLabs/PowerPointLabs/pull/1613)
-9 |
+9 | Merged PR: [Add 'fill slide' in the right-click menu #1629](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
+9 | Authored PR: [New feature: Save Lab #1637](https://github.com/PowerPointLabs/PowerPointLabs/pull/1637)
+9 | Reviewed/Tested PR: [PasteLab: Add Tests for restoring clipboard #1635](https://github.com/PowerPointLabs/PowerPointLabs/pull/1635)
+9 | Reviewed/Tested PR: [synclab refactor format objects #1645](https://github.com/PowerPointLabs/PowerPointLabs/pull/1645)
+9 | Reviewed PR: [Add issue & PR request templates #1643](https://github.com/PowerPointLabs/PowerPointLabs/pull/1643)
+9 | Submitted Issue: [Positions Lab Bug (Adjoin) #1639](https://github.com/PowerPointLabs/PowerPointLabs/issues/1639)<br>Submitted Issue: [Positions Lab Bug (Distribute) #1640](https://github.com/PowerPointLabs/PowerPointLabs/issues/1640)<br>Submitted Issue: [Positions Lab Bug (Align) #1638](https://github.com/PowerPointLabs/PowerPointLabs/issues/1638)
 10 |
 11 |
 12 |

@@ -236,11 +236,30 @@ Meanwhile, TEAMMATES has a very healthy emphasis on tests, with tests for both b
 
 
 ## KOH LEWIS
-**Project**:
+**Project**: [NUSMods R](https://github.com/nusmodifications/nusmods/tree/master/www)
+[Contribution Guidelines](https://github.com/nusmodifications/nusmods/blob/master/CONTRIBUTING.md)
+[Developer's Guide](https://github.com/nusmodifications/nusmods/tree/master/www)
 
 **Observations**:
 
-{write your observations here}
+NUSMods R is a website which allows students of NUS to plan their timetable effectively. It is built on React, Redux, and Bootstrap, and aims to be fast, modern, and responsive. 
+
+I chose NUSMods R because I was interested in working on a project which I and many others use daily and is an important part of my life right now. Hopefully, I would have been able to make the website a better experience for everyone using it, myself included.
+
+Getting started was simple, especially with the immensely handy [Beginner’s Guide](https://medium.com/@zameschua/getting-my-feet-wet-my-experience-with-open-source-and-nusmods-f1381450517e) written by one of the contributors. NUSMods uses Yarn for dependency installation, so it is very easy to set up and start working on issues.
+
+Choosing a first issue to work on is similar to SE-EDU. Similar to the ‘d.FirstTimers’ label, NUSMods has the ‘good first issue’ label. However, the issues are not as easily solved. Many of the issues are bugs which take time to track down and fix. Others are open-ended and vague, and even more are multiple features packed into one issue. Unlike the ‘d.FirstTimers’ issues in SE-EDU where the creator basically tells you what needs to be done, a decent amount of research and coding needs to be put in to even resolve a ‘good first issue’.
+
+ Working on the PR was also similar to SE-EDU. After creating a PR, reviews were fast and helpful to refine the PR. The commit message is less strict than the one for SE-EDU, making my life a lot easier! One thing I do appreciate about SE-EDU over NUSMods though is that the CI testing is very efficient. NUSMods also has its own testing, however before they accepted my PR, they had to manually test the changes on their own. This took a few days, and it was a bit jarring having to wait compared to the amount of waiting for comments when they were reviewing the PR.
+
+Not having to write paragraphs of justification for a commit message made my PR easier to make.  Granted, it does make it harder for the reviewers to understand what is going on, but that can be fixed by comments in the code. It might only be possible in smaller projects, where the bulk of the changes are made by a select few people who already know the inner workings of how the project works. I do see the advantage of writing good commit messages, however given the additional work required in creating and fixing the messages, I am not sure if it is worth the extra effort. Especially since it may scare away newcomers who want to contribute to the project.
+
+In terms of documentation, NUSMods pales in comparison with SE-EDU. The PR I worked on was largely confined to one file, which had good documentation in it and was easy to work with. However, when I tried working on another issue, the labyrinth of files and code was hard to untangle, making it tough to figure out where is a good starting point. Compared to SE-EDU with its great Developer Guide, NUSMods really only gives an overview of how to set up the project environment, without giving much insight into how everything is connected.
+
+However, due to the great people at NUSMods, it is easy to find what you need just by asking. In addition to Github, they can be reached through [Telegram]( https://telegram.me/nusmods), [Messenger]( https://www.m.me/nusmods), [Facebook]( https://www.facebook.com/nusmods), [Twitter]( https://twitter.com/nusmods), and even [email]( nusmods@googlegroups.com). The ability to contact them through so many channels makes the project seem friendly and inviting. Although this may just be a façade, as they may not be active on some of these platforms (Their last twitter post was over 2 years ago!)
+
+**Conclusion**
+Overall, contributing to NUSMods felt very similar to contributing to SE-EDU with some key differences. It does not feel as stringent with its commit messages and code, which encourages newcomers to try to contribute. However, this is deterred by the additional difficulty of the issues compared to SE-EDU, in terms of scope of the issues as well as the documentation available. Continuous Integration is very important. It saves time for the reviewer, so that they do not need to manually test the build, and it saves time for the contributor, so that they know quickly whether they need to fix their PR. Lastly, having many avenues of communication gave off a very welcoming atmosphere.
 
 
 ## LEE YAN HWA

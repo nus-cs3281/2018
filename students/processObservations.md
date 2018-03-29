@@ -38,7 +38,7 @@ Having our website for documentation allows us to also share the quirks of the b
 
 - Very active senior developers, open to discussion on many platforms  
 Senior devs are always around to help, both on Github and IRC.
-It might be beneficial to use a chat platform in NUS OSS as well, possibly through Glitter, Slack etc. While we already use slack within this module, extending this out to people outside of CS3281/2 may help bring new contributors, especially for GSOC participating projects like TEAMMATES.
+It might be beneficial to use a chat platform in NUS OSS as well, possibly through Gitter, Slack etc. While we already use slack within this module, extending this out to people outside of CS3281/2 may help bring new contributors, especially for GSOC participating projects like TEAMMATES.
 
 - PRs and issue templates  
 Servo, like Teammates & many other projects have PR & issue templates on Github. It reminds contributors to run tests and other relevant tasks before making issues, PRs. The templates help make issues and PRs clear and concise.  

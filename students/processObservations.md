@@ -30,24 +30,24 @@
 Servo is an open source browser by Mozilla, written in Rust. I've contributed a PR here in the past few weeks for this module. open-keychain is an open source Android application for PGP key usage. I'm no longer active at open-keychain, but have completed the Google Summer of Code program with them.
 
 Servo:
-- [Web documentation](https://doc.servo.org/servo/index.html) for the entire project
+- [Web documentation](https://doc.servo.org/servo/index.html) for the entire project  
 Extensive documentation is not required. Not all functions had accompanying comments.   
 Even so, the search preview it made development easier as searching the web documentation is faster than doing a `grep` call in the command line or using IDE tools. (try making a search in the link for a better idea)  
 This is particularly valuable for PPTLabs, when official documentation for PPT APIs is severely lacking in ease of navigation and helpful descriptions.
 Having our website for documentation allows us to also share the quirks of the broken PPT APIs.    
 
-- Very active senior developers, open to discussion on many platforms
+- Very active senior developers, open to discussion on many platforms  
 Senior devs are always around to help, both on Github and IRC.
 It might be beneficial to use a chat platform in NUS OSS as well, possibly through Glitter, Slack etc. While we already use slack within this module, extending this out to people outside of CS3281/2 may help bring new contributors, especially for GSOC participating projects like TEAMMATES.
 
-- PRs and issue templates
+- PRs and issue templates  
 Servo, like Teammates & many other projects have PR & issue templates on Github. It reminds contributors to run tests and other relevant tasks before making issues, PRs. The templates help make issues and PRs clear and concise.  
 Since PPTLabs currently lacks this, it might be good to work something out.
 
-- Learning points regarding coding
+- Learning points regarding coding  
 Do not amend your branch by force pushing even if the OSS requires your PRs to be squashed by the end of the PR. Senior devs need to know when you have made updates. Force pushing doesn't inform them of changes, resulting in delay.
 
-Open-Keychain:
+Open-Keychain:  
 - Same as Servo w.r.t. active senior devs
 
 - Learning points from merging large PRS

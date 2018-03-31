@@ -433,9 +433,10 @@ Week | Achievements
 4 | Authored PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/pull/8384)
 6 | Authored PR: [Give a way for students to request submission/results links to be resent #8490](https://github.com/TEAMMATES/teammates/pull/8543)
 7 | Merged PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333](https://github.com/TEAMMATES/teammates/pull/8384)
-8 |
-9 |
-10 |
+9 | Reviewed PR: [Instructor: remind students: collapse the two options into one #8530](https://github.com/TEAMMATES/teammates/pull/8622)
+9 | Reviewed PR: [Instructor: home page: support a way to resend 'result published' link to selected students #6634](https://github.com/TEAMMATES/teammates/pull/8501)
+10 | Reviewed PR: [Instructor: Edit question: Check for empty string in Numscale/MSQ/Rank (Options/Recipients) number fields #8683](https://github.com/TEAMMATES/teammates/pull/8697)
+10 | Responded to Contributor Queries: [IntelliJ cannot run failed tests](https://github.com/TEAMMATES/teammates/issues/8740)
 11 |
 12 |
 13 |

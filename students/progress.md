@@ -437,7 +437,7 @@ Week | Achievements
 9 | Reviewed PR: [Instructor: home page: support a way to resend 'result published' link to selected students #6634](https://github.com/TEAMMATES/teammates/pull/8501)
 10 | Reviewed PR: [Instructor: Edit question: Check for empty string in Numscale/MSQ/Rank (Options/Recipients) number fields #8683](https://github.com/TEAMMATES/teammates/pull/8697)
 10 | Responded to Contributor Queries: [IntelliJ cannot run failed tests](https://github.com/TEAMMATES/teammates/issues/8740)
-11 |
+10 | Reviewed PR: [Instructor: remind particular student: fix stray place holder in email text #8664](https://github.com/TEAMMATES/teammates/pull/8665#pullrequestreview-108494421)
 12 |
 13 |
 

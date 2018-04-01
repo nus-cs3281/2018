@@ -511,7 +511,6 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Nothing
 2 | Merged PR: [Add missing label number to instructor help page #8317](https://github.com/TEAMMATES/teammates/pull/8322)
 3 | Submitted Issue: [Hot reloading for javascript](https://github.com/TEAMMATES/teammates/issues/8383)
 3 | Authored PR: [Instructor: Add placeholder to replace pre-filled value of ranking question](https://github.com/TEAMMATES/teammates/pull/8373)
@@ -519,19 +518,22 @@ Week | Achievements
 4 | Authored PR (Abandoned): [Test: Disable browser cache through selenium](https://github.com/TEAMMATES/teammates/pull/8440)
 5 | Submitted Issue: [Instructor: edit question: distribute question options vs recipients tooltip (UI)](https://github.com/TEAMMATES/teammates/issues/8465)
 5 | Submitted Issue: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/issues/8463)
+5 | Reviewed PR: [MCQ and MSQ question: fix cancel question feature #7934](https://github.com/TEAMMATES/teammates/pull/8472)
 5 | Reviewed PR: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default #8576](https://github.com/TEAMMATES/teammates/pull/8584)
 6 | Authored PR: [Instructor: edit feedback: support min max for distribute points questions #8450](https://github.com/TEAMMATES/teammates/pull/8464)
-6 | Authored PR: [Instructor: Feedback Results: Show No Specific Section if non-empty #7633 #8539](https://github.com/TEAMMATES/teammates/pull/8539)
+6 | Authored PR: [Instructor: Feedback Results: Show No Specific Section if non-empty #7633](https://github.com/TEAMMATES/teammates/pull/8539)
 7 | Submitted Issue: [Testing: Using `WebElement#Click` instead of `Click()`](https://github.com/TEAMMATES/teammates/issues/8623)
 7 | Reviewed PR: [Rubric questions: show summary excluding self-evaluation #6887](https://github.com/TEAMMATES/teammates/pull/8517)
 7 | Responded to Contributor Queries: [https://github.com/TEAMMATES/teammates/issues/8611](https://github.com/TEAMMATES/teammates/issues/8611)
 7 | Responded to Contributor Queries: [Tests fail on the dev server](https://github.com/TEAMMATES/teammates/issues/8619)
 8 | Submitted issue: [Backend Validation for Questions](https://github.com/TEAMMATES/teammates/issues/8646)
 8 | Responded to Contributor Queries: [Help Request: How JS Minification Works](https://github.com/TEAMMATES/teammates/issues/8684)
-8 |
-9 |
-10 |
-11 |
+9 | Reviewed PR: [Instructor: Edit Session: MSQ: Address the case where a number field is left blank #8611](https://github.com/TEAMMATES/teammates/pull/8678)
+9 | Submitted Issue: [Upgrade to Webpack 4](https://github.com/TEAMMATES/teammates/pull/8713)
+9 | Merged PR: [Instructor: add ranking question: leave min/max boxes empty by default #8320](https://github.com/TEAMMATES/teammates/pull/8373)
+10 | Submitted Issue: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/issues/8716)
+10 | Merged PR: [Upgrade to Webpack 4](https://github.com/TEAMMATES/teammates/issues/8712)
+11 | Authored PR: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/pull/8743)
 12 |
 13 |
 

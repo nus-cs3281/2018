@@ -230,7 +230,17 @@ Week | Achievements
 9 | Reviewed/Tested PR: [synclab refactor format objects #1645](https://github.com/PowerPointLabs/PowerPointLabs/pull/1645)
 9 | Reviewed PR: [Add issue & PR request templates #1643](https://github.com/PowerPointLabs/PowerPointLabs/pull/1643)
 9 | Submitted Issue: [Positions Lab Bug (Adjoin) #1639](https://github.com/PowerPointLabs/PowerPointLabs/issues/1639)<br>Submitted Issue: [Positions Lab Bug (Distribute) #1640](https://github.com/PowerPointLabs/PowerPointLabs/issues/1640)<br>Submitted Issue: [Positions Lab Bug (Align) #1638](https://github.com/PowerPointLabs/PowerPointLabs/issues/1638)
-10 |
+10 | Merged PR: [New feature: Save Lab #1637](https://github.com/PowerPointLabs/PowerPointLabs/pull/1637)
+10 | Authored PR: [Positions Lab Bug (Adjoin) #1652](https://github.com/PowerPointLabs/PowerPointLabs/pull/1652)
+10 | Authored PR: [Positions Lab Bug (Distribute) #1653](https://github.com/PowerPointLabs/PowerPointLabs/pull/1653)
+10 | Authored PR: [Unknown Office control ID: PictureCropToolsMenu #1660](https://github.com/PowerPointLabs/PowerPointLabs/pull/1660)
+10 | Reviewed/ Tested PR: [Fix pasting of web pictures #1648](https://github.com/PowerPointLabs/PowerPointLabs/pull/1648)
+10 | Reviewed/ Tested PR: [Add issue & PR request templates #1643](https://github.com/PowerPointLabs/PowerPointLabs/pull/1643)
+10 | Submitted Issue: [Consider adding Technical Troubleshooting FAQs to the User Guide #1651](https://github.com/PowerPointLabs/PowerPointLabs/issues/1651)
+10 | Submitted Issue: [Consider adding Contributor Information to Github page #1657](https://github.com/PowerPointLabs/PowerPointLabs/issues/1657)
+10 | Submitted Issue: [Timeline for second release of PowerPointLabs #1659](https://github.com/PowerPointLabs/PowerPointLabs/issues/1659)
+10 | Submitted Issue: [Save Lab Documentation #1665](https://github.com/PowerPointLabs/PowerPointLabs/issues/1665)
+10 | Responded to user queries: [Unknown Office control ID: PictureCropToolsMenu #1650](https://github.com/PowerPointLabs/PowerPointLabs/issues/1650)
 11 |
 12 |
 13 |

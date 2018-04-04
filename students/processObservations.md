@@ -536,12 +536,43 @@ PowerPointLabs may be a smaller project comparatively, but it is good to learn f
 In addition, PowerPointLabs can also learn from WikiMedia's mistakes, by scoping issues appropriately for each of the categories to ensure that new contributors are given an opportunity to gradually familiarise themselves with the project. This helps to motivate them long-term, ensuring better quality contributions in the future.
 
 ## TAN LI HAO
-**Project**:
+**Project**: [Servo](https://github.com/servo/servo)
+
+[Contribution Guidelines](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
 
 **Observations**:
 
-{write your observations here}
+Servo is a web browser engine written in the Rust language. Parts of Firefox has been and will be incrementally replaced with Servo.
 
+#### Important things learned
+Despite being a very large project spanning multiple repositories, Servo makes it relatively easy to contribute despite the complexity. It is interesting that such a complex project could make it so easy to contribute. I believe some of the factors that contributed to these are:
+* It uses the familiar Github workflow for contributions
+* Reviews are also done on Github but also optionally with a code review tool for more complicated changesets
+* There are many quickstart guides to quickly get up to speed for contributions in different areas
+* There are some issues that are mentored (a mentor will guide a contributor along the way) and there are many venues for help
+* The engine is broke up into many much smaller components which are loosely coupled
+* There is a lot of documentation, although not always in one place and not necessarily consistent or complete but done is probably better than perfect
+
+Servo also don’t belong to the common category of applications, but in the category of system software such as operating systems and game engines. I made some observations that are interesting or differs from traditional applications:
+* Performance improvements are of top priority and are more important if not more important than features
+* The project is large and requires many concepts to understand, however the lines of code is only around ~300k for the main engine (excluding the dependencies)
+* Other than following a Github workflow, there is really very little process required to contribute
+
+#### Practices/Tools
+Servo uses many tools to improve the developer experience. One of them that I believe can be almost immediately useful to TEAMMATES and other OSS-generic projects is Reviewable.
+
+Reviewable is a code review tool that improves upon Github code review. I would some of the useful key features are:
+* Review comments are not lost when there are changes to a line is pushed
+* Supports rebased commits
+* Tightly integrated with Github, which means that its features can be adopted incrementally
+
+A common complaint is that Github’s code review system is lacking, and Gerrit code review is one of the alternatives. For example, there is a [discussion on Golang](https://github.com/golang/go/issues/21956) on this. However, the problem with external code review tools like Gerrit is that they increase the friction to contribution. While Reviewable does not have as many features as Gerrit, because it is tightly integrated with Github the reviewer and the author have complete freedom whether or not to use the tool and it will not affect any party.
+
+Some other tools for general exploration (not related to any project):
+* [Homu](https://github.com/barosl/homu) - automated merging
+* [Highfive](https://github.com/servo/servo/wiki/Highfive) - Github bot that provides an encouraging atmosphere for new contributors, e.g. welcoming new contributors, assigning issues, assigning reviewers, etc.
+* [Buildbot](https://buildbot.net/) - Continuous integration (e.g. Travis CI, Jenkins)
+* [Saltstack](https://saltstack.com/community/) - Infrastructure management (Related: Kubernetes - container management)
 
 ## TRAN TIEN DAT
 **Project**: [Mitmproxy](https://github.com/mitmproxy/mitmproxy/)

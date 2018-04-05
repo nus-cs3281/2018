@@ -71,6 +71,7 @@ User Guide and Developer guide and CI tools like Travis, CodeCov and AppVeyor
 - Contributed to TEAMMATES which is a Java Web application
 - Contributed to WikiMedia Commons Application[Android Application in Java]. My contributions: [Pull Requests](https://github.com/commons-app/apps-android-commons/pulls?q=is%3Apr+author%3Atshradheya+is%3Aclosed)
 - Made an native Android App NUSEvents from scratch for NUS Orbital 2017
+- Enhanced an AddressBook Application as a part of Software Engineering Project, with the use of Software Engineering Principles in a team of four. The final product was a Desktop Java Application for the use of university students. [Personal Portfolio](https://cs2103aug2017-w14-b1.github.io/main/team/tshradheya.html)
 - Contributed to Exercism.io - Java which is a tool used to teach students Java. My contributions:
 [Pull Requests](https://github.com/exercism/java/pulls?q=is%3Apr+author%3Atshradheya+is%3Aclosed)
 
@@ -78,7 +79,7 @@ User Guide and Developer guide and CI tools like Travis, CodeCov and AppVeyor
 ### Mobile Applications
 - Tech talk on [Overview to Mobile Applications](https://github.com/nus-cs3281/2018/issues/11)
 - Contributed to Open Source Mobile App - WikiMedia Commons Application
-- Book Chapter on [Kotlin](https://github.com/se-edu/learningresources/blob/master/contents/kotlin/kotlin.md)
+- Contributed a [chapter on Kotlin](https://github.com/se-edu/learningresources/blob/master/contents/kotlin/kotlin.md) to `se-edu/learningresources`
 - Made an native Android App NUSEvents from scratch for NUS Orbital 2017
 
 ### Code Quality
@@ -91,5 +92,5 @@ User Guide and Developer guide and CI tools like Travis, CodeCov and AppVeyor
     - WikiMedia commons
         - [#1149 - Imporve Code quality based on Codacy reviews](https://github.com/commons-app/apps-android-commons/pull/1149)
 - Tech talk on [Static Code Analysis](https://github.com/nus-cs3281/2018/issues/34)
-- Enhanced book chapter on [FindBugs](https://github.com/se-edu/learningresources/pull/28)
-- Reviewed book chapter on [ESLint](https://github.com/se-edu/learningresources/pull/38)
+- Enhanced a [chapter on FindBugs](https://github.com/se-edu/learningresources/pull/28) on `se-edu/learningresources`
+- Reviewed a [chapter on ESLint](https://github.com/se-edu/learningresources/pull/38) on `se-edu/learningresources`

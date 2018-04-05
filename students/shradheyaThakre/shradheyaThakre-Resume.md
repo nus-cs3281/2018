@@ -91,3 +91,4 @@ User Guide and Developer guide and CI tools like Travis, CodeCov and AppVeyor
     - WikiMedia commons
         - [#1149 - Imporve Code quality based on Codacy reviews](https://github.com/commons-app/apps-android-commons/pull/1149)
 - Tech talk on [Static Code Analysis](https://github.com/nus-cs3281/2018/issues/34)
+- Enhanced book chapter on [FindBugs](https://github.com/se-edu/learningresources/pull/28)

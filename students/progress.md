@@ -448,8 +448,8 @@ Week | Achievements
 10 | Reviewed PR: [Instructor: Edit question: Check for empty string in Numscale/MSQ/Rank (Options/Recipients) number fields #8683](https://github.com/TEAMMATES/teammates/pull/8697)
 10 | Responded to Contributor Queries: [IntelliJ cannot run failed tests](https://github.com/TEAMMATES/teammates/issues/8740)
 10 | Reviewed PR: [Instructor: remind particular student: fix stray place holder in email text #8664](https://github.com/TEAMMATES/teammates/pull/8665#pullrequestreview-108494421)
-12 |
-13 |
+11 | Reviewed PR: [Use builder instead of telescoping constructor antipattern in FeedbackResponseAttributes class #7190](https://github.com/TEAMMATES/teammates/pull/8741)
+11 | Submitted Issue: [Firefox: version 46.0.1 causing styling issue #8763](https://github.com/TEAMMATES/teammates/issues/8763)
 
 ## NGUYEN QUOC BAO
 

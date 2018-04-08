@@ -252,17 +252,12 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 |
-2 | Authored PR: [UiManager: delete duplicate code #734](https://github.com/se-edu/addressbook-level4/pull/804)  
-3 |
-4 | Authored PR: [Test: replace all asserts with JUnit Assertion #814](https://github.com/se-edu/addressbook-level4/pull/821)  
-5 |
-6 |
-7 |
-8 |
-9 |
-10 |
-11 |
+2 | Merged PR: [UiManager: delete duplicate code #734](https://github.com/se-edu/addressbook-level4/pull/804)  
+4 | Merged PR: [Test: replace all asserts with JUnit Assertion #814](https://github.com/se-edu/addressbook-level4/pull/821)  
+11 | Merged PR: [AddressBook: remove master tag list #753](https://github.com/se-edu/addressbook-level4/pull/825)
+11 | Merged PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #685](https://github.com/se-edu/addressbook-level4/pull/845)
+11 | Merged PR: [JUnit: Update to use latest version #707](https://github.com/se-edu/addressbook-level4/pull/811)
+11 | Submitted Issue: [Upgrade JUnit4 tests to JUnit5 #874](https://github.com/se-edu/addressbook-level4/issues/874)
 12 |
 13 |
 

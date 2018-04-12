@@ -365,23 +365,30 @@ Week | Achievements
 
 Week | Achievements
 ---- | ------------
-1 | Merged PR: [Instructor: help page: make style of sections consistent #8237](https://github.com/TEAMMATES/teammates/pull/8290)
-1 | Merged PR: [Use builder instead of telescoping constructor antipattern in CourseAttributes class #8236](https://github.com/TEAMMATES/teammates/pull/8236)
+1 | Merged PR: [Instructor: help page: remove link-style formatting from sub-titles #8190 #8224](https://github.com/TEAMMATES/teammates/pull/8224)
+1 | Merged PR: [Use builder instead of telescoping constructor antipattern in CourseAttributes class #7190 #8236](https://github.com/TEAMMATES/teammates/pull/8236)
 1 | Submitted Issue: [Student/Instructor: help page: add navbar #8227](https://github.com/TEAMMATES/teammates/issues/8227)
-4 | Responded to contributor in issue tracker: [#8420](https://github.com/TEAMMATES/teammates/pull/8420)
+4 | Responded to contributor in issue tracker: [Replace all instances of `Const#EOL` with `System#lineSeparator()` #8299 #8420](https://github.com/TEAMMATES/teammates/pull/8420)
 4 | Submitted Issue: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/issues/8431)
 4 | Submitted Issue: [InstructorFeedbackResultsPage: merge tooltips with duplicate information #8432](https://github.com/TEAMMATES/teammates/issues/8432)
 5 |
-6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #8326](https://github.com/TEAMMATES/teammates/pull/8326)
+6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #7645 #8326](https://github.com/TEAMMATES/teammates/pull/8326)
 6 | Submitted Issue: [AccountAttributes: Add test cases for builder #8496](https://github.com/TEAMMATES/teammates/issues/8496)
 6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497](https://github.com/TEAMMATES/teammates/issues/8497)
 6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/issues/8498)
-7 |
-8 |
-9 |
-10 |
-11 |
-12 |
+6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #7645 #8326](https://github.com/TEAMMATES/teammates/pull/8326)
+7 | 
+8 | Submitted PR: [Instructor Help: create new instructor onboarding session #8659](https://github.com/TEAMMATES/teammates/issues/8659)
+9 | Reviewed PR: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497 #8690](https://github.com/TEAMMATES/teammates/pull/8690)
+9 | Responded to contributor query: [Help Request: "Execution failed for task ':localTests'" #8699](https://github.com/TEAMMATES/teammates/issues/8699)
+10 | Reviewed PR: [AdminActivityLogPage: Typo in Log for adminSearchPage Load #8707 #8711](https://github.com/TEAMMATES/teammates/pull/8711)
+10 | Reviewed PR: [Instructor: home page: give menu option to edit a course #8541 #8725](https://github.com/TEAMMATES/teammates/pull/8725)
+10 | Merged PR: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498 #8553](https://github.com/TEAMMATES/teammates/pull/8553)
+11 | Reviewed PR: [Use builder instead of telescoping constructor antipattern in FeedbackQuestionAttributes class #7190 #8739](https://github.com/TEAMMATES/teammates/pull/8739)
+11 | Reviewed PR: [Use builder instead of telescoping constructor antipattern in FeedbackResponseAttributes class #7190 #8741](https://github.com/TEAMMATES/teammates/pull/8741)
+11 | Submitted Issue: [Account: update setStudentProfile javadoc #8757](https://github.com/TEAMMATES/teammates/issues/8757)
+11 | Merged PR: [Account: update setStudentProfile javadoc #8757 #8758](https://github.com/TEAMMATES/teammates/pull/8758)
+12 | Submitted Issue: [Instructor: help page: add questions #8769](https://github.com/TEAMMATES/teammates/issues/8769)
 13 |
 
 ## DARREN WEE ZHE YU

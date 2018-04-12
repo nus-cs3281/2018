@@ -583,11 +583,16 @@ Week | Achievements
 7 | Reviewed PR: [Instructor: Edit session : Distribute (Options) question : Points per option button stays hidden #8603 #8604](https://github.com/TEAMMATES/teammates/pull/8604) <br> Authored PR: [PR to help solve https://github.com/TEAMMATES/teammates/issues/8412](https://github.com/tshradheya/teammates/pull/2)
 8 | Merged PR: [Instructor: remind students: send email copies only to requesting instructor #8531 #8535](https://github.com/TEAMMATES/teammates/pull/8535)
 8 | Responded to Contributor Queries: [Help Request : Create app on GAE #8407](https://github.com/TEAMMATES/teammates/issues/8407) <br> [New contributor self intro Luan N. Pham #8615](https://github.com/TEAMMATES/teammates/issues/8615) <br> [New Contributor Self Intro : Kartik Setia #8534](https://github.com/TEAMMATES/teammates/issues/8534) <br> [Help Request: Build Error / java: reference to until is ambiguous #8361](https://github.com/TEAMMATES/teammates/issues/8361)
-9 |
-10 |
-11 |
-12 |
-13 |
+9 | Authored PR (put on hold due to time constrain): [build.gradle: Upgrade to latest Selenium 3.8.1 #8150 #8339](https://github.com/TEAMMATES/teammates/pull/8339) <br> Authored PR (put on hold by request): [Add package lock.json to VCS #7533 #8348](https://github.com/TEAMMATES/teammates/pull/8348)
+9 | Reviewed PR: [Instructor: search: rename tick box to be more accurate #8526 #8633](https://github.com/TEAMMATES/teammates/pull/8633)
+9 | Reviewed PR: [AdminActivityLogPage: fix inconsistent StudentProfilePage Load message #8717 #8727](https://github.com/TEAMMATES/teammates/pull/8727)
+10 | Submitted Issue: [Fix indentation for test resource html pages to avoid irrelevant changes #8744](https://github.com/TEAMMATES/teammates/issues/8744)
+10 | Merged PR: [AccountAttributesTest: fix instability due to modified timestamp comparison #8709 #8737](https://github.com/TEAMMATES/teammates/pull/8737)
+10 | Merged PR: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default #8576 #8584](https://github.com/TEAMMATES/teammates/pull/8584)
+11 | Merged PR: [Fix indentation for test resource html pages to avoid irrelevant changes #8744 #8745](https://github.com/TEAMMATES/teammates/pull/8745)
+11 | Reviewed PR: [Instructor: Feedback: View Results: fix the disappearing 'No specific recipient' panel bug #7633 #8539](https://github.com/TEAMMATES/teammates/pull/8539)
+12 | Merged PR: [Rubric questions: show summary excluding self-evaluation #6887 #8517](https://github.com/TEAMMATES/teammates/pull/8517)
+12 | Reviewed PR: [Student: submit responses: tick email confirmation option if the form is empty #8606 #8742](https://github.com/TEAMMATES/teammates/pull/8742)
 
 ## TAN LI HAO
 

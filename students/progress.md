@@ -378,7 +378,7 @@ Week | Achievements
 6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/issues/8498)
 6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #7645 #8326](https://github.com/TEAMMATES/teammates/pull/8326)
 7 | 
-8 | Submitted PR: [Instructor Help: create new instructor onboarding session #8659](https://github.com/TEAMMATES/teammates/issues/8659)
+8 | Submitted Issue: [Instructor Help: create new instructor onboarding session #8659](https://github.com/TEAMMATES/teammates/issues/8659)
 9 | Reviewed PR: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497 #8690](https://github.com/TEAMMATES/teammates/pull/8690)
 9 | Responded to contributor query: [Help Request: "Execution failed for task ':localTests'" #8699](https://github.com/TEAMMATES/teammates/issues/8699)
 10 | Reviewed PR: [AdminActivityLogPage: Typo in Log for adminSearchPage Load #8707 #8711](https://github.com/TEAMMATES/teammates/pull/8711)

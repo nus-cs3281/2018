@@ -270,8 +270,8 @@ Week | Achievements
 11 | Merged PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #685](https://github.com/se-edu/addressbook-level4/pull/845)
 11 | Merged PR: [JUnit: Update to use latest version #707](https://github.com/se-edu/addressbook-level4/pull/811)
 11 | Submitted Issue: [Upgrade JUnit4 tests to JUnit5 #874](https://github.com/se-edu/addressbook-level4/issues/874)
-12 |
-13 |
+12 | Merged PR: [Dev guide: checkstyle setup: require to apply version change #715](https://github.com/se-edu/addressbook-level4/pull/875)
+12 | Merged PR: [Clean up "d.FirstTimers" issues](https://github.com/se-edu/addressbook-level4/pull/870)
 
 ## TAN JUN AN
 

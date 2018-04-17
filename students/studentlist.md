@@ -180,7 +180,7 @@
 [[Github](https://github.com/darrenwee)]
 [[Progress](progress.md#darren-wee-zhe-yu)]
 
-* Expert areas: Go, performance & scalability, git
+* Expert areas: Go, git
 * Projects: [TEAMMATES](https://github.com/teammates/TEAMMATES), [hub](https://github.com/github/hub)
 
 ## JOANNE ONG CUI FANG

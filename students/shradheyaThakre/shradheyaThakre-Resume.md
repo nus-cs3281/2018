@@ -1,7 +1,7 @@
 # Shradheya Thakre
 
-Email: tshradheya@gmail.com
-GitHub: http://www.github.com/tshradheya
+Email: tshradheya@gmail.com <br>
+GitHub: https://www.github.com/tshradheya
 
 ## Education
 
@@ -62,5 +62,35 @@ User Guide and Developer guide and CI tools like Travis, CodeCov and AppVeyor
 
 ## Technical Skills
 
-- Expertise: Java, Android App Development, NodeJs (ExpressJS)
-- Other Areas: C++, HTML, CSS, JavaScript, Python, SQL, NoSQL(MongoDB), JUnit Testing, MEAN (Web Development Stack)
+- Expertise: Java, Android App Development, NodeJs (ExpressJS), Code Analysis, JavaScript
+- Other Areas: C++, HTML, CSS, Python, SQL, NoSQL(MongoDB), JUnit Testing, MEAN (Web Development Stack)
+
+## Expertise Area
+
+### Java
+- Contributed to TEAMMATES which is a Java Web application
+- Contributed to WikiMedia Commons Application[Android Application in Java]. My contributions: [Pull Requests](https://github.com/commons-app/apps-android-commons/pulls?q=is%3Apr+author%3Atshradheya+is%3Aclosed)
+- Made an native Android App NUSEvents from scratch for NUS Orbital 2017
+- Enhanced an AddressBook Application as a part of Software Engineering Project, with the use of Software Engineering Principles in a team of four. The final product was a Desktop Java Application for the use of university students. [Personal Portfolio](https://cs2103aug2017-w14-b1.github.io/main/team/tshradheya.html)
+- Contributed to Exercism.io - Java which is a tool used to teach students Java. My contributions:
+[Pull Requests](https://github.com/exercism/java/pulls?q=is%3Apr+author%3Atshradheya+is%3Aclosed)
+
+
+### Mobile Applications
+- Tech talk on [Overview to Mobile Applications](https://github.com/nus-cs3281/2018/issues/11)
+- Contributed to Open Source Mobile App - WikiMedia Commons Application
+- Contributed a [chapter on Kotlin](https://github.com/se-edu/learningresources/blob/master/contents/kotlin/kotlin.md) to `se-edu/learningresources`
+- Made an native Android App NUSEvents from scratch for NUS Orbital 2017
+
+### Code Quality
+- Fixed issues in internal and external project related to Code Quality.
+    - TEAMMATES
+        - [#8233- Lambda as comparator Java](https://github.com/TEAMMATES/teammates/pull/8233)
+        - [#8352 - CSS Coding Standard](https://github.com/TEAMMATES/teammates/pull/8352)
+        - [#8354 - PMD Rule - No Raw exception thrown](https://github.com/TEAMMATES/teammates/pull/8354)
+        - [#8382 - Builder instead of telescoping contructor pattern](https://github.com/TEAMMATES/teammates/pull/8382)
+    - WikiMedia commons
+        - [#1149 - Imporve Code quality based on Codacy reviews](https://github.com/commons-app/apps-android-commons/pull/1149)
+- Tech talk on [Static Code Analysis](https://github.com/nus-cs3281/2018/issues/34)
+- Enhanced a [chapter on FindBugs](https://github.com/se-edu/learningresources/pull/28) on `se-edu/learningresources`
+- Reviewed a [chapter on ESLint](https://github.com/se-edu/learningresources/pull/38) on `se-edu/learningresources`

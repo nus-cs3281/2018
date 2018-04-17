@@ -24,12 +24,35 @@
 
 
 ## ALEX FONG JIE WEN
-**Project**:
+**Projects**: [Servo](https://github.com/servo/servo) & [Open-Keychain](https://github.com/open-keychain/open-keychain)
 
 **Observations**:
+Servo is an open source browser by Mozilla, written in Rust. I've contributed a PR here in the past few weeks for this module. open-keychain is an open source Android application for PGP key usage. I'm no longer active at open-keychain, but have completed the Google Summer of Code program with them.
 
-{write your observations here}
+Servo:
+- [Web documentation](https://doc.servo.org/servo/index.html) for the entire project  
+Extensive documentation is not required. Not all functions had accompanying comments.   
+Even so, the search preview it made development easier as searching the web documentation is faster than doing a `grep` call in the command line or using IDE tools. (try making a search in the link for a better idea)  
+This is particularly valuable for PPTLabs, when official documentation for PPT APIs is severely lacking in ease of navigation and helpful descriptions.
+Having our website for documentation allows us to also share the quirks of the broken PPT APIs.    
 
+- Very active senior developers, open to discussion on many platforms  
+Senior devs are always around to help, both on Github and IRC.
+It might be beneficial to use a chat platform in NUS OSS as well, possibly through Gitter, Slack etc. While we already use slack within this module, extending this out to people outside of CS3281/2 may help bring new contributors, especially for GSOC participating projects like TEAMMATES.
+
+- PRs and issue templates  
+Servo, like Teammates & many other projects have PR & issue templates on Github. It reminds contributors to run tests and other relevant tasks before making issues, PRs. The templates help make issues and PRs clear and concise.  
+Since PPTLabs currently lacks this, it might be good to work something out.
+
+- Learning points regarding coding  
+Do not amend your branch by force pushing even if the OSS requires your PRs to be squashed by the end of the PR. Senior devs need to know when you have made updates. Force pushing doesn't inform them of changes, resulting in delay.
+
+Open-Keychain:  
+- Same as Servo w.r.t. active senior devs
+
+- Learning points from merging large PRS
+  - Get large PRs reviewed early at many checkpoints and make them as modular as possible. (anything > 300 loc should require this)
+  - Hold off refactoring until all tasks in the PR are complete and the code has obtained approval from senior devs. This reduces the amount of new code your reviewer has to read, making the review process easier.
 
 ## CARA LEONG SU-YI
 **Project**: [NLTK](http://github.com/nltk/nltk)
@@ -111,11 +134,60 @@ Communication: Strongbox uses [gitter](https://gitter.im) as a primary means of 
 Testing: While Markbind has some basic tests implemented to check whether the rendered site conforms to specifications, I feel that more unit testing is needed to ensure that there are no regressions when a new pull request is merged. Strongbox has a [document](https://github.com/strongbox/strongbox/wiki/Writing-Tests) that mentions how best to write tests for the application. As Markbind matures, I think a similar document should be written so that new contributors can have a general idea of how to write tests and the standards that are expected of them.
 
 ## DARREN WEE ZHE YU
-**Project**:
+**Project**: [github/hub](https://github.com/github/hub)
 
-**Observations**:
+<!-- Links to any online documents about the workflow of external project -->
+- [`CONTRIBUTING.md`](https://github.com/github/hub/blob/master/CONTRIBUTING.md)
 
-{write your observations here}
+**Observations**: 
+`hub` is a command-line tool that acts as a wrapper around `git` and integrates GitHub-related functionality into your local terminal. `hub` is implemented in the Go language, one of my expert areas. I decided to work on `hub` as I wanted to gain experience working on a large project in Go, which I had only used before in small, isolated problems for practice.
+
+<!-- Important things you learned from contributing to that project, if any -->
+The principle of least surprise is very important when making changes to an interface. Some feature requests require a change in default behavior. For example, [one of my PRs for `hub`](https://github.com/github/hub/pull/1690) was to fulfill a feature request that required a change in `hub`'s default behavior. One of the primary concerns of the maintainer is how much it would surprise current users of `hub` when they update it, and whether we could make this change in behavior such that people could opt-in to the old behavior. This is important as they might already have scripts that expect the old, default behavior which may be broken by us by pushing this change into a release of `hub`.
+
+Open-source development is also _slow_. There is only one maintainer for `hub`, so he is the sole gatekeeper of the project and decides which features are in line with his vision of `hub` as well as the only person really doing code review for pull requests. Coupled with the large number of people who try to work on `hub`, this can cause a bottleneck, causing some pull requests to not be reviewed at all and go stale. I have gotten around this problem by focusing on issues that on slated for the next release (that no one wants to work on, strangely) in order to get priority for my pull requests. This is based off the project tracker in GitHub. This also helps the maintainer, as it gets the most important fixes/features implemented in first, instead of simply pulling a random issue from the issue tracker and working on that.
+
+<!-- Practices/tools of the external project that you think can be adopted by your NUS-OSS project -->
+`hub`'s approach to system's testing relies on [`cucumber`](https://github.com/cucumber/cucumber) which I found quite interesting. 
+For example, this block tests the `hub clone` command, which does the same thing as `git clone` but allows you to input a GitHub reference, like `hub clone TEAMMATES/teammates` will clone `TEAMMATES/teammates`
+
+```
+Feature: hub clone
+  Background:
+    Given I am "mislav" on github.com with OAuth token "OTOKEN"
+
+  Scenario: Clone a public repo
+    Given the GitHub API server:
+      """
+      get('/repos/rtomayko/ronn') {
+        json :private => false,
+             :name => 'ronn', :owner => { :login => 'rtomayko' },
+             :permissions => { :push => false }
+      }
+      """
+    When I successfully run `hub clone rtomayko/ronn`
+    Then it should clone "https://github.com/rtomayko/ronn.git"
+    And there should be no output
+```
+
+Each step corresponds to a definition. For example, the `Then` steps corresponds to this:
+```
+Then(/^it should clone "([^"]*)"$/) do |repo|
+  step %("git clone #{repo}" should be run)
+end
+
+Then(/^there should be no output$/) do
+  assert_exact_output('', all_output)
+end
+```
+(I have omitted the definition of the other steps for brevity, but they are similar)
+
+The tests are written in plain English in a step-by-step manner, and the test acts as both the desired behavior specification, documentation and automated test (kill three birds with one stone!). Even without working on this project, you can figure out what this test is for immediately. This test is specifically end-to-end.
+
+In teammates, we could potentially utilize `cucumber` (there is a version for Java) for mid-level integration tests like [`FeedbackQuestionsLogicTest`](https://github.com/TEAMMATES/teammates/blob/master/src/test/java/teammates/test/cases/logic/FeedbackQuestionsLogicTest.java) and make the tests more readable and self-documenting. We can go one step further and try to use it for end-to-end UI testing, but may be difficult to do. All in all, a testing framework like `cucumber` may be worth exploring.
+
+<!-- [Optional] Suggested areas of improvement for the external project -->
+An area of improvement for the external project is to have more mid-level maintainers who can also perform code review in order to ease the development process. Having one man do maintain the project causes a massive slowdown and stretches him thin. A hierarchy like Teammates' can be used, where committers perform the initial reviews, before requesting a final review from the maintainers who decide whether to merge a pull request.
 
 
 ## JOANNE ONG CUI FANG
@@ -164,11 +236,30 @@ Meanwhile, TEAMMATES has a very healthy emphasis on tests, with tests for both b
 
 
 ## KOH LEWIS
-**Project**:
+**Project**: [NUSMods R](https://github.com/nusmodifications/nusmods/tree/master/www)
+[Contribution Guidelines](https://github.com/nusmodifications/nusmods/blob/master/CONTRIBUTING.md)
+[Developer's Guide](https://github.com/nusmodifications/nusmods/tree/master/www)
 
 **Observations**:
 
-{write your observations here}
+NUSMods R is a website which allows students of NUS to plan their timetable effectively. It is built on React, Redux, and Bootstrap, and aims to be fast, modern, and responsive. 
+
+I chose NUSMods R because I was interested in working on a project which I and many others use daily and is an important part of my life right now. Hopefully, I would have been able to make the website a better experience for everyone using it, myself included.
+
+Getting started was simple, especially with the immensely handy [Beginner’s Guide](https://medium.com/@zameschua/getting-my-feet-wet-my-experience-with-open-source-and-nusmods-f1381450517e) written by one of the contributors. NUSMods uses Yarn for dependency installation, so it is very easy to set up and start working on issues.
+
+Choosing a first issue to work on is similar to SE-EDU. Similar to the ‘d.FirstTimers’ label, NUSMods has the ‘good first issue’ label. However, the issues are not as easily solved. Many of the issues are bugs which take time to track down and fix. Others are open-ended and vague, and even more are multiple features packed into one issue. Unlike the ‘d.FirstTimers’ issues in SE-EDU where the creator basically tells you what needs to be done, a decent amount of research and coding needs to be put in to even resolve a ‘good first issue’.
+
+ Working on the PR was also similar to SE-EDU. After creating a PR, reviews were fast and helpful to refine the PR. The commit message is less strict than the one for SE-EDU, making my life a lot easier! One thing I do appreciate about SE-EDU over NUSMods though is that the CI testing is very efficient. NUSMods also has its own testing, however before they accepted my PR, they had to manually test the changes on their own. This took a few days, and it was a bit jarring having to wait compared to the amount of waiting for comments when they were reviewing the PR.
+
+Not having to write paragraphs of justification for a commit message made my PR easier to make.  Granted, it does make it harder for the reviewers to understand what is going on, but that can be fixed by comments in the code. It might only be possible in smaller projects, where the bulk of the changes are made by a select few people who already know the inner workings of how the project works. I do see the advantage of writing good commit messages, however given the additional work required in creating and fixing the messages, I am not sure if it is worth the extra effort. Especially since it may scare away newcomers who want to contribute to the project.
+
+In terms of documentation, NUSMods pales in comparison with SE-EDU. The PR I worked on was largely confined to one file, which had good documentation in it and was easy to work with. However, when I tried working on another issue, the labyrinth of files and code was hard to untangle, making it tough to figure out where is a good starting point. Compared to SE-EDU with its great Developer Guide, NUSMods really only gives an overview of how to set up the project environment, without giving much insight into how everything is connected.
+
+However, due to the great people at NUSMods, it is easy to find what you need just by asking. In addition to Github, they can be reached through [Telegram]( https://telegram.me/nusmods), [Messenger]( https://www.m.me/nusmods), [Facebook]( https://www.facebook.com/nusmods), [Twitter]( https://twitter.com/nusmods), and even [email]( nusmods@googlegroups.com). The ability to contact them through so many channels makes the project seem friendly and inviting. Although this may just be a façade, as they may not be active on some of these platforms (Their last twitter post was over 2 years ago!)
+
+**Conclusion**
+Overall, contributing to NUSMods felt very similar to contributing to SE-EDU with some key differences. It does not feel as stringent with its commit messages and code, which encourages newcomers to try to contribute. However, this is deterred by the additional difficulty of the issues compared to SE-EDU, in terms of scope of the issues as well as the documentation available. Continuous Integration is very important. It saves time for the reviewer, so that they do not need to manually test the build, and it saves time for the contributor, so that they know quickly whether they need to fix their PR. Lastly, having many avenues of communication gave off a very welcoming atmosphere.
 
 
 ## LEE YAN HWA
@@ -222,12 +313,19 @@ Additionally, it could also be good to have an automated bot like the open-event
 If we were to open the project to external contributors, I hope our developers will be as friendly and helpful as those from the Open Event projects. The senior developer even asked me on Gitter if I was going to submit my GSoC proposal.
 
 ## LU LECHUAN
-**Project**:
+**Project**: Exercism
 
-**Observations**:
+**Observations**: [Exercism](http://exercism.io/) is a portal to learn new programming languages, it has over 30 different languages and many problem sets of increasing difficulties for users to engage in progressive learning. 
+[Link to exercism github](https://github.com/exercism).
 
-{write your observations here}
+This project appears interesting to me as it contains many exercises that are inplemented in different languages. One can practice a particular languages effectively as there are increasing difficulties. It also always users to have cross references from several languages as some of the exercises are the same from those languages.
 
+I have worked in the Java branch - the exercises that are implemented in Java. I started with implemented tests for certain excersises, then moves on to implement a new exercise. I have observed that the project has practiced some of the testing principles such as Equivalence Partition and Boundary Value Analysis to ensure both effectiveness and efficiency for the testing. The project has a folder which stores the "canonical test data" and the actual test cases are expected to match these "canonical test data" so that the principles are followed closely.
+
+For my first PR, I have grouped some of the tests together based on the types of test data. The senior developers very kindly explained to me that I should seperate them individually. This is because the project is promoting TDD (Test Driven Development), it will be easier to keep track of the progress if tests are as granular as possible.
+
+**Comparison with Teammates**:
+The developer guide for Teammates is definitely better. Adequate diagrams are provided to allow contributes to understand quickly the architectural design of the project, how components are related, etc. Exercism on the other hand, does not provide diagrams as a complement for documents. However, different components of Exercism are quite well-organised. Documentations for exercises are provided both integratedly and separately - developers can check the document for a particular exercise in that exercise sub-folder, or in the main document.
 
 ## NGUYEN QUOC BAO
 **Project**:
@@ -302,16 +400,34 @@ Bad behaviour in issue assignment is quite rampant at times, it would be good to
 
 
 ## RACHAEL SIM HWEE LING
-**Project**: [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/)
+**Project**: [ESLint](https://github.com/eslint/eslint)
+- [Contributing](https://eslint.org/docs/developer-guide/contributing/). This explains how to report bug, propose  new rule or rule change and submit a PR.
+- [Setting up development Environment](https://eslint.org/docs/developer-guide/development-environment)
+- [Maintainer Guide](https://eslint.org/docs/maintainer-guide). This explains how to manage issues, review PRs and manage releases.
 
 **Observations**:
 
-{write your observations here}
+I learnt the importance and effectiveness of good documentation. ESLint provides extensive and useful documentation for both users and developers on their website and throughout the code. This helped me to gain a sufficient understanding of their project, the codebase and the rationale being design choices and rules within a short time and make contributions. The instructions to set up the development environment, run tests and configure ESLint (as a user) were easy to follow. The rules also come with correct and incorrect examples. These documentation are likely to be valuable to other users and contributors as well as it aids understanding and can speed up their development process. I believe this is one of the reasons why ESLint attracted many external contributors and users. It also benefits the ESLint team as they will not need to answer questions or address issues already covered in their documentation.
+
+Also, I learnt that effective and timely communication can speed up the development process and how such communication can be achieved. For ESLint, if contributors intend to work on an issue, they are advised to add a comment to that issue saying so and indicate when they will complete it (and if they no longer want to work on the issue). This avoids duplication of effort. Also, issues are labelled if they are blocked (require another change elsewhere), evaluating (not accepted) or breaking. This will help contributors to prioritize issues and identify what is available to work on. ESLint committers also respond to issues, questions and review PRs timely. The use of templates for bug reports, rule requests and pull requests further help to ensure that all relevant information and ideas were shared since the start. Together, such effective communication help to keep the development process go on efficiently.
+
+**What MarkBind can adopt**:
+
+1. Templates for bug report, feature requests/updates and PRs (can be auto-generated)
+For bug report, ESLint requires the environment (which version), what did you do (actual source code causing the issue) and what the user expect to happen vs what actually happened (the actual, raw output). These are all useful information to Markbind as well.
+Currently, Markbind does not have any structure that contributors are advised to follow. This makes it harder to determine if it is indeed a bug or intended behavior or caused by a difference in expectation of the user and the developer. It also makes it easier to reproduce the bug (especially since the bug only occur in specific scenarios e.g. when it is deeply nested) thus speeding up the development process. The version is important as Markbind is regularly updated.
+For feature requests, the template should require the rationale for the request and clear examples of how the features will be used. If the requirements are specified and refined through discussion beforehand, there will be less confusion during implementation and we can get closer to the user-desired behavior which will make the feature more useful.
+For pull requests, ESLint requires the type of the change, summary of what changes were made and what do you want the reviewers to focus on. I believe this is applicable to MarkBind as well. In addition, MarkBind's PR should include testing instructions as well. This can prevent some hiccups during Markbind's PR review progress. For example, sometimes the reviewers are unsure of what the changes were for and had to clarify them. Also, they might think that a feature is not working as tested - perhaps due to a difference in expectations and testing instructions. Furthermore, reviewers can also comment on the strengths/weaknesses of the changes (vs its alternatives) and introduce new testing suggestions for more robust testing.
+
+2. Good documentation and hosting documentation on a website. ESLint host their well-written documentation on a separate website - this allows for better organization and support searching and navigation. We should improve the quality of Markbind documentation with more examples and host it on a website instead of a wiki (currently a WIP). This might make the documentation more easier to navigate though and for a user to find exactly what he wants.
+
+3. Semantic commit messages. In ESLint, each commit must be prefixed by a tag (e.g Fix, Docs, New, Chore) which describes what the commit does, followed by a short summary. By enforcing these structure, contributors are less likely to include multiple changes in a single commit (e.g. a chore like code refactoring and a new feature). This is useful for Markbind as it can help reviewers identify what changed in a PR and future contributors to make sense of the code. Also, I believe Markbind can benefit from using commit message are a form of documentation as they will always stay with the code. Other contributors will only need to rely on `git log` or `git blame` to find out what changes are made (and why) instead of reading the pull requests and discussions on Github. Such neat commit messages can also be used in automatically creating a changelog which will let users and developers know what have changed from one version to another.
 
 
 ## SHRADHEYA THAKRE
 **Project**: [WikiMedia Commons App](https://github.com/commons-app/apps-android-commons) <br>
 [Project workflow](https://github.com/commons-app/apps-android-commons/wiki#contributor-documentation)
+
 
 **Observations**:
 
@@ -329,6 +445,34 @@ The main problem was that there were no instructions on how to set up the develo
 Compared to the TEAMMATES project, this project wasn't very strict in terms of the process to follow. Naming conventions weren't strict and PR's were merged a quick pace if the change was minimal. The maintainers didn't bother much about the code quality as well. Although the project does have some guidelines mentioned in the Wiki, but they overlook it every time.
 
 Most PR's requiring enhancements don't require much time cause the tests don't need to be added or updated [project has very minimal testing] which even though makes it easy for new contributors, but is not a good practice.
+
+**Project**: [Exercism.io - Java](https://github.com/exercism/java) <br>
+[Project workflow](https://github.com/exercism/java/blob/master/CONTRIBUTING.md)
+
+**Observations**
+
+This project had a pretty satisfactory documentation considering that it was a small project. The project was mainly handled by 3-4 developers but they were very quick wit their review and merging duties. This helped contributors in doing stuff at a quick pace and wouldn't let them waiting for a review.
+In fact, one of my PR's got merged the same night I had created a PR. Although this pace seems possible for them because most issue's are quite simple for well experienced contributors. Moreover, its possible to do most issues without even setting up the project, as it mainly required writing JUnit tests for their exercises.
+
+There are very few tough issues but they haven't been created in the issue section and depend on contributors own interest whether they want to add a new exercise from different language.
+
+
+**Comparison with TEAMMATES**
+
+Both external projects that I had worked on didn't have a well defined contributing guidelines that were followed properly. It is surprising as one of them is a GSOC organization.
+
+The TEAMMATES organization has a proper orientation guide for contributors which provides all details, unlike the others. Having insufficient data in contribution guide, creates doubts in mind of new contributor making them to not open their first PR. For e.g. TEAMMATES specifies to open an issue to communicate in case of any doubts, whereas other two projects don't, which leads to contributors to leave the project because they could not resolve their problem by asking the project maintainers in any way.
+
+The only good thing about other two projects was that their review and merging process was very fast (although not efficient). TEAMMATES being a big organization makes it tougher for maintainers to do things in a faster manner. Although if the speed of reviewing can be increased, it would allow more contributors to do work faster and not keep them waiting for review. The other organizations seemed to be faster because they weren't very strict with code quality and other minor problems in PR. They would let it pass and it would lead to eventually another issue being created to solve it later on. Hence I think even if the pace is slower in TEAMMATES, if things are done perfectly in the first attempt, its better to keep it that way.
+
+The best thing I liked about WikiMedia Commons App, was that if someone had asked to take up an issue, the organiazation would assign a label `assigned` so that no one else wastes their time working on it. However, the issue here was that since the team didn't effectively manage it, I could find many issues labeled as `assigned`, only to find out that the person who had requested to work on it had actually not even started it even after few weeks.
+
+### Key Takeaways
+
+- **GOOD** documentation is necessary for each project
+- A more active senior developer team attracts more contributors
+- Pace vs Perfection is a choice that the organization needs to makes
+- Contributing Guidlines need to be explicit and followed religiously
 
 
 ## TAN JUN AN
@@ -359,37 +503,76 @@ However, 1 point in which mlpack can improve on would be to have a better commit
 
 **Observations**:
 
-Observations about Teammates can be broadly divided into 2 categories: ***Documentation*** and ***Managing Contributions***.
+Observations about Teammates/WikiMedia can be broadly divided into 2 categories: ***Documentation*** and ***Managing Contributions***. Each section would also suggest improvements for PowerPointLabs based on lessons learnt in the observations.
 
-##### Documentation
+### Documentation
 
-###### Contributor Information
+##### Contributor Information
 
 Teammates is more structured in terms of its overall documentation and how they are displayed. Specifically, resources for new/current developers are very well organized. They have [Documentation for Developers](https://github.com/TEAMMATES/teammates/blob/master/docs/README.md), which details project architecture, set-up, workflow, and maintainer guide for core developers. There are even supplementary or how-to documents for further reading, and details important features like [God-mode](https://github.com/TEAMMATES/teammates/blob/master/docs/README.md#how-to-documents). There is also the [Contributor Orientation Guide](https://github.com/TEAMMATES/teammates/blob/master/docs/orientation-guide.md), which orientates new developers to project structure, set-up of dev environment and how to start contributing to Teammates.
 
-While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the minimalistic approach of PowerPointLabs is that its instructions leave little room for set-up error because it is concise. Therefore balance must be found in the amount of information displayed.
+WikiMedia is also another project that tries to include [extensive documentation](https://github.com/commons-app/apps-android-commons/wiki) in their github page. However they structure all these information differently than Teammates. Each of their articles exist almost in isolation, with very few links within each article linking to other articles. Each article is organised in a well-structured hierachcy, with related articles grouped together for clarity, e.g. "User Documentation", "Contributor Documentation", "Developer Documentation". This makes it very clear for users to know what information to look for and where.
 
-One good example for future reference is the github page for [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate), which concisely organises all essential information for easy reference.
+While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates or WikiMedia in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the approach of PowerPointLabs is that its instructions leave little room for set-up error because information displayed are kept to the bare minimum, hence instructions are understood easily. 
 
-###### Ideation
+Moving forward, perhaps we can consider adopting a structure as seen in WikiMedia or Teammates so that information can be more easily found whenever required. This is especially important as PowerPointLabs start to scale up in the future, and as we start to have more information that we need to display on the github page as would be mentioned below.
+
+Another good example for future reference is the github page for [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate), which concisely organises all essential information for easy reference.
+
+##### Ideation
 
 In Teammates, there is also the [Project Ideas Page](https://docs.google.com/document/d/1fAvYvQr0E93OsZgyneaXGX0jaMA-zptTIxqLn83xwN0/pub?embedded=true), which provides a structured way to discuss and store all ideas that can help to improve the project.
 
 Currently, PowerPointLabs stores potential ideas in a private google doc. This doc is in a Google folder that is only accessible by the developers, hence it would be better if this doc can be made public, for new ideation from potential contributors, validation by existing developers and accountability/discussion/improvement of future ideas and features. Additional documents like “Common traps in PowerPoint Add-in Development”, and “Newcomer’s guide” would surely be useful for new contributors and can be considered for uploading on the PowerPointLabs github page for easier reference by incoming contributors.
 
-##### Managing Contributions
+### Managing Contributions
 
-In terms of Issues/PRs, their quality is enforced quite well. Issues are [documented](https://github.com/TEAMMATES/teammates/issues/8599) very well, with clear replicable steps listed and even screen shots posted so that any potential contributor can have clear information to work with. PRs are also checked at least twice by senior developers before requesting a review from the project mentor (Prof Damith). This layered check helps to ensure the quality of any PR that goes into the master branch. This is important because unlike PowerPointLabs which has a `dev-release` branch for dog-fooding, Teammates only has a main `master` branch, hence it is important to have many checks in place.
+In terms of Teammates' Issues/PRs, their quality is enforced quite well. Issues are [documented](https://github.com/TEAMMATES/teammates/issues/8599) very well, with clear replicable steps listed and even screen shots posted so that any potential contributor can have clear information to work with. PRs are also checked at least twice by senior developers before requesting a review from the project mentor (Prof Damith). This layered check helps to ensure the quality of any PR that goes into the master branch. This is important because unlike PowerPointLabs which has a `dev-release` branch for dog-fooding, Teammates only has a main `master` branch, hence it is important to have many checks in place.
 
-PowerPointLabs may be a smaller project comparatively, but it is good to learn from Teammates in how they structure their issues as well as review their PRs. With regards to whether PowerPointLabs would require the same amount of checks for each PR, I would say it's not compulsory for now because of the smaller project scale and better time efficiency, but I expect it to adopt the same quality of checks once it starts to scale up in the future.
+WikiMedia on the other hand, does not really enforce strict testing with their changes, and most of the time, only one senior developer would actually review the changes of the submitted PR. While this allows for greater flexibility in terms of implementation, it increases the responsibility of the contributor to ensure the quality of his work. I personally realised that some of their first timer issues are not well-scoped for new contributors as they can either be too [hard](https://github.com/commons-app/apps-android-commons/issues/1371), or requires an extensive changes to aspects like [UI](https://github.com/commons-app/apps-android-commons/issues/868). This, coupled with the lack of testing and ensuring of code quality, makes WikiMedia a less ideal project to learn best SE contributing practices from, as opposed to say Teammates or PowerPointLabs.
+
+PowerPointLabs may be a smaller project comparatively, but it is good to learn from Teammates in how they structure their issues as well as review their PRs. With regards to whether PowerPointLabs would require the same amount of checks for each PR, I would say it's not compulsory for now because of the smaller project scale and better time efficiency, but I expect it to adopt the same quality of checks once it starts to scale up in the future. 
+
+In addition, PowerPointLabs can also learn from WikiMedia's mistakes, by scoping issues appropriately for each of the categories to ensure that new contributors are given an opportunity to gradually familiarise themselves with the project. This helps to motivate them long-term, ensuring better quality contributions in the future.
 
 ## TAN LI HAO
-**Project**:
+**Project**: [Servo](https://github.com/servo/servo)
+
+[Contribution Guidelines](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
 
 **Observations**:
 
-{write your observations here}
+Servo is a web browser engine written in the Rust language. Parts of Firefox has been and will be incrementally replaced with Servo.
 
+#### Important things learned
+Despite being a very large project spanning multiple repositories, Servo makes it relatively easy to contribute despite the complexity. It is interesting that such a complex project could make it so easy to contribute. I believe some of the factors that contributed to these are:
+* It uses the familiar Github workflow for contributions
+* Reviews are also done on Github but also optionally with a code review tool for more complicated changesets
+* There are many quickstart guides to quickly get up to speed for contributions in different areas
+* There are some issues that are mentored (a mentor will guide a contributor along the way) and there are many venues for help
+* The engine is broke up into many much smaller components which are loosely coupled
+* There is a lot of documentation, although not always in one place and not necessarily consistent or complete but done is probably better than perfect
+
+Servo also don’t belong to the common category of applications, but in the category of system software such as operating systems and game engines. I made some observations that are interesting or differs from traditional applications:
+* Performance improvements are of top priority and are more important if not more important than features
+* The project is large and requires many concepts to understand, however the lines of code is only around ~300k for the main engine (excluding the dependencies)
+* Other than following a Github workflow, there is really very little process required to contribute
+
+#### Practices/Tools
+Servo uses many tools to improve the developer experience. One of them that I believe can be almost immediately useful to TEAMMATES and other OSS-generic projects is Reviewable.
+
+Reviewable is a code review tool that improves upon Github code review. I would some of the useful key features are:
+* Review comments are not lost when there are changes to a line is pushed
+* Supports rebased commits
+* Tightly integrated with Github, which means that its features can be adopted incrementally
+
+A common complaint is that Github’s code review system is lacking, and Gerrit code review is one of the alternatives. For example, there is a [discussion on Golang](https://github.com/golang/go/issues/21956) on this. However, the problem with external code review tools like Gerrit is that they increase the friction to contribution. While Reviewable does not have as many features as Gerrit, because it is tightly integrated with Github the reviewer and the author have complete freedom whether or not to use the tool and it will not affect any party.
+
+Some other tools for general exploration (not related to any project):
+* [Homu](https://github.com/barosl/homu) - automated merging
+* [Highfive](https://github.com/servo/servo/wiki/Highfive) - Github bot that provides an encouraging atmosphere for new contributors, e.g. welcoming new contributors, assigning issues, assigning reviewers, etc.
+* [Buildbot](https://buildbot.net/) - Continuous integration (e.g. Travis CI, Jenkins)
+* [Saltstack](https://saltstack.com/community/) - Infrastructure management (Related: Kubernetes - container management)
 
 ## TRAN TIEN DAT
 **Project**: [Mitmproxy](https://github.com/mitmproxy/mitmproxy/)
@@ -456,10 +639,23 @@ In SE-EDU, first-timer issues are predominantly issues that require **simple cod
 
 ## WEN XIN
 **Project**:
+[NUSMods R](https://github.com/nusmodifications/nusmods/tree/master/www)
+* [contributing guideline](https://github.com/nusmodifications/nusmods/blob/master/CONTRIBUTING.md)
+* [documentation](https://github.com/nusmodifications/nusmods/tree/master/www)
 
 **Observations**:
+- NUSMods R uses numerous well-known external libraries like [lodash](https://lodash.com/docs/4.17.5) and [react feather icons](https://feathericons.com/). This practice simplifies the code a lot, reduces the chances of the programmers writing duplicate code, and makes the search of the use of the function easy as most of these external libraries are well-documented.
 
-{write your observations here}
+- NUSMods R adopts [CSS modules](https://github.com/nusmodifications/nusmods/tree/master/www#writing-styles) to structure the style of the components. I find this approach very useful as eash style file is catered to one component, making it short and sweet. Moreover, the programmer doesn't have to worry about the complications of using the same tag identifier for different components.
+
+- As they recently rewrote this website, there is not much technical debt and hence their first-timer issues are more about implementing a small feature, fixing a tiny bug or enhancing the codebase by adopting external libraries etc., which I find quite challenging for a beginer of React and Redux like me. (I think that is also one of the reasons why they do not have many external contributors.) However, I like how they guide the first time contributors in these issues by offering some suggestions on how to start and where to start in the description of the issue. For example, they will tell you which part of the code you can use as reference to make your life easier.
+
+- And I have to praise them for their efficiency. One of the maintainers of the repository always responded to my questions within three minutes of posting with very detailed answers. A review is always followed immediately after each pushing of my code. One thing I find interesting (and a bit sad) is that the reviewer assigned to my PR started to help me rewrite my code after he realized I am new to React syntax and the file structure of NUSMods R. I felt a bit offended as that was only after the second round of review (which was done within one and a half hour of me making the PR), however I find it is a very efficient way to learn as it would take me rather long to understand his idea simply by describing what he wanted in the comments.
+
+**Takeaways**:
+- TEAMMATES can try to adopt the CSS modules approach to structure the stylings. Currently all the stylings are inside one big file (`teammatesCommon.css`) which I find rather unorganized, despite the fact that the within the files there are several sections segregated by comments about the use of each secion.
+
+- TEAMMATES currently serves very well as a beginner-friendly platform. I like its current difficulty of first-timer issues, as it can give the beginner a sense of achievement as well as introducing them to our large code base. To make it a better learning platform, we can assist the beginners to progress into higher level issues by giving some guidance in the descriptions of the higher level issues which we think can act as a level-up for those who just completed their first-timer issues. 
 
 
 ## YONG ZHI YUAN

@@ -396,6 +396,7 @@ Week | Achievements
 1 | Merged PR: [Java: Use Java 8 map.forEach to iterate through map entries #8216](https://github.com/TEAMMATES/teammates/pull/8223)
 1 | Submitted issue: [static-analysis.md: fix broken PMD documentation link #8238](https://github.com/TEAMMATES/teammates/issues/8238)
 1 | Submitted issue: [Instructor Help: integrate documentation for contribution questions #8328](https://github.com/TEAMMATES/teammates/issues/8328)
+1 | Responded to contributor queries: [#8280](https://github.com/TEAMMATES/teammates/issues/8280)
 2 | Merged PR: [Instructor: edit 'Distribute points' questions: make status message span both label and input #7899](https://github.com/TEAMMATES/teammates/pull/8259)
 2 | Submitted issue: [Instructor: edit rank questions: make status message span both label and input #8364](https://github.com/TEAMMATES/teammates/issues/8364)
 2 | Responded to contributor queries: [#8364](https://github.com/TEAMMATES/teammates/issues/8364)
@@ -404,18 +405,28 @@ Week | Achievements
 5 | Reviewed PR: [InstructorFeedbackResultsPage: make span scrollable to fit the table to copy #8437](https://github.com/TEAMMATES/teammates/pull/8508)
 5 | Reviewed PR: [Instructor: update on number of char left for Session Name input #8475](https://github.com/TEAMMATES/teammates/pull/8476)
 5 | Submitted issue: [Instructor: feedback edit page: align tooltip to fit label for rank (recipients) question #8509](https://github.com/TEAMMATES/teammates/issues/8509)
+5 | Responded to contributor queries: [#8479](https://github.com/TEAMMATES/teammates/pull/8479)
 6 | Reviewed PR: [InstructorFeedbackEditPage: include question type help in lightbox #8431](https://github.com/TEAMMATES/teammates/pull/8572)
 6 | Merged PR: [Instructor Help: integrate documentation for contribution questions #8328](https://github.com/TEAMMATES/teammates/pull/8395)
 6 | Responded to contributor queries: [#8563](https://github.com/TEAMMATES/teammates/issues/8563)
 7 | Reviewed PR: [Instructor: add new session: rename session template options #8563](https://github.com/TEAMMATES/teammates/pull/8600)
+7| Reviewed PR: [InstructorFeedbackResultsPage: make span scrollable to fit the table to copy #8437](https://github.com/TEAMMATES/teammates/pull/8508)
 7 | Submitted issue: [InstructorFeedbackSession: Make validation for submission times stricter #8597](https://github.com/TEAMMATES/teammates/issues/8597)
-7 | Responded to contributor queries: [#8605](https://github.com/TEAMMATES/teammates/issues/8605), [#8599](https://github.com/TEAMMATES/teammates/issues/8599)
+7 | Responded to contributor queries: [#8605](https://github.com/TEAMMATES/teammates/issues/8605), [#8599](https://github.com/TEAMMATES/teammates/issues/8599), [#8563](https://github.com/TEAMMATES/teammates/issues/8563)
 8 | Reviewed PR: [Instructor Help : Make rubric question example consistent with the rest of the UI #8571](https://github.com/TEAMMATES/teammates/pull/8618)
-9 |
-10 |
-11 |
-12 |
-13 |
+8 | Reviewed PR: [Instructor: update on number of char left for Session Name input #8475](https://github.com/TEAMMATES/teammates/pull/8476)
+8 | Responded to contributor queries: [#8528](https://github.com/TEAMMATES/teammates/issues/8528)
+9 | Submitted issue: [InstructorHelp: Fix inconsistent indentation for different sections #8675](https://github.com/TEAMMATES/teammates/issues/8675)
+9 | Submitted issue: [InstructorSearchPage: Add tests for links displayed with search results #8685](https://github.com/TEAMMATES/teammates/issues/8685)
+10 | Reviewed PR: [Student: view session results: do not show self responses #6290](https://github.com/TEAMMATES/teammates/pull/8700)
+10 | Reviewed PR: [InstructorSearchPage: Add tests for links displayed with search results #8685](https://github.com/TEAMMATES/teammates/pull/8719)
+10 | Responded to contributor queries: [#8720](https://github.com/TEAMMATES/teammates/pull/8720), [#8722](https://github.com/TEAMMATES/teammates/issues/8722), [#8726](https://github.com/TEAMMATES/teammates/issues/8726)
+11 | Reviewed PR: [Student: view session results: do not show self responses #6290](https://github.com/TEAMMATES/teammates/pull/8730)
+11 | Submitted issue: [Instructor: existing feedback sessions with fixed offsets: reduce occurrence of confirmation modals #8748](https://github.com/TEAMMATES/teammates/issues/8748)
+12 | Reviewed PR: [Instructor: support copying of instructors from existing courses #7225](https://github.com/TEAMMATES/teammates/pull/8747)
+12 | Merged PR: [Instructor: search students: add a confirmation dialog for the "delete" button #3091](https://github.com/TEAMMATES/teammates/pull/8686)
+12 | Responded to contributor queries: [#8772](https://github.com/TEAMMATES/teammates/issues/8772), [#8701](https://github.com/TEAMMATES/teammates/issues/8701)
+13 | Merged PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option #8449](https://github.com/TEAMMATES/teammates/pull/8577)
 
 ## LU LECHUAN
 

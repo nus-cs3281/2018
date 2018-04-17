@@ -254,7 +254,19 @@ Week | Achievements
 11 | Reviewed/Tested PR: [support for syncing softedge #1671](https://github.com/PowerPointLabs/PowerPointLabs/pull/1671)
 11 | Reviewed/Tested PR: [support for syncing reflections #1666](https://github.com/PowerPointLabs/PowerPointLabs/pull/1666)
 11 | Submitted Issue: [Revert back to original crop to slide for PasteToFill function #1676](https://github.com/PowerPointLabs/PowerPointLabs/issues/1676)
-12 |
+12 | Merged PR: [Positions Lab Bug (Distribute) #1653](https://github.com/PowerPointLabs/PowerPointLabs/pull/1653)
+12 | Merged PR: [Add Contributor Information to Github page #1686](https://github.com/PowerPointLabs/PowerPointLabs/pull/1686)
+12 | Merged PR: [Add Technical Troubleshooting FAQs to the User Guide #1687](https://github.com/PowerPointLabs/PowerPointLabs/pull/1687)
+12 | Merged PR: [Inserting Shape should allow users to remain in PowerPointLabs tab #1668](https://github.com/PowerPointLabs/PowerPointLabs/pull/1668)
+12 | Merged PR: [Add Technical Troubleshooting FAQs to User Guide #78](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/78)
+12 | Merged PR: [Add Save Lab Documentation #79](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/79)
+12 | Merged PR: [Added section on Fill Slide function #80](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/80)
+12 | Merged PR: [Added section on Tab Management #81](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/81)
+12 | Reviewed/Tested PR: [support for syncing bevel #1673](https://github.com/PowerPointLabs/PowerPointLabs/pull/1673)
+12 | Reviewed/Tested PR: [support for 3drotation #1678](https://github.com/PowerPointLabs/PowerPointLabs/pull/1678)
+12 | Reviewed/Tested PR: [support for syncing reflections #1666](https://github.com/PowerPointLabs/PowerPointLabs/pull/1666)
+12 | Reviewed PR: [dev-release-4.3.0.0 #1688](https://github.com/PowerPointLabs/PowerPointLabs/pull/1688)
+12 | Reviewed PR: [Update agenda lab documentation about changing the theme of template slide #82](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/82)
 13 |
 
 

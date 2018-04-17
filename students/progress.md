@@ -301,13 +301,18 @@ Week | Achievements
 6 | Reviewed PR: [Developer Guide: Describe how to set up Netlify #783](https://github.com/se-edu/addressbook-level4/pull/833)
 7 | Reviewed PR: [UniquePersonList, AddressBook: update return type for remove and removePerson #830](https://github.com/se-edu/addressbook-level4/pull/836)
 7 | Merged PR: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/pull/832)
-8 | Authored PR: [HelpWindow: multiple help windows can be opened #819](https://github.com/se-edu/addressbook-level4/pull/850)
 8 | Submitted Issue: [Remove unnecessary use of `this`](https://github.com/se-edu/addressbook-level4/issues/856)
-9 |
-10 |
-11 |
-12 |
-13 |
+9 | 
+10 | Reviewed PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #685](https://github.com/se-edu/addressbook-level4/pull/845)
+10 | Authored PR: [Decouple UndoableCommand from ReadOnlyAddressBook #670](https://github.com/se-edu/addressbook-level4/pull/861)
+10 | Merged PR: [HelpWindow: multiple help windows can be opened #819](https://github.com/se-edu/addressbook-level4/pull/850)
+10 | Submitted Issue: [Add missing tests for HelpWindow behaviour](https://github.com/se-edu/addressbook-level4/issues/873)
+11 | Reviewed PR: [AddressBook: remove master tag list #753](https://github.com/se-edu/addressbook-level4/pull/825)
+12 | Reviewed PR: [Tidy up build.gradle #706](https://github.com/se-edu/addressbook-level4/pull/860)
+12 | Reviewed PR: [PersonListPanelTest: fix flaky test](https://github.com/se-edu/addressbook-level4/pull/863)
+12 | Reviewed PR: [Clean up "d.FirstTimers" issues](https://github.com/se-edu/addressbook-level4/pull/870)
+12 | Reviewed PR: [Dev guide: checkstyle setup: require to apply version change #715](https://github.com/se-edu/addressbook-level4/pull/875)
+13 | Authored PR: [HelpWindowTest: fix failing test in non-headless mode](https://github.com/se-edu/addressbook-level4/pull/880)
 
 ## VIVEK LAKSHMANAN
 

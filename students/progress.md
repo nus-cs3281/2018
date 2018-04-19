@@ -267,7 +267,11 @@ Week | Achievements
 12 | Reviewed/Tested PR: [support for syncing reflections #1666](https://github.com/PowerPointLabs/PowerPointLabs/pull/1666)
 12 | Reviewed PR: [dev-release-4.3.0.0 #1688](https://github.com/PowerPointLabs/PowerPointLabs/pull/1688)
 12 | Reviewed PR: [Update agenda lab documentation about changing the theme of template slide #82](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/82)
-13 |
+13 | Merged PR: [Save Lab: UI tweaks #1695](https://github.com/PowerPointLabs/PowerPointLabs/pull/1695)
+13 | Merged PR: [Format Tab gets focus even when maintain tab focus tab is ticked #1694](https://github.com/PowerPointLabs/PowerPointLabs/pull/1694)
+13 | Merged PR: [Update SaveLab Documentation #83](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/83)
+13 | Reviewed PR: [dev-release-4.3.0.1 #1696](https://github.com/PowerPointLabs/PowerPointLabs/pull/1696)
+13 | Submitted Issue: [Adjust image compression levels #1701](https://github.com/PowerPointLabs/PowerPointLabs/issues/1701)
 
 
 # SE-EDU

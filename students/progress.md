@@ -306,7 +306,7 @@ Week | Achievements
 7 | Reviewed PR: [UniquePersonList, AddressBook: update return type for remove and removePerson #830](https://github.com/se-edu/addressbook-level4/pull/836)
 7 | Merged PR: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/pull/832)
 8 | Submitted Issue: [Remove unnecessary use of `this`](https://github.com/se-edu/addressbook-level4/issues/856)
-9 | 
+9 |
 10 | Reviewed PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #685](https://github.com/se-edu/addressbook-level4/pull/845)
 10 | Authored PR: [Decouple UndoableCommand from ReadOnlyAddressBook #670](https://github.com/se-edu/addressbook-level4/pull/861)
 10 | Merged PR: [HelpWindow: multiple help windows can be opened #819](https://github.com/se-edu/addressbook-level4/pull/850)
@@ -398,7 +398,7 @@ Week | Achievements
 6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497](https://github.com/TEAMMATES/teammates/issues/8497)
 6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/issues/8498)
 6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #7645 #8326](https://github.com/TEAMMATES/teammates/pull/8326)
-7 | 
+7 |
 8 | Submitted Issue: [Instructor Help: create new instructor onboarding session #8659](https://github.com/TEAMMATES/teammates/issues/8659)
 9 | Reviewed PR: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497 #8690](https://github.com/TEAMMATES/teammates/pull/8690)
 9 | Responded to contributor query: [Help Request: "Execution failed for task ':localTests'" #8699](https://github.com/TEAMMATES/teammates/issues/8699)
@@ -521,7 +521,7 @@ Week | Achievements
 4 | Investigated a bug: [Instructor: view results: fix IndexOutOfBoundsException #8415](https://github.com/TEAMMATES/teammates/issues/8415)
 5 | Merged PR: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/pull/8469)
 5 | Reviewed PR: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/pull/8470)
-6 | Authored PR: [Instructor: home page: support a way to resend 'result published' link to selected students #6634](https://github.com/TEAMMATES/teammates/pull/8501)
+6 | Merged PR: [Instructor: home page: support a way to resend 'result published' link to selected students #6634](https://github.com/TEAMMATES/teammates/pull/8501)
 6 | Responded to Contributor Queries: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing](https://github.com/TEAMMATES/teammates/issues/8463)
 6 | Submitted Issue: [Sessions: instructor view results: stop showing a random identifier for anonymous responses](https://github.com/TEAMMATES/teammates/issues/8532)
 7 | Authored PR: [Instructor: remind students: collapse the two options into one #8530](https://github.com/TEAMMATES/teammates/pull/8537)
@@ -534,10 +534,12 @@ Week | Achievements
 8 | Responded to Contributor Queries: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
 8 | Submitted Issue: [Instructor: remind particular students: show sorted student list](https://github.com/TEAMMATES/teammates/issues/8630)
 9 | Reviewed PR: [Instructor: remind particular students: show sorted student list #8630](https://github.com/TEAMMATES/teammates/pull/8653)
-10 |
-11 |
-12 |
-13 |
+10 | Merged PR: [Instructor: Edit question: Check for empty string in Numscale/MSQ/Rank (Options/Recipients) number fields #8683](https://github.com/TEAMMATES/teammates/pull/8697)
+10 | Reviewed PR: [AdminActivityLogPage: fix incorrect log message for change of course time zone #8695](https://github.com/TEAMMATES/teammates/pull/8706)
+10 | Reviewed PR: [Instructor: home page: give menu option to edit a course #8541](https://github.com/TEAMMATES/teammates/pull/8725)
+11 | Reviewed PR: [Give a way for students to request submission/results links to be resent #8490](https://github.com/TEAMMATES/teammates/pull/8543)
+12 | Authored PR: [Use builder instead of telescoping constructor antipattern in FeedbackResponseAttributes class #7190](https://github.com/TEAMMATES/teammates/pull/8741)
+13 | Reviewed PR: [Give a way for students to request submission/results links to be resent #8490](https://github.com/TEAMMATES/teammates/pull/8543)
 
 ## PAN HAOZHE
 

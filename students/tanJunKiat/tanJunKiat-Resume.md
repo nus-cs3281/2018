@@ -26,7 +26,7 @@ TEAMMATES is a free cloud-based service for feedback management with more than 1
 - See full list of [contributions](https://github.com/TEAMMATES/teammates/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
 
 #### Wikimedia Commons
-Wikimedia Commons is an Android app that allows users to upload pictures from their Android phone/tablet to Wikimedia Commons easily and share it freely with others in the community
+Wikimedia Commons Android app allows users to upload pictures from their Android phone/tablet to Wikimedia Commons easily and share it freely with others in the community
 - Contributed by enhancing their image classification system to filter irrelevant categories
 - See full list of [contributions](https://github.com/commons-app/apps-android-commons/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
 

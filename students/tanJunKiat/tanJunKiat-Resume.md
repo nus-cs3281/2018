@@ -15,7 +15,7 @@ Email: cyan4936@gmail.com<br>Github: https://github.com/junkiattan<br>Linkedin: 
 
 #### PowerPointLabs
 PowerPointLabs is a productivity add-in for PowerPoint on Windows which has benefited over 300,000 people
-- Contributed to PowerPointLabs with features/enhancements/bug fixes
+- Contributed to PowerPointLabs with features/enhancements/bug fixes/documentation
 - See full list of [contributions to code base](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
 - See full list of [contributions to website](https://github.com/PowerPointLabs/PowerPointLabs-Website/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
 - Suggested improvements based on [observations from TEAMMATES and Wikimedia Commons](https://github.com/nus-cs3281/2018/blob/junkiattan-progress/students/processObservations.md#tan-jun-kiat)

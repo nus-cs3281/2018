@@ -371,14 +371,20 @@ Week | Achievements
 7 | Submitted Issue: [UI components: apply delegation pattern for inter-VC communication #834](https://github.com/se-edu/addressbook-level4/issues/834)<br>Submitted Issue: [Refine MVC implementation #835](https://github.com/se-edu/addressbook-level4/issues/835)<br>Reviewed PR: [UniquePersonList, AddressBook: update return type for remove and removePerson #830](https://github.com/se-edu/addressbook-level4/pull/836)
 7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
 7 | Resolved Issue: [AddressBook-Lvl2 Unable to run runtests.bat](https://github.com/nus-cs2103-AY1718S2/forum/issues/12)<br>Resolved Issue: [Java 9 issues](https://github.com/nus-cs2103-AY1718S2/forum/issues/19)
-8 | Resolved Issue: [Junit test fails after adding some dependencies in build.gradle](https://github.com/se-edu/addressbook-level4/issues/849)<br>Submitted Issue: [SelectCommandSystemTest: update to verify selected card is visible](https://github.com/se-edu/addressbook-level4/issues/847)<br>Resolved Issue: [Unable to pass Travis(Bugs)](https://github.com/se-edu/addressbook-level4/issues/846)
+8 | Resolved Issue: [Junit test fails after adding some dependencies in build.gradle](https://github.com/se-edu/addressbook-level4/issues/849)<br>Submitted Issue: [SelectCommandSystemTest: update to verify selected card is visible](https://github.com/se-edu/addressbook-level4/issues/847)<br>Resolved Issue: [Unable to pass Travis(Bugs)](https://github.com/se-edu/addressbook-level4/issues/846)<br>Submitted Issue: [CollectionUtilTest: remove usage of deprecated API](https://github.com/se-edu/addressbook-level4/issues/858)<br>Submitted Issue: [build.gradle: remove field with default value](https://github.com/se-edu/addressbook-level4/issues/857)
 8 | Merged PR: [build.gradle: update to build project using Java 9 #374](https://github.com/se-edu/addressbook-level4/pull/837)
 8 | Merged PR: [PersonListPanel#personListView: revert type change #796](https://github.com/se-edu/addressbook-level4/pull/818)
 9 |
-10 |
-11 |
-12 |
-13 |
+10 | Resolved Issue: [Travis is unable to communicate with Google API while local build is able to](https://github.com/se-edu/addressbook-level4/issues/862), see [PR](https://github.com/CS2103JAN2018-T09-B4/main/pull/98)<br>Resolved Issue: [Issue with running MainApp.main()](https://github.com/nus-cs2103-AY1718S2/forum/issues/34)
+10 | Reviewed PR: [HelpWindow: multiple help windows can be opened #819](https://github.com/se-edu/addressbook-level4/pull/850)
+11 | Reviewed PR: [AddressBook: remove master tag list #753](https://github.com/se-edu/addressbook-level4/pull/825)
+11 | Reviewed PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #685](https://github.com/se-edu/addressbook-level4/pull/845)<br>Reviewed PR: [JUnit: Update to use latest version #707](https://github.com/se-edu/addressbook-level4/pull/811)
+12 | Merged PR: [Tidy up build.gradle #706](https://github.com/se-edu/addressbook-level4/pull/860)
+12 | Reviewed PR: [Clean up "d.FirstTimers" issues](https://github.com/se-edu/addressbook-level4/pull/870)
+12 | Reviewed PR: [PersonListPanelTest: fix flaky test](https://github.com/se-edu/addressbook-level4/pull/863)
+13 | Reviewed PR: [Add different levels of comparison to equality methods of Person class #742](https://github.com/se-edu/addressbook-level4/pull/844)
+13 | Reviewed PR: [Decouple UndoableCommand from ReadOnlyAddressBook #670](https://github.com/se-edu/addressbook-level4/pull/861)
+13 | Reviewed PR: [Use java.nio.file for file/path handling #750](https://github.com/se-edu/addressbook-level4/pull/866)<br>Reviewed PR: [HelpWindowTest: fix failing test in non-headless mode](https://github.com/se-edu/addressbook-level4/pull/880)
 
 # TEAMMATES
 

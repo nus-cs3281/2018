@@ -92,5 +92,5 @@ First Code Academy is a company with the mission to provide students with digita
 - Proficient in PowerPoint Add-in Development
 
 #### Non-technical
-- Proficient in organising and writing project documentation
+- Proficient in organising and writing Project Documentations
 - Fluent in spoken/written English and Mandarin

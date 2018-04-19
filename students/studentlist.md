@@ -92,13 +92,13 @@
 ## TAN JUN KIAT
 
 <img src="tanJunKiat/tanJunKiat.jpg" width="100" /><br>
-[[Resume](tanJunKiat/tanJunKiat-Resume.md)]
+[[Resume](https://github.com/nus-cs3281/2018/blob/master/students/tanJunKiat/tanJunKiat-Resume.md#tan-jun-kiat)]
 [[Website](https://github.com/junkiattan)]
 [[Github](https://github.com/junkiattan)]
 [[Progress](progress.md#tan-jun-kiat)]
 
-* Expert areas: UX/UI Design, Java, C#, Documentation
-* Projects: PowerPointLabs
+* Expert areas: C#, Java, UX Design, Documentation
+* Projects: [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs), [TEAMMATES](https://github.com/TEAMMATES/teammates), [Wikimedia Commons](https://github.com/commons-app/apps-android-commons)
 
 ## ALEX FONG JIE WEN
 

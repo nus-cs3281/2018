@@ -9,6 +9,52 @@ Email: cyan4936@gmail.com<br>Github: https://github.com/junkiattan
 - Concurrent Degree Programme with Masters of Entertainment Technology (Carnegie Mellon University)
 - Honors (Distinction) [Projected]
 
+# Projects
+
+#### PowerPointLabs
+PowerPointLabs is a productivity add-in for PowerPoint on Windows which has benefited over 300,000 people
+- Contributed to PowerPointLabs with features/enhancements/bug fixes
+
+#### TEAMMATES
+TEAMMATES is a free cloud-based service for feedback management with more than 140,000 users
+- Improved documentation
+- Improved code quality
+
+#### Overpowered (GIP)
+Overpowered is a 2-player, top-down PVP game set in a dystopian future world where 5 heroes gather and engage in a death match to battle for the ultimate wish
+
+- Developed as part of client requirements to attract more gamers to game conventions
+- Focused on the game design and was involved in level, sound, user-interface, character design and skill synergies
+- Focused on writing the Game Design Document, an important manual that detailed the entire structure of the game
+
+#### VindicatoR  (CS4350)
+VindicatoR is a VR action wizardry game that focuses on giving players a sense of freedom in the way they can cast spells and navigate through the immersive world as they kill monsters that have invaded their land
+
+- Worked on level design using Unreal Engine
+- Ensure the game was developed according to schedule to meet deadlines
+- Focused on game marketting through [social media posts](https://www.facebook.com/flat8studios/) and [website](http://www.vindicator.ga/) and also writing the Game Design Document to detail the entire game development process
+
+# Expert Areas
+
+#### C#
+- Contributed to PowerPointLabs
+   - Developed new features, e.g. [Save Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1637)
+   - Developed enhancements and rectified bugs. See list of [contributions](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
+   - Suggested improvements based on [observations from TEAMMATES and WikiMedia](https://github.com/nus-cs3281/2018/blob/junkiattan-progress/students/processObservations.md#tan-jun-kiat)
+
+#### UX Design
+- Wrote two book chapters
+   - [Process of UX Design](https://github.com/se-edu/learningresources/blob/master/contents/uix/uix.md#the-process-of-ux-design)
+   - [How to Refine UX Skills](https://github.com/se-edu/learningresources/blob/master/contents/uix/refining-ux-skills.md)
+- Gave two UX-related talks
+   - [Typography](https://github.com/nus-cs3281/2018/issues/15)
+   - [Negative Space](https://github.com/nus-cs3281/2018/issues/39)
+
+#### Documentation
+- Improved [documentation](https://github.com/PowerPointLabs/PowerPointLabs#contributing) of PowerPointLabs by establishing a proper information hierarchy, to enable better workflow and accessibility
+- Improved documentation for TEAMMATES to enable clearer instructions for new contributors, such as for [Static Analysis](https://github.com/TEAMMATES/teammates/pull/8376) and for the project's [Eclipse Setup](https://github.com/TEAMMATES/teammates/pull/8392)
+- Experience structuring and writing documentation for projects, such as the Game Design Documents for 
+
 # Work Experiences
 
 #### Game Designer (May 2017 - Aug 2017)
@@ -24,59 +70,9 @@ First Code Academy is a company with the mission to provide students with digita
 - Instructed children aged between 8 to 11 on the concepts of computer science through the use of software like Scratch, App Inventor, Minecraft and Tinkercad
 - To empower children to be creators with the technology around us and explore possibilities with software like App Inventor using their creativity
 
-# Projects
-
-#### PowerPointLabs
-PowerPointLabs is a productivity add-in for PowerPoint on Windows which has benefited over 300,000 people
-- Developed new features, e.g. [Save Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1637)
-- Developed enhancements and rectified bugs. See list of [contributions](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
-- Suggested improvements based on [observations from TEAMMATES](https://github.com/nus-cs3281/2018/blob/junkiattan-progress/students/processObservations.md#tan-jun-kiat)
-
-#### TEAMMATES
-TEAMMATES is a free cloud-based service for feedback management with more than 140,000 users
-- Improved documentation
-- Improved code quality
-
-#### Overpowered (GIP)
-Overpowered is a 2-player, top-down PVP game set in a dystopian future world where 5 heroes gather and engage in a death match to battle for the ultimate wish
-
-- Developed as part of client requirements to attract more gamers to game conventions
-- Was focused on the game design and was involved in level, sound, user-interface, character design and skill synergies
-
-#### VindicatoR  (CS4350)
-VindicatoR is a VR action wizardry game that focuses on giving players a sense of freedom in the way they can cast spells and navigate through the immersive world as they kill monsters that have invaded their land
-
-- Worked on level design using Unreal Engine
-- Ensure the game was developed according to schedule to meet deadlines
-- Involved in game marketting and documentation
-
-#### Foresight  (CS3247)
-Foresight is a survival escape room game that leverages on the amplified sense of sight in VR, through a unique mechanic which allows the player to have night and thermal visions, to solve puzzles and escape certain death
-
-- Developed thermal vision perspective using Unreal Engine
-- Involved in game design, i.e. the puzzle design and the game flow
-
-#### NUS Modules Tracker  (CS3240)
-NUS Modules Tracker is a front-end web interface designed for students in mind, with the aim of helping them track their academic progress easily
-
-- Used Design Thinking Process (Empathize, Define, Ideate, Prototype, Test) in developing interface
-- Used story-boarding, contextual inquiries, user study methods and prototyping to determine user requirements and expectations
-- Won 3rd prize at the 8th STePS (SOC Term Project Showcase) organized annually by NUS
-
-# Expert Areas
-
-#### C#
-- Contributed to PowerPointLabs
-- Ultilised C# for Game Development projects in Unity
-
-#### UX Design
-- Wrote two book chapters on the [Process of UX Design](https://github.com/se-edu/learningresources/blob/master/contents/uix/uix.md#the-process-of-ux-design) and How to Refine UX Skills
-- Gave two UX-related talks on [Typography](https://github.com/nus-cs3281/2018/issues/15) and [Negative Space](https://github.com/nus-cs3281/2018/issues/39)
-
-#### Documentation
-- Improved documentation for PowerPointLabs and TEAMMATES to enable clearer instructions for new contributors
-
 # Computer Skills
 - Proficient in C#, Java
-- Experience with Visual Studios 2017, Eclipse, Unity, Unreal Engine, Git
+- Proficient with Visual Studios 2017, Eclipse, Unity, Git
+- Proficient with PowerPoint Add-in Development
+- Proficient in organising and writing project documentation
 - Fluent in spoken/written English and Mandarin

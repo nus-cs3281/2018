@@ -682,11 +682,13 @@ Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate
 8 | Reviewed PR: [Migrate FeedbackSessionAttributes gracePeriod field to Duration #8641](https://github.com/TEAMMATES/teammates/pull/8642)
 8 | Reviewed PR: [TimeHelper: convertLocalDateToUtc: do not shift special time representations #8655](https://github.com/TEAMMATES/teammates/pull/8656)
 8 | Responded to contributor queries: ["Date in String is in wrong format" exception when running tests](https://github.com/TEAMMATES/teammates/issues/8644)
-9 |
-10 |
-11 |
-12 |
-13 |
+9 | Merged PR: [Admin: recent activity log: show correct 'time stamp in instructor timezone' #8594](https://github.com/TEAMMATES/teammates/pull/8651)
+10 | Reviewed PR: [Add support for daylight saving time #84](https://github.com/TEAMMATES/teammates/pull/8687)
+11 | Reviewed PR: [AdminActivityLogPage: fix incorrect log message for change of course time zone #8695](https://github.com/TEAMMATES/teammates/pull/8706)
+11 | Reviewed PR: [Instructor: existing feedback sessions with fixed offsets: reduce occurrence of confirmation modals #8748](https://github.com/TEAMMATES/teammates/pull/8750)
+12 | Merged PR: [Migrate remaining classes to use java.time #8731](https://github.com/TEAMMATES/teammates/pull/8732)
+12 | Reviewed PR: [AdminSessions*: migrate to java.time #8645](https://github.com/TEAMMATES/teammates/pull/8736)
+12 | Reviewed PR: [AccountAttributes: remove HTML sanitization before saving for email #8775](https://github.com/TEAMMATES/teammates/pull/8776)
 
 
 ## WEN XIN

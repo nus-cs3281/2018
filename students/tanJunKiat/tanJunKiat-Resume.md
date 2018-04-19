@@ -16,19 +16,19 @@ Email: cyan4936@gmail.com<br>Github: https://github.com/junkiattan<br>Linkedin: 
 #### PowerPointLabs
 PowerPointLabs is a productivity add-in for PowerPoint on Windows which has benefited over 300,000 people
 - Contributed to PowerPointLabs with features/enhancements/bug fixes
-- See list of [contributions to code base](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
-- See list of [contributions to website](https://github.com/PowerPointLabs/PowerPointLabs-Website/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
+- See full list of [contributions to code base](https://github.com/PowerPointLabs/PowerPointLabs/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
+- See full list of [contributions to website](https://github.com/PowerPointLabs/PowerPointLabs-Website/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
 - Suggested improvements based on [observations from TEAMMATES and Wikimedia Commons](https://github.com/nus-cs3281/2018/blob/junkiattan-progress/students/processObservations.md#tan-jun-kiat)
 
 #### TEAMMATES
 TEAMMATES is a free cloud-based service for feedback management with more than 140,000 users
 - Contributed to TEAMMATES by improving their documentation and code quality
-- See list of [contributions](https://github.com/TEAMMATES/teammates/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
+- See full list of [contributions](https://github.com/TEAMMATES/teammates/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
 
 #### Wikimedia Commons
 Wikimedia Commons is an Android app that allows users to upload pictures from their Android phone/tablet to Wikimedia Commons easily and share it freely with others in the community
 - Contributed by enhancing their image classification system to filter irrelevant categories
-- See list of [contributions](https://github.com/commons-app/apps-android-commons/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
+- See full list of [contributions](https://github.com/commons-app/apps-android-commons/pulls?q=is%3Apr+is%3Aclosed+author%3Ajunkiattan)
 
 ### Side Projects
 
@@ -53,7 +53,7 @@ Contributed to PowerPointLabs' code base using Visual Studios 2017
 #### UX Design
 Wrote two book chapters
 - [Process of UX Design](https://github.com/se-edu/learningresources/blob/master/contents/uix/uix.md#the-process-of-ux-design)
-- [How to Refine UX Skills](https://github.com/se-edu/learningresources/blob/master/contents/uix/refining-ux-skills.md)
+- [How to Refine UX Skills](https://github.com/se-edu/learningresources/blob/master/contents/uix/refining-ux-skills.md#refining-ux-design-skills)
 
 Gave two UX-related talks
 - [Typography](https://github.com/nus-cs3281/2018/issues/15)

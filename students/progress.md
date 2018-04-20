@@ -472,10 +472,11 @@ Week | Achievements
 9 | Reviewed PR: [Add support for daylight saving time #84 #8687](https://github.com/TEAMMATES/teammates/pull/8687)
 10 | Reviewed PR: [AdminSessionsPage: fix parse failure for dates selected via datepicker #8733 #8734](https://github.com/TEAMMATES/teammates/pull/8734)
 10 | Reviewed PR: [Instructor: home page: fix sort by date #7919 #8677](https://github.com/TEAMMATES/teammates/pull/8677)
-10 | Authored PR: [AdminSessions\*: migrate to java.time #8645 #8736](https://github.com/TEAMMATES/teammates/pull/8736)
+10 | Merged PR: [AdminSessions\*: migrate to java.time #8645 #8736](https://github.com/TEAMMATES/teammates/pull/8736)
 11 | Reviewed PR: [Migrate remaining classes to use java.time #8731 #8732](https://github.com/TEAMMATES/teammates/pull/8732)
-12 |
-13 |
+12 | Submitted issue: [TimeHelper: update documentation and standardize method naming #8780](https://github.com/TEAMMATES/teammates/issues/8780)
+12 | Authored PR: [TimeHelper: update documentation and standardize method naming #8780 #8781](https://github.com/TEAMMATES/teammates/pull/8781)
+13 | 
 
 ## JOANNE ONG CUI FANG
 

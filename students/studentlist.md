@@ -191,8 +191,8 @@
 [[Github](https://github.com/joanneong)]
 [[Progress](progress.md#joanne-ong-cui-fang)]
 
-* Expert areas: Java, Documentation, Gradle
-* Projects: TEAMMATES
+* Expert areas: Java, DevOps (Dev community management)
+* Projects: TEAMMATES, OpenRefine
 
 ## LU LECHUAN
 

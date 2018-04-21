@@ -151,10 +151,32 @@ Week | Achievements
 8 | -
 9 | Submitted Issue: [Unable to run FTs on 2013 with 2016 installed](https://github.com/PowerPointLabs/PowerPointLabs/issues/1641)
 9 | Authored PR: [replace with clipboard: preserve shape settings](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642)
-10 |
-11 |
-12 |
-13 |
+9 | Merged PR: [synclab refactor format objects #1645](https://github.com/PowerPointLabs/PowerPointLabs/pull/1645)
+10 | Merged PR: [Add issue & PR request templates #1643](https://github.com/PowerPointLabs/PowerPointLabs/pull/1643)
+10 | Reviewed + Tested PR: [Fix pasting of web pictures #1648](https://github.com/PowerPointLabs/PowerPointLabs/pull/1648)
+11 | Reviewed + Tested PR: [Positions Lab Bug (Adjoin) #1652](https://github.com/PowerPointLabs/PowerPointLabs/pull/1652)
+11 | Reviewed PR: [Paste Lab: support "smart paste" of photos #1667](https://github.com/PowerPointLabs/PowerPointLabs/pull/1667)
+12 | Reviewed PR: [dev-release-4.3.0.0 #1688](https://github.com/PowerPointLabs/PowerPointLabs/pull/1688)
+12 | Reviewed PR: [Add Contributor Information to Github page #1686](https://github.com/PowerPointLabs/PowerPointLabs/pull/1686)
+12 | Reviewed PR: [Add Technical Troubleshooting FAQs to the User Guide #1687](https://github.com/PowerPointLabs/PowerPointLabs/pull/1687)
+12 | Reviewed PR: [Add Save Lab Documentation #79](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/79)
+12 | Reviewed + Tested PR: [Positions Lab Bug (Distribute) #1653](https://github.com/PowerPointLabs/PowerPointLabs/pull/1653)
+12 | Merged PR: [support for syncing glow #1669](https://github.com/PowerPointLabs/PowerPointLabs/pull/1669)
+12 | Merged PR: [support for 3drotation #1678](https://github.com/PowerPointLabs/PowerPointLabs/pull/1678)
+12 | Merged PR: [support for syncing bevel #1673](https://github.com/PowerPointLabs/PowerPointLabs/pull/1673)
+12 | Merged PR: [support for syncing softedge #1671](https://github.com/PowerPointLabs/PowerPointLabs/pull/1671)
+12 | Merged PR: [support for syncing reflections #1666](https://github.com/PowerPointLabs/PowerPointLabs/pull/1666)
+12 | Merged PR: [support for 3drotation #1678](https://github.com/PowerPointLabs/PowerPointLabs/pull/1678)
+12 | Merged PR: [SyncLab ArtisticEffect Fails to Sync](https://github.com/PowerPointLabs/PowerPointLabs/pull/1664)
+12 | Merged PR: [replace with clipboard: preserve shape settings](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642)
+12 | Submitted Issue: [SyncLab: Split 3D Rotation into components](https://github.com/PowerPointLabs/PowerPointLabs/issues/1685)
+12 | Submitted Issue: [SyncLab: Log all sync methods](https://github.com/PowerPointLabs/PowerPointLabs/issues/1684)
+12 | Submitted Issue: [SyncLab: Split ShadowEffect into components](https://github.com/PowerPointLabs/PowerPointLabs/issues/1682)
+12 | Submitted Issue: [SyncLab: Optimize UI for Sync Selection Pane](https://github.com/PowerPointLabs/PowerPointLabs/issues/1681)
+12 | Submitted Issue: [Standardize line endings for project](https://github.com/PowerPointLabs/PowerPointLabs/issues/1680)
+12 | Submitted Issue: [SyncLab: Artistic Effect Parameters](https://github.com/PowerPointLabs/PowerPointLabs/issues/1679)
+13 | Reviewed + Tested PR: [Format Tab gets focus even when maintain tab focus tab is ticked](https://github.com/PowerPointLabs/PowerPointLabs/pull/1694)
+13 | Merged PR: [Syncing of glow changes glow color](https://github.com/PowerPointLabs/PowerPointLabs/pull/1693)
 
 ## LEE YAN HWA
 

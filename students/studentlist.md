@@ -50,7 +50,7 @@
 [[Github](https://github.com/nicholaschuayunzhi)]
 [[Progress](progress.md#chua-yun-zhi-nicholas)]
 
-* Expert areas: JavaScript, Code Quality
+* Expert areas: JavaScript, Code Quality, DevOps
 * Projects: MarkBind
 
 ## DANIEL BERZIN CHUA YUAN SIANG

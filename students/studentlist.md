@@ -86,7 +86,7 @@
 [[Github](https://github.com/leeyh20)]
 [[Progress](progress.md#lee-yan-hwa)]
 
-* Expert areas: Java, C#, Android App Development, Testing
+* Expert areas: C#, Android App Development (Java), Testing
 * Projects: PowerPointLabs
 
 ## TAN JUN KIAT

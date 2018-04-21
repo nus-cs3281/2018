@@ -663,6 +663,7 @@ Week | Achievements
 11 | Reviewed PR: [Instructor: Feedback: View Results: fix the disappearing 'No specific recipient' panel bug #7633 #8539](https://github.com/TEAMMATES/teammates/pull/8539)
 12 | Merged PR: [Rubric questions: show summary excluding self-evaluation #6887 #8517](https://github.com/TEAMMATES/teammates/pull/8517)
 12 | Reviewed PR: [Student: submit responses: tick email confirmation option if the form is empty #8606 #8742](https://github.com/TEAMMATES/teammates/pull/8742)
+13 | Submitted Issue: [FeedbackRankQuestionUiTest.json: Fix data for Tests #8794](https://github.com/TEAMMATES/teammates/issues/8794)
 
 ## TAN LI HAO
 

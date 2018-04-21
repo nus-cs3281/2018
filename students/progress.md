@@ -65,14 +65,19 @@ Week | Achievements
 5 | Merged PR: [Add *md' to default site config ignore #26](https://github.com/MarkBind/markbind-cli/pull/26)
 5 | Merged PR: [Record boilerplate includes separately #144](https://github.com/MarkBind/markbind/pull/144)
 6 | Submitted Issue: [Initializing site in a new directory does not generate boilerplate directory #150](https://github.com/MarkBind/markbind/issues/150)
+6 | Reviewed PR: [Add search feature #32](https://github.com/MarkBind/markbind-cli/pull/32)
 7 | Merged PR: [Update gh-pages to v1.1.0 #30](https://github.com/MarkBind/markbind-cli/pull/30)
 7 | Merged PR: [Add vertical lines to tables #33](https://github.com/MarkBind/markbind-cli/pull/33), [Use Bootstrap class for table #161](https://github.com/MarkBind/markbind/pull/161)
 7 | Merged PR: [Remove bullet for task and radio list items #35](https://github.com/MarkBind/markbind-cli/pull/35)
+7 | Tested PR: [Ignore updates to source files while live-reloading is in progress #155 #31](https://github.com/MarkBind/markbind-cli/pull/31)
 8 | Merged PR: [Add Travis CI for automated linting and testing #36](https://github.com/MarkBind/markbind-cli/pull/36)
-10 |
-11 |
-12 |
-13 |
+9 | Merged PR: [Add a batch file for testing on windows #176](https://github.com/MarkBind/markbind/pull/176)
+9 | Reviewed PR: [Give a more relevant error message for empty src attribute in include #160 #174](https://github.com/MarkBind/markbind/pull/174)
+11 | Merged PR: [Add option to specify baseurl in build command #186](https://github.com/MarkBind/markbind/pull/186)
+12 | Merged PR: [Add user guide to main site #188](https://github.com/MarkBind/markbind/pull/188)
+12 | Reviewed PR: [Add front matter feature](https://github.com/MarkBind/markbind/pull/175)
+12 | Set-up user guide preview on Netlify
+13 | Merged PR: [Add jest for unit testing #178](https://github.com/MarkBind/markbind/pull/178)
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 

@@ -93,12 +93,11 @@ Week | Achievements
 6 | Merged PR: [Import Typeahead component #13](https://github.com/MarkBind/vue-strap/pull/13)
 8 | Merged PR: [Add search feature #32](https://github.com/MarkBind/markbind-cli/pull/32)
 8 | Merged PR: [Add a test site #27](https://github.com/MarkBind/markbind-cli/pull/27)
-8 | Authored PR: [Add htmlparser2 as a dependency #38](https://github.com/MarkBind/markbind-cli/pull/38)
-9 |
-10 |
-11 |
-12 |
-13 |
+8 | Merged PR: [Add htmlparser2 as a dependency #38](https://github.com/MarkBind/markbind-cli/pull/38)
+9 | Submitted Issue: [Include command does not work #177](https://github.com/MarkBind/markbind/issues/177)
+11 | Reviewed PR: [Add jest for unit testing #178](https://github.com/MarkBind/markbind/pull/178)
+12 | Merged PR: [Add FrontMatterSearch component #17](https://github.com/MarkBind/vue-strap/pull/17)
+13 | Merged PR: [Add front matter feature #175](https://github.com/MarkBind/markbind/pull/175)
 
 ## RACHAEL SIM HWEE LING
 

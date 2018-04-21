@@ -664,6 +664,7 @@ Week | Achievements
 12 | Merged PR: [Rubric questions: show summary excluding self-evaluation #6887 #8517](https://github.com/TEAMMATES/teammates/pull/8517)
 12 | Reviewed PR: [Student: submit responses: tick email confirmation option if the form is empty #8606 #8742](https://github.com/TEAMMATES/teammates/pull/8742)
 13 | Submitted Issue: [FeedbackRankQuestionUiTest.json: Fix data for Tests #8794](https://github.com/TEAMMATES/teammates/issues/8794)
+13 | Helped in verifying Upgrade to Webpack 4 in Windows environment: [Upgrade to Webpack 4 #8712 #8713](https://github.com/TEAMMATES/teammates/pull/8713)
 
 ## TAN LI HAO
 

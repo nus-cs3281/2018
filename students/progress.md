@@ -111,13 +111,14 @@ Week | Achievements
 7 | Merged PR: [Support multiple inclusions of a modal #107](https://github.com/MarkBind/vue-strap/pull/12) (Authored in Week 6)
 7 | Merged PR: [Record missing include src #156](https://github.com/MarkBind/markbind/pull/156)
 8 | Merged PR: [Ignore updates to source files while live-reloading is in progress #155](https://github.com/MarkBind/markbind-cli/pull/31)
-8 | Authored PR: [boilerplates: allow multiple boilerplates with similar names #159](https://github.com/MarkBind/markbind/pull/167)
 8 | Submitted Issue: [Build/live reload fails if a page/dynamically included file is missing #168](https://github.com/MarkBind/markbind/issues/168)
-9 |
-10 |
-11 |
-12 |
-13 |
+10 | Merged PR: [Give a more relevant error message for empty src attribute in include #160](https://github.com/MarkBind/markbind/pull/174)
+10 | Reviewed PR: [Add user guide to main site](https://github.com/MarkBind/markbind/pull/188)
+10 | Reviewed PR: [Add front matter feature #175](https://github.com/MarkBind/markbind/pull/175)
+11 | Merged PR: [boilerplates: allow multiple boilerplates with similar names #159](https://github.com/MarkBind/markbind/pull/167) (Authored in Week 8)
+11 | Merged PR: [Support header elements in panel header](https://github.com/MarkBind/vue-strap/pull/15)
+13 | Merged PR: [Add logging to file](https://github.com/MarkBind/markbind/pull/189)
+13 | Merged PR: [Update user docs](https://github.com/MarkBind/markbind/pull/191)
 
 # PowerPointLabs
 

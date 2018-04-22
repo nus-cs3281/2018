@@ -616,7 +616,6 @@ Week | Achievements
 5 | Submitted Issue: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/issues/8463)
 5 | Reviewed PR: [MCQ and MSQ question: fix cancel question feature #7934](https://github.com/TEAMMATES/teammates/pull/8472)
 5 | Reviewed PR: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default #8576](https://github.com/TEAMMATES/teammates/pull/8584)
-6 | Authored PR: [Instructor: edit feedback: support min max for distribute points questions #8450](https://github.com/TEAMMATES/teammates/pull/8464)
 6 | Authored PR: [Instructor: Feedback Results: Show No Specific Section if non-empty #7633](https://github.com/TEAMMATES/teammates/pull/8539)
 7 | Submitted Issue: [Testing: Using `WebElement#Click` instead of `Click()`](https://github.com/TEAMMATES/teammates/issues/8623)
 7 | Reviewed PR: [Rubric questions: show summary excluding self-evaluation #6887](https://github.com/TEAMMATES/teammates/pull/8517)
@@ -629,9 +628,12 @@ Week | Achievements
 9 | Merged PR: [Instructor: add ranking question: leave min/max boxes empty by default #8320](https://github.com/TEAMMATES/teammates/pull/8373)
 10 | Submitted Issue: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/issues/8716)
 10 | Merged PR: [Upgrade to Webpack 4](https://github.com/TEAMMATES/teammates/issues/8712)
-11 | Authored PR: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/pull/8743)
-12 |
-13 |
+11 | Merged PR: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/pull/8743)
+11 | Responded to contributor queries: [https://github.com/TEAMMATES/teammates/pull/8697](https://github.com/TEAMMATES/teammates/pull/8697)
+12 | Merged PR: [Instructor: Feedback: View Results: fix the disappearing 'No specific recipient' panel bug #7633](https://github.com/TEAMMATES/teammates/pull/8539)
+12 | Reviewed PR: [https://github.com/TEAMMATES/teammates/pull/8756](https://github.com/TEAMMATES/teammates/pull/8756)
+13 | Authored PR - Late stage of review: [Instructor: edit feedback: support min max for distribute points questions #8450](https://github.com/TEAMMATES/teammates/pull/8464)
+13 | Responded to contributor queries: [Instructor: edit session: add option to discard changes #7232 ](https://github.com/TEAMMATES/teammates/pull/8785)
 
 ## SHRADHEYA THAKRE
 

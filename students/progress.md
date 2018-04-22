@@ -610,19 +610,25 @@ Week | Achievements
 4 |Submitted Issue: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/issues/8403)
 4 | Merged PR: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/pull/8404)
 5| Submitted Issue: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/issues/8453)
-6| Reviewed PR :[Enhancement: Instructor: All Records of Student: Improve UI](https://github.com/TEAMMATES/teammates/pull/8502)
+6| Reviewed PR : [Enhancement: Instructor: All Records of Student: Improve UI](https://github.com/TEAMMATES/teammates/pull/8502)
 7| Submitted Issue : [Student: Feedback submission page: Tell student they have not answered all questions](https://github.com/TEAMMATES/teammates/issues/8598)
 7| Submitted Issue: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
 7| Reviewed PR: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/pull/8553)
 8| Submitted Issue: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage](https://github.com/TEAMMATES/teammates/issues/8648)
 8| Reviewed PR: [Instructor: edit question: distribute question options vs recipients tooltip (UI). #8465](https://github.com/TEAMMATES/teammates/pull/8668)
+8| Responded to Contributor Queries: [Instructor: Edit Session: MSQ: Address the case where a number field is left blank #8611](https://github.com/TEAMMATES/teammates/issues/8611)
 8| Merged PR: [Instructor: edit session: multiple choice questions: support generating options for all other students #8412](https://github.com/TEAMMATES/teammates/pull/8445)
-9 | Reviewed PR: [Instructor: edit session: multiple choice questions: support generating options for all other teams #8661](https://github.com/TEAMMATES/teammates/pull/8689)
+9| Responded to Contributor Queries: [Help Request: IntelliJ IDEA 'Cannot resolve symbol' error for standart Java classes #8625](https://github.com/TEAMMATES/teammates/issues/8625)
+9| Reviewed PR: [Instructor: edit session: multiple choice questions: support generating options for all other teams #8661](https://github.com/TEAMMATES/teammates/pull/8689)
 9| Reviewed PR: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage #8648](https://github.com/TEAMMATES/teammates/pull/8676)
-10 |
-11 |
-12 |
-13 |
+10| Reviewed PR: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/pull/8553)
+10| Submitted Issue: [Rename ambiguous method isChangesRequiresResponseDeletion -> shouldChangesRequireResponseDeletion #8721](https://github.com/TEAMMATES/teammates/issues/8721)
+10| Reviewed PR: [Rename ambiguous method isChangesRequiresResponseDeletion -> shouldChangesRequireResponseDeletion #8721](https://github.com/TEAMMATES/teammates/pull/8738)
+10| Merged PR: [Instructor: view results: fix IndexOutOfBoundsException #8415](https://github.com/TEAMMATES/teammates/pull/8714)
+11| Reviewed PR: [Instructor: help page: improve content #8635](https://github.com/TEAMMATES/teammates/pull/8735)
+11| Reviewed PR: [Instructor: help page: improve add/edit course-related content #8635](https://github.com/TEAMMATES/teammates/pull/8752)
+12| Reviewed PR: [Student: shows a incomplete question message if feedback session is incomplete #8598](https://github.com/TEAMMATES/teammates/pull/8766)
+13 | Merged PR: [Use builder instead of telescoping constructor antipattern in FeedbackQuestionAttributes class #7190](https://github.com/TEAMMATES/teammates/pull/8739)
 
 ## PHANG CHUN RONG
 

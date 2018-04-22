@@ -39,16 +39,14 @@ Area of contribution: backend and frontend structure. More details can be found 
 
 Technology used: HTML, CSS, EJS, NodeJS, Express.js, MySQL.
 
-##### [Intelli](https://github.com/CS2103AUG2017-F10-B1/main) (CS2103)
+##### Intelli (CS2103)
 Intelli is a relationship tracker that allows private investigators to keep track of their targets and the complex network between different targets. Intelli is based on the open-source project addressbook-level4 as hosted on GitHub.
 
-Area of contribution: data modeling and logic.
+Area of contribution: data modeling and logic. More details can be found [here](https://github.com/CS2103AUG2017-F10-B1/main).
 
 Technology used: Java, JavaFX, XML.
 
-## Skills
-
-### Expert area
+## Expert area
 
 ### Java 
 
@@ -77,7 +75,7 @@ Technology used: Java, JavaFX, XML.
 	- Logic and routing for both student side and admin side. 
 	- Data models for the data stored in database.
 
-### Other skillsets
+## Other skillsets
 
 ### JQuery
 

@@ -34,28 +34,36 @@ OpenKeychain is the leading Android app for PGP key management, with over 100,00
 
 ## Computing Skills
 
-* Kotlin (~1 year)  
+* Kotlin
   - Gave a lightning talk on Kotlin @ NUS  
-  - Built apps in the Functional Reactive Programming (FRP) paradigm using [RxJava](https://github.com/ReactiveX/RxJava)
+  - Wrote apps in the Functional Reactive Programming (FRP) paradigm, using [RxJava](https://github.com/ReactiveX/RxJava)
     
     
-* Android (~3 years)  
+* Android
   - Worked on large-scale Android projects  
   (JotterPad, OpenKeychain, LibreOffice Android)
+  
+   
+* C#
+    - Contributor at [PowerPointLabs](https://www.comp.nus.edu.sg/~pptlabs/), adding new features to [SyncLab](https://www.comp.nus.edu.sg/~pptlabs/docs/sync-lab.html)
+    
 
-
-* AI & Deep Learning (~1/2 year)
-  - Wrote a book chapter on Machine Learning for Production ([link](https://github.com/se-edu/learningresources/blob/master/contents/ai/ml.md))
-  - Gave a lightning talk, 'Deep Learning for Software Engineers' @ NUS
-  - Used CNNs for Japanese OCR ([link](https://github.com/alexfjw/jp-ocr-prunned-cnn))  
-   Used pruning to increase speed by 4x & reduce memory by 2x 
+* AI & Deep Learning
+  - Wrote a [book chapter](https://github.com/se-edu/learningresources/blob/master/contents/ai/ml.md) on Machine Learning 
+  - Gave a lightning talk on Deep Learning for Software Engineers @ NUS
+  - Attempted CNNs for Japanese OCR as part of my Udacity ML capstone project,  [(here)](https://github.com/alexfjw/jp-ocr-prunned-cnn)  
+   Also used pruning to increase speed by 4x & reduce memory by 2x 
   - Familiar with Pytorch, Tensorflow
 
-
-* C#
-    - Contributor at PowerPointLabs, adding new features to [SyncLab](https://www.comp.nus.edu.sg/~pptlabs/docs/sync-lab.html)
+  
+* Others
+  - Signal Processing
+    - Used FFT for frequency resolution in a message transmission project
+  - Computer Vision
+    - Coded the Lucas-Kanade method & other image processing algorithms for a module project
+  - Information Retrieval
+    - Used ElasticSearch for a MOOC search engine prototype
 
 Proficient in Kotlin, Java, Python, Typescript, FRP  
 Prior experience in Swift, Javascript, C#, C++  
-
 

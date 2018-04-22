@@ -208,11 +208,32 @@ Week | Achievements
 8 | Reviewed / Tested: [Add 'fill slide' in the right-click menu #1629](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
 8 | Submitted Issue: [PowerPointLabs website has no thumbnail photo when shared on Facebook #1633](https://github.com/PowerPointLabs/PowerPointLabs/issues/1633), Reviewed / Tested: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
 8 | Merged PR: [Extend restore clipboard for actions that return a value #1627](https://github.com/PowerPointLabs/PowerPointLabs/pull/1627)
-9 | Submitted Issue: [PasteLab: Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/issues/1634) <br> Authored PR: [#1439 Shape Lab will not affect clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1636) <br> Authored PR: [PasteLab: Add Tests for restoring clipboard #1635](https://github.com/PowerPointLabs/PowerPointLabs/pull/1635)
-10 |
-11 |
-12 |
-13 |
+9 | Submitted Issue: [PasteLab: Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/issues/1634) <br> Submitted Issue: [Add restore clipboard testing API to UT #1646](https://github.com/PowerPointLabs/PowerPointLabs/issues/1646)
+9 | Submitted Issue: [Errors when there are no slides at all in PPT 2016 #1647](https://github.com/PowerPointLabs/PowerPointLabs/issues/1647)
+9 | Merged PR: [#1608 Fixes no currently active document window](https://github.com/PowerPointLabs/PowerPointLabs/pull/1613)
+9 | Merged PR: [#1634 PasteLab: Add Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1635)
+9 | Reviewed / Tested: [#1618 synclab refactor format objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1645)
+9 | Reviewed / Tested: [#1581-SyncLab-Copying-SmartArt-gives-an-error](https://github.com/PowerPointLabs/PowerPointLabs/pull/1620) <br> Reviewed / Tested: [#1403 Reinsert paste to fit button](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
+9 | Reviewed / Tested: [#1587 New feature: Save Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1637)
+9 | Reviewed / Tested [#1246 Add 'fill slide' in the right-click menu](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
+10 | Merged PR: [#1606 Fix pasting of web pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1648)
+10 | Submitted Issue: [Error when not selecting any slide and any Paste Lab function is run #1661](https://github.com/PowerPointLabs/PowerPointLabs/issues/1661)
+10 | Tested PR: [#1639 Positions Lab Bug (Adjoin)](https://github.com/PowerPointLabs/PowerPointLabs/pull/1652) <br> Tested PR: [#1650 Unknown Office control ID: PictureCropToolsMenu](https://github.com/PowerPointLabs/PowerPointLabs/pull/1660)
+11 | Tested PR: [#1556 Paste Lab: support "smart paste" of photos](https://github.com/PowerPointLabs/PowerPointLabs/pull/1667)
+11 | Merged PR: [#1662 Make Agenda Reference Slide sync Design's Slide Master (Theme of the slide) with other agenda slides](https://github.com/PowerPointLabs/PowerPointLabs/pull/1672)
+11 | Reviewed / Tested: [#1593 Inserting Shape should allow users to remain in PowerPointLabs tab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1668)
+12 | Reviewed / Tested: [#1213 support for syncing shadow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1655)
+12 | Merged PR: [#1439 Shape Lab will not affect clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1636)
+12 | Merged PR: [dev-release-4.3.0.0 #1688](https://github.com/PowerPointLabs/PowerPointLabs/pull/1688)
+12 | Tested: [#1623 Replace with clipboard: preserve shape settings (existing sync formats only)](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642) <br> Tested: [#1213 support for syncing glow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1669)
+12 | Reviewed / Tested: [#1644 SyncLab ArtisticEffect Fails to Sync](https://github.com/PowerPointLabs/PowerPointLabs/pull/1664)
+12 | Reviewed / Tested: [#1213 support for syncing softedge](https://github.com/PowerPointLabs/PowerPointLabs/pull/1671)
+12 | Reviewed / Tested: [#1213 support for syncing reflections](https://github.com/PowerPointLabs/PowerPointLabs/pull/1666)
+12 | Tested: [#1213 support for 3drotation](https://github.com/PowerPointLabs/PowerPointLabs/pull/1678) <br> Tested: [#1640 Positions Lab Bug (Distribute)](https://github.com/PowerPointLabs/PowerPointLabs/pull/1653)
+13 | Reviewed / Tested: [#1692 Syncing of glow changes glow color](https://github.com/PowerPointLabs/PowerPointLabs/pull/1693)
+13 | Reviewed / Tested: [#1691 Format Tab gets focus even when maintain tab focus tab is ticked](https://github.com/PowerPointLabs/PowerPointLabs/pull/1694)
+13 | Merged PR: [dev-release-4.3.0.1 #1696](https://github.com/PowerPointLabs/PowerPointLabs/pull/1696)
+13 | Merged PR: [Update agenda lab documentation about changing the theme of template slide](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/82)
 
 ## TAN JUN KIAT
 
@@ -475,7 +496,7 @@ Week | Achievements
 11 | Reviewed PR: [Migrate remaining classes to use java.time #8731 #8732](https://github.com/TEAMMATES/teammates/pull/8732)
 12 | Submitted issue: [TimeHelper: update documentation and standardize method naming #8780](https://github.com/TEAMMATES/teammates/issues/8780)
 12 | Authored PR: [TimeHelper: update documentation and standardize method naming #8780 #8781](https://github.com/TEAMMATES/teammates/pull/8781)
-13 | 
+13 |
 
 ## JOANNE ONG CUI FANG
 

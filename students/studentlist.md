@@ -236,7 +236,7 @@
 [[Github]()]
 [[Progress](progress.md#phang-chun-rong)]
 
-* Expert areas: Python
+* Expert areas: Python, Performance Optimization, Machine Learning
 * Projects: TEAMMATES
 
 ## SHRADHEYA THAKRE

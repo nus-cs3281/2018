@@ -365,6 +365,7 @@ Week | Achievements
 12 | Reviewed PR: [Clean up "d.FirstTimers" issues](https://github.com/se-edu/addressbook-level4/pull/870)
 12 | Reviewed PR: [Dev guide: checkstyle setup: require to apply version change #715](https://github.com/se-edu/addressbook-level4/pull/875)
 13 | Authored PR: [HelpWindowTest: fix failing test in non-headless mode](https://github.com/se-edu/addressbook-level4/pull/880)
+13 | Reviewed PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
 
 ## VIVEK LAKSHMANAN
 

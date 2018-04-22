@@ -487,6 +487,7 @@ Week | Achievements
 12 | Merged PR: [Instructor: search students: add a confirmation dialog for the "delete" button #3091](https://github.com/TEAMMATES/teammates/pull/8686)
 12 | Responded to contributor queries: [#8772](https://github.com/TEAMMATES/teammates/issues/8772), [#8701](https://github.com/TEAMMATES/teammates/issues/8701)
 13 | Merged PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option #8449](https://github.com/TEAMMATES/teammates/pull/8577)
+13 | Responded to contributor queries: [#8798](https://github.com/TEAMMATES/teammates/pull/8798), [#8796](https://github.com/TEAMMATES/teammates/issues/8796)
 
 ## LU LECHUAN
 

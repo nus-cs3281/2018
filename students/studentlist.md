@@ -132,8 +132,8 @@
 [[Github](https://github.com/yamidark)]
 [[Progress](progress.md#tan-jun-an)]
 
-* Expert areas: C++, Testing, Performance and scalability
-* Projects: SE-EDU
+* Expert areas: C++, Java, Performance and scalability
+* Projects: SE-EDU, mlpack
 
 ## VIVEK LAKSHMANAN
 

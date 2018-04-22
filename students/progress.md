@@ -65,14 +65,19 @@ Week | Achievements
 5 | Merged PR: [Add *md' to default site config ignore #26](https://github.com/MarkBind/markbind-cli/pull/26)
 5 | Merged PR: [Record boilerplate includes separately #144](https://github.com/MarkBind/markbind/pull/144)
 6 | Submitted Issue: [Initializing site in a new directory does not generate boilerplate directory #150](https://github.com/MarkBind/markbind/issues/150)
+6 | Reviewed PR: [Add search feature #32](https://github.com/MarkBind/markbind-cli/pull/32)
 7 | Merged PR: [Update gh-pages to v1.1.0 #30](https://github.com/MarkBind/markbind-cli/pull/30)
 7 | Merged PR: [Add vertical lines to tables #33](https://github.com/MarkBind/markbind-cli/pull/33), [Use Bootstrap class for table #161](https://github.com/MarkBind/markbind/pull/161)
 7 | Merged PR: [Remove bullet for task and radio list items #35](https://github.com/MarkBind/markbind-cli/pull/35)
+7 | Tested PR: [Ignore updates to source files while live-reloading is in progress #155 #31](https://github.com/MarkBind/markbind-cli/pull/31)
 8 | Merged PR: [Add Travis CI for automated linting and testing #36](https://github.com/MarkBind/markbind-cli/pull/36)
-10 |
-11 |
-12 |
-13 |
+9 | Merged PR: [Add a batch file for testing on windows #176](https://github.com/MarkBind/markbind/pull/176)
+9 | Reviewed PR: [Give a more relevant error message for empty src attribute in include #160 #174](https://github.com/MarkBind/markbind/pull/174)
+11 | Merged PR: [Add option to specify baseurl in build command #186](https://github.com/MarkBind/markbind/pull/186)
+12 | Merged PR: [Add user guide to main site #188](https://github.com/MarkBind/markbind/pull/188)
+12 | Reviewed PR: [Add front matter feature](https://github.com/MarkBind/markbind/pull/175)
+12 | Set-up user guide preview on Netlify
+13 | Merged PR: [Add jest for unit testing #178](https://github.com/MarkBind/markbind/pull/178)
 
 ## DANIEL BERZIN CHUA YUAN SIANG
 
@@ -88,12 +93,11 @@ Week | Achievements
 6 | Merged PR: [Import Typeahead component #13](https://github.com/MarkBind/vue-strap/pull/13)
 8 | Merged PR: [Add search feature #32](https://github.com/MarkBind/markbind-cli/pull/32)
 8 | Merged PR: [Add a test site #27](https://github.com/MarkBind/markbind-cli/pull/27)
-8 | Authored PR: [Add htmlparser2 as a dependency #38](https://github.com/MarkBind/markbind-cli/pull/38)
-9 |
-10 |
-11 |
-12 |
-13 |
+8 | Merged PR: [Add htmlparser2 as a dependency #38](https://github.com/MarkBind/markbind-cli/pull/38)
+9 | Submitted Issue: [Include command does not work #177](https://github.com/MarkBind/markbind/issues/177)
+11 | Reviewed PR: [Add jest for unit testing #178](https://github.com/MarkBind/markbind/pull/178)
+12 | Merged PR: [Add FrontMatterSearch component #17](https://github.com/MarkBind/vue-strap/pull/17)
+13 | Merged PR: [Add front matter feature #175](https://github.com/MarkBind/markbind/pull/175)
 
 ## RACHAEL SIM HWEE LING
 
@@ -111,13 +115,14 @@ Week | Achievements
 7 | Merged PR: [Support multiple inclusions of a modal #107](https://github.com/MarkBind/vue-strap/pull/12) (Authored in Week 6)
 7 | Merged PR: [Record missing include src #156](https://github.com/MarkBind/markbind/pull/156)
 8 | Merged PR: [Ignore updates to source files while live-reloading is in progress #155](https://github.com/MarkBind/markbind-cli/pull/31)
-8 | Authored PR: [boilerplates: allow multiple boilerplates with similar names #159](https://github.com/MarkBind/markbind/pull/167)
 8 | Submitted Issue: [Build/live reload fails if a page/dynamically included file is missing #168](https://github.com/MarkBind/markbind/issues/168)
-9 |
-10 |
-11 |
-12 |
-13 |
+10 | Merged PR: [Give a more relevant error message for empty src attribute in include #160](https://github.com/MarkBind/markbind/pull/174)
+10 | Reviewed PR: [Add user guide to main site](https://github.com/MarkBind/markbind/pull/188)
+10 | Reviewed PR: [Add front matter feature #175](https://github.com/MarkBind/markbind/pull/175)
+11 | Merged PR: [boilerplates: allow multiple boilerplates with similar names #159](https://github.com/MarkBind/markbind/pull/167) (Authored in Week 8)
+11 | Merged PR: [Support header elements in panel header](https://github.com/MarkBind/vue-strap/pull/15)
+13 | Merged PR: [Add logging to file](https://github.com/MarkBind/markbind/pull/189)
+13 | Merged PR: [Update user docs](https://github.com/MarkBind/markbind/pull/191)
 
 # PowerPointLabs
 
@@ -150,10 +155,32 @@ Week | Achievements
 8 | -
 9 | Submitted Issue: [Unable to run FTs on 2013 with 2016 installed](https://github.com/PowerPointLabs/PowerPointLabs/issues/1641)
 9 | Authored PR: [replace with clipboard: preserve shape settings](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642)
-10 |
-11 |
-12 |
-13 |
+9 | Merged PR: [synclab refactor format objects #1645](https://github.com/PowerPointLabs/PowerPointLabs/pull/1645)
+10 | Merged PR: [Add issue & PR request templates #1643](https://github.com/PowerPointLabs/PowerPointLabs/pull/1643)
+10 | Reviewed + Tested PR: [Fix pasting of web pictures #1648](https://github.com/PowerPointLabs/PowerPointLabs/pull/1648)
+11 | Reviewed + Tested PR: [Positions Lab Bug (Adjoin) #1652](https://github.com/PowerPointLabs/PowerPointLabs/pull/1652)
+11 | Reviewed PR: [Paste Lab: support "smart paste" of photos #1667](https://github.com/PowerPointLabs/PowerPointLabs/pull/1667)
+12 | Reviewed PR: [dev-release-4.3.0.0 #1688](https://github.com/PowerPointLabs/PowerPointLabs/pull/1688)
+12 | Reviewed PR: [Add Contributor Information to Github page #1686](https://github.com/PowerPointLabs/PowerPointLabs/pull/1686)
+12 | Reviewed PR: [Add Technical Troubleshooting FAQs to the User Guide #1687](https://github.com/PowerPointLabs/PowerPointLabs/pull/1687)
+12 | Reviewed PR: [Add Save Lab Documentation #79](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/79)
+12 | Reviewed + Tested PR: [Positions Lab Bug (Distribute) #1653](https://github.com/PowerPointLabs/PowerPointLabs/pull/1653)
+12 | Merged PR: [support for syncing glow #1669](https://github.com/PowerPointLabs/PowerPointLabs/pull/1669)
+12 | Merged PR: [support for 3drotation #1678](https://github.com/PowerPointLabs/PowerPointLabs/pull/1678)
+12 | Merged PR: [support for syncing bevel #1673](https://github.com/PowerPointLabs/PowerPointLabs/pull/1673)
+12 | Merged PR: [support for syncing softedge #1671](https://github.com/PowerPointLabs/PowerPointLabs/pull/1671)
+12 | Merged PR: [support for syncing reflections #1666](https://github.com/PowerPointLabs/PowerPointLabs/pull/1666)
+12 | Merged PR: [support for 3drotation #1678](https://github.com/PowerPointLabs/PowerPointLabs/pull/1678)
+12 | Merged PR: [SyncLab ArtisticEffect Fails to Sync](https://github.com/PowerPointLabs/PowerPointLabs/pull/1664)
+12 | Merged PR: [replace with clipboard: preserve shape settings](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642)
+12 | Submitted Issue: [SyncLab: Split 3D Rotation into components](https://github.com/PowerPointLabs/PowerPointLabs/issues/1685)
+12 | Submitted Issue: [SyncLab: Log all sync methods](https://github.com/PowerPointLabs/PowerPointLabs/issues/1684)
+12 | Submitted Issue: [SyncLab: Split ShadowEffect into components](https://github.com/PowerPointLabs/PowerPointLabs/issues/1682)
+12 | Submitted Issue: [SyncLab: Optimize UI for Sync Selection Pane](https://github.com/PowerPointLabs/PowerPointLabs/issues/1681)
+12 | Submitted Issue: [Standardize line endings for project](https://github.com/PowerPointLabs/PowerPointLabs/issues/1680)
+12 | Submitted Issue: [SyncLab: Artistic Effect Parameters](https://github.com/PowerPointLabs/PowerPointLabs/issues/1679)
+13 | Reviewed + Tested PR: [Format Tab gets focus even when maintain tab focus tab is ticked](https://github.com/PowerPointLabs/PowerPointLabs/pull/1694)
+13 | Merged PR: [Syncing of glow changes glow color](https://github.com/PowerPointLabs/PowerPointLabs/pull/1693)
 
 ## LEE YAN HWA
 
@@ -181,11 +208,32 @@ Week | Achievements
 8 | Reviewed / Tested: [Add 'fill slide' in the right-click menu #1629](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
 8 | Submitted Issue: [PowerPointLabs website has no thumbnail photo when shared on Facebook #1633](https://github.com/PowerPointLabs/PowerPointLabs/issues/1633), Reviewed / Tested: [Reinsert paste to fit button #1628](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
 8 | Merged PR: [Extend restore clipboard for actions that return a value #1627](https://github.com/PowerPointLabs/PowerPointLabs/pull/1627)
-9 | Submitted Issue: [PasteLab: Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/issues/1634) <br> Authored PR: [#1439 Shape Lab will not affect clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1636) <br> Authored PR: [PasteLab: Add Tests for restoring clipboard #1635](https://github.com/PowerPointLabs/PowerPointLabs/pull/1635)
-10 |
-11 |
-12 |
-13 |
+9 | Submitted Issue: [PasteLab: Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/issues/1634) <br> Submitted Issue: [Add restore clipboard testing API to UT #1646](https://github.com/PowerPointLabs/PowerPointLabs/issues/1646)
+9 | Submitted Issue: [Errors when there are no slides at all in PPT 2016 #1647](https://github.com/PowerPointLabs/PowerPointLabs/issues/1647)
+9 | Merged PR: [#1608 Fixes no currently active document window](https://github.com/PowerPointLabs/PowerPointLabs/pull/1613)
+9 | Merged PR: [#1634 PasteLab: Add Tests for restoring clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1635)
+9 | Reviewed / Tested: [#1618 synclab refactor format objects](https://github.com/PowerPointLabs/PowerPointLabs/pull/1645)
+9 | Reviewed / Tested: [#1581-SyncLab-Copying-SmartArt-gives-an-error](https://github.com/PowerPointLabs/PowerPointLabs/pull/1620) <br> Reviewed / Tested: [#1403 Reinsert paste to fit button](https://github.com/PowerPointLabs/PowerPointLabs/pull/1628)
+9 | Reviewed / Tested: [#1587 New feature: Save Lab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1637)
+9 | Reviewed / Tested [#1246 Add 'fill slide' in the right-click menu](https://github.com/PowerPointLabs/PowerPointLabs/pull/1629)
+10 | Merged PR: [#1606 Fix pasting of web pictures](https://github.com/PowerPointLabs/PowerPointLabs/pull/1648)
+10 | Submitted Issue: [Error when not selecting any slide and any Paste Lab function is run #1661](https://github.com/PowerPointLabs/PowerPointLabs/issues/1661)
+10 | Tested PR: [#1639 Positions Lab Bug (Adjoin)](https://github.com/PowerPointLabs/PowerPointLabs/pull/1652) <br> Tested PR: [#1650 Unknown Office control ID: PictureCropToolsMenu](https://github.com/PowerPointLabs/PowerPointLabs/pull/1660)
+11 | Tested PR: [#1556 Paste Lab: support "smart paste" of photos](https://github.com/PowerPointLabs/PowerPointLabs/pull/1667)
+11 | Merged PR: [#1662 Make Agenda Reference Slide sync Design's Slide Master (Theme of the slide) with other agenda slides](https://github.com/PowerPointLabs/PowerPointLabs/pull/1672)
+11 | Reviewed / Tested: [#1593 Inserting Shape should allow users to remain in PowerPointLabs tab](https://github.com/PowerPointLabs/PowerPointLabs/pull/1668)
+12 | Reviewed / Tested: [#1213 support for syncing shadow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1655)
+12 | Merged PR: [#1439 Shape Lab will not affect clipboard](https://github.com/PowerPointLabs/PowerPointLabs/pull/1636)
+12 | Merged PR: [dev-release-4.3.0.0 #1688](https://github.com/PowerPointLabs/PowerPointLabs/pull/1688)
+12 | Tested: [#1623 Replace with clipboard: preserve shape settings (existing sync formats only)](https://github.com/PowerPointLabs/PowerPointLabs/pull/1642) <br> Tested: [#1213 support for syncing glow](https://github.com/PowerPointLabs/PowerPointLabs/pull/1669)
+12 | Reviewed / Tested: [#1644 SyncLab ArtisticEffect Fails to Sync](https://github.com/PowerPointLabs/PowerPointLabs/pull/1664)
+12 | Reviewed / Tested: [#1213 support for syncing softedge](https://github.com/PowerPointLabs/PowerPointLabs/pull/1671)
+12 | Reviewed / Tested: [#1213 support for syncing reflections](https://github.com/PowerPointLabs/PowerPointLabs/pull/1666)
+12 | Tested: [#1213 support for 3drotation](https://github.com/PowerPointLabs/PowerPointLabs/pull/1678) <br> Tested: [#1640 Positions Lab Bug (Distribute)](https://github.com/PowerPointLabs/PowerPointLabs/pull/1653)
+13 | Reviewed / Tested: [#1692 Syncing of glow changes glow color](https://github.com/PowerPointLabs/PowerPointLabs/pull/1693)
+13 | Reviewed / Tested: [#1691 Format Tab gets focus even when maintain tab focus tab is ticked](https://github.com/PowerPointLabs/PowerPointLabs/pull/1694)
+13 | Merged PR: [dev-release-4.3.0.1 #1696](https://github.com/PowerPointLabs/PowerPointLabs/pull/1696)
+13 | Merged PR: [Update agenda lab documentation about changing the theme of template slide](https://github.com/PowerPointLabs/PowerPointLabs-Website/pull/82)
 
 ## TAN JUN KIAT
 
@@ -317,6 +365,7 @@ Week | Achievements
 12 | Reviewed PR: [Clean up "d.FirstTimers" issues](https://github.com/se-edu/addressbook-level4/pull/870)
 12 | Reviewed PR: [Dev guide: checkstyle setup: require to apply version change #715](https://github.com/se-edu/addressbook-level4/pull/875)
 13 | Authored PR: [HelpWindowTest: fix failing test in non-headless mode](https://github.com/se-edu/addressbook-level4/pull/880)
+13 | Reviewed PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
 
 ## VIVEK LAKSHMANAN
 
@@ -335,13 +384,15 @@ Week | Achievements
 6 | Reviewed PR: [AddressBook: remove master tag list #825](https://github.com/se-edu/addressbook-level4/pull/825)
 7 | Submitted Issue: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/issues/826)
 7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
-8 | Authored PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
 8 | Reviewed PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #845](https://github.com/se-edu/addressbook-level4/pull/845)
-9 |
-10 |
-11 |
-12 |
-13 |
+8 | Submitted Issue: [SystemTests: Refactor PersonBuilder to use TypicalPersons as arguments #855](https://github.com/se-edu/addressbook-level4/issues/855)
+9 | Responded to contributor query: [Test data: isPrivate XML attribute is unused #854](https://github.com/se-edu/addressbook-level4/pull/854)
+10 | Reviewed PR: [Tidy up build.gradle #860](https://github.com/se-edu/addressbook-level4/pull/860)
+11 | Reviewed PR: [HelpWindow: multiple help windows can be opened #850](https://github.com/se-edu/addressbook-level4/pull/850)
+12 | Reviewed PR: [Clean up "d.FirstTimers" issues #870](https://github.com/se-edu/addressbook-level4/pull/870)
+13 | Reviewed PR: [HelpWindowTest: fix failing test in non-headless mode #880](https://github.com/se-edu/addressbook-level4/pull/880)
+13 | Merged PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
+13 | Merged PR: [Use java.nio.file for file/path handling #866](https://github.com/se-edu/addressbook-level4/pull/866)
 
 ## YONG ZHI YUAN
 
@@ -444,9 +495,10 @@ Week | Achievements
 9 | Reviewed PR: [Add support for daylight saving time #84 #8687](https://github.com/TEAMMATES/teammates/pull/8687)
 10 | Reviewed PR: [AdminSessionsPage: fix parse failure for dates selected via datepicker #8733 #8734](https://github.com/TEAMMATES/teammates/pull/8734)
 10 | Reviewed PR: [Instructor: home page: fix sort by date #7919 #8677](https://github.com/TEAMMATES/teammates/pull/8677)
-10 | Authored PR: [AdminSessions\*: migrate to java.time #8645 #8736](https://github.com/TEAMMATES/teammates/pull/8736)
+10 | Merged PR: [AdminSessions\*: migrate to java.time #8645 #8736](https://github.com/TEAMMATES/teammates/pull/8736)
 11 | Reviewed PR: [Migrate remaining classes to use java.time #8731 #8732](https://github.com/TEAMMATES/teammates/pull/8732)
-12 |
+12 | Submitted issue: [TimeHelper: update documentation and standardize method naming #8780](https://github.com/TEAMMATES/teammates/issues/8780)
+12 | Authored PR: [TimeHelper: update documentation and standardize method naming #8780 #8781](https://github.com/TEAMMATES/teammates/pull/8781)
 13 |
 
 ## JOANNE ONG CUI FANG
@@ -562,19 +614,25 @@ Week | Achievements
 4 |Submitted Issue: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/issues/8403)
 4 | Merged PR: [Instructor: copy sessions: fix inconsistency in instructions #8403](https://github.com/TEAMMATES/teammates/pull/8404)
 5| Submitted Issue: [Instructor: feedback edit page: MSQ maximum options changes and saves without notification to user #8453](https://github.com/TEAMMATES/teammates/issues/8453)
-6| Reviewed PR :[Enhancement: Instructor: All Records of Student: Improve UI](https://github.com/TEAMMATES/teammates/pull/8502)
+6| Reviewed PR : [Enhancement: Instructor: All Records of Student: Improve UI](https://github.com/TEAMMATES/teammates/pull/8502)
 7| Submitted Issue : [Student: Feedback submission page: Tell student they have not answered all questions](https://github.com/TEAMMATES/teammates/issues/8598)
 7| Submitted Issue: [Instructor: Feedback Result Page: Can see responses that instructors are not allowed to see](https://github.com/TEAMMATES/teammates/issues/8599)
 7| Reviewed PR: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/pull/8553)
 8| Submitted Issue: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage](https://github.com/TEAMMATES/teammates/issues/8648)
 8| Reviewed PR: [Instructor: edit question: distribute question options vs recipients tooltip (UI). #8465](https://github.com/TEAMMATES/teammates/pull/8668)
+8| Responded to Contributor Queries: [Instructor: Edit Session: MSQ: Address the case where a number field is left blank #8611](https://github.com/TEAMMATES/teammates/issues/8611)
 8| Merged PR: [Instructor: edit session: multiple choice questions: support generating options for all other students #8412](https://github.com/TEAMMATES/teammates/pull/8445)
-9 | Reviewed PR: [Instructor: edit session: multiple choice questions: support generating options for all other teams #8661](https://github.com/TEAMMATES/teammates/pull/8689)
+9| Responded to Contributor Queries: [Help Request: IntelliJ IDEA 'Cannot resolve symbol' error for standart Java classes #8625](https://github.com/TEAMMATES/teammates/issues/8625)
+9| Reviewed PR: [Instructor: edit session: multiple choice questions: support generating options for all other teams #8661](https://github.com/TEAMMATES/teammates/pull/8689)
 9| Reviewed PR: [Inconsistency between InstructorCourseDetailsPage and InstructorStudentListPage: invite button missing in InstructorStudentListPage #8648](https://github.com/TEAMMATES/teammates/pull/8676)
-10 |
-11 |
-12 |
-13 |
+10| Reviewed PR: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/pull/8553)
+10| Submitted Issue: [Rename ambiguous method isChangesRequiresResponseDeletion -> shouldChangesRequireResponseDeletion #8721](https://github.com/TEAMMATES/teammates/issues/8721)
+10| Reviewed PR: [Rename ambiguous method isChangesRequiresResponseDeletion -> shouldChangesRequireResponseDeletion #8721](https://github.com/TEAMMATES/teammates/pull/8738)
+10| Merged PR: [Instructor: view results: fix IndexOutOfBoundsException #8415](https://github.com/TEAMMATES/teammates/pull/8714)
+11| Reviewed PR: [Instructor: help page: improve content #8635](https://github.com/TEAMMATES/teammates/pull/8735)
+11| Reviewed PR: [Instructor: help page: improve add/edit course-related content #8635](https://github.com/TEAMMATES/teammates/pull/8752)
+12| Reviewed PR: [Student: shows a incomplete question message if feedback session is incomplete #8598](https://github.com/TEAMMATES/teammates/pull/8766)
+13 | Merged PR: [Use builder instead of telescoping constructor antipattern in FeedbackQuestionAttributes class #7190](https://github.com/TEAMMATES/teammates/pull/8739)
 
 ## PHANG CHUN RONG
 
@@ -589,7 +647,6 @@ Week | Achievements
 5 | Submitted Issue: [Instructor: add options (Rank and Distribute Points) question: add more options inputs not appearing #8463](https://github.com/TEAMMATES/teammates/issues/8463)
 5 | Reviewed PR: [MCQ and MSQ question: fix cancel question feature #7934](https://github.com/TEAMMATES/teammates/pull/8472)
 5 | Reviewed PR: [Instuctor : Feedback Questions : MCQ/MSQ questions : Disable drop down menu by default #8576](https://github.com/TEAMMATES/teammates/pull/8584)
-6 | Authored PR: [Instructor: edit feedback: support min max for distribute points questions #8450](https://github.com/TEAMMATES/teammates/pull/8464)
 6 | Authored PR: [Instructor: Feedback Results: Show No Specific Section if non-empty #7633](https://github.com/TEAMMATES/teammates/pull/8539)
 7 | Submitted Issue: [Testing: Using `WebElement#Click` instead of `Click()`](https://github.com/TEAMMATES/teammates/issues/8623)
 7 | Reviewed PR: [Rubric questions: show summary excluding self-evaluation #6887](https://github.com/TEAMMATES/teammates/pull/8517)
@@ -602,9 +659,12 @@ Week | Achievements
 9 | Merged PR: [Instructor: add ranking question: leave min/max boxes empty by default #8320](https://github.com/TEAMMATES/teammates/pull/8373)
 10 | Submitted Issue: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/issues/8716)
 10 | Merged PR: [Upgrade to Webpack 4](https://github.com/TEAMMATES/teammates/issues/8712)
-11 | Authored PR: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/pull/8743)
-12 |
-13 |
+11 | Merged PR: [Webpack: Refactor config to support development and production environment. Add Sourcemap Dev Tool.](https://github.com/TEAMMATES/teammates/pull/8743)
+11 | Responded to contributor queries: [https://github.com/TEAMMATES/teammates/pull/8697](https://github.com/TEAMMATES/teammates/pull/8697)
+12 | Merged PR: [Instructor: Feedback: View Results: fix the disappearing 'No specific recipient' panel bug #7633](https://github.com/TEAMMATES/teammates/pull/8539)
+12 | Reviewed PR: [https://github.com/TEAMMATES/teammates/pull/8756](https://github.com/TEAMMATES/teammates/pull/8756)
+13 | Authored PR - Late stage of review: [Instructor: edit feedback: support min max for distribute points questions #8450](https://github.com/TEAMMATES/teammates/pull/8464)
+13 | Responded to contributor queries: [Instructor: edit session: add option to discard changes #7232 ](https://github.com/TEAMMATES/teammates/pull/8785)
 
 ## SHRADHEYA THAKRE
 
@@ -641,6 +701,8 @@ Week | Achievements
 11 | Reviewed PR: [Instructor: Feedback: View Results: fix the disappearing 'No specific recipient' panel bug #7633 #8539](https://github.com/TEAMMATES/teammates/pull/8539)
 12 | Merged PR: [Rubric questions: show summary excluding self-evaluation #6887 #8517](https://github.com/TEAMMATES/teammates/pull/8517)
 12 | Reviewed PR: [Student: submit responses: tick email confirmation option if the form is empty #8606 #8742](https://github.com/TEAMMATES/teammates/pull/8742)
+13 | Submitted Issue: [FeedbackRankQuestionUiTest.json: Fix data for Tests #8794](https://github.com/TEAMMATES/teammates/issues/8794)
+13 | Helped in verifying Upgrade to Webpack 4 in Windows environment: [Upgrade to Webpack 4 #8712 #8713](https://github.com/TEAMMATES/teammates/pull/8713)
 
 ## TAN LI HAO
 

@@ -50,7 +50,7 @@
 [[Github](https://github.com/nicholaschuayunzhi)]
 [[Progress](progress.md#chua-yun-zhi-nicholas)]
 
-* Expert areas: JavaScript, Code Quality
+* Expert areas: JavaScript, Code Quality, DevOps
 * Projects: MarkBind
 
 ## DANIEL BERZIN CHUA YUAN SIANG
@@ -86,7 +86,7 @@
 [[Github](https://github.com/leeyh20)]
 [[Progress](progress.md#lee-yan-hwa)]
 
-* Expert areas: Java, C#, Android App Development, Testing
+* Expert areas: C#, Android App Development (Java), Testing
 * Projects: PowerPointLabs
 
 ## TAN JUN KIAT
@@ -236,7 +236,7 @@
 [[Github]()]
 [[Progress](progress.md#phang-chun-rong)]
 
-* Expert areas: Python
+* Expert areas: Python, Performance Optimization, Machine Learning
 * Projects: TEAMMATES
 
 ## SHRADHEYA THAKRE

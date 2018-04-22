@@ -61,5 +61,5 @@ such as tcpflow.
 #### Java
   * Delivered a talk on Java Reflection [\(slides\)](https://github.com/nus-cs3281/2018/issues/97).
   * Worked on [TasKitty](#taskitty)
-  * Contributed to [SE-EDU AddressBook-Level4](#se-edu)
+  * Contributed to [SE-EDU AddressBook-Level4](#se-edu-software-engineering---education-addressbook-level-4)
   * Tutored 1 group of 18 students on various Data Structures and Algorithms in Java. Guided them on their programming assignments, graded them and gave feedback on their code

@@ -169,8 +169,8 @@
 [[Progress](progress.md#cara-leong-su-yi)]
 
 
-* Expert areas: Go, Documentation, Natural Language Processing
-* Projects: NLTK
+* Expert areas: Java, Go, Documentation, Natural Language Processing
+* Projects: NLTK, Atom Flight Manual
 
 ## DARREN WEE ZHE YU
 

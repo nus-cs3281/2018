@@ -719,11 +719,14 @@ Week | Achievements
 7 | Discussed Issue: [Testing: Using \`WebElement#Click\` instead of \`Click()\` #8623](https://github.com/TEAMMATES/teammates/issues/8623)
 7 | Reviewed PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333 #8384](https://github.com/TEAMMATES/teammates/pull/8384)
 8 | Reviewed PR: [Student: submit responses: mention that partial answers can be saved #7993 #8367](https://github.com/TEAMMATES/teammates/pull/8367)
-9 |
-10 |
-11 |
-12 |
-13 |
+9 | Reviewed PR: [Instructor: add ranking question: leave min/max boxes empty by default #8320 #8373](https://github.com/TEAMMATES/teammates/pull/8373)
+9 | Reviewed PR: [Update user map for Jan 2018 #8473 #8489](https://github.com/TEAMMATES/teammates/pull/8489)
+10 | -
+11 | Close resolved issue: [Submit responses: session not open: prevent status message getting added twice #3853](https://github.com/TEAMMATES/teammates/issues/3853)
+11 | Authored PR (pending review): [Improve general reliability of tests #8209 #8296](https://github.com/TEAMMATES/teammates/pull/8296)
+12 | Reviewed PR: [Instructor: Edit Session: MSQ: Address the case where a number field is left blank #8611 #8678](https://github.com/TEAMMATES/teammates/pull/8678)
+13 | Reviewed PR: [Instructor: Session Results: Comment box shrinks when canceling and adding comment again #8723 #8724](https://github.com/TEAMMATES/teammates/pull/8724)
+13 | Reviewed PR: [Instructor: update on number of char left for Session Name input #8475 #8476](https://github.com/TEAMMATES/teammates/pull/8476)
 
 ## TRAN TIEN DAT
 

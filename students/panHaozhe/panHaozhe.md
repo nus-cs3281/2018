@@ -14,11 +14,19 @@ Focus Area: Algorithms and Theory, Artificial Intelligence
 
 ## Experience
 
+##### TEAMMATES - Committer
+* TEAMMATES is an open source feedback management system that allows instructors to moderate feedbacks and peers to evaluate each other.
+* Made changes to enhance the platform for both frontend and backend
+* Reviewed pull requests from other contributors
+
 ##### Teaching Assistant- Data Structures and Algorithms (Jan 2017 - )
 * Teaches 3 class of 20 students each of CS2040, Data Structures and Algorithms
 * Moderate online discussion forum of the said module
 
 ## Projects
+#### Tetris AI | *Game*
+* Built an AI to play Tetris that learns through Genetic Algorithm and Simulated Annealing
+* Able to clear millions of lines  
 
 #### YouTube Jumper |  *Chrome extension*
 * Chrome extension built for YouTube
@@ -39,12 +47,29 @@ Focus Area: Algorithms and Theory, Artificial Intelligence
 #### PIX | *Electronic Photoframe with Raspberry PI*
 * An electronic photo frame that can display photo slideshows from Flickr and Instagram, according to hashtag or user from each category
 * Developed on Electron to create a desktop GUI application that connects to the Pi via SSH
-* HTML, CSS, Javascript, Shell Script, Python, Node.js
 
-## Skills
+## Expertise Area
+#### Java
+* Contributed to 2 OSS([TEAMMATES](https://github.com/TEAMMATES/teammates) and [Exercism](https://github.com/exercism/java)) which are written in Java.
+* [Rewrote](https://github.com/exercism/java/pull/1316) JUnit parameterized test into individuals tests for Exercism.
+* Wrote ResidentBook and Tetris AI in Java.
+* [Reviewed](https://github.com/TEAMMATES/teammates/pulls?utf8=%E2%9C%93&q=is%3Apr+assignee%3AHaozhe321+) the quality of the pull request from contributors for TEAMMATES.
+* [Refactored](https://github.com/TEAMMATES/teammates/pull/8232) instances of iterator.remove() with Java 8's removeIf() for TEAMMATES.
+* [Improved](https://github.com/TEAMMATES/teammates/pull/8739) code quality for TEAMMATES.  
 
-Proficient: Java, JavaScript  
-Familiar: Kotlin, C, Python,  
+#### Chrome Extension
+* Gave a technical talk on an introduction to developing Chrome Extension.  
+* Developed a Chrome Extension, [YouTube Jumper](https://github.com/Haozhe321/chrome-YouTube-Jumper).
+
+#### Kotlin Null Safety
+* Gave a technical talk on the safety features of Kotlin, and the problem with nullability in general
+* Answered questions on [issue tracker](https://github.com/nus-cs3281/2018/issues/26)
+* Authored a [book chapter](https://github.com/se-edu/learningresources/blob/master/contents/kotlin/NullSafety.md) on this topic to help others to learn more about Kotlin's Null Safety, and how it compares with other languages.  
+
+#### DevOps
+* [Enhanced](https://github.com/zen-audio-player/zen-audio-player.github.io/pull/282) the CONTRIBUTING.MD for new contributors for the OSS Zen Audio Player.
+* Guided new contributors to TEAMMATES and reviewed their pull requests.
+
 
 ## Certifications
 

@@ -749,7 +749,7 @@ Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate
 7 | Reviewed PR: [Load time zone rules from resource file on application startup #8574](https://github.com/TEAMMATES/teammates/pull/8575)
 7 | Responded to contributor queries: [New contributor self intro Luan N. Pham](https://github.com/TEAMMATES/teammates/issues/8615)
 8 | Reviewed PR: [Migrate FeedbackSessionAttributes time fields from Date to Instant #8628](https://github.com/TEAMMATES/teammates/pull/8629)
-8 | Reviewed PR: [Migrate *Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
+8 | Reviewed PR: [Migrate \*Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
 8 | Reviewed PR: [Migrate feedback session timeZone field to ZoneId #8638](https://github.com/TEAMMATES/teammates/pull/8639)
 8 | Reviewed PR: [Migrate FeedbackSessionAttributes gracePeriod field to Duration #8641](https://github.com/TEAMMATES/teammates/pull/8642)
 8 | Reviewed PR: [TimeHelper: convertLocalDateToUtc: do not shift special time representations #8655](https://github.com/TEAMMATES/teammates/pull/8656)
@@ -759,9 +759,8 @@ Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate
 11 | Reviewed PR: [AdminActivityLogPage: fix incorrect log message for change of course time zone #8695](https://github.com/TEAMMATES/teammates/pull/8706)
 11 | Reviewed PR: [Instructor: existing feedback sessions with fixed offsets: reduce occurrence of confirmation modals #8748](https://github.com/TEAMMATES/teammates/pull/8750)
 12 | Merged PR: [Migrate remaining classes to use java.time #8731](https://github.com/TEAMMATES/teammates/pull/8732)
-12 | Reviewed PR: [AdminSessions*: migrate to java.time #8645](https://github.com/TEAMMATES/teammates/pull/8736)
+12 | Reviewed PR: [AdminSessions\*: migrate to java.time #8645](https://github.com/TEAMMATES/teammates/pull/8736)
 12 | Reviewed PR: [AccountAttributes: remove HTML sanitization before saving for email #8775](https://github.com/TEAMMATES/teammates/pull/8776)
-
 
 ## WEN XIN
 
@@ -774,16 +773,21 @@ Week | Achievements
 2 | Submitted Issue: [Code Enhancement: extraction of unnecessary for-loop](https://github.com/TEAMMATES/teammates/issues/8334)
 2 | Merged PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8226)
 3 | Nothing
-4 | Authored PR: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/pull/8400)
-5 |Submitted Issue: [Instructor: add session: show number of chars left for session name input](https://github.com/TEAMMATES/teammates/issues/8475)
-5 |Authored PR: [Instructor: update on number of char left for Session Name input](https://github.com/TEAMMATES/teammates/pull/8476)
-6 |Submitted Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
-6 |Respond to Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
-6 |Authored PR: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/pull/8572)
-7 |Reviewed PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option](https://github.com/TEAMMATES/teammates/pull/8577)
-8 |Reviewed PR: [Instructor create session: default questions: replace 'contribution question'](https://github.com/TEAMMATES/teammates/pull/8601)
-9 |
-10 |
-11 |
-12 |
-13 |
+4 | Merged PR: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/pull/8400)
+5 | Submitted Issue: [Instructor: add session: show number of chars left for session name input](https://github.com/TEAMMATES/teammates/issues/8475)
+5 | Merged PR: [Instructor: update on number of char left for Session Name input](https://github.com/TEAMMATES/teammates/pull/8476)
+6 | Submitted Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 | Respond to Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 | Authored PR: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/pull/8572)
+7 | Reviewed PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option](https://github.com/TEAMMATES/teammates/pull/8577)
+8 | Reviewed PR: [Instructor create session: default questions: replace 'contribution question'](https://github.com/TEAMMATES/teammates/pull/8601)
+9 | Reviewed PR: [Instructor: search students: add a confirmation dialog for the "delete" button](https://github.com/TEAMMATES/teammates/pull/8686)
+9 | Reviewed PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8705)
+10 | Authored PR: [Instructor: support copying of instructors from existing courses](https://github.com/TEAMMATES/teammates/pull/8747)
+10 | Respond to queries: [Session reminder emails: mention editing responses](https://github.com/TEAMMATES/teammates/issues/8708)
+10 | Reviewed PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8705)
+11 | Respond to queries: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/issues/8215)
+11 | Submitted Issue: [Instructor: add a cancel button to terminate the process of adding instructor](https://github.com/TEAMMATES/teammates/issues/8754)
+12 | Reviewed PR: [Instructor: add a cancel button to terminate the process of adding instructor](https://github.com/TEAMMATES/teammates/pull/8756)
+12 | Reviewed PR: [Add AdminExceptionTestActionTest](https://github.com/TEAMMATES/teammates/pull/8770)
+13 | Authored PR: [Instructor: edit session: allow making session visible from a future date](https://github.com/TEAMMATES/teammates/pull/8793)

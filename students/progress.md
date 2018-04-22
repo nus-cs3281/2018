@@ -383,13 +383,15 @@ Week | Achievements
 6 | Reviewed PR: [AddressBook: remove master tag list #825](https://github.com/se-edu/addressbook-level4/pull/825)
 7 | Submitted Issue: [HelpWindow: help window stays open even after exiting by clicking the close button #826](https://github.com/se-edu/addressbook-level4/issues/826)
 7 | Reviewed PR: [HelpWindow: help window stays open even after exiting by clicking the close button #832](https://github.com/se-edu/addressbook-level4/pull/832)
-8 | Authored PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
 8 | Reviewed PR: [TypicalPersons: Unintuitive interaction with PersonBuilder #845](https://github.com/se-edu/addressbook-level4/pull/845)
-9 |
-10 |
-11 |
-12 |
-13 |
+8 | Submitted Issue: [SystemTests: Refactor PersonBuilder to use TypicalPersons as arguments #855](https://github.com/se-edu/addressbook-level4/issues/855)
+9 | Responded to contributor query: [Test data: isPrivate XML attribute is unused #854](https://github.com/se-edu/addressbook-level4/pull/854)
+10 | Reviewed PR: [Tidy up build.gradle #860](https://github.com/se-edu/addressbook-level4/pull/860)
+11 | Reviewed PR: [HelpWindow: multiple help windows can be opened #850](https://github.com/se-edu/addressbook-level4/pull/850)
+12 | Reviewed PR: [Clean up "d.FirstTimers" issues #870](https://github.com/se-edu/addressbook-level4/pull/870)
+13 | Reviewed PR: [HelpWindowTest: fix failing test in non-headless mode #880](https://github.com/se-edu/addressbook-level4/pull/880)
+13 | Merged PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
+13 | Merged PR: [Use java.nio.file for file/path handling #866](https://github.com/se-edu/addressbook-level4/pull/866)
 
 ## YONG ZHI YUAN
 

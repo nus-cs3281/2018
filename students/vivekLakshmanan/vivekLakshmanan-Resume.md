@@ -18,7 +18,7 @@ Scratch for Moway Robots
 * Contributed to addressbook-level4 of the SE-EDU project, a Java desktop application used to impart software engineering principles to students and as such demands a high standard of code quality
 
 #### Opac App Singapore (Feb 2018 - Present)
-* An Android client for public libraries
+* Contributed to Opac App, an Android client for public libraries
 
 #### HPB War on Diabetes Designathon 2017 (Jun 2017 – Jul 2017) 
 * Designed an application to promote physical activity through social cohesion
@@ -28,28 +28,35 @@ Scratch for Moway Robots
 * Developed a web application to make the planning of travel itineraries for graduate students a
 smoother experience
 
-
 #### Software Engineering Project for CS2103T - UniCity (Aug 2017 – Nov 2017) 
 * Lead a team of 4 to improve a contact management desktop application implemented in Java 
 
-## Language and Technologies
+## Skills and Expertise
 
-### Java, Git, Travis CI, Gradle, Checkstyle
-#### SE-EDU
-* Estimated contribution: 250 Lines of Code, 7 pull requests merged
+### Java, Documentation
+##### SE-EDU
+* Documented how to set-up Netlify and Coveralls
+* Refactored codebase to use the Java NIO library
+* Estimated contribution: 800 Lines of Code, 9 pull requests merged
 
-#### UniCity
-* Gained familiarity with many software engineering aspects such as continuous integration, maintaining high standards of  
-code quality, testing and documentation 
-* Implemented a closest match suggestion feature when finding contacts and changing of window size through  
-event-driven programming 
+##### UniCity
+* Gained familiarity with many software engineering aspects such as continuous integration, maintaining high standards of code quality, testing and documentation 
+* Implemented a closest matching suggestion feature when finding contacts and documented it with high-level diagrams
+* Implemented changing of window size through event-driven programming 
 
 ### Android development
-#### OpacApp
+##### OpacApp
 * Added an option to disable loading of image covers while on a metered network
-* Estimated contribution: 40 Lines of Code, 1 pull request merged
+* Estimated contribution: 40 Lines of Code, [1 pull request merged](https://github.com/opacapp/opacclient/pull/503)
 
 ### Javascript, MEAN stack
-#### NUSgT
+##### NUSgT
 * Designed and built the backend using MongoDB, Express and NodeJS
+
+### Python
+##### NLTK
+* [Removed special handling of slices](https://github.com/nltk/nltk/pull/1936) in the codebase
+
+##### Information Retrieval
+* Implemented Boolean and Vector Space Model retrieval systems 
 

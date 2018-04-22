@@ -10,7 +10,6 @@ Email: <a href="http://www.google.com/recaptcha/mailhide/d?k=01ntVGVO7vAXDUrGdCg
 TEAMMATES – Feedback Management system with over 200,000 users
 - Worked on issues such as IntelliJ integration, dependency management, tests reliability and some code
     review. _IntelliJ, Java, Javascript, Gradle, Selenium_ [[involves:LiHaoTan](https://github.com/TEAMMATES/teammates/issues?utf8=%E2%9C%93&q=involves%3ALiHaoTan)]
-- Working on initial phase of LTI integration. _Java, LTI, XML._ [[LiHaoTan:lti-support-instructor-launch-new](https://github.com/TEAMMATES/teammates/compare/master...LiHaoTan:lti-support-instructor-launch-new)]
 
 **Part-Time Developer, Istand LLP, Spring 2013 – Spring 2015**
 
@@ -37,6 +36,19 @@ Amazon) and adding the books into a database. _Java, XML, JSON, SQL_
 
 **Singapore National University of Singapore Aug 2015 – Dec 2018 (Expected)**
 - B.Comp (Honours) in Computer Science. Focus in Software Engineering.
+
+**EXPERT AREAS**
+
+Rust
+- Contributed to Servo ([#18](https://github.com/servo/servo-warc-tests/pull/18), [#20495](https://github.com/servo/servo/pull/20495))
+- Wrote an [introductory resource for Rust](https://github.com/se-edu/learningresources/pull/55)
+
+Code Quality
+- Gave a [talk related to code quality](https://github.com/nus-cs3281/2018/issues/12)
+
+Concurrency
+- Learn more about concurrency through the unique ownership model from Rust and looking at a real world project Servo
+- Explore concurrency issues in TEAMMATES
 
 **TECHNICAL EXPERIENCE**
 

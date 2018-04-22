@@ -50,7 +50,7 @@
 [[Github](https://github.com/nicholaschuayunzhi)]
 [[Progress](progress.md#chua-yun-zhi-nicholas)]
 
-* Expert areas: JavaScript, Code Quality
+* Expert areas: JavaScript, Code Quality, DevOps
 * Projects: MarkBind
 
 ## DANIEL BERZIN CHUA YUAN SIANG
@@ -86,19 +86,19 @@
 [[Github](https://github.com/leeyh20)]
 [[Progress](progress.md#lee-yan-hwa)]
 
-* Expert areas: Java, C#, Android App Development, Testing
+* Expert areas: C#, Android App Development (Java), Testing
 * Projects: PowerPointLabs
 
 ## TAN JUN KIAT
 
 <img src="tanJunKiat/tanJunKiat.jpg" width="100" /><br>
-[[Resume](tanJunKiat/tanJunKiat-Resume.md)]
+[[Resume](https://github.com/nus-cs3281/2018/blob/master/students/tanJunKiat/tanJunKiat-Resume.md#tan-jun-kiat)]
 [[Website](https://github.com/junkiattan)]
 [[Github](https://github.com/junkiattan)]
 [[Progress](progress.md#tan-jun-kiat)]
 
-* Expert areas: UX/UI Design, Java, C#, Documentation
-* Projects: PowerPointLabs
+* Expert areas: C#, Java, UX Design, Documentation
+* Projects: [PowerPointLabs](https://github.com/PowerPointLabs/PowerPointLabs), [TEAMMATES](https://github.com/TEAMMATES/teammates), [Wikimedia Commons](https://github.com/commons-app/apps-android-commons)
 
 ## ALEX FONG JIE WEN
 
@@ -132,8 +132,8 @@
 [[Github](https://github.com/yamidark)]
 [[Progress](progress.md#tan-jun-an)]
 
-* Expert areas: C++, Testing, Performance and scalability
-* Projects: SE-EDU
+* Expert areas: C++, Java, Performance and scalability
+* Projects: SE-EDU, mlpack
 
 ## VIVEK LAKSHMANAN
 
@@ -180,7 +180,7 @@
 [[Github](https://github.com/darrenwee)]
 [[Progress](progress.md#darren-wee-zhe-yu)]
 
-* Expert areas: Go, performance & scalability, git
+* Expert areas: Go, git
 * Projects: [TEAMMATES](https://github.com/teammates/TEAMMATES), [hub](https://github.com/github/hub)
 
 ## JOANNE ONG CUI FANG
@@ -191,8 +191,8 @@
 [[Github](https://github.com/joanneong)]
 [[Progress](progress.md#joanne-ong-cui-fang)]
 
-* Expert areas: Java, Documentation, Gradle
-* Projects: TEAMMATES
+* Expert areas: Java, DevOps (Dev community management)
+* Projects: TEAMMATES, OpenRefine
 
 ## LU LECHUAN
 
@@ -236,7 +236,7 @@
 [[Github]()]
 [[Progress](progress.md#phang-chun-rong)]
 
-* Expert areas: Python
+* Expert areas: Python, Performance Optimization, Machine Learning
 * Projects: TEAMMATES
 
 ## SHRADHEYA THAKRE

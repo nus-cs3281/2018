@@ -24,7 +24,7 @@ Technology used: Java, JSP, JQuery, TestNG, Selenium.
 
 ##### NUSMods R
 
-NUSMods R is a website which allows NUS students to view the course details and arrange their course timetables. It is also  
+NUSMods R is a website which allows NUS students to view the course details and arrange their course timetables.
 
 Area of contribution: UI. More details can be found [here](https://github.com/nusmodifications/nusmods/pulls?q=is%3Apr+is%3Aclosed+author%3Awenmogu).
 

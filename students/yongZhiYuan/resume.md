@@ -21,11 +21,10 @@ Software Engineer Intern
 *Responsibilities:*<br>
 
 * Worked on Addressbook-Level4, a Java application used to teach NUS Computer Science (CS) students about Software Engineering. This is a compulsory module for all NUS CS students. As a result, this project demands high standards of code quality, and working on this project taught me how to write quality code, and I became familiar with Software Engineering patterns.
-* Mentored a student under the Google Summer of Code program by doing code reviews and discussing how to improve on the existing architecture.
-* Wrote missing unit, integration and system tests to decrease the likelihood of bugs in the code base.
-* Designed and wrote code to implement new features such as allowing the user to undo and redo previously executed commands as part of fulfilling a user story.
-* Continued working on this project after the internship as part of Independent Project (module code: CP3106, Aug.2017 - Nov.2017).
-* Estimated contribution: 8.5k LoC, 84 PRs merged
+* Mentored a student under the Google Summer of Code program and guided new contributors by discussing with them on how to improve on the existing code architecture and reviewing their code.
+* Wrote missing unit, integration and system tests, increasing test coverage from 90% to 92%.
+* Designed and wrote code to implement new features such as allowing the user to undo and redo their actions.
+* Continued contributing after the internship stint till today. Estimated contribution: 14.4kLoC, 88PRs merged.
 
 ---
 
@@ -51,13 +50,18 @@ Tutor - Programming Methodology
 ## Skills
 
 * Competencies
-  * Java, JUnit 4, Testing, MVC, Software Architecture, Code Quality. See [Addressbook-Level4](https://github.com/se-edu/addressbook-level4)
+  * Java, JUnit, Design Patterns (particularly MVC), Writing Quality Code. See [Addressbook-Level4](https://github.com/se-edu/addressbook-level4)
   * Swift, iOS. See [Train to Changi](https://github.com/Zhiyuan-Amos/Train-to-Changi)
 
 * Also tried
   * Android. See [Wut 2 Do?](https://github.com/Zhiyuan-Amos/Wut-2-Do)
+  * Gradle, Continuous Integration (Travis CI), Git.
 
 ## Others
+
+* Exercism (Jan 2018)
+  * Suggested improvements for existing suite of test cases and updated these test cases. Users attempting these exercises will now have a cleaner suite of test cases to refer to.
+  * Implemented the model answer and the tests for an algorithmic exercise. Users are now able to attempt this new exercise.
 
 * Microsoft Azurenaut Hackathon (Jan 2017)
   * Created a chatbot in a team of 3 that provides information about NUS, such as the estimated arrival times for the next bus and the availability of car park lots. This project aims to integrate existing mobile applications such as NUS Carparks and NUS NextBus into a single application.

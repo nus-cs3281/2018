@@ -40,7 +40,7 @@ OpenKeychain is the leading Android app for PGP key management, with over 100,00
     
     
 * Android
-  - Worked on large-scale Android projects  
+  - Worked on large-scale Android projects, with over 100,000 users  
   (JotterPad, OpenKeychain, LibreOffice Android)
   
    

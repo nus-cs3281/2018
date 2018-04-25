@@ -41,13 +41,11 @@ OpenKeychain is the leading Android app for PGP key management, with over 100,00
     
 * Android
   - Worked on large-scale Android projects, with over 100,000 users  
-  (JotterPad, OpenKeychain, LibreOffice Android)
+    - JotterPad: Scriptwriting features, as part of JotterPad Pro's features
+    - OpenKeychain: Single password workflow & app-lock mechanism for further security
+    - LibreOffice Android: Support for sdcard & otg storage
   
    
-* C#
-    - Contributor at [PowerPointLabs](https://www.comp.nus.edu.sg/~pptlabs/), adding new features to [SyncLab](https://www.comp.nus.edu.sg/~pptlabs/docs/sync-lab.html)
-    
-
 * AI & Deep Learning
   - Wrote a [book chapter](https://github.com/se-edu/learningresources/blob/master/contents/ai/ml.md) on Machine Learning 
   - Gave a lightning talk on Deep Learning for Software Engineers @ NUS
@@ -56,13 +54,19 @@ OpenKeychain is the leading Android app for PGP key management, with over 100,00
   - Familiar with Pytorch, Tensorflow
 
   
+* C#
+    - Contributor at [PowerPointLabs](https://www.comp.nus.edu.sg/~pptlabs/), adding new features to [SyncLab](https://www.comp.nus.edu.sg/~pptlabs/docs/sync-lab.html)
+    
+
 * Others
-  - Signal Processing
-    - Used FFT for frequency resolution in a message transmission project
-  - Computer Vision
-    - Coded the Lucas-Kanade method & other image processing algorithms for a module project
-  - Information Retrieval
-    - Used ElasticSearch for a MOOC search engine prototype
+  - Signal Processing:  
+  Used FFT for frequency resolution in a message transmission project
+  
+  - Computer Vision:   
+  Coded the Lucas-Kanade method & other image processing algorithms for a video processing project
+  
+  - Information Retrieval:  
+   Used ElasticSearch for a MOOC search engine prototype
 
 Proficient in Kotlin, Java, Python, Typescript, FRP  
 Prior experience in Swift, Javascript, C#, C++  

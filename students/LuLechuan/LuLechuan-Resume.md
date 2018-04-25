@@ -59,6 +59,7 @@ Email Address: E0036072@u.nus.edu
 - Contribute and implement software which use HTML/CSS/JavaScript: TEAMMATES, Orbital 2017
 - Presented Lightning Talk on VueJs
 ##### Imtermediate in MATLAB, Python, MIPS Assembly, Software Design Patterns
+- Teach a group of 20 students in Code In Community Organisation for Programming Methodology in Python
 
 ##### Language skills
 - Chinese (excellent in reading and writing)

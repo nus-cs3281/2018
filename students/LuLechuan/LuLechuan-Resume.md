@@ -53,7 +53,7 @@ Email Address: E0036072@u.nus.edu
 #### Computer skills
 ##### Proficient in Java
 - Contribute and implement softwares which use Java: TEAMMATES, Exercism, Tetris Artificial Intelligence Agent
-- Proficient in implementing algorithms using Java 8 Streams
+- Proficient in implementing algorithms using Java 8 Streams, including projects, Simulated Annealing Algorithm, Genetic Algorithm
 - Teach several groups of NUS students for Programming Methodology and Data Structure and Algorithms in Java
 ##### Proficient in HTML/CSS/JavaScript
 - Contribute and implement software which use HTML/CSS/JavaScript: TEAMMATES, Orbital 2017

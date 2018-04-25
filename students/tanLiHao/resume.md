@@ -47,6 +47,7 @@ Code Quality
 - Gave a [talk related to code quality](https://github.com/nus-cs3281/2018/issues/12)
 
 Concurrency
+- Modelled and verified a basic concurrent program in Promela
 - Learn more about concurrency through the unique ownership model from Rust and looking at a real world project Servo
 - Explore concurrency issues in TEAMMATES
 

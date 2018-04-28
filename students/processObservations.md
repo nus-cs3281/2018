@@ -443,9 +443,22 @@ For pull requests, ESLint requires the type of the change, summary of what chang
 
 
 ## SHRADHEYA THAKRE
+
+I have contributed to two external projects:
+
+### WikiMedia Commons App
+
 **Project**: [WikiMedia Commons App](https://github.com/commons-app/apps-android-commons) <br>
 [Project workflow](https://github.com/commons-app/apps-android-commons/wiki#contributor-documentation)
 
+**My Contribution to WikiMedia Commons:**
+- Revamped About Us page [#1080](https://github.com/commons-app/apps-android-commons/pull/1080)
+- Fixed potential bug [#1148](https://github.com/commons-app/apps-android-commons/pull/1148)
+- Improve Code Quality [#1149](https://github.com/commons-app/apps-android-commons/pull/1149)
+- Give toast message when trying to upload image without giving a Title [#1211](https://github.com/commons-app/apps-android-commons/pull/1211)
+- Add missing space between Licence and Coordinates in MediaDetailFragment [#1217](https://github.com/commons-app/apps-android-commons/pull/1217)
+- Fix Toast Message for add_title_toast [#1254](https://github.com/commons-app/apps-android-commons/pull/1254)
+- Wikimedia commons app added to "Who uses Fresco" on Fresco website [#2032 - fresco](https://github.com/facebook/fresco/pull/2032)
 
 **Observations**:
 
@@ -464,8 +477,16 @@ Compared to the TEAMMATES project, this project wasn't very strict in terms of t
 
 Most PR's requiring enhancements don't require much time cause the tests don't need to be added or updated [project has very minimal testing] which even though makes it easy for new contributors, but is not a good practice.
 
+
+### Exercism.io - Java
+
 **Project**: [Exercism.io - Java](https://github.com/exercism/java) <br>
 [Project workflow](https://github.com/exercism/java/blob/master/CONTRIBUTING.md)
+
+**My Contribution to Exercism.io - Java:**
+- Version 2.1.0 added to food-chain [#1247](https://github.com/exercism/java/pull/1247)
+- Modify Nucleotide Count tests and version [#1248](https://github.com/exercism/java/pull/1248)
+- Updated Tests and Version number for Raindrops [#1317](https://github.com/exercism/java/pull/1317)
 
 **Observations**
 

@@ -196,6 +196,12 @@ An area of improvement for the external project is to have more mid-level mainta
 - [Contributing Guide](https://github.com/OpenRefine/OpenRefine/blob/master/CONTRIBUTING.md)
 - [Governance Model](https://github.com/OpenRefine/OpenRefine/blob/master/GOVERNANCE.md)
 
+**My Contributions**:
+- [#1454](https://github.com/OpenRefine/OpenRefine/pull/1454)
+- [#1481](https://github.com/OpenRefine/OpenRefine/pull/1481)
+- [#1480](https://github.com/OpenRefine/OpenRefine/pull/1480)
+- [#1539](https://github.com/OpenRefine/OpenRefine/pull/1539)
+
 **Observations**:
 
 OpenRefine is a desktop application for data cleanup and transformation to other formats. It is written primarily in Java, and relies mainly on HTML, JavaScript and CSS to present a user interface for the application. I chose this project because the [technology stack used by OpenRefine]( https://github.com/OpenRefine/OpenRefine/wiki/Technology-Stack) aligns with my learning areas, and also because OpenRefine seems to be [picking up more steam lately with regards to development progress]( https://github.com/OpenRefine/OpenRefine/graphs/contributors).

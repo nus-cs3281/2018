@@ -364,6 +364,7 @@ Week | Achievements
 12 | Reviewed PR: [PersonListPanelTest: fix flaky test](https://github.com/se-edu/addressbook-level4/pull/863)
 12 | Reviewed PR: [Clean up "d.FirstTimers" issues](https://github.com/se-edu/addressbook-level4/pull/870)
 12 | Reviewed PR: [Dev guide: checkstyle setup: require to apply version change #715](https://github.com/se-edu/addressbook-level4/pull/875)
+12 | Responded to contributor's query: [Invalid window coordinates saved when app is exited while minimized #877](https://github.com/se-edu/addressbook-level4/issues/877)
 13 | Authored PR: [HelpWindowTest: fix failing test in non-headless mode](https://github.com/se-edu/addressbook-level4/pull/880)
 13 | Reviewed PR: [Add different levels of comparison to equality methods of Person class #844](https://github.com/se-edu/addressbook-level4/pull/844)
 
@@ -454,7 +455,6 @@ Week | Achievements
 6 | Submitted Issue: [AccountAttributes: Add test cases for builder #8496](https://github.com/TEAMMATES/teammates/issues/8496)
 6 | Submitted Issue: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497](https://github.com/TEAMMATES/teammates/issues/8497)
 6 | Submitted Issue: [StudentFeedbackResultsPage: move additional information about work distribution to lightbox #8498](https://github.com/TEAMMATES/teammates/issues/8498)
-6 | Merged PR: [Attributes tests: avoid passing in an empty Google ID for student profiles #7645 #8326](https://github.com/TEAMMATES/teammates/pull/8326)
 7 |
 8 | Submitted Issue: [Instructor Help: create new instructor onboarding session #8659](https://github.com/TEAMMATES/teammates/issues/8659)
 9 | Reviewed PR: [StudentFeedbackResultsPage: separate self-responses from others' responses #8497 #8690](https://github.com/TEAMMATES/teammates/pull/8690)
@@ -718,11 +718,14 @@ Week | Achievements
 7 | Discussed Issue: [Testing: Using \`WebElement#Click\` instead of \`Click()\` #8623](https://github.com/TEAMMATES/teammates/issues/8623)
 7 | Reviewed PR: [Instructor: edit question: fix erratic behavior when editing followed by deleting #8333 #8384](https://github.com/TEAMMATES/teammates/pull/8384)
 8 | Reviewed PR: [Student: submit responses: mention that partial answers can be saved #7993 #8367](https://github.com/TEAMMATES/teammates/pull/8367)
-9 |
-10 |
-11 |
-12 |
-13 |
+9 | Reviewed PR: [Instructor: add ranking question: leave min/max boxes empty by default #8320 #8373](https://github.com/TEAMMATES/teammates/pull/8373)
+9 | Reviewed PR: [Update user map for Jan 2018 #8473 #8489](https://github.com/TEAMMATES/teammates/pull/8489)
+10 | -
+11 | Close resolved issue: [Submit responses: session not open: prevent status message getting added twice #3853](https://github.com/TEAMMATES/teammates/issues/3853)
+11 | Authored PR (pending review): [Improve general reliability of tests #8209 #8296](https://github.com/TEAMMATES/teammates/pull/8296)
+12 | Reviewed PR: [Instructor: Edit Session: MSQ: Address the case where a number field is left blank #8611 #8678](https://github.com/TEAMMATES/teammates/pull/8678)
+13 | Reviewed PR: [Instructor: Session Results: Comment box shrinks when canceling and adding comment again #8723 #8724](https://github.com/TEAMMATES/teammates/pull/8724)
+13 | Reviewed PR: [Instructor: update on number of char left for Session Name input #8475 #8476](https://github.com/TEAMMATES/teammates/pull/8476)
 
 ## TRAN TIEN DAT
 
@@ -746,7 +749,7 @@ Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate
 7 | Reviewed PR: [Load time zone rules from resource file on application startup #8574](https://github.com/TEAMMATES/teammates/pull/8575)
 7 | Responded to contributor queries: [New contributor self intro Luan N. Pham](https://github.com/TEAMMATES/teammates/issues/8615)
 8 | Reviewed PR: [Migrate FeedbackSessionAttributes time fields from Date to Instant #8628](https://github.com/TEAMMATES/teammates/pull/8629)
-8 | Reviewed PR: [Migrate *Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
+8 | Reviewed PR: [Migrate \*Attributes time fields from Date to Instant #8636](https://github.com/TEAMMATES/teammates/pull/8637)
 8 | Reviewed PR: [Migrate feedback session timeZone field to ZoneId #8638](https://github.com/TEAMMATES/teammates/pull/8639)
 8 | Reviewed PR: [Migrate FeedbackSessionAttributes gracePeriod field to Duration #8641](https://github.com/TEAMMATES/teammates/pull/8642)
 8 | Reviewed PR: [TimeHelper: convertLocalDateToUtc: do not shift special time representations #8655](https://github.com/TEAMMATES/teammates/pull/8656)
@@ -756,9 +759,8 @@ Recess | Merged PR: [TimeHelper: migrate to Java 8's `java.time` #8362 - migrate
 11 | Reviewed PR: [AdminActivityLogPage: fix incorrect log message for change of course time zone #8695](https://github.com/TEAMMATES/teammates/pull/8706)
 11 | Reviewed PR: [Instructor: existing feedback sessions with fixed offsets: reduce occurrence of confirmation modals #8748](https://github.com/TEAMMATES/teammates/pull/8750)
 12 | Merged PR: [Migrate remaining classes to use java.time #8731](https://github.com/TEAMMATES/teammates/pull/8732)
-12 | Reviewed PR: [AdminSessions*: migrate to java.time #8645](https://github.com/TEAMMATES/teammates/pull/8736)
+12 | Reviewed PR: [AdminSessions\*: migrate to java.time #8645](https://github.com/TEAMMATES/teammates/pull/8736)
 12 | Reviewed PR: [AccountAttributes: remove HTML sanitization before saving for email #8775](https://github.com/TEAMMATES/teammates/pull/8776)
-
 
 ## WEN XIN
 
@@ -771,16 +773,21 @@ Week | Achievements
 2 | Submitted Issue: [Code Enhancement: extraction of unnecessary for-loop](https://github.com/TEAMMATES/teammates/issues/8334)
 2 | Merged PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8226)
 3 | Nothing
-4 | Authored PR: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/pull/8400)
-5 |Submitted Issue: [Instructor: add session: show number of chars left for session name input](https://github.com/TEAMMATES/teammates/issues/8475)
-5 |Authored PR: [Instructor: update on number of char left for Session Name input](https://github.com/TEAMMATES/teammates/pull/8476)
-6 |Submitted Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
-6 |Respond to Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
-6 |Authored PR: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/pull/8572)
-7 |Reviewed PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option](https://github.com/TEAMMATES/teammates/pull/8577)
-8 |Reviewed PR: [Instructor create session: default questions: replace 'contribution question'](https://github.com/TEAMMATES/teammates/pull/8601)
-9 |
-10 |
-11 |
-12 |
-13 |
+4 | Merged PR: [Average Rank Excluding Self calculation not intuitive to users](https://github.com/TEAMMATES/teammates/pull/8400)
+5 | Submitted Issue: [Instructor: add session: show number of chars left for session name input](https://github.com/TEAMMATES/teammates/issues/8475)
+5 | Merged PR: [Instructor: update on number of char left for Session Name input](https://github.com/TEAMMATES/teammates/pull/8476)
+6 | Submitted Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 | Respond to Issue: [Student:FeedbackSubmissionEditPage incomplete display of question title](https://github.com/TEAMMATES/teammates/issues/8505)
+6 | Authored PR: [InstructorFeedbackEditPage: include question type help in lightbox](https://github.com/TEAMMATES/teammates/pull/8572)
+7 | Reviewed PR: [Instructor: edit session: 'distribute points' questions: support 'some variation required' option](https://github.com/TEAMMATES/teammates/pull/8577)
+8 | Reviewed PR: [Instructor create session: default questions: replace 'contribution question'](https://github.com/TEAMMATES/teammates/pull/8601)
+9 | Reviewed PR: [Instructor: search students: add a confirmation dialog for the "delete" button](https://github.com/TEAMMATES/teammates/pull/8686)
+9 | Reviewed PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8705)
+10 | Authored PR: [Instructor: support copying of instructors from existing courses](https://github.com/TEAMMATES/teammates/pull/8747)
+10 | Respond to queries: [Session reminder emails: mention editing responses](https://github.com/TEAMMATES/teammates/issues/8708)
+10 | Reviewed PR: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/pull/8705)
+11 | Respond to queries: [Java: Use Java 8 map.putIfAbsent and map.computeIfAbsent](https://github.com/TEAMMATES/teammates/issues/8215)
+11 | Submitted Issue: [Instructor: add a cancel button to terminate the process of adding instructor](https://github.com/TEAMMATES/teammates/issues/8754)
+12 | Reviewed PR: [Instructor: add a cancel button to terminate the process of adding instructor](https://github.com/TEAMMATES/teammates/pull/8756)
+12 | Reviewed PR: [Add AdminExceptionTestActionTest](https://github.com/TEAMMATES/teammates/pull/8770)
+13 | Authored PR: [Instructor: edit session: allow making session visible from a future date](https://github.com/TEAMMATES/teammates/pull/8793)

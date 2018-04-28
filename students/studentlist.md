@@ -132,8 +132,8 @@
 [[Github](https://github.com/yamidark)]
 [[Progress](progress.md#tan-jun-an)]
 
-* Expert areas: C++, Testing, Performance and scalability
-* Projects: SE-EDU
+* Expert areas: C++, Java, Performance and scalability
+* Projects: SE-EDU, mlpack
 
 ## VIVEK LAKSHMANAN
 
@@ -169,8 +169,8 @@
 [[Progress](progress.md#cara-leong-su-yi)]
 
 
-* Expert areas: Go, Documentation, Natural Language Processing
-* Projects: NLTK
+* Expert areas: Java, Go, Documentation, Natural Language Processing
+* Projects: NLTK, Atom Flight Manual
 
 ## DARREN WEE ZHE YU
 

@@ -26,11 +26,12 @@ Developed a user-friendly web-based application, Lions Befrienders Mobile, that 
 
 * Contributed to MarkBind (January 2018 - Present)  
 MarkBind is a website generator that can generate dynamic websites from markdown documents. It is suited to create content-heavy websites and is used to create course and learning websites for some NUS courses.  
-Contributed to the project by adding new features that improve author usability, fixing bugs and code reviews.
+Contributed to the project by adding new features that improve author usability, speed up live-reload, fixing bugs and code reviews.
 
 * Contributed to ESLint (2018)  
 ESLint is a popular code linting tool for Javascript with more than million downloads.  
-Contributed by improving the documentation and fixing bugs.
+Contributed by improving the documentation [1](https://github.com/eslint/eslint/pull/10098) and fixing bugs [2](https://github.com/eslint/eslint/pull/9985), [3](https://github.com/eslint/eslint/pull/10161).
+
 
 ## Computing Skills
 
@@ -39,7 +40,7 @@ Contributed by improving the documentation and fixing bugs.
   * Developed an iPad application, Bubble Mania, a bubble shooter game with an interactive level designer and a supporting physics engine to simulate realistic collisions
   * Presented talk on [Protocol Oriented Programming](https://github.com/nus-cs3281/2018/issues/6)
 * Node.js
-   * Worked on [MarkBind](https://github.com/MarkBind/markbind)
+   * Contributed to [MarkBind](https://github.com/MarkBind/markbind), a Markdown/HTML site generator
    * Wrote a book chapter on [Introduction to Node.js](https://github.com/se-edu/learningresources/blob/master/contents/node/nodejs.md)
    * Presented talk on [Node.js](https://github.com/nus-cs3281/2018/issues/90)
 * Artificial Intelligence

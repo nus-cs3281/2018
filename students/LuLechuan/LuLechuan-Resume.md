@@ -33,6 +33,7 @@ Email Address: E0036072@u.nus.edu
 ##### Exercism (Open Source Software) | Contributor (Janary 2018 - March 2018)
 - Implemented tests for existing exercises.
 - Implemented new exercises which aim to help users to become more proficient in Java.
+- [Link to the project](https://github.com/exercism/java/)
 
 ##### NUS Orbital 2017 | Front-End Developer (July 2016)
 - Created a Node based Web Application for sharing of Mathematical solutions for students

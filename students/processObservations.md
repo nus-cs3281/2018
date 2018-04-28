@@ -324,7 +324,7 @@ If we were to open the project to external contributors, I hope our developers w
 ## LU LECHUAN
 **Project**: Exercism
 
-**PRs to External Project**
+**PRs to External Project**<br/>
 [Implement new exercise: Zipper #1327](https://github.com/exercism/java/pull/1327)<br />
 [Update ScrabbleScoreTest #1311](https://github.com/exercism/java/pull/1311)<br />
 [Update RomanNumberalsTest #1309](https://github.com/exercism/java/pull/1309)<br />

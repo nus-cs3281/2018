@@ -524,6 +524,11 @@ The best thing I liked about WikiMedia Commons App, was that if someone had aske
 * [Contribution Guide](https://github.com/mlpack/mlpack/blob/master/CONTRIBUTING.md)
 * [Design Guidelines](https://github.com/mlpack/mlpack/wiki/DesignGuidelines)
 
+**My Contributions**:
+* [#1289](https://github.com/mlpack/mlpack/pull/1289)
+* [#1310](https://github.com/mlpack/mlpack/pull/1310)
+* [#1315](https://github.com/mlpack/mlpack/pull/1315)
+
 **Observations**:
 
 mlpack is a scalable machine learning library, written in C++ that provides these algorithms as simple command-line programs and C++ classes which can then be integrated into larger-scale machine learning solutions.

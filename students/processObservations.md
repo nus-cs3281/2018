@@ -117,6 +117,9 @@ Pull Request / Issue Format. [Proposing new rule](https://eslint.org/docs/develo
 Release documentation. In ESLint, a release will have the [commits merged](https://github.com/eslint/eslint/releases) written in the description. All PRs are squashed and the PR title is used. Perhaps we could follow suit as a simple way to let users know of our latest changes.
 
 ## DANIEL BERZIN CHUA YUAN SIANG
+
+**My contributions**: [strongbox#522](https://github.com/strongbox/strongbox/pull/522), [strongbox-web-integration-tests#24](https://github.com/strongbox/strongbox-web-integration-tests/pull/24), [strongbox-web-integration-tests#20](https://github.com/strongbox/strongbox-web-integration-tests/pull/20)
+
 **Project**: [Strongbox](https://github.com/strongbox)
 - [Contribution Guidelines](https://github.com/strongbox/strongbox/blob/master/CONTRIBUTING.md)
 - [Coding Convention](https://github.com/strongbox/strongbox/wiki/Coding-Convention)

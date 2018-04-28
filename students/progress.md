@@ -98,6 +98,9 @@ Week | Achievements
 11 | Reviewed PR: [Add jest for unit testing #178](https://github.com/MarkBind/markbind/pull/178)
 12 | Merged PR: [Add FrontMatterSearch component #17](https://github.com/MarkBind/vue-strap/pull/17)
 13 | Merged PR: [Add front matter feature #175](https://github.com/MarkBind/markbind/pull/175)
+14 | Merged PR: [Update documentation for search #197](https://github.com/MarkBind/markbind/pull/197)
+14 | Merged PR: [Front matter bug fixes and documentation updates #200](https://github.com/MarkBind/markbind/pull/200)
+14 | Merged PR: [Fix partial registration in Typeahead component #19](https://github.com/MarkBind/vue-strap/pull/19)
 
 ## RACHAEL SIM HWEE LING
 

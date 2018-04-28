@@ -611,6 +611,7 @@ Lastly, I would like to suggest some practices of Mitmproxy that our internal pr
 ## VIVEK LAKSHMANAN
 ### Project: NLTK
 * [Contribution Guidelines](https://github.com/nltk/nltk/blob/develop/CONTRIBUTING.md)
+* Contributions: [#1936](https://github.com/nltk/nltk/pull/1936)
 
 I chose NLTK as my external project as I was learning about NLP (Natural Language Processing) in my Introduction to Information Retrieval Module and I wanted to dig in deeper. At the same time, I wanted to improve the quality of my python code. Though the time spent with NLTK was short, I was able to learn much about their workflow and practices that will be of use to SE-EDU.
 
@@ -637,6 +638,7 @@ Although this type workflow is usually used for larger projects, having a develo
 
 ### Project: OpacApp
 * [Contribution Guidelines](https://github.com/opacapp/opacclient/wiki/How-to-build-the-project)
+* Contributions: [#503](https://github.com/opacapp/opacclient/pull/503)
 
 After facing difficulties with the inactivity in NLTK, I moved on to OpacApp, an android app for accessing scientific libraries. I chose this project as I wanted to get familiar with Android development and improve the quality of my Java code as well.
 

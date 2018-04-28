@@ -324,14 +324,14 @@ If we were to open the project to external contributors, I hope our developers w
 ## LU LECHUAN
 **Project**: Exercism
 
-**My Contribution**
-[Implement new exercise: Zipper #1327](https://github.com/exercism/java/pull/1327)
-[Update ScrabbleScoreTest #1311](https://github.com/exercism/java/pull/1311)
-[Update RomanNumberalsTest #1309](https://github.com/exercism/java/pull/1309)
-[Update PrimeFactorsCalculatorTest #1308](https://github.com/exercism/java/pull/1308)
-[isbn-verifier: update tests and version file #1302](https://github.com/exercism/java/pull/1302)
-[Update AtbashTest #1307](https://github.com/exercism/java/pull/1307)
-[Update PigLatinTranslatorTest #1305](https://github.com/exercism/java/pull/1305/files)
+**PRs to External Project**
+[Implement new exercise: Zipper #1327](https://github.com/exercism/java/pull/1327)<br />
+[Update ScrabbleScoreTest #1311](https://github.com/exercism/java/pull/1311)<br />
+[Update RomanNumberalsTest #1309](https://github.com/exercism/java/pull/1309)<br />
+[Update PrimeFactorsCalculatorTest #1308](https://github.com/exercism/java/pull/1308)<br />
+[isbn-verifier: update tests and version file #1302](https://github.com/exercism/java/pull/1302)<br />
+[Update AtbashTest #1307](https://github.com/exercism/java/pull/1307)<br />
+[Update PigLatinTranslatorTest #1305](https://github.com/exercism/java/pull/1305/files)<br />
 
 **Observations**: [Exercism](http://exercism.io/) is a portal to learn new programming languages, it has over 30 different languages and many problem sets of increasing difficulties for users to engage in progressive learning.
 [Link to exercism github](https://github.com/exercism).

@@ -87,6 +87,9 @@ While TEAMMATES is not heavily dependent on external sites, we do have quite a f
 In addition, the tools used to build flight manual itself may be useful for any documentation-heavy project. I was quite impressed by the way the Flight Manual integrated OS-specific documentation in particular, but in general I felt that the additional functionality that a Markdown-generated site could give was quite impressive.
 
 ## CHUA YUN ZHI NICHOLAS
+
+**My contributions**: [eslint#9876](https://github.com/eslint/eslint/pull/9876), [addressbook-level4#836](https://github.com/se-edu/addressbook-level4/pull/836)
+
 **Project**: [ESLint](https://github.com/eslint/eslint)
 - [Contributing Guidlines](https://eslint.org/docs/developer-guide/contributing/)
 - [Submitting PRs](https://eslint.org/docs/developer-guide/contributing/pull-requests)
@@ -139,7 +142,7 @@ Testing: While Markbind has some basic tests implemented to check whether the re
 <!-- Links to any online documents about the workflow of external project -->
 - [`CONTRIBUTING.md`](https://github.com/github/hub/blob/master/CONTRIBUTING.md)
 
-**Observations**: 
+**Observations**:
 `hub` is a command-line tool that acts as a wrapper around `git` and integrates GitHub-related functionality into your local terminal. `hub` is implemented in the Go language, one of my expert areas. I decided to work on `hub` as I wanted to gain experience working on a large project in Go, which I had only used before in small, isolated problems for practice.
 
 <!-- Important things you learned from contributing to that project, if any -->
@@ -148,7 +151,7 @@ The principle of least surprise is very important when making changes to an inte
 Open-source development is also _slow_. There is only one maintainer for `hub`, so he is the sole gatekeeper of the project and decides which features are in line with his vision of `hub` as well as the only person really doing code review for pull requests. Coupled with the large number of people who try to work on `hub`, this can cause a bottleneck, causing some pull requests to not be reviewed at all and go stale. I have gotten around this problem by focusing on issues that on slated for the next release (that no one wants to work on, strangely) in order to get priority for my pull requests. This is based off the project tracker in GitHub. This also helps the maintainer, as it gets the most important fixes/features implemented in first, instead of simply pulling a random issue from the issue tracker and working on that.
 
 <!-- Practices/tools of the external project that you think can be adopted by your NUS-OSS project -->
-`hub`'s approach to system's testing relies on [`cucumber`](https://github.com/cucumber/cucumber) which I found quite interesting. 
+`hub`'s approach to system's testing relies on [`cucumber`](https://github.com/cucumber/cucumber) which I found quite interesting.
 For example, this block tests the `hub clone` command, which does the same thing as `git clone` but allows you to input a GitHub reference, like `hub clone TEAMMATES/teammates` will clone `TEAMMATES/teammates`
 
 ```
@@ -242,7 +245,7 @@ Meanwhile, TEAMMATES has a very healthy emphasis on tests, with tests for both b
 
 **Observations**:
 
-NUSMods R is a website which allows students of NUS to plan their timetable effectively. It is built on React, Redux, and Bootstrap, and aims to be fast, modern, and responsive. 
+NUSMods R is a website which allows students of NUS to plan their timetable effectively. It is built on React, Redux, and Bootstrap, and aims to be fast, modern, and responsive.
 
 I chose NUSMods R because I was interested in working on a project which I and many others use daily and is an important part of my life right now. Hopefully, I would have been able to make the website a better experience for everyone using it, myself included.
 
@@ -315,7 +318,7 @@ If we were to open the project to external contributors, I hope our developers w
 ## LU LECHUAN
 **Project**: Exercism
 
-**Observations**: [Exercism](http://exercism.io/) is a portal to learn new programming languages, it has over 30 different languages and many problem sets of increasing difficulties for users to engage in progressive learning. 
+**Observations**: [Exercism](http://exercism.io/) is a portal to learn new programming languages, it has over 30 different languages and many problem sets of increasing difficulties for users to engage in progressive learning.
 [Link to exercism github](https://github.com/exercism).
 
 This project appears interesting to me as it contains many exercises that are inplemented in different languages. One can practice a particular languages effectively as there are increasing difficulties. It also always users to have cross references from several languages as some of the exercises are the same from those languages.
@@ -513,7 +516,7 @@ Teammates is more structured in terms of its overall documentation and how they 
 
 WikiMedia is also another project that tries to include [extensive documentation](https://github.com/commons-app/apps-android-commons/wiki) in their github page. However they structure all these information differently than Teammates. Each of their articles exist almost in isolation, with very few links within each article linking to other articles. Each article is organised in a well-structured hierachcy, with related articles grouped together for clarity, e.g. "User Documentation", "Contributor Documentation", "Developer Documentation". This makes it very clear for users to know what information to look for and where.
 
-While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates or WikiMedia in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the approach of PowerPointLabs is that its instructions leave little room for set-up error because information displayed are kept to the bare minimum, hence instructions are understood easily. 
+While PowerPointLabs does have the basic [information](https://github.com/PowerPointLabs/PowerPointLabs) like project set-up and software design, it would be better to adopt a more formal structure like Teammates or WikiMedia in displaying information. A clear hierachcy of information can help to guide new contributors into the project. However, it is important to reduce the amount of information stored as well. One good thing about the approach of PowerPointLabs is that its instructions leave little room for set-up error because information displayed are kept to the bare minimum, hence instructions are understood easily.
 
 Moving forward, perhaps we can consider adopting a structure as seen in WikiMedia or Teammates so that information can be more easily found whenever required. This is especially important as PowerPointLabs start to scale up in the future, and as we start to have more information that we need to display on the github page as would be mentioned below.
 
@@ -531,7 +534,7 @@ In terms of Teammates' Issues/PRs, their quality is enforced quite well. Issues 
 
 WikiMedia on the other hand, does not really enforce strict testing with their changes, and most of the time, only one senior developer would actually review the changes of the submitted PR. While this allows for greater flexibility in terms of implementation, it increases the responsibility of the contributor to ensure the quality of his work. I personally realised that some of their first timer issues are not well-scoped for new contributors as they can either be too [hard](https://github.com/commons-app/apps-android-commons/issues/1371), or requires an extensive changes to aspects like [UI](https://github.com/commons-app/apps-android-commons/issues/868). This, coupled with the lack of testing and ensuring of code quality, makes WikiMedia a less ideal project to learn best SE contributing practices from, as opposed to say Teammates or PowerPointLabs.
 
-PowerPointLabs may be a smaller project comparatively, but it is good to learn from Teammates in how they structure their issues as well as review their PRs. With regards to whether PowerPointLabs would require the same amount of checks for each PR, I would say it's not compulsory for now because of the smaller project scale and better time efficiency, but I expect it to adopt the same quality of checks once it starts to scale up in the future. 
+PowerPointLabs may be a smaller project comparatively, but it is good to learn from Teammates in how they structure their issues as well as review their PRs. With regards to whether PowerPointLabs would require the same amount of checks for each PR, I would say it's not compulsory for now because of the smaller project scale and better time efficiency, but I expect it to adopt the same quality of checks once it starts to scale up in the future.
 
 In addition, PowerPointLabs can also learn from WikiMedia's mistakes, by scoping issues appropriately for each of the categories to ensure that new contributors are given an opportunity to gradually familiarise themselves with the project. This helps to motivate them long-term, ensuring better quality contributions in the future.
 
@@ -655,7 +658,7 @@ In SE-EDU, first-timer issues are predominantly issues that require **simple cod
 **Takeaways**:
 - TEAMMATES can try to adopt the CSS modules approach to structure the stylings. Currently all the stylings are inside one big file (`teammatesCommon.css`) which I find rather unorganized, despite the fact that the within the files there are several sections segregated by comments about the use of each secion.
 
-- TEAMMATES currently serves very well as a beginner-friendly platform. I like its current difficulty of first-timer issues, as it can give the beginner a sense of achievement as well as introducing them to our large code base. To make it a better learning platform, we can assist the beginners to progress into higher level issues by giving some guidance in the descriptions of the higher level issues which we think can act as a level-up for those who just completed their first-timer issues. 
+- TEAMMATES currently serves very well as a beginner-friendly platform. I like its current difficulty of first-timer issues, as it can give the beginner a sense of achievement as well as introducing them to our large code base. To make it a better learning platform, we can assist the beginners to progress into higher level issues by giving some guidance in the descriptions of the higher level issues which we think can act as a level-up for those who just completed their first-timer issues.
 
 
 ## YONG ZHI YUAN

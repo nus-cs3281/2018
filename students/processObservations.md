@@ -423,6 +423,11 @@ Bad behaviour in issue assignment is quite rampant at times, it would be good to
 - [Setting up development Environment](https://eslint.org/docs/developer-guide/development-environment)
 - [Maintainer Guide](https://eslint.org/docs/maintainer-guide). This explains how to manage issues, review PRs and manage releases.
 
+**Contributions**:
+- [Docs: Add modified variable examples for no-loop-func (fixes #9527)](https://github.com/eslint/eslint/pull/10098)
+- [Fix: Make max-len ignoreStrings ignore JSXText (fixes #9954)](https://github.com/eslint/eslint/pull/9985)
+- [Fix: valid-jsdoc does not know async function returns (fixes #9881)](https://github.com/eslint/eslint/pull/10161)
+
 **Observations**:
 
 I learnt the importance and effectiveness of good documentation. ESLint provides extensive and useful documentation for both users and developers on their website and throughout the code. This helped me to gain a sufficient understanding of their project, the codebase and the rationale being design choices and rules within a short time and make contributions. The instructions to set up the development environment, run tests and configure ESLint (as a user) were easy to follow. The rules also come with correct and incorrect examples. These documentation are likely to be valuable to other users and contributors as well as it aids understanding and can speed up their development process. I believe this is one of the reasons why ESLint attracted many external contributors and users. It also benefits the ESLint team as they will not need to answer questions or address issues already covered in their documentation.

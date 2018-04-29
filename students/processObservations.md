@@ -734,6 +734,9 @@ In SE-EDU, first-timer issues are predominantly issues that require **simple cod
 ## YONG ZHI YUAN
 **Project**: Exercism (Link to external project workflow: https://github.com/exercism/java/blob/master/CONTRIBUTING.md)
 
+**My Contributions**: 
+[1188](https://github.com/exercism/java/pull/1188), [1118](https://github.com/exercism/problem-specifications/pull/1118), [1228](https://github.com/exercism/java/pull/1228), [1119](https://github.com/exercism/problem-specifications/pull/1119), [1232](https://github.com/exercism/java/pull/1232).
+
 **Observations**:
 
 I improved in my **resourcefulness** skills as I had to find out more about the project, understand the code base and look up on the processes on my own, instead of relying on senior developers as I did for the internal project. This is because it's more efficient to find out things on my own for the external project, since it is likely that my reviewers are living in a different time zone. As such, it may take me up to half a day before I receive a response; I respond in the day, and the other person responds at midnight or so. Whereas when I'm working on the internal project, the response is quicker, and we are able to converse & discuss multiple times throughout the day.

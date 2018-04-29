@@ -26,6 +26,10 @@
 ## ALEX FONG JIE WEN
 **Projects**: [Servo](https://github.com/servo/servo) & [Open-Keychain](https://github.com/open-keychain/open-keychain)
 
+**My contributions**: 
+- [servo]:https://github.com/servo/servo/pull/20012
+- [open-keychain]: https://github.com/open-keychain/open-keychain/issues?utf8=%E2%9C%93&q=++author%3AAlexFJW+is%3Aclosed
+
 **Observations**:
 Servo is an open source browser by Mozilla, written in Rust. I've contributed a PR here in the past few weeks for this module. open-keychain is an open source Android application for PGP key usage. I'm no longer active at open-keychain, but have completed the Google Summer of Code program with them.
 

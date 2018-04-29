@@ -482,7 +482,7 @@ However, 1 point in which mlpack can improve on would be to have a better commit
 1. [TEAMMATES](https://github.com/TEAMMATES/teammates)
 1. [WikiMedia Commons App](https://github.com/commons-app/apps-android-commons)
 
-*Contributions to External Projects*
+**Contributions to External Projects**
 - [#8377](https://github.com/TEAMMATES/teammates/pull/8377)
 - [#8392](https://github.com/TEAMMATES/teammates/pull/8392)
 - [#8376](https://github.com/TEAMMATES/teammates/pull/8376)

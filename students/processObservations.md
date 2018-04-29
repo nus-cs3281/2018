@@ -478,9 +478,15 @@ The maintainers also takes care of their contributors well, thanking us for our 
 However, 1 point in which mlpack can improve on would be to have a better commit organization. Compared to SE-EDU, the pull request process is very simple; There is no fixed naming convention for branches and pull requests, and no need for commit messages to explain what is done and organizing of commits. While this tends to make the life of new contributors easier and also makes the pull request process much faster, it may cause the project to become harder to maintain.
 
 ## TAN JUN KIAT
-**Project**:
+**Projects**:
 1. [TEAMMATES](https://github.com/TEAMMATES/teammates)
 1. [WikiMedia Commons App](https://github.com/commons-app/apps-android-commons)
+
+*Contributions to External Projects*
+- [#8377](https://github.com/TEAMMATES/teammates/pull/8377)
+- [#8392](https://github.com/TEAMMATES/teammates/pull/8392)
+- [#8376](https://github.com/TEAMMATES/teammates/pull/8376)
+- [#1134](https://github.com/commons-app/apps-android-commons/pull/1134)
 
 **Observations**:
 

@@ -609,6 +609,8 @@ In addition, PowerPointLabs can also learn from WikiMedia's mistakes, by scoping
 
 [Contribution Guidelines](https://github.com/servo/servo/blob/master/CONTRIBUTING.md)
 
+**My contributions**: [#18](https://github.com/servo/servo-warc-tests/pull/18), [#20495](https://github.com/servo/servo/pull/20495)
+
 **Observations**:
 
 Servo is a web browser engine written in the Rust language. Parts of Firefox has been and will be incrementally replaced with Servo.

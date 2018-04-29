@@ -281,6 +281,17 @@ FOSSASIA's Open Event Android and Open Event Organizer App
 **Observations**:
 The two external projects I have chosen are related to each other. These are just two projects using the Open Event API, there are others. The Open Event Android Project has two components: a App Generator which is a web application that will generate an event Android app and a generic Android app for events which is the output of the generator. This generic Android app is targeted at the attendees of the event. Meanwhile, the Open Event Organizer App is an Android Event management app for event organizers using the same Open Event Platform.
 
+**PRs to External Projects**:
+
+##### Open Event Android
+- [Fix: Speaker's color changes when searching #2351](https://github.com/fossasia/open-event-android/pull/2351)
+- [feat : Viewmodel for DayScheduleFragment #2328](https://github.com/fossasia/open-event-android/pull/2328)
+
+##### Open Event Orga App
+- [test: Add tests to Create Event Module](https://github.com/fossasia/open-event-orga-app/pull/835)
+- [fix: Create Event Activity will finish after event is created](https://github.com/fossasia/open-event-orga-app/pull/688)
+
+
 #### Open Event Android
 ###### For new contributors
 They always welcome new contributors. Their [README.md](https://github.com/fossasia/open-event-android) is very clear about what the project is about and is full of helpful screenshots for newcomers. They have [very detailed instructions](https://github.com/fossasia/open-event-android/blob/development/docs/android-app-setup.md) on how to set up the project and also [how the app is generated](https://github.com/fossasia/open-event-android/blob/development/docs/apk-generator.md). They also provide details of the exact technology stack that the project uses. They have [code style guidelines](https://github.com/fossasia/open-event-android/blob/development/docs/codestyle.md) and [commit style guidelines](https://github.com/fossasia/open-event-android/blob/development/docs/commitstyle.md).

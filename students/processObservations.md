@@ -731,6 +731,7 @@ In SE-EDU, first-timer issues are predominantly issues that require **simple cod
 [NUSMods R](https://github.com/nusmodifications/nusmods/tree/master/www)
 * [contributing guideline](https://github.com/nusmodifications/nusmods/blob/master/CONTRIBUTING.md)
 * [documentation](https://github.com/nusmodifications/nusmods/tree/master/www)
+* my contribution: [#950](https://github.com/nusmodifications/nusmods/pull/950)
 
 **Observations**:
 - NUSMods R uses numerous well-known external libraries like [lodash](https://lodash.com/docs/4.17.5) and [react feather icons](https://feathericons.com/). This practice simplifies the code a lot, reduces the chances of the programmers writing duplicate code, and makes the search of the use of the function easy as most of these external libraries are well-documented.

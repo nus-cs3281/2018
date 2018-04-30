@@ -62,6 +62,7 @@ Open-Keychain:
 **Project**: [NLTK](http://github.com/nltk/nltk)
 - [Contributor's guide](https://github.com/nltk/nltk/blob/develop/CONTRIBUTING.md)
 - [Developer's guide/wiki](https://github.com/nltk/nltk/wiki/Developers-Guide)
+- [My contribution](https://github.com/nltk/nltk/pull/1957)
 
 **Observations**:
 
@@ -79,6 +80,7 @@ In addition, the 'undocumented' nature of much of the codebase may be related to
 
 **Project: [Atom Flight Manual](https://github.com/atom/flight-manual.atom.io/)**
 - [Contributor’s guide](https://github.com/atom/flight-manual.atom.io/blob/master/CONTRIBUTING.md)
+- [My contribution](https://github.com/atom/flight-manual.atom.io/pull/453)
 
 **Observations**:
 

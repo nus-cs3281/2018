@@ -26,7 +26,7 @@
 ## ALEX FONG JIE WEN
 **Projects**: [Servo](https://github.com/servo/servo) & [Open-Keychain](https://github.com/open-keychain/open-keychain)
 
-**My contributions**: 
+**My contributions**:
 - [servo](https://github.com/servo/servo/pull/20012)
 - [open-keychain](https://github.com/open-keychain/open-keychain/issues?utf8=%E2%9C%93&q=++author%3AAlexFJW+is%3Aclosed)
 
@@ -384,6 +384,12 @@ One suggestion I have for freeCodeCamp maintainers is to label issues based on i
 **Project**:
 Exercism
 
+**My contributions:**
+- [#1316](https://github.com/exercism/java/pull/1316)
+- [#1386](https://github.com/exercism/java/pull/1386)
+- [#1292](https://github.com/exercism/java/pull/1292)
+
+
 **Observations**:
 
 [Exercism](http://exercism.io/) is a portal to learn new programming languages, it has over 30 different languages and many problem sets of increasing difficulties for users to engage in progressive learning. The repositories for the Exercism organisation can be found [here](https://github.com/exercism).
@@ -738,7 +744,7 @@ In SE-EDU, first-timer issues are predominantly issues that require **simple cod
 ## YONG ZHI YUAN
 **Project**: Exercism (Link to external project workflow: https://github.com/exercism/java/blob/master/CONTRIBUTING.md)
 
-**My Contributions**: 
+**My Contributions**:
 [1188](https://github.com/exercism/java/pull/1188), [1118](https://github.com/exercism/problem-specifications/pull/1118), [1228](https://github.com/exercism/java/pull/1228), [1119](https://github.com/exercism/problem-specifications/pull/1119), [1232](https://github.com/exercism/java/pull/1232).
 
 **Observations**:

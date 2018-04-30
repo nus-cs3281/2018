@@ -148,6 +148,8 @@ Testing: While Markbind has some basic tests implemented to check whether the re
 ## DARREN WEE ZHE YU
 **Project**: [github/hub](https://github.com/github/hub)
 
+**My Contributions:** [#1667](https://github.com/github/hub/pull/1667), [#1690](https://github.com/github/hub/pull/1690)
+
 <!-- Links to any online documents about the workflow of external project -->
 - [`CONTRIBUTING.md`](https://github.com/github/hub/blob/master/CONTRIBUTING.md)
 

@@ -412,6 +412,10 @@ One good practice that Exercism adopts is that they sound really encouraging and
 
 [Link to Contribution Guide](http://api.coala.io/en/latest/Developers/Newcomers_Guide.html)
 
+**Contributions**:
+- [Coala: Coala-bears: Improve Docstring](https://github.com/coala/coala-bears/pull/2279)
+- [Coala: Corobo: Add help message](https://github.com/coala/corobo/pull/504/files)
+
 **Observations**:
 
 Coala is a unified interface linter that is language-agnostic. I chose this project because it uses Python (inline with my language expertise area) and it has an active developer community.

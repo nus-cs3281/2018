@@ -501,7 +501,7 @@ Week | Achievements
 10 | Merged PR: [AdminSessions\*: migrate to java.time #8645 #8736](https://github.com/TEAMMATES/teammates/pull/8736)
 11 | Reviewed PR: [Migrate remaining classes to use java.time #8731 #8732](https://github.com/TEAMMATES/teammates/pull/8732)
 12 | Submitted issue: [TimeHelper: update documentation and standardize method naming #8780](https://github.com/TEAMMATES/teammates/issues/8780)
-12 | Authored PR: [TimeHelper: update documentation and standardize method naming #8780 #8781](https://github.com/TEAMMATES/teammates/pull/8781)
+12 | Merged PR: [TimeHelper: update documentation and standardize method naming #8780 #8781](https://github.com/TEAMMATES/teammates/pull/8781)
 13 |
 
 ## JOANNE ONG CUI FANG
